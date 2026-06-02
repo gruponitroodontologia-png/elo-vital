@@ -9,44 +9,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap" rel="stylesheet">
 <style>
 :root{
-  /* brand palette */
-  --wine:#690D0E;
-  --wine-600:#7E0F10;
-  --wine-800:#5C0A0B;
-  --wine-50:#FBF0F0;
-  --wine-100:#F6DCDC;
-  --red:#A00E0E;
-  --lav:#A5A5D3;
-  --lav-700:#6F7299;
-  --lav-600:#7F82A2;
-  --lav-100:#E9E9F5;
-  --lav-50:#F4F4FA;
-  --pink:#C891A8;
-  /* neutrals */
-  --white:#FFFFFF;
-  --paper:#FBFAFB;
-  --gray-100:#F2F1F2;
-  --gray-200:#E6E4E5;
-  --gray-300:#D2CFD0;
-  --gray-500:#847F80;
-  --gray-600:#5E5A5B;
-  --ink:#2A2526;
-  --fg2:#5E5A5B;
-  --fg3:#847F80;
-  --border:#E6E4E5;
-  --fg-on-wine:#FBEDED;
-  /* type */
-  --sans:'Poppins',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
-  /* motion */
-  --ease:cubic-bezier(.4,0,.2,1);
-  --dur:240ms;
-  --dur-fast:140ms;
+--wine:#690D0E;--wine-600:#7E0F10;--wine-800:#5C0A0B;--wine-50:#FBF0F0;--wine-100:#F6DCDC;--red:#A00E0E;--lav:#A5A5D3;--lav-700:#6F7299;--lav-600:#7F82A2;--lav-100:#E9E9F5;--lav-50:#F4F4FA;--pink:#C891A8;--white:#FFFFFF;--paper:#FBFAFB;--gray-100:#F2F1F2;--gray-200:#E6E4E5;--gray-300:#D2CFD0;--gray-500:#847F80;--gray-600:#5E5A5B;--ink:#2A2526;--fg2:#5E5A5B;--fg3:#847F80;--border:#E6E4E5;--fg-on-wine:#FBEDED;--sans:'Poppins',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;--ease:cubic-bezier(.4,0,.2,1);--dur:240ms;--dur-fast:140ms;
 }
 *{box-sizing:border-box;margin:0;padding:0;}
 html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;}
 body{font-family:var(--sans);background:var(--paper);color:var(--ink);min-height:100vh;font-weight:300;}
-
-/* ── HEADER ───────────────────────────────────────────── */
 .hdr{background:var(--wine);height:88px;display:flex;align-items:center;justify-content:space-between;padding:0 clamp(20px,4vw,48px);position:sticky;top:0;z-index:200;box-shadow:0 2px 14px rgba(105,13,14,.18);}
 .hdr-logo{display:flex;align-items:center;gap:20px;}
 .hdr-logo img{height:40px;display:block;}
@@ -55,8 +22,6 @@ body{font-family:var(--sans);background:var(--paper);color:var(--ink);min-height
 .hdr-sub{font-size:21px;font-weight:600;color:var(--white);letter-spacing:-.01em;line-height:1;}
 .hdr-cap{font-size:10.5px;font-weight:500;color:rgba(251,237,237,.7);letter-spacing:.16em;text-transform:uppercase;}
 .hdr-badge{font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--wine);background:var(--white);padding:7px 15px;border-radius:999px;white-space:nowrap;}
-
-/* ── HERO ─────────────────────────────────────────────── */
 .hero{background:var(--lav);background-image:linear-gradient(135deg,#B4B4DC 0%,#A5A5D3 45%,#9A9ACB 100%);padding:clamp(40px,5vw,64px) clamp(20px,4vw,48px) clamp(52px,6vw,76px);position:relative;overflow:hidden;}
 .hero::before{content:'';position:absolute;top:-90px;right:-70px;width:340px;height:340px;border-radius:50%;border:1.5px solid rgba(255,255,255,.14);pointer-events:none;}
 .hero::after{content:'';position:absolute;top:-30px;right:30px;width:180px;height:180px;border-radius:50%;border:1.5px solid rgba(255,255,255,.1);pointer-events:none;}
@@ -71,25 +36,17 @@ body{font-family:var(--sans);background:var(--paper);color:var(--ink);min-height
 .hero-n{text-align:center;background:rgba(255,255,255,.82);border-radius:16px;padding:22px clamp(16px,2vw,26px);min-width:104px;box-shadow:0 8px 24px rgba(105,13,14,.1);}
 .hero-nb{font-family:var(--sans);font-size:clamp(2.6rem,3.6vw,3.4rem);font-weight:700;color:var(--wine);line-height:1;letter-spacing:-.02em;}
 .hero-nl{font-size:13px;font-weight:600;letter-spacing:.04em;color:var(--lav-700);margin-top:10px;}
-
-/* ── PROGRESS ─────────────────────────────────────────── */
 .prog{background:var(--white);border-bottom:1px solid var(--border);padding:18px clamp(20px,4vw,48px);display:flex;align-items:center;gap:20px;position:sticky;top:88px;z-index:150;}
 .prog-in{max-width:1080px;margin:0 auto;width:100%;display:flex;align-items:center;gap:20px;}
 .prog-lbl{font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--fg3);white-space:nowrap;}
 .prog-track{flex:1;height:6px;background:var(--gray-100);border-radius:999px;overflow:hidden;}
 .prog-fill{height:100%;background:linear-gradient(90deg,var(--wine),var(--red));width:0%;border-radius:999px;transition:width 1s var(--ease);}
 .prog-ct{font-size:13px;font-weight:600;color:var(--wine);white-space:nowrap;}
-
-/* ── MAIN ─────────────────────────────────────────────── */
 .main{max-width:1080px;margin:0 auto;padding:clamp(28px,4vw,44px) clamp(20px,4vw,48px) 72px;}
-
-/* ── FILTERS ──────────────────────────────────────────── */
 .filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:28px;}
 .fbtn{padding:9px 18px;border-radius:999px;border:1.5px solid var(--border);background:var(--white);color:var(--fg2);font-family:var(--sans);font-size:13px;font-weight:500;letter-spacing:.01em;cursor:pointer;transition:all var(--dur-fast) var(--ease);}
 .fbtn:hover{border-color:var(--lav);color:var(--ink);transform:translateY(-1px);}
 .fbtn.on{background:var(--wine);color:var(--white);border-color:var(--wine);box-shadow:0 8px 20px rgba(105,13,14,.22);}
-
-/* ── GROUP ────────────────────────────────────────────── */
 .grp{border:1px solid var(--border);border-radius:16px;margin-bottom:14px;background:var(--white);overflow:hidden;box-shadow:0 1px 2px rgba(42,37,38,.05);transition:box-shadow var(--dur) var(--ease);}
 .grp.open{box-shadow:0 8px 26px rgba(42,37,38,.09);}
 .grp-hdr{display:flex;align-items:center;gap:16px;padding:18px 22px;cursor:pointer;user-select:none;transition:background var(--dur-fast) var(--ease);}
@@ -107,8 +64,6 @@ body{font-family:var(--sans);background:var(--paper);color:var(--ink);min-height
 .grp.open .grp-chv{transform:rotate(180deg);}
 .grp-body{display:none;}
 .grp.open .grp-body{display:block;}
-
-/* ── DOC ROW ──────────────────────────────────────────── */
 .doc{display:flex;align-items:center;gap:16px;padding:15px 22px;border-bottom:1px solid var(--gray-100);cursor:pointer;transition:background var(--dur-fast) var(--ease);}
 .doc:last-child{border-bottom:none;}
 .doc:hover{background:var(--paper);}
@@ -129,8 +84,6 @@ body{font-family:var(--sans);background:var(--paper);color:var(--ink);min-height
 .ck.on{background:var(--wine);border-color:var(--wine);}
 .ck svg{width:13px;height:13px;stroke:var(--gray-500);fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;}
 .ck.on svg{stroke:var(--white);}
-
-/* ── MODAL ────────────────────────────────────────────── */
 .ov{display:none;position:fixed;inset:0;background:rgba(42,37,38,.55);z-index:400;align-items:center;justify-content:center;padding:1.5rem;backdrop-filter:blur(4px);}
 .ov.open{display:flex;}
 .modal{background:var(--white);border-radius:18px;max-width:540px;width:100%;max-height:88vh;overflow-y:auto;box-shadow:0 24px 60px rgba(42,37,38,.3);animation:rise var(--dur) var(--ease);}
@@ -162,322 +115,153 @@ body{font-family:var(--sans);background:var(--paper);color:var(--ink);min-height
 .m-btn.prim:hover{background:var(--wine-800);}
 .m-btn.sec{background:var(--lav);color:var(--white);border-color:var(--lav);}
 .m-btn.sec:hover{background:var(--lav-600);border-color:var(--lav-600);}
-
-/* ── FOOTER ───────────────────────────────────────────── */
 .ftr{background:var(--lav);padding:clamp(40px,5vw,56px) 2rem clamp(28px,3vw,36px);text-align:center;}
 .ftr-logo{height:74px;margin-bottom:20px;opacity:.96;}
 .ftr-txt{font-size:13px;color:rgba(42,37,38,.62);line-height:1.9;font-weight:300;letter-spacing:.01em;max-width:560px;margin:0 auto;}
 .ftr-mantra{font-size:15px;font-weight:600;color:var(--wine);margin-bottom:18px;letter-spacing:.01em;}
-
-@media(max-width:680px){
-  .hero-in{grid-template-columns:1fr;}
-  .hero-nums{justify-content:flex-start;}
-  .prog{top:88px;}
-  .doc-ref{display:none;}
-  .doc-code{min-width:46px;}
-}
+@media(max-width:680px){.hero-in{grid-template-columns:1fr;}.hero-nums{justify-content:flex-start;}.prog{top:88px;}.doc-ref{display:none;}.doc-code{min-width:46px;}}
 </style>
 </head>
 <body style="font-size: 16px">
-
-<template id="__bundler_thumbnail">
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-<rect width="100" height="100" fill="#690D0E"/>
-<rect x="30" y="22" width="40" height="52" rx="4" fill="#FBEDED"/>
-<polyline points="44 40 49 45 58 34" fill="none" stroke="#A00E0E" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
-<line x1="38" y1="54" x2="62" y2="54" stroke="#A5A5D3" stroke-width="3" stroke-linecap="round"/>
-<line x1="38" y1="62" x2="56" y2="62" stroke="#A5A5D3" stroke-width="3" stroke-linecap="round"/>
-</svg>
-</template>
-
 <header class="hdr">
-  <div class="hdr-logo">
-    <img src="assets/logo-white.png" alt="Grupo Nitro">
-    <div class="hdr-sep"></div>
-    <div class="hdr-titles">
-      <span class="hdr-sub">O Elo Vital</span>
-      <span class="hdr-cap">Kit de Documentos</span>
-    </div>
-  </div>
-  <div class="hdr-badge">RDC 1002 · 2025</div>
+<div class="hdr-logo">
+<img src="assets/logo-white.png" alt="Grupo Nitro">
+<div class="hdr-sep"></div>
+<div class="hdr-titles">
+<span class="hdr-sub">O Elo Vital</span>
+<span class="hdr-cap">Kit de Documentos</span>
+</div>
+</div>
+<div class="hdr-badge">RDC 1002 · 2025</div>
 </header>
-
 <section class="hero">
-  <div class="hero-in">
-    <div>
-      <div class="hero-ey">Kit Completo de Documentos</div>
-      <h1 class="hero-h">Seu consultório em <span class="acc">conformidade</span></h1>
-      <p class="hero-p">45 documentos organizados em <strong>6 grupos</strong>. Baixe, personalize com os dados do seu consultório, imprima e assine. Sua <strong>SDBPF completa</strong>, sem atalhos.</p>
-    </div>
-    <div class="hero-nums">
-      <div class="hero-n"><div class="hero-nb">45</div><div class="hero-nl">documentos</div></div>
-      <div class="hero-n"><div class="hero-nb">6</div><div class="hero-nl">grupos</div></div>
-      <div class="hero-n"><div class="hero-nb">Dez'26</div><div class="hero-nl">prazo legal</div></div>
-    </div>
-  </div>
+<div class="hero-in">
+<div>
+<div class="hero-ey">Kit Completo de Documentos</div>
+<h1 class="hero-h">Seu consultório em <span class="acc">conformidade</span></h1>
+<p class="hero-p">45 documentos organizados em <strong>6 grupos</strong>. Baixe, personalize com os dados do seu consultório, imprima e assine. Sua <strong>SDBPF completa</strong>, sem atalhos.</p>
+</div>
+<div class="hero-nums">
+<div class="hero-n"><div class="hero-nb">45</div><div class="hero-nl">documentos</div></div>
+<div class="hero-n"><div class="hero-nb">6</div><div class="hero-nl">grupos</div></div>
+<div class="hero-n"><div class="hero-nb">Dez'26</div><div class="hero-nl">prazo legal</div></div>
+</div>
+</div>
 </section>
-
 <div class="prog">
-  <div class="prog-in">
-    <span class="prog-lbl">Seu progresso</span>
-    <div class="prog-track"><div class="prog-fill" id="pFill"></div></div>
-    <span class="prog-ct" id="pCt">0 de 45</span>
-  </div>
+<div class="prog-in">
+<span class="prog-lbl">Seu progresso</span>
+<div class="prog-track"><div class="prog-fill" id="pFill"></div></div>
+<span class="prog-ct" id="pCt">0 de 45</span>
 </div>
-
+</div>
 <main class="main">
-  <div class="filters">
-    <button class="fbtn on" onclick="filt('all',this)">Todos — 45</button>
-    <button class="fbtn" onclick="filt('pend',this)">A concluir</button>
-    <button class="fbtn" onclick="filt('done',this)">Concluídos</button>
-    <button class="fbtn" onclick="filt('plan',this)">Planilhas</button>
-  </div>
-  <div id="gc"></div>
-</main>
-
-<div class="ov" id="ov" onclick="closeOv(event)">
-  <div class="modal">
-    <div class="m-hdr">
-      <div class="m-ic"><svg id="mIcSvg" viewBox="0 0 24 24"></svg></div>
-      <div class="m-top">
-        <div class="m-tag" id="mTag"></div>
-        <div class="m-title" id="mTit"></div>
-      </div>
-      <button class="m-x" onclick="closeOvD()">×</button>
-    </div>
-    <div class="m-body">
-      <div class="m-blk"><div class="m-lbl">Objetivo</div><p id="mObj"></p></div>
-      <div class="m-blk"><div class="m-lbl">Base legal</div><div class="m-refs" id="mRef"></div></div>
-      <div class="m-blk"><div class="m-lbl">O que cobre</div><ul id="mCov"></ul></div>
-      <div class="m-blk"><div class="m-lbl">Responsável pela assinatura</div><p class="m-sign" id="mSign"></p></div>
-    </div>
-    <div class="m-foot">
-      <button class="m-btn" onclick="markDone()">Marcar concluído</button>
-      <button class="m-btn sec" id="mDlBtn" onclick="dlDoc()">Baixar .docx</button>
-      <button class="m-btn prim" onclick="closeOvD()">Fechar</button>
-    </div>
-  </div>
+<div class="filters">
+<button class="fbtn on" onclick="filt('all',this)">Todos — 45</button>
+<button class="fbtn" onclick="filt('pend',this)">A concluir</button>
+<button class="fbtn" onclick="filt('done',this)">Concluídos</button>
+<button class="fbtn" onclick="filt('plan',this)">Planilhas</button>
 </div>
-
+<div id="gc"></div>
+</main>
+<div class="ov" id="ov" onclick="closeOv(event)">
+<div class="modal">
+<div class="m-hdr">
+<div class="m-ic"><svg id="mIcSvg" viewBox="0 0 24 24"></svg></div>
+<div class="m-top">
+<div class="m-tag" id="mTag"></div>
+<div class="m-title" id="mTit"></div>
+</div>
+<button class="m-x" onclick="closeOvD()">×</button>
+</div>
+<div class="m-body">
+<div class="m-blk"><div class="m-lbl">Objetivo</div><p id="mObj"></p></div>
+<div class="m-blk"><div class="m-lbl">Base legal</div><div class="m-refs" id="mRef"></div></div>
+<div class="m-blk"><div class="m-lbl">O que cobre</div><ul id="mCov"></ul></div>
+<div class="m-blk"><div class="m-lbl">Responsável pela assinatura</div><p class="m-sign" id="mSign"></p></div>
+</div>
+<div class="m-foot">
+<button class="m-btn" onclick="markDone()">Marcar concluído</button>
+<button class="m-btn sec" id="mDlBtn" onclick="dlDoc()">Baixar .docx</button>
+<button class="m-btn prim" onclick="closeOvD()">Fechar</button>
+</div>
+</div>
+</div>
 <footer class="ftr">
-  <img class="ftr-logo" src="assets/logo-white.png" alt="Grupo Nitro">
-  <div class="ftr-mantra">"Não existe atalho para resultados extraordinários."</div>
-  <div class="ftr-txt">O Elo Vital · RDC ANVISA 1002/2025. Todos os documentos devem ser impressos, assinados pelo RT e arquivados na SDBPF. Prazo de adequação: dezembro de 2026.</div>
+<img class="ftr-logo" src="assets/logo-white.png" alt="Grupo Nitro">
+<div class="ftr-mantra">"Não existe atalho para resultados extraordinários."</div>
+<div class="ftr-txt">O Elo Vital · RDC ANVISA 1002/2025. Todos os documentos devem ser impressos, assinados pelo RT e arquivados na SDBPF. Prazo de adequação: dezembro de 2026.</div>
 </footer>
-
 <script>
-// ── SVG ICONS ─────────────────────────────────────────────────────────────
-const IC = {
-  doc:'<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>',
-  users:'<path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/>',
-  book:'<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>',
-  heart:'<path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>',
-  shield:'<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>',
-  drop:'<path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/>',
-  tool:'<path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>',
-  alert:'<circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>',
-  cycle:'<polyline points="1 4 1 10 7 10"/><polyline points="23 20 23 14 17 14"/><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/>',
-  pill:'<path d="M10.5 20H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h6.5"/><path d="M13.5 4H20a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6.5"/><line x1="12" y1="4" x2="12" y2="20"/>',
-  bar:'<line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/><line x1="2" y1="20" x2="22" y2="20"/>',
-  flask:'<path d="M9 3h6l1 9H8L9 3z"/><path d="M3 21a9 9 0 0 1 18 0H3z"/>',
-  amb:'<rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 2h2a2 2 0 0 1 2 2v3"/><path d="M8 2H6a2 2 0 0 0-2 2v3"/><line x1="12" y1="12" x2="12" y2="16"/><line x1="10" y1="14" x2="14" y2="14"/>',
-  clip:'<path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1"/>',
-  chk:'<polyline points="20 6 9 17 4 12"/>',
-  chv:'<polyline points="6 9 12 15 18 9"/>',
-  act:'<polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>',
-  wind:'<path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2"/>',
-  mon:'<rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>',
-  thm:'<path d="M14 14.76V3.5a2.5 2.5 0 0 0-5 0v11.26a4.5 4.5 0 1 0 5 0z"/>',
-  cpu:'<rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="14" x2="23" y2="14"/>',
-};
-
-function svg(name,size=14){
-  return `<svg viewBox="0 0 24 24" style="width:${size}px;height:${size}px;fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round">${IC[name]||IC.doc}</svg>`;
-}
-
-// ── GRUPOS ──────────────────────────────────────────────────────────────────
-const GRPS=[
-  {id:1,name:'Gestão e equipe',ic:'users',meta:'POP-001 a POP-006'},
-  {id:2,name:'Controle de infecção e processamento',ic:'flask',meta:'POP-007 a POP-016'},
-  {id:3,name:'Emergências e segurança do paciente',ic:'act',meta:'POP-017 a POP-024'},
-  {id:4,name:'Meio ambiente e equipamentos',ic:'tool',meta:'POP-025 a POP-031'},
-  {id:5,name:'Medicamentos e notificações',ic:'pill',meta:'POP-032 a POP-037'},
-  {id:6,name:'Planilhas e modelos',ic:'bar',meta:'PLN-001 a PLN-008'},
-];
-
-// ── DOCUMENTOS ──────────────────────────────────────────────────────────────
+const IC={doc:'<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>',users:'<path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/>',book:'<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>',heart:'<path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>',shield:'<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>',drop:'<path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/>',tool:'<path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>',alert:'<circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>',cycle:'<polyline points="1 4 1 10 7 10"/><polyline points="23 20 23 14 17 14"/><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/>',pill:'<path d="M10.5 20H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h6.5"/><path d="M13.5 4H20a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6.5"/><line x1="12" y1="4" x2="12" y2="20"/>',bar:'<line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/><line x1="2" y1="20" x2="22" y2="20"/>',flask:'<path d="M9 3h6l1 9H8L9 3z"/><path d="M3 21a9 9 0 0 1 18 0H3z"/>',amb:'<rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 2h2a2 2 0 0 1 2 2v3"/><path d="M8 2H6a2 2 0 0 0-2 2v3"/><line x1="12" y1="12" x2="12" y2="16"/><line x1="10" y1="14" x2="14" y2="14"/>',clip:'<path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1"/>',chk:'<polyline points="20 6 9 17 4 12"/>',chv:'<polyline points="6 9 12 15 18 9"/>',act:'<polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>',wind:'<path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2"/>',mon:'<rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>',thm:'<path d="M14 14.76V3.5a2.5 2.5 0 0 0-5 0v11.26a4.5 4.5 0 1 0 5 0z"/>',cpu:'<rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="14" x2="23" y2="14"/>',};
+function svg(name,size=14){return `<svg viewBox="0 0 24 24" style="width:${size}px;height:${size}px;fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round">${IC[name]||IC.doc}</svg>`;}
+const GRPS=[{id:1,name:'Gestão e equipe',ic:'users',meta:'POP-001 a POP-006'},{id:2,name:'Controle de infecção e processamento',ic:'flask',meta:'POP-007 a POP-016'},{id:3,name:'Emergências e segurança do paciente',ic:'act',meta:'POP-017 a POP-024'},{id:4,name:'Meio ambiente e equipamentos',ic:'tool',meta:'POP-025 a POP-031'},{id:5,name:'Medicamentos e notificações',ic:'pill',meta:'POP-032 a POP-037'},{id:6,name:'Planilhas e modelos',ic:'bar',meta:'PLN-001 a PLN-008'},];
 const DOCS=[
-  // G1
-  {g:1,code:'POP-001',name:'Responsabilidade Técnica',ic:'clip',novo:true,type:'pop',refs:['Arts. 5º-6º RDC 1002'],sign:'RT e proprietário',obj:'Definir as responsabilidades do RT, substituto e corresponsabilidade em casos de múltiplos sócios.',cov:['Definição do RT e substituto','Notificação à VISA em caso de substituição','Responsabilidade solidária em clínicas','Documentação para registro do RT'],file:'docs/POP - Responsabilidade Técnica.docx'},
-  {g:1,code:'POP-002',name:'Admissão e desligamento de funcionários',ic:'users',novo:false,type:'pop',refs:['Art. 114 RDC 1002'],sign:'RT',obj:'Padronizar o fluxo de contratação, treinamento admissional e desligamento.',cov:['Documentação de admissão','Treinamento antes do início','Registro de entrega de EPIs','Procedimento de desligamento'],file:'docs/POP - Auxiliar de Saúde Bucal (ASB).docx'},
-  {g:1,code:'POP-003',name:'Educação permanente da equipe',ic:'book',novo:true,type:'pop',refs:['Art. 113, III RDC 1002'],sign:'RT',obj:'Estabelecer o plano anual de capacitações obrigatórias e registro de participação.',cov:['Temas obrigatórios: biossegurança, higiene, EPIs, emergências','Frequência mínima','Registro de presença','Como apresentar em fiscalização'],file:'docs/POP - Educação Permanente da Equipe.docx'},
-  {g:1,code:'POP-004',name:'Controle de saúde ocupacional',ic:'heart',novo:true,type:'pop',refs:['Art. 113, II RDC 1002','NR-32'],sign:'RT',obj:'Garantir o controle da saúde dos profissionais por meio de fichas, vacinação e exames.',cov:['Exames admissionais e periódicos','Vacinação: hepatite B, tétano, influenza','Ficha funcional de saúde','Afastamento por doença ocupacional'],file:'docs/POP - Controle de Saúde Ocupacional.docx'},
-  {g:1,code:'POP-005',name:'Recepção e acolhimento de pacientes',ic:'users',novo:false,type:'pop',refs:['Art. 118, IV RDC 1002'],sign:'RT',obj:'Padronizar o atendimento inicial ao paciente desde a chegada até a sala clínica.',cov:['Identificação e confirmação de dados','Triagem e anamnese','Comunicação de riscos','Registro no prontuário'],file:'docs/POP - Atendimento Inicial ao Cliente.docx'},
-  {g:1,code:'POP-006',name:'Comunicação com paciente e consentimento informado',ic:'doc',novo:false,type:'pop',refs:['Art. 118, XIII RDC 1002'],sign:'RT e paciente',obj:'Garantir que o paciente compreenda os procedimentos e riscos antes do tratamento.',cov:['Termo de consentimento informado','Linguagem acessível','Registro de recusa','Direitos do paciente'],file:'docs/POP - Recepcionista de Odontologia.docx'},
-  // G2
-  {g:2,code:'POP-007',name:'Higiene das mãos',ic:'drop',novo:true,type:'pop',refs:['Art. 118, V RDC 1002'],sign:'RT',obj:'Padronizar a técnica e os momentos corretos de higiene das mãos para toda a equipe.',cov:['Os 5 momentos da OMS','Técnica com água e sabão (40-60s)','Técnica com álcool gel (20-30s)','Monitoramento de conformidade'],file:'docs/POP - Higiene das Maos.docx'},
-  {g:2,code:'POP-008',name:'Uso de EPIs',ic:'shield',novo:true,type:'pop',refs:['Art. 108, §único RDC 1002','NR-32'],sign:'RT',obj:'Definir EPIs obrigatórios por procedimento, uso correto, paramentação e descarte.',cov:['EPIs por tipo de procedimento','Sequência de paramentação','Sequência de desparamentação','Descarte correto'],file:'docs/POP - Uso de EPIs.docx'},
-  {g:2,code:'POP-009',name:'Limpeza e desinfecção de superfícies',ic:'wind',novo:false,type:'pop',refs:['Art. 113, XI RDC 1002'],sign:'RT',obj:'Estabelecer rotina de limpeza e desinfecção entre atendimentos e ao final do dia.',cov:['Produtos e concentrações','Frequência: entre atendimentos e terminal','Equipamentos de alto toque','Registro de limpeza terminal'],file:'docs/POP - Remoção de Materiais, Limpeza dos Equipamentos e Preparação da Sala para o Próximo Atendimento.docx'},
-  {g:2,code:'POP-010',name:'Pré-limpeza de instrumentais',ic:'tool',novo:false,type:'pop',refs:['Arts. 40-41 RDC 1002'],sign:'RT',obj:'Padronizar a pré-limpeza imediata dos instrumentais após o uso clínico.',cov:['Separação de perfurocortantes','Imersão em solução enzimática','Tempo e concentração','Transporte para processamento'],file:'docs/POP - Reprocessamento de Artigos Odontológicos.docx'},
-  {g:2,code:'POP-011',name:'Limpeza manual de instrumentais',ic:'tool',novo:false,type:'pop',refs:['Art. 38 RDC 1002'],sign:'RT',obj:'Padronizar a limpeza manual dos instrumentais na área suja da bancada.',cov:['Fricção com escova e detergente enzimático','Enxágue em água corrente','Inspeção visual','Secagem antes da embalagem'],file:'docs/POP - Lavagem de Instrumental Odontológico.docx'},
-  {g:2,code:'POP-012',name:'Uso da cuba ultrassônica',ic:'cpu',novo:false,type:'pop',refs:['Art. 38 RDC 1002'],sign:'RT',obj:'Estabelecer os parâmetros corretos de uso da lavadora ultrassônica.',cov:['Concentração e troca da solução (diária)','Tempo mínimo de limpeza','Instrumentais adequados','Manutenção do equipamento'],file:'docs/POP - Uso da Lavadora Ultrasssônica para Instrumentais Odontológicos.docx'},
-  {g:2,code:'POP-013',name:'Reprocessamento e embalagem de instrumentais',ic:'cycle',novo:false,type:'pop',refs:['Art. 26 RDC 1002'],sign:'RT',obj:'Padronizar a embalagem e selagem dos instrumentais antes da esterilização.',cov:['Tipos de embalagem permitidos','Seladora: temperatura e tempo','Indicadores químicos de processo','Identificação: data, lote, operador'],file:'docs/POP - Limpeza e Desinfecção de Utensilios.docx'},
-  {g:2,code:'POP-014',name:'Esterilização em autoclave',ic:'flask',novo:false,type:'pop',refs:['Arts. 88-91 RDC 1002'],sign:'RT',obj:'Padronizar os ciclos de esterilização, monitoramento e liberação de cargas.',cov:['Ciclos gravitacional e por vácuo','Parâmetros: temperatura, pressão, tempo','Indicadores físicos, químicos e biológicos','Critérios de liberação da carga'],file:'docs/POP - Esterilização Autoclave.docx'},
-  {g:2,code:'POP-015',name:'Monitoramento biológico da esterilização',ic:'alert',novo:true,type:'pop',refs:['Arts. 91-92 RDC 1002'],sign:'RT',obj:'Estabelecer frequência, execução e registro do monitoramento biológico da autoclave.',cov:['Frequência: semanal ou a cada 40 ciclos','Leitura do indicador biológico','Conduta em resultado positivo','Rastreabilidade: 5 anos obrigatório'],file:'docs/POP - Monitoramento Biológico da Esterilização.docx'},
-  {g:2,code:'POP-016',name:'Armazenamento de material processado',ic:'doc',novo:true,type:'pop',refs:['Arts. 102-104 RDC 1002'],sign:'RT',obj:'Definir condições de armazenamento dos instrumentais esterilizados e critérios de validade.',cov:['Local: seco, limpo, fechado','Política de validade da embalagem','Quando reprocessar','Organização para rastreabilidade'],file:'docs/POP - Armazenamento de Material Processado.docx'},
-  // G3
-  {g:3,code:'POP-017',name:'Protocolo de urgências e emergências',ic:'amb',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Estabelecer o fluxo formal de atendimento a emergências do minuto 0 até o SAMU.',cov:['Reconhecimento de cada emergência','Responsabilidades da equipe','SAMU e hospital de referência','Registro do evento adverso'],file:'docs/POP - Atendimentos de Urgência e Emergência.docx'},
-  {g:3,code:'POP-018',name:'RCP e uso do DEA',ic:'act',novo:false,type:'pop',refs:['Art. 116 RDC 1002','AHA 2020'],sign:'RT',obj:'Padronizar a técnica de RCP e uso do DEA conforme diretrizes da AHA.',cov:['Reconhecimento da PCR','Sequência: segurança → SAMU → RCP → DEA','Técnica: 30 compressões × 2 ventilações','Posicionamento na cadeira odontológica'],file:'docs/POP - Fluxo de Atendimento a Intercorrência.docx'},
-  {g:3,code:'POP-019',name:'Manejo da síncope vasovagal',ic:'act',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Padronizar reconhecimento e conduta imediata diante de síncope vasovagal.',cov:['Sinais: palidez, sudorese, náusea, hipotensão','Posição de Trendelenburg','Monitoramento de PA e FC','Critérios para acionar o SAMU'],file:'docs/POP - Fluxo em caso de acidente com material biológico.docx'},
-  {g:3,code:'POP-020',name:'Manejo da crise hipoglicêmica',ic:'thm',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Estabelecer conduta para reconhecimento e tratamento da hipoglicemia.',cov:['Identificação do paciente em risco','Sinais: tremor, sudorese, confusão','Conduta: consciente vs. inconsciente','Quando acionar emergência'],file:'docs/POP - Protocolo de Orientação em Caso de Acidente Biológico.docx'},
-  {g:3,code:'POP-021',name:'Manejo de crise asmática e anafilaxia',ic:'wind',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Padronizar conduta diante de crise asmática e reação anafilática.',cov:['Crise asmática: salbutamol 2-4 jatos','Anafilaxia: epinefrina 0,3mg IM coxa lateral','Diferencial entre asma e anafilaxia','Critérios de acionamento do SAMU'],file:'docs/POP - Protocolo de Segurança do Paciente.docx'},
-  {g:3,code:'POP-022',name:'Manejo de crise hipertensiva',ic:'heart',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Estabelecer conduta para urgência e emergência hipertensiva.',cov:['Urgência: interromper, repouso, encaminhar','Emergência: SAMU imediato','Quando não medicar','Registro do evento'],file:'docs/POP - Protocolo de Remoção de Pacientes.docx'},
-  {g:3,code:'POP-023',name:'Acidente com material biológico',ic:'alert',novo:false,type:'pop',refs:['Art. 115 RDC 1002','NR-32'],sign:'RT',obj:'Padronizar atendimento ao profissional exposto a material biológico.',cov:['Conduta imediata: lavagem, sangramento','Notificação ao serviço ocupacional','Sorologias obrigatórias','Registro e acompanhamento'],file:'docs/POP - Fluxo em caso de acidente com material biológico.docx'},
-  {g:3,code:'POP-024',name:'Protocolo de remoção de pacientes',ic:'amb',novo:false,type:'pop',refs:['Art. 116, §único RDC 1002'],sign:'RT',obj:'Estabelecer o fluxo de transferência segura do paciente até o SAMU.',cov:['Quando acionar o SAMU (192)','Informações que o SAMU solicita','Manter paciente viável até a transferência','Registro e seguimento'],file:'docs/POP - Protocolo de Remoção de Pacientes.docx'},
-  // G4
-  {g:4,code:'POP-025',name:'Descarte de resíduos — PGRSS operacional',ic:'cycle',novo:false,type:'pop',refs:['Arts. 122-130 RDC 1002','RDC 222/2018'],sign:'RT',obj:'Definir procedimento operacional de descarte de cada tipo de resíduo odontológico.',cov:['Grupo A: biológico — saco branco leitoso','Grupo B: amálgama, revelador, fixador','Grupo E: perfurocortante — descarpak','Coleta especializada e manifesto'],file:'docs/POP - Descarte de Lixos e Materiais.docx'},
-  {g:4,code:'POP-026',name:'Controle de vetores e pragas',ic:'tool',novo:false,type:'pop',refs:['Art. 113, VI RDC 1002'],sign:'RT',obj:'Estabelecer critérios para contratação, frequência e registro do controle de pragas.',cov:['Contrato com empresa habilitada','Frequência mínima','Laudo técnico dos produtos','Como arquivar o certificado'],file:'docs/POP - Dedeìtização.docx'},
-  {g:4,code:'POP-027',name:'Manutenção preventiva de equipamentos',ic:'tool',novo:false,type:'pop',refs:['Arts. 131-134 RDC 1002'],sign:'RT',obj:'Definir plano anual de manutenção preventiva e corretiva dos equipamentos.',cov:['Inventário de equipamentos','Frequência por equipamento','Registro de manutenções','Critérios para interrupção de uso'],file:'docs/POP - Manutenção Preventiva dos Equipamentos.docx'},
-  {g:4,code:'POP-028',name:'Controle de qualidade da água',ic:'drop',novo:false,type:'pop',refs:['Art. 113, V RDC 1002'],sign:'RT',obj:'Estabelecer o controle da potabilidade da água utilizada no consultório.',cov:['Frequência de limpeza da caixa d\'água','Laudos de análise','Desinfecção das linhas do equipo','Registro e arquivo dos laudos'],file:'docs/POP - Limpeza Caixa dagua.docx'},
-  {g:4,code:'POP-029',name:'Limpeza do ar condicionado',ic:'wind',novo:false,type:'pop',refs:['Art. 113 RDC 1002'],sign:'RT',obj:'Estabelecer frequência e registro da limpeza dos equipamentos de ar condicionado.',cov:['Limpeza de filtros: mensal','Higienização completa: semestral','Contrato de manutenção','Registro com data e responsável'],file:'docs/POP - Limpeza do ar condicionado.docx'},
-  {g:4,code:'POP-030',name:'Limpeza de moldes, modelos e próteses',ic:'tool',novo:false,type:'pop',refs:['Arts. 36-38 RDC 1002'],sign:'RT',obj:'Padronizar desinfecção de moldes e próteses antes do envio ao laboratório.',cov:['Desinfecção imediata após moldagem','Produtos e tempo de contato','Quando reprocessar','Comunicação com o laboratório'],file:'docs/POP - Limpeza de Moldes, Modelos e Próteses.docx'},
-  {g:4,code:'POP-031',name:'Lavagem de toalhas — odontopediatria',ic:'cycle',novo:false,type:'pop',refs:['Art. 113 RDC 1002'],sign:'RT',obj:'Estabelecer fluxo de recolhimento, lavagem e reutilização de toalhas de pano.',cov:['Separação do material contaminado','Pré-lavagem e temperatura mínima','Armazenamento após lavagem','Quando descartar'],file:'docs/POP - Fluxo de Lavagem de Toalhas de Pano Utilizadas na Assistencia Odontopediatrica.docx'},
-  // G5
-  {g:5,code:'POP-032',name:'Armazenamento de medicações',ic:'pill',novo:false,type:'pop',refs:['Art. 118 RDC 1002','RDC 301/2019'],sign:'RT',obj:'Padronizar o armazenamento seguro de medicamentos respeitando temperatura e validade.',cov:['FIFO e FEFO: rotatividade de estoque','Termolábeis: 2°C a 8°C','Temperatura ambiente: 15°C a 30°C','Controle diário com registro'],file:'docs/POP - Armazenamento de Medicamentos.docx'},
-  {g:5,code:'POP-033',name:'Armazenamento de toxina botulínica',ic:'thm',novo:false,type:'pop',refs:['Art. 118 RDC 1002','RDC 204/2017'],sign:'RT',obj:'Estabelecer condições específicas de armazenamento da toxina botulínica.',cov:['Temperatura: 2°C a 8°C obrigatório','Geladeira exclusiva para medicamentos','Rastreabilidade: lote, fabricante, validade','Descarte de ampolas abertas'],file:'docs/POP - Armazenamento de Toxina Botulínica (Botox).docx'},
-  {g:5,code:'POP-034',name:'Uso e administração de medicamentos',ic:'pill',novo:false,type:'pop',refs:['Art. 118, III RDC 1002'],sign:'RT',obj:'Garantir segurança na prescrição, preparo e administração de medicamentos.',cov:['Os 9 certos da administração','Identificação correta do paciente','Registro no prontuário','Reações adversas: o que fazer'],file:'docs/POP - Uso e Administração de Medicamentos.docx'},
-  {g:5,code:'POP-035',name:'Notificação na plataforma Notivisa',ic:'mon',novo:false,type:'pop',refs:['Art. 120 RDC 1002','NT ANVISA 10/2025'],sign:'RT (NSP)',obj:'Orientar o passo a passo de notificação de eventos adversos no sistema Notivisa.',cov:['Cadastro da instituição e do NSP','Módulo Assistência à Saúde','Preenchimento das 10 etapas','Prazo: 15º dia útil do mês seguinte'],file:'docs/POP - Notificação na Plataforma Notivisa.docx'},
-  {g:5,code:'POP-036',name:'Relato e registro de eventos adversos',ic:'doc',novo:false,type:'pop',refs:['Art. 120 RDC 1002'],sign:'RT',obj:'Padronizar o relato interno e registro de eventos adversos no consultório.',cov:['Evento adverso vs. incidente','Formulário interno','Análise de causa raiz simplificada','Plano de ação para evitar recorrência'],file:'docs/POP - Relato e Registro de Eventos Adversos.docx'},
-  {g:5,code:'POP-037',name:'Notificação de eventos adversos no VigiMed',ic:'mon',novo:false,type:'pop',refs:['RDC 204/2017 ANVISA'],sign:'RT',obj:'Orientar a notificação de reações adversas a medicamentos no sistema VigiMed.',cov:['Quando notificar no VigiMed vs. Notivisa','Cadastro e acesso','Informações necessárias','Prazo e obrigatoriedade'],file:'docs/POP - Notificação de Eventos Adversos no Sistema VigiMed.docx'},
-  // G6
-  {g:6,code:'PLN-001',name:'Checklist de diagnóstico do consultório',ic:'clip',novo:false,type:'plan',refs:['Arts. 11-35 RDC 1002'],sign:'RT',obj:'Mapear conformidades e inconformidades do consultório com base na RDC 1002.',cov:['Classificação: Complexidade A ou B','Área física e metragem','Bancada de processamento','Priorização das adequações'],file:'docs/PLN - Checklist de Diagnóstico do Consultório.xlsx'},
-  {g:6,code:'PLN-002',name:'Planilha de controle de esterilização',ic:'bar',novo:false,type:'plan',refs:['Arts. 91-98 RDC 1002'],sign:'RT',obj:'Registrar cada ciclo de esterilização com rastreabilidade por 5 anos.',cov:['Data, ciclo, operador','Resultados dos indicadores','Status de liberação da carga','Arquivo para fiscalização'],file:'docs/PLN - Controle de Esterilizacao.xlsx'},
-  {g:6,code:'PLN-003',name:'Checklist do kit de emergências',ic:'amb',novo:false,type:'plan',refs:['Arts. 36-46 RDC 1002'],sign:'RT',obj:'Verificação mensal dos itens obrigatórios do kit de emergências.',cov:['Lista de itens obrigatórios','Validade de medicamentos e materiais','Frequência: mensal','Assinatura do responsável'],file:'docs/PLN - Checklist do Kit de Emergências.xlsx'},
-  {g:6,code:'PLN-004',name:'Plano de Segurança do Paciente — PSP',ic:'shield',novo:false,type:'plan',refs:['Art. 118 RDC 1002'],sign:'RT',obj:'Documento completo do PSP alinhado aos 14 incisos do Art. 118.',cov:['Identificação correta do paciente','Higiene das mãos','Segurança na administração de medicamentos','Notificação de eventos adversos'],file:'docs/PLN - Plano de Segurança do Paciente PSP.xlsx'},
-  {g:6,code:'PLN-005',name:'PGRSS simplificado',ic:'cycle',novo:false,type:'plan',refs:['Arts. 122-130 RDC 1002','RDC 222/2018'],sign:'RT',obj:'Plano de Gerenciamento de Resíduos adaptado ao consultório individual.',cov:['Classificação dos resíduos','Fluxo de coleta e destinação','Contrato com empresa especializada','Manifesto de transporte'],file:'docs/PLN - PGRSS Simplificado.xlsx'},
-  {g:6,code:'PLN-006',name:'Planilha de controle de manutenção',ic:'tool',novo:false,type:'plan',refs:['Arts. 131-134 RDC 1002'],sign:'RT',obj:'Registro de manutenções preventivas e corretivas dos equipamentos.',cov:['Inventário de equipamentos','Datas de manutenção','Empresa executora e nota fiscal','Próxima manutenção programada'],file:'docs/PLN - Controle de Manutenção de Equipamentos.xlsx'},
-  {g:6,code:'PLN-007',name:'Planilha de registro de capacitações',ic:'book',novo:false,type:'plan',refs:['Art. 113, III RDC 1002'],sign:'RT',obj:'Plano anual de treinamentos com lista de presença e carga horária.',cov:['Temas e datas','Lista de presença com assinatura','Carga horária por funcionário','Comprovante para fiscalização'],file:'docs/PLN - Registro de Capacitações.xlsx'},
-  {g:6,code:'PLN-008',name:'Modelo de notificação de eventos adversos',ic:'doc',novo:false,type:'plan',refs:['Art. 120 RDC 1002','NT ANVISA 10/2025'],sign:'RT (NSP)',obj:'Formulário interno para registro e notificação mensal de eventos adversos à ANVISA.',cov:['Descrição do evento','Consequências para o paciente','Fatores contribuintes','Plano de ação corretiva'],file:'docs/PLN - Notificação de Eventos Adversos.xlsx'},
+{g:1,code:'POP-001',name:'Responsabilidade Técnica',ic:'clip',novo:true,type:'pop',refs:['Arts. 5º-6º RDC 1002'],sign:'RT e proprietário',obj:'Definir as responsabilidades do RT, substituto e corresponsabilidade em casos de múltiplos sócios.',cov:['Definição do RT e substituto','Notificação à VISA em caso de substituição','Responsabilidade solidária em clínicas','Documentação para registro do RT'],file:'docs/POP - Responsabilidade Técnica.docx'},
+{g:1,code:'POP-002',name:'Admissão e desligamento de funcionários',ic:'users',novo:false,type:'pop',refs:['Art. 114 RDC 1002'],sign:'RT',obj:'Padronizar o fluxo de contratação, treinamento admissional e desligamento.',cov:['Documentação de admissão','Treinamento antes do início','Registro de entrega de EPIs','Procedimento de desligamento'],file:'docs/POP - Auxiliar de Saúde Bucal (ASB).docx'},
+{g:1,code:'POP-003',name:'Educação permanente da equipe',ic:'book',novo:true,type:'pop',refs:['Art. 113, III RDC 1002'],sign:'RT',obj:'Estabelecer o plano anual de capacitações obrigatórias e registro de participação.',cov:['Temas obrigatórios: biossegurança, higiene, EPIs, emergências','Frequência mínima','Registro de presença','Como apresentar em fiscalização'],file:'docs/POP - Educação Permanente da Equipe.docx'},
+{g:1,code:'POP-004',name:'Controle de saúde ocupacional',ic:'heart',novo:true,type:'pop',refs:['Art. 113, II RDC 1002','NR-32'],sign:'RT',obj:'Garantir o controle da saúde dos profissionais por meio de fichas, vacinação e exames.',cov:['Exames admissionais e periódicos','Vacinação: hepatite B, tétano, influenza','Ficha funcional de saúde','Afastamento por doença ocupacional'],file:'docs/POP - Controle de Saúde Ocupacional.docx'},
+{g:1,code:'POP-005',name:'Recepção e acolhimento de pacientes',ic:'users',novo:false,type:'pop',refs:['Art. 118, IV RDC 1002'],sign:'RT',obj:'Padronizar o atendimento inicial ao paciente desde a chegada até a sala clínica.',cov:['Identificação e confirmação de dados','Triagem e anamnese','Comunicação de riscos','Registro no prontuário'],file:'docs/POP - Atendimento Inicial ao Cliente.docx'},
+{g:1,code:'POP-006',name:'Comunicação com paciente e consentimento informado',ic:'doc',novo:false,type:'pop',refs:['Art. 118, XIII RDC 1002'],sign:'RT e paciente',obj:'Garantir que o paciente compreenda os procedimentos e riscos antes do tratamento.',cov:['Termo de consentimento informado','Linguagem acessível','Registro de recusa','Direitos do paciente'],file:'docs/POP - Recepcionista de Odontologia.docx'},
+{g:2,code:'POP-007',name:'Higiene das mãos',ic:'drop',novo:true,type:'pop',refs:['Art. 118, V RDC 1002'],sign:'RT',obj:'Padronizar a técnica e os momentos corretos de higiene das mãos para toda a equipe.',cov:['Os 5 momentos da OMS','Técnica com água e sabão (40-60s)','Técnica com álcool gel (20-30s)','Monitoramento de conformidade'],file:'docs/POP - Higiene das Maos.docx'},
+{g:2,code:'POP-008',name:'Uso de EPIs',ic:'shield',novo:true,type:'pop',refs:['Art. 108, §único RDC 1002','NR-32'],sign:'RT',obj:'Definir EPIs obrigatórios por procedimento, uso correto, paramentação e descarte.',cov:['EPIs por tipo de procedimento','Sequência de paramentação','Sequência de desparamentação','Descarte correto'],file:'docs/POP - Uso de EPIs.docx'},
+{g:2,code:'POP-009',name:'Limpeza e desinfecção de superfícies',ic:'wind',novo:false,type:'pop',refs:['Art. 113, XI RDC 1002'],sign:'RT',obj:'Estabelecer rotina de limpeza e desinfecção entre atendimentos e ao final do dia.',cov:['Produtos e concentrações','Frequência: entre atendimentos e terminal','Equipamentos de alto toque','Registro de limpeza terminal'],file:'docs/POP - Remo%C3%A7%C3%A3o de Materiais, Limpeza dos Equipamentos e Prepara%C3%A7%C3%A3o da Sala para o Pr%C3%B3ximo Atendimento.docx'},
+{g:2,code:'POP-010',name:'Pré-limpeza de instrumentais',ic:'tool',novo:false,type:'pop',refs:['Arts. 40-41 RDC 1002'],sign:'RT',obj:'Padronizar a pré-limpeza imediata dos instrumentais após o uso clínico.',cov:['Separação de perfurocortantes','Imersão em solução enzimática','Tempo e concentração','Transporte para processamento'],file:'docs/POP - Reprocessamento de Artigos Odontol%C3%B3gicos.docx'},
+{g:2,code:'POP-011',name:'Limpeza manual de instrumentais',ic:'tool',novo:false,type:'pop',refs:['Art. 38 RDC 1002'],sign:'RT',obj:'Padronizar a limpeza manual dos instrumentais na área suja da bancada.',cov:['Fricção com escova e detergente enzimático','Enxágue em água corrente','Inspeção visual','Secagem antes da embalagem'],file:'docs/POP - Lavagem de Instrumental Odontol%C3%B3gico.docx'},
+{g:2,code:'POP-012',name:'Uso da cuba ultrassônica',ic:'cpu',novo:false,type:'pop',refs:['Art. 38 RDC 1002'],sign:'RT',obj:'Estabelecer os parâmetros corretos de uso da lavadora ultrassônica.',cov:['Concentração e troca da solução (diária)','Tempo mínimo de limpeza','Instrumentais adequados','Manutenção do equipamento'],file:'docs/POP - Uso da Lavadora Ultrasss%C3%B4nica para Instrumentais Odontol%C3%B3gicos.docx'},
+{g:2,code:'POP-013',name:'Reprocessamento e embalagem de instrumentais',ic:'cycle',novo:false,type:'pop',refs:['Art. 26 RDC 1002'],sign:'RT',obj:'Padronizar a embalagem e selagem dos instrumentais antes da esterilização.',cov:['Tipos de embalagem permitidos','Seladora: temperatura e tempo','Indicadores químicos de processo','Identificação: data, lote, operador'],file:'docs/POP - Limpeza e Desinfec%C3%A7%C3%A3o de Utensilios.docx'},
+{g:2,code:'POP-014',name:'Esterilização em autoclave',ic:'flask',novo:false,type:'pop',refs:['Arts. 88-91 RDC 1002'],sign:'RT',obj:'Padronizar os ciclos de esterilização, monitoramento e liberação de cargas.',cov:['Ciclos gravitacional e por vácuo','Parâmetros: temperatura, pressão, tempo','Indicadores físicos, químicos e biológicos','Critérios de liberação da carga'],file:'docs/POP - Esteriliza%C3%A7%C3%A3o Autoclave.docx'},
+{g:2,code:'POP-015',name:'Monitoramento biológico da esterilização',ic:'alert',novo:true,type:'pop',refs:['Arts. 91-92 RDC 1002'],sign:'RT',obj:'Estabelecer frequência, execução e registro do monitoramento biológico da autoclave.',cov:['Frequência: semanal ou a cada 40 ciclos','Leitura do indicador biológico','Conduta em resultado positivo','Rastreabilidade: 5 anos obrigatório'],file:'docs/POP - Monitoramento Biol%C3%B3gico da Esteriliza%C3%A7%C3%A3o.docx'},
+{g:2,code:'POP-016',name:'Armazenamento de material processado',ic:'doc',novo:true,type:'pop',refs:['Arts. 102-104 RDC 1002'],sign:'RT',obj:'Definir condições de armazenamento dos instrumentais esterilizados e critérios de validade.',cov:['Local: seco, limpo, fechado','Política de validade da embalagem','Quando reprocessar','Organização para rastreabilidade'],file:'docs/POP - Armazenamento de Material Processado.docx'},
+{g:3,code:'POP-017',name:'Protocolo de urgências e emergências',ic:'amb',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Estabelecer o fluxo formal de atendimento a emergências do minuto 0 até o SAMU.',cov:['Reconhecimento de cada emergência','Responsabilidades da equipe','SAMU e hospital de referência','Registro do evento adverso'],file:'docs/POP - Atendimentos de Urg%C3%AAncia e Emerg%C3%AAncia.docx'},
+{g:3,code:'POP-018',name:'RCP e uso do DEA',ic:'act',novo:false,type:'pop',refs:['Art. 116 RDC 1002','AHA 2020'],sign:'RT',obj:'Padronizar a técnica de RCP e uso do DEA conforme diretrizes da AHA.',cov:['Reconhecimento da PCR','Sequência: segurança → SAMU → RCP → DEA','Técnica: 30 compressões × 2 ventilações','Posicionamento na cadeira odontológica'],file:'docs/POP - Fluxo de Atendimento a Intercorr%C3%AAncia.docx'},
+{g:3,code:'POP-019',name:'Manejo da síncope vasovagal',ic:'act',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Padronizar reconhecimento e conduta imediata diante de síncope vasovagal.',cov:['Sinais: palidez, sudorese, náusea, hipotensão','Posição de Trendelenburg','Monitoramento de PA e FC','Critérios para acionar o SAMU'],file:'docs/POP - Fluxo em caso de acidente com material biol%C3%B3gico.docx'},
+{g:3,code:'POP-020',name:'Manejo da crise hipoglicêmica',ic:'thm',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Estabelecer conduta para reconhecimento e tratamento da hipoglicemia.',cov:['Identificação do paciente em risco','Sinais: tremor, sudorese, confusão','Conduta: consciente vs. inconsciente','Quando acionar emergência'],file:'docs/POP - Protocolo de Orienta%C3%A7%C3%A3o em Caso de Acidente Biol%C3%B3gico.docx'},
+{g:3,code:'POP-021',name:'Manejo de crise asmática e anafilaxia',ic:'wind',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Padronizar conduta diante de crise asmática e reação anafilática.',cov:['Crise asmática: salbutamol 2-4 jatos','Anafilaxia: epinefrina 0,3mg IM coxa lateral','Diferencial entre asma e anafilaxia','Critérios de acionamento do SAMU'],file:'docs/POP - Protocolo de Seguran%C3%A7a do Paciente.docx'},
+{g:3,code:'POP-022',name:'Manejo de crise hipertensiva',ic:'heart',novo:false,type:'pop',refs:['Art. 116 RDC 1002'],sign:'RT',obj:'Estabelecer conduta para urgência e emergência hipertensiva.',cov:['Urgência: interromper, repouso, encaminhar','Emergência: SAMU imediato','Quando não medicar','Registro do evento'],file:'docs/POP - Protocolo de Remo%C3%A7%C3%A3o de Pacientes.docx'},
+{g:3,code:'POP-023',name:'Acidente com material biológico',ic:'alert',novo:false,type:'pop',refs:['Art. 115 RDC 1002','NR-32'],sign:'RT',obj:'Padronizar atendimento ao profissional exposto a material biológico.',cov:['Conduta imediata: lavagem, sangramento','Notificação ao serviço ocupacional','Sorologias obrigatórias','Registro e acompanhamento'],file:'docs/POP - Fluxo em caso de acidente com material biol%C3%B3gico.docx'},
+{g:3,code:'POP-024',name:'Protocolo de remoção de pacientes',ic:'amb',novo:false,type:'pop',refs:['Art. 116, §único RDC 1002'],sign:'RT',obj:'Estabelecer o fluxo de transferência segura do paciente até o SAMU.',cov:['Quando acionar o SAMU (192)','Informações que o SAMU solicita','Manter paciente viável até a transferência','Registro e seguimento'],file:'docs/POP - Protocolo de Remo%C3%A7%C3%A3o de Pacientes.docx'},
+{g:4,code:'POP-025',name:'Descarte de resíduos — PGRSS operacional',ic:'cycle',novo:false,type:'pop',refs:['Arts. 122-130 RDC 1002','RDC 222/2018'],sign:'RT',obj:'Definir procedimento operacional de descarte de cada tipo de resíduo odontológico.',cov:['Grupo A: biológico — saco branco leitoso','Grupo B: amálgama, revelador, fixador','Grupo E: perfurocortante — descarpak','Coleta especializada e manifesto'],file:'docs/POP - Descarte de Lixos e Materiais.docx'},
+{g:4,code:'POP-026',name:'Controle de vetores e pragas',ic:'tool',novo:false,type:'pop',refs:['Art. 113, VI RDC 1002'],sign:'RT',obj:'Estabelecer critérios para contratação, frequência e registro do controle de pragas.',cov:['Contrato com empresa habilitada','Frequência mínima','Laudo técnico dos produtos','Como arquivar o certificado'],file:'docs/POP - Dedeitiza%C3%A7%C3%A3o.docx'},
+{g:4,code:'POP-027',name:'Manutenção preventiva de equipamentos',ic:'tool',novo:false,type:'pop',refs:['Arts. 131-134 RDC 1002'],sign:'RT',obj:'Definir plano anual de manutenção preventiva e corretiva dos equipamentos.',cov:['Inventário de equipamentos','Frequência por equipamento','Registro de manutenções','Critérios para interrupção de uso'],file:'docs/POP - Manuten%C3%A7%C3%A3o Preventiva dos Equipamentos.docx'},
+{g:4,code:'POP-028',name:'Controle de qualidade da água',ic:'drop',novo:false,type:'pop',refs:['Art. 113, V RDC 1002'],sign:'RT',obj:'Estabelecer o controle da potabilidade da água utilizada no consultório.',cov:['Frequência de limpeza da caixa d\'água','Laudos de análise','Desinfecção das linhas do equipo','Registro e arquivo dos laudos'],file:'docs/POP - Limpeza Caixa dagua.docx'},
+{g:4,code:'POP-029',name:'Limpeza do ar condicionado',ic:'wind',novo:false,type:'pop',refs:['Art. 113 RDC 1002'],sign:'RT',obj:'Estabelecer frequência e registro da limpeza dos equipamentos de ar condicionado.',cov:['Limpeza de filtros: mensal','Higienização completa: semestral','Contrato de manutenção','Registro com data e responsável'],file:'docs/POP - Limpeza do ar condicionado.docx'},
+{g:4,code:'POP-030',name:'Limpeza de moldes, modelos e próteses',ic:'tool',novo:false,type:'pop',refs:['Arts. 36-38 RDC 1002'],sign:'RT',obj:'Padronizar desinfecção de moldes e próteses antes do envio ao laboratório.',cov:['Desinfecção imediata após moldagem','Produtos e tempo de contato','Quando reprocessar','Comunicação com o laboratório'],file:'docs/POP - Limpeza de Moldes, Modelos e Pr%C3%B3teses.docx'},
+{g:4,code:'POP-031',name:'Lavagem de toalhas — odontopediatria',ic:'cycle',novo:false,type:'pop',refs:['Art. 113 RDC 1002'],sign:'RT',obj:'Estabelecer fluxo de recolhimento, lavagem e reutilização de toalhas de pano.',cov:['Separação do material contaminado','Pré-lavagem e temperatura mínima','Armazenamento após lavagem','Quando descartar'],file:'docs/POP - Fluxo de Lavagem de Toalhas de Pano Utilizadas na Assistencia Odontopediatrica.docx'},
+{g:5,code:'POP-032',name:'Armazenamento de medicações',ic:'pill',novo:false,type:'pop',refs:['Art. 118 RDC 1002','RDC 301/2019'],sign:'RT',obj:'Padronizar o armazenamento seguro de medicamentos respeitando temperatura e validade.',cov:['FIFO e FEFO: rotatividade de estoque','Termolábeis: 2°C a 8°C','Temperatura ambiente: 15°C a 30°C','Controle diário com registro'],file:'docs/POP - Armazenamento de Medicamentos.docx'},
+{g:5,code:'POP-033',name:'Armazenamento de toxina botulínica',ic:'thm',novo:false,type:'pop',refs:['Art. 118 RDC 1002','RDC 204/2017'],sign:'RT',obj:'Estabelecer condições específicas de armazenamento da toxina botulínica.',cov:['Temperatura: 2°C a 8°C obrigatório','Geladeira exclusiva para medicamentos','Rastreabilidade: lote, fabricante, validade','Descarte de ampolas abertas'],file:'docs/POP - Armazenamento de Toxina Botul%C3%ADnica (Botox).docx'},
+{g:5,code:'POP-034',name:'Uso e administração de medicamentos',ic:'pill',novo:false,type:'pop',refs:['Art. 118, III RDC 1002'],sign:'RT',obj:'Garantir segurança na prescrição, preparo e administração de medicamentos.',cov:['Os 9 certos da administração','Identificação correta do paciente','Registro no prontuário','Reações adversas: o que fazer'],file:'docs/POP - Uso e Administra%C3%A7%C3%A3o de Medicamentos.docx'},
+{g:5,code:'POP-035',name:'Notificação na plataforma Notivisa',ic:'mon',novo:false,type:'pop',refs:['Art. 120 RDC 1002','NT ANVISA 10/2025'],sign:'RT (NSP)',obj:'Orientar o passo a passo de notificação de eventos adversos no sistema Notivisa.',cov:['Cadastro da instituição e do NSP','Módulo Assistência à Saúde','Preenchimento das 10 etapas','Prazo: 15º dia útil do mês seguinte'],file:'docs/POP - Notifica%C3%A7%C3%A3o na Plataforma Notivisa.docx'},
+{g:5,code:'POP-036',name:'Relato e registro de eventos adversos',ic:'doc',novo:false,type:'pop',refs:['Art. 120 RDC 1002'],sign:'RT',obj:'Padronizar o relato interno e registro de eventos adversos no consultório.',cov:['Evento adverso vs. incidente','Formulário interno','Análise de causa raiz simplificada','Plano de ação para evitar recorrência'],file:'docs/POP - Relato e Registro de Eventos Adversos.docx'},
+{g:5,code:'POP-037',name:'Notificação de eventos adversos no VigiMed',ic:'mon',novo:false,type:'pop',refs:['RDC 204/2017 ANVISA'],sign:'RT',obj:'Orientar a notificação de reações adversas a medicamentos no sistema VigiMed.',cov:['Quando notificar no VigiMed vs. Notivisa','Cadastro e acesso','Informações necessárias','Prazo e obrigatoriedade'],file:'docs/POP - Notifica%C3%A7%C3%A3o de Eventos Adversos no Sistema VigiMed.docx'},
+{g:6,code:'PLN-001',name:'Checklist de diagnóstico do consultório',ic:'clip',novo:false,type:'plan',refs:['Arts. 11-35 RDC 1002'],sign:'RT',obj:'Mapear conformidades e inconformidades do consultório com base na RDC 1002.',cov:['Classificação: Complexidade A ou B','Área física e metragem','Bancada de processamento','Priorização das adequações'],file:'docs/PLN - Checklist de Diagn%C3%B3stico do Consult%C3%B3rio.xlsx'},
+{g:6,code:'PLN-002',name:'Planilha de controle de esterilização',ic:'bar',novo:false,type:'plan',refs:['Arts. 91-98 RDC 1002'],sign:'RT',obj:'Registrar cada ciclo de esterilização com rastreabilidade por 5 anos.',cov:['Data, ciclo, operador','Resultados dos indicadores','Status de liberação da carga','Arquivo para fiscalização'],file:'docs/PLN - Controle de Esterilizacao.xlsx'},
+{g:6,code:'PLN-003',name:'Checklist do kit de emergências',ic:'amb',novo:false,type:'plan',refs:['Arts. 36-46 RDC 1002'],sign:'RT',obj:'Verificação mensal dos itens obrigatórios do kit de emergências.',cov:['Lista de itens obrigatórios','Validade de medicamentos e materiais','Frequência: mensal','Assinatura do responsável'],file:'docs/PLN - Checklist do Kit de Emerg%C3%AAncias.xlsx'},
+{g:6,code:'PLN-004',name:'Plano de Segurança do Paciente — PSP',ic:'shield',novo:false,type:'plan',refs:['Art. 118 RDC 1002'],sign:'RT',obj:'Documento completo do PSP alinhado aos 14 incisos do Art. 118.',cov:['Identificação correta do paciente','Higiene das mãos','Segurança na administração de medicamentos','Notificação de eventos adversos'],file:'docs/PLN - Plano de Seguran%C3%A7a do Paciente PSP.xlsx'},
+{g:6,code:'PLN-005',name:'PGRSS simplificado',ic:'cycle',novo:false,type:'plan',refs:['Arts. 122-130 RDC 1002','RDC 222/2018'],sign:'RT',obj:'Plano de Gerenciamento de Resíduos adaptado ao consultório individual.',cov:['Classificação dos resíduos','Fluxo de coleta e destinação','Contrato com empresa especializada','Manifesto de transporte'],file:'docs/PLN - PGRSS Simplificado.xlsx'},
+{g:6,code:'PLN-006',name:'Planilha de controle de manutenção',ic:'tool',novo:false,type:'plan',refs:['Arts. 131-134 RDC 1002'],sign:'RT',obj:'Registro de manutenções preventivas e corretivas dos equipamentos.',cov:['Inventário de equipamentos','Datas de manutenção','Empresa executora e nota fiscal','Próxima manutenção programada'],file:'docs/PLN - Controle de Manuten%C3%A7%C3%A3o de Equipamentos.xlsx'},
+{g:6,code:'PLN-007',name:'Planilha de registro de capacitações',ic:'book',novo:false,type:'plan',refs:['Art. 113, III RDC 1002'],sign:'RT',obj:'Plano anual de treinamentos com lista de presença e carga horária.',cov:['Temas e datas','Lista de presença com assinatura','Carga horária por funcionário','Comprovante para fiscalização'],file:'docs/PLN - Registro de Capacita%C3%A7%C3%B5es.xlsx'},
+{g:6,code:'PLN-008',name:'Modelo de notificação de eventos adversos',ic:'doc',novo:false,type:'plan',refs:['Art. 120 RDC 1002','NT ANVISA 10/2025'],sign:'RT (NSP)',obj:'Formulário interno para registro e notificação mensal de eventos adversos à ANVISA.',cov:['Descrição do evento','Consequências para o paciente','Fatores contribuintes','Plano de ação corretiva'],file:'docs/PLN - Notifica%C3%A7%C3%A3o de Eventos Adversos.xlsx'},
 ];
-
-let done = new Set(JSON.parse(localStorage.getItem('nitro_ev')||'[]'));
-let cf='all', curDoc=null;
-
-function save(){ localStorage.setItem('nitro_ev',JSON.stringify([...done])); }
-
-function updateProg(){
-  const tot=DOCS.length, comp=DOCS.filter(d=>done.has(d.code)).length;
-  const pct=Math.round(comp/tot*100);
-  document.getElementById('pFill').style.width=pct+'%';
-  document.getElementById('pCt').textContent=comp+' de '+tot+' concluídos';
-}
-
-function match(d){
-  if(cf==='all') return true;
-  if(cf==='done') return done.has(d.code);
-  if(cf==='pend') return !done.has(d.code);
-  if(cf==='plan') return d.type==='plan';
-  if(cf==='criar') return d.novo;
-  return true;
-}
-
-function render(){
-  const c=document.getElementById('gc');
-  c.innerHTML='';
-  GRPS.forEach(g=>{
-    const docs=DOCS.filter(d=>d.g===g.id&&match(d));
-    if(!docs.length) return;
-    const comp=docs.filter(d=>done.has(d.code)).length;
-    const el=document.createElement('div');
-    el.className='grp open'; el.id='g'+g.id;
-    el.innerHTML=`
-      <div class="grp-hdr" onclick="tglGrp(${g.id})">
-        <div class="grp-ic">${svg(g.ic,20)}</div>
-        <div class="grp-info">
-          <div class="grp-name">${g.name}</div>
-          <div class="grp-meta">${comp} de ${docs.length} concluídos · ${g.meta}</div>
-        </div>
-        <span class="grp-ct">${docs.length}</span>
-        <svg class="grp-chv" viewBox="0 0 24 24">${IC.chv}</svg>
-      </div>
-      <div class="grp-body">${docs.map(rowHTML).join('')}</div>`;
-    c.appendChild(el);
-  });
-}
-
-function pillFor(d){
-  if(done.has(d.code)) return ['p-ok','Concluído'];
-  return ['p-disp','Disponível'];
-}
-
-function rowHTML(d){
-  const dn=done.has(d.code);
-  const [pc,pt]=pillFor(d);
-  return `<div class="doc${dn?' done':''}" onclick="openModal('${d.code}')">
-    <span class="doc-code">${d.code}</span>
-    <div class="doc-ic">${svg(d.ic,16)}</div>
-    <div class="doc-info">
-      <div class="doc-name">${d.name}</div>
-      <div class="doc-ref">${d.refs[0]}</div>
-    </div>
-    <span class="pill ${pc}">${pt}</span>
-    <button class="ck${dn?' on':''}" onclick="event.stopPropagation();tglDone('${d.code}')" title="${dn?'Desmarcar':'Marcar concluído'}">
-      <svg viewBox="0 0 24 24">${IC.chk}</svg>
-    </button>
-  </div>`;
-}
-
-function tglGrp(id){ document.getElementById('g'+id).classList.toggle('open'); }
-
-function tglDone(code){
-  done.has(code)?done.delete(code):done.add(code);
-  save(); updateProg(); render();
-}
-
-function filt(f,btn){
-  cf=f;
-  document.querySelectorAll('.fbtn').forEach(b=>b.classList.remove('on'));
-  btn.classList.add('on'); render();
-}
-
-function openModal(code){
-  const d=DOCS.find(x=>x.code===code);
-  if(!d) return; curDoc=d;
-  document.getElementById('mIcSvg').innerHTML=IC[d.ic]||IC.doc;
-  document.getElementById('mTag').textContent=d.code+' · '+(d.type==='plan'?'Planilha':'POP');
-  document.getElementById('mTit').textContent=d.name;
-  document.getElementById('mObj').textContent=d.obj;
-  document.getElementById('mRef').innerHTML=d.refs.map(r=>`<span class="m-ref">${r}</span>`).join('');
-  document.getElementById('mCov').innerHTML=d.cov.map(c=>`<li>${c}</li>`).join('');
-  document.getElementById('mSign').innerHTML=svg('users',16)+' '+d.sign;
-  const dlBtn=document.getElementById('mDlBtn');
-  if(d.file){ dlBtn.style.display=''; dlBtn.textContent='Baixar .docx'; dlBtn.onclick=dlDoc; }
-  else { dlBtn.style.display=''; dlBtn.textContent='Baixar .xlsx'; dlBtn.style.opacity='1'; dlBtn.onclick=dlDoc; }
-  document.getElementById('ov').classList.add('open');
-}
-
-function closeOv(e){ if(e.target===document.getElementById('ov')) closeOvD(); }
-function closeOvD(){ document.getElementById('ov').classList.remove('open'); curDoc=null; }
-
-function dlDoc(){
-  if(!curDoc||!curDoc.file) return;
-  const a = document.createElement('a');
-  a.href = curDoc.file;
-  a.download = curDoc.file.split('/').pop();
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-}
-
-function markDone(){
-  if(!curDoc) return;
-  done.add(curDoc.code); save(); updateProg(); render(); closeOvD();
-}
-
-document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeOvD(); });
-
-render(); updateProg();
-setTimeout(()=>{ document.getElementById('pFill').style.width=(Math.round(DOCS.filter(d=>done.has(d.code)).length/DOCS.length*100))+'%'; },150);
+let done=new Set(JSON.parse(localStorage.getItem('nitro_ev')||'[]'));
+let cf='all',curDoc=null;
+function save(){localStorage.setItem('nitro_ev',JSON.stringify([...done]));}
+function updateProg(){const tot=DOCS.length,comp=DOCS.filter(d=>done.has(d.code)).length;const pct=Math.round(comp/tot*100);document.getElementById('pFill').style.width=pct+'%';document.getElementById('pCt').textContent=comp+' de '+tot+' concluídos';}
+function match(d){if(cf==='all')return true;if(cf==='done')return done.has(d.code);if(cf==='pend')return !done.has(d.code);if(cf==='plan')return d.type==='plan';if(cf==='criar')return d.novo;return true;}
+function render(){const c=document.getElementById('gc');c.innerHTML='';GRPS.forEach(g=>{const docs=DOCS.filter(d=>d.g===g.id&&match(d));if(!docs.length)return;const comp=docs.filter(d=>done.has(d.code)).length;const el=document.createElement('div');el.className='grp open';el.id='g'+g.id;el.innerHTML=`<div class="grp-hdr" onclick="tglGrp(${g.id})"><div class="grp-ic">${svg(g.ic,20)}</div><div class="grp-info"><div class="grp-name">${g.name}</div><div class="grp-meta">${comp} de ${docs.length} concluídos · ${g.meta}</div></div><span class="grp-ct">${docs.length}</span><svg class="grp-chv" viewBox="0 0 24 24">${IC.chv}</svg></div><div class="grp-body">${docs.map(rowHTML).join('')}</div>`;c.appendChild(el);});}
+function pillFor(d){if(done.has(d.code))return['p-ok','Concluído'];return['p-disp','Disponível'];}
+function rowHTML(d){const dn=done.has(d.code);const[pc,pt]=pillFor(d);return `<div class="doc${dn?' done':''}" onclick="openModal('${d.code}')"><span class="doc-code">${d.code}</span><div class="doc-ic">${svg(d.ic,16)}</div><div class="doc-info"><div class="doc-name">${d.name}</div><div class="doc-ref">${d.refs[0]}</div></div><span class="pill ${pc}">${pt}</span><button class="ck${dn?' on':''}" onclick="event.stopPropagation();tglDone('${d.code}')" title="${dn?'Desmarcar':'Marcar concluído'}"><svg viewBox="0 0 24 24">${IC.chk}</svg></button></div>`;}
+function tglGrp(id){document.getElementById('g'+id).classList.toggle('open');}
+function tglDone(code){done.has(code)?done.delete(code):done.add(code);save();updateProg();render();}
+function filt(f,btn){cf=f;document.querySelectorAll('.fbtn').forEach(b=>b.classList.remove('on'));btn.classList.add('on');render();}
+function openModal(code){const d=DOCS.find(x=>x.code===code);if(!d)return;curDoc=d;document.getElementById('mIcSvg').innerHTML=IC[d.ic]||IC.doc;document.getElementById('mTag').textContent=d.code+' · '+(d.type==='plan'?'Planilha':'POP');document.getElementById('mTit').textContent=d.name;document.getElementById('mObj').textContent=d.obj;document.getElementById('mRef').innerHTML=d.refs.map(r=>`<span class="m-ref">${r}</span>`).join('');document.getElementById('mCov').innerHTML=d.cov.map(c=>`<li>${c}</li>`).join('');document.getElementById('mSign').innerHTML=svg('users',16)+' '+d.sign;const dlBtn=document.getElementById('mDlBtn');if(d.file){dlBtn.style.display='';dlBtn.textContent=d.type==='plan'?'Baixar .xlsx':'Baixar .docx';dlBtn.onclick=dlDoc;}document.getElementById('ov').classList.add('open');}
+function closeOv(e){if(e.target===document.getElementById('ov'))closeOvD();}
+function closeOvD(){document.getElementById('ov').classList.remove('open');curDoc=null;}
+function dlDoc(){if(!curDoc||!curDoc.file)return;const a=document.createElement('a');a.href=curDoc.file;a.download=decodeURIComponent(curDoc.file.split('/').pop());document.body.appendChild(a);a.click();document.body.removeChild(a);}
+function markDone(){if(!curDoc)return;done.add(curDoc.code);save();updateProg();render();closeOvD();}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeOvD();});
+render();updateProg();
+setTimeout(()=>{document.getElementById('pFill').style.width=(Math.round(DOCS.filter(d=>done.has(d.code)).length/DOCS.length*100))+'%';},150);
 </script>
 </body>
 </html>
