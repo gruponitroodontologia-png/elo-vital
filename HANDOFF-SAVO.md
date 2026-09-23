@@ -24,10 +24,10 @@ da linha **Cultura de Segurança** do Grupo Nitro. Feita para os padrões visuai
 
 ## 3. Arquivos no repositório (`gruponitroodontologia-png/elo-vital`)
 Branch de trabalho: **`claude/focused-planck-5yplma`** (tudo já commitado e enviado).
-- `savo.html` — a página completa (standalone). É esta que o Vercel publica.
+- `index.html` — a página completa (standalone). É esta que o Vercel publica.
 - `savo-elementor.html` — o mesmo conteúdo em bloco, pronto para colar num widget HTML do
   Elementor (caso o caminho WordPress seja usado).
-- `vercel.json` — configuração para o Vercel servir `savo.html` na raiz do subdomínio.
+- `vercel.json` — configuração para o Vercel servir `index.html` na raiz do subdomínio.
 - `assets/logo-white.png` — logo usada na página.
 - `index.html` — página antiga do repo ("Elo Vital — Kit de Documentos"); **não** é o SAVO.
 
