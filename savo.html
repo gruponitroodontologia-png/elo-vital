@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SAVO — Suporte Avançado de Vida para a Odontologia | Grupo Nitro</title>
+<meta name="description" content="SAVO — Suporte Avançado de Vida para a Odontologia. Formação híbrida de 32h, exclusiva para cirurgiões-dentistas, para aprofundar competências em avaliação, monitorização (ECG e capnografia), vias aéreas, farmacologia de urgência, liderança e resposta a situações críticas. Linha Cultura de Segurança do Grupo Nitro.">
+<!-- Open Graph / redes sociais -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Grupo Nitro">
+<meta property="og:title" content="SAVO — Suporte Avançado de Vida para a Odontologia">
+<meta property="og:description" content="Quanto mais avançada a prática, mais avançada deve ser a capacidade de intervir. Formação híbrida de 32h para cirurgiões-dentistas. Linha Cultura de Segurança do Grupo Nitro.">
+<meta property="og:locale" content="pt_BR">
+<!-- SUBSTITUIR pela URL pública da imagem de compartilhamento (1200x630) -->
+<meta property="og:image" content="assets/og-savo.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SAVO — Suporte Avançado de Vida para a Odontologia">
+<meta name="twitter:description" content="Formação híbrida de 32h para cirurgiões-dentistas. Linha Cultura de Segurança do Grupo Nitro.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap" rel="stylesheet">
+<style>
+:root{
+--wine:#690D0E;--wine-600:#7E0F10;--wine-800:#5C0A0B;--wine-50:#FBF0F0;--wine-100:#F6DCDC;--red:#A00E0E;--lav:#A5A5D3;--lav-700:#6F7299;--lav-600:#7F82A2;--lav-100:#E9E9F5;--lav-50:#F4F4FA;--pink:#C891A8;--peri:#9093BC;--slate:#7F82A2;--dark:#17112c;--gold:#E0A93B;--white:#FFFFFF;--paper:#FBFAFB;--paper2:#ECE7E1;--muted:#F2F1F2;--gray-300:#D2CFD0;--gray-500:#847F80;--ink:#2A2526;--fg2:#5E5A5B;--fg3:#847F80;--border:#E6E4E5;--onw:#FBEDED;--sans:'Poppins',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;--ease:cubic-bezier(.4,0,.2,1);--r-pill:999px;--shadow-md:0 8px 24px rgba(42,37,38,.09);--shadow-lg:0 18px 48px rgba(42,37,38,.14);--shadow-wine:0 12px 30px rgba(105,13,14,.28);
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;scroll-behavior:smooth;}
+body{font-family:var(--sans);background:var(--paper);color:var(--ink);min-height:100vh;font-weight:300;overflow-x:hidden;}
+a{color:inherit;text-decoration:none;}
+.inner{max-width:1120px;margin:0 auto;padding:0 clamp(20px,4vw,48px);}
+section{padding:clamp(52px,6.5vw,96px) 0;}
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--wine);display:inline-flex;align-items:center;gap:10px;margin-bottom:14px;}
+.eyebrow::before{content:'';width:26px;height:2px;background:currentColor;}
+.eyebrow-lav{color:var(--lav);}
+.sec-title{font-size:clamp(1.7rem,3.5vw,2.6rem);font-weight:700;line-height:1.13;letter-spacing:-.015em;}
+.sec-title .red{color:var(--red);}
+.sec-title .lav{color:var(--lav);}
+.sec-lead{font-size:clamp(15px,1.6vw,17px);font-weight:400;line-height:1.75;color:var(--fg2);max-width:680px;margin-top:18px;}
+.sec-lead + .sec-lead{margin-top:14px;}
+.sec-wine .sec-lead{color:var(--onw);opacity:.9;}
+.sec-dark .sec-lead{color:#D9D3EC;}
+.sec-wine{background:linear-gradient(165deg,#360607 0%,var(--wine) 60%,#4a0809 100%);color:var(--onw);}
+.sec-dark{background:linear-gradient(160deg,var(--dark) 0%,#241a45 100%);color:#EDEAF6;}
+.sec-paper2{background:var(--paper2);}
+.center{text-align:center;}
+.center .eyebrow,.center .sec-title{justify-content:center;}
+.center .sec-lead{margin-left:auto;margin-right:auto;}
+
+/* reveal */
+.reveal{opacity:1;transform:none;}
+
+/* Buttons */
+.btn{display:inline-flex;align-items:center;gap:10px;font-family:var(--sans);font-size:14px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;padding:16px 30px;border-radius:var(--r-pill);cursor:pointer;border:1.6px solid transparent;transition:all .16s var(--ease);text-align:center;}
+.btn svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;}
+.btn-wine{background:var(--wine);color:var(--white);border-color:var(--wine);box-shadow:var(--shadow-wine);}
+.btn-wine:hover{background:var(--wine-800);transform:translateY(-2px);box-shadow:0 16px 38px rgba(105,13,14,.36);}
+.btn-light{background:var(--white);color:var(--wine);border-color:var(--white);box-shadow:var(--shadow-md);}
+.btn-light:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg);}
+.btn-ghost{background:transparent;color:var(--white);border-color:rgba(255,255,255,.5);}
+.btn-ghost:hover{background:rgba(255,255,255,.1);border-color:var(--white);}
+.btn-lg{font-size:15px;padding:19px 40px;}
+.cta-row{margin-top:34px;}
+
+/* Icon seal */
+.seal{width:52px;height:52px;border-radius:14px;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+.seal svg{width:24px;height:24px;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;}
+.seal-lav{background:var(--lav-100);}.seal-lav svg{stroke:var(--wine);}
+.seal-onwine{background:rgba(255,255,255,.1);}.seal-onwine svg{stroke:var(--lav);}
+
+/* HERO */
+.hero{position:relative;background:linear-gradient(160deg,#0d0203 0%,#2a0506 45%,var(--wine) 100%);color:var(--white);overflow:hidden;padding:clamp(52px,6vw,88px) 0 clamp(46px,5vw,72px);}
+.hero-grid-overlay{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.045) 1px,transparent 1px);background-size:52px 52px;-webkit-mask-image:radial-gradient(ellipse 80% 70% at 70% 20%,#000 0%,transparent 75%);mask-image:radial-gradient(ellipse 80% 70% at 70% 20%,#000 0%,transparent 75%);pointer-events:none;}
+.hero::after{content:'';position:absolute;top:-120px;right:-90px;width:420px;height:420px;border-radius:50%;border:1.5px solid rgba(165,165,211,.16);pointer-events:none;}
+.hero-inner{position:relative;max-width:1120px;margin:0 auto;padding:0 clamp(20px,4vw,48px);}
+.hero-badge{display:inline-flex;align-items:center;gap:9px;background:rgba(165,165,211,.16);color:var(--lav);font-size:11.5px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:8px 16px;border-radius:var(--r-pill);margin-bottom:24px;border:1px solid rgba(165,165,211,.24);}
+.hero-badge svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;}
+.hero-wordmark{font-size:clamp(3.6rem,12vw,7.5rem);font-weight:800;line-height:.9;letter-spacing:.015em;color:var(--white);margin-bottom:8px;text-shadow:0 4px 30px rgba(0,0,0,.3);}
+.hero-wordmark .o{color:var(--lav);}
+.hero-fullname{font-size:clamp(12px,1.5vw,15.5px);font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--lav);margin-bottom:26px;}
+.hero-title{font-size:clamp(1.5rem,3vw,2.35rem);font-weight:700;line-height:1.16;letter-spacing:-.015em;max-width:860px;color:rgba(251,237,237,.97);}
+.hero-title .lav{color:var(--lav);}
+.hero-sub{font-size:clamp(15px,1.7vw,18px);font-weight:300;color:rgba(251,237,237,.86);line-height:1.7;max-width:660px;margin-top:22px;}
+.hero-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;max-width:760px;}
+.hero-chips span{font-size:12px;font-weight:500;color:var(--onw);background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.13);padding:7px 13px;border-radius:var(--r-pill);}
+.hero-turma{display:inline-flex;flex-wrap:wrap;align-items:center;gap:10px 20px;margin-top:26px;background:rgba(165,165,211,.14);border:1px solid rgba(165,165,211,.3);border-radius:14px;padding:14px 22px;}
+.hero-turma .it{display:inline-flex;align-items:center;gap:9px;font-size:14px;font-weight:500;color:var(--white);}
+.hero-turma .it svg{width:17px;height:17px;fill:none;stroke:var(--lav);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;}
+.hero-turma .it strong{font-weight:700;color:var(--lav);}
+/* Ticker */
+.ticker-wrap{position:relative;margin-top:clamp(38px,5vw,54px);border-top:1px solid rgba(255,255,255,.12);border-bottom:1px solid rgba(255,255,255,.12);overflow:hidden;padding:16px 0;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);}
+.ticker-track{display:flex;width:max-content;animation:ticker 36s linear infinite;}
+@keyframes ticker{to{transform:translateX(-50%);}}
+.ticker-item{display:inline-flex;align-items:center;gap:14px;padding:0 24px;font-size:13.5px;font-weight:500;color:rgba(251,237,237,.8);white-space:nowrap;letter-spacing:.02em;}
+.ticker-item .dot{width:5px;height:5px;border-radius:50%;background:var(--lav);}
+.ticker-item.highlight{color:var(--lav);font-weight:600;}
+@media(prefers-reduced-motion:reduce){.ticker-track{animation:none;}}
+
+/* NUMEROS */
+.nums-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:40px;}
+.num-card{background:var(--white);border:1px solid var(--border);border-radius:18px;padding:28px 24px;box-shadow:0 1px 2px rgba(42,37,38,.05);}
+.num-card .big{font-size:clamp(2.1rem,3.8vw,2.9rem);font-weight:800;color:var(--wine);line-height:1;letter-spacing:-.02em;}
+.num-card .lbl{font-size:13.5px;font-weight:400;color:var(--fg2);margin-top:12px;line-height:1.5;}
+
+/* Feature / checklist list */
+.flist{display:grid;grid-template-columns:repeat(2,1fr);gap:14px 30px;margin-top:36px;list-style:none;}
+.flist li{display:flex;gap:14px;align-items:flex-start;font-size:14.5px;font-weight:400;line-height:1.55;color:var(--fg2);}
+.sec-wine .flist li,.sec-dark .flist li{color:var(--onw);}
+.fchk{width:26px;height:26px;border-radius:8px;background:var(--wine-50);flex-shrink:0;display:flex;align-items:center;justify-content:center;margin-top:1px;}
+.fchk svg{width:14px;height:14px;stroke:var(--wine);fill:none;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round;}
+.sec-wine .fchk,.sec-dark .fchk{background:rgba(165,165,211,.18);}
+.sec-wine .fchk svg,.sec-dark .fchk svg{stroke:var(--lav);}
+
+/* Pillars + flow */
+.pillars{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:38px;}
+.pillar{background:var(--white);border:1px solid var(--border);border-radius:18px;padding:28px;box-shadow:0 1px 2px rgba(42,37,38,.05);}
+.pillar .num{font-size:11px;font-weight:700;letter-spacing:.16em;color:var(--lav-700);text-transform:uppercase;}
+.pillar h3{font-size:18px;font-weight:700;margin:12px 0 8px;color:var(--wine);}
+.pillar p{font-size:13.5px;font-weight:300;line-height:1.6;color:var(--fg2);}
+.flow{display:flex;flex-wrap:wrap;gap:10px;margin-top:30px;}
+.flow-step{flex:1 1 150px;background:var(--white);border:1px solid var(--border);border-radius:14px;padding:18px 16px;}
+.flow-step .n{font-size:12px;font-weight:700;color:var(--lav-700);letter-spacing:.1em;}
+.flow-step .t{font-size:14.5px;font-weight:600;color:var(--ink);margin-top:8px;line-height:1.3;}
+.flow-step .d{font-size:12.5px;font-weight:300;color:var(--fg2);margin-top:6px;line-height:1.5;}
+
+/* Generic card grid (on wine/dark) */
+.grid{display:grid;gap:16px;margin-top:38px;}
+.g-2{grid-template-columns:repeat(2,1fr);}
+.g-3{grid-template-columns:repeat(3,1fr);}
+.g-4{grid-template-columns:repeat(4,1fr);}
+.card{border-radius:18px;padding:26px;transition:transform .24s var(--ease),box-shadow .24s var(--ease);}
+.card.on-wine{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);}
+.card.on-wine:hover{transform:translateY(-3px);}
+.card.on-wine h3{font-size:16.5px;font-weight:600;color:var(--white);margin:14px 0 8px;line-height:1.3;}
+.card.on-wine p{font-size:13.5px;font-weight:300;color:var(--onw);line-height:1.6;opacity:.9;}
+.card.light{background:var(--white);border:1px solid var(--border);box-shadow:0 1px 2px rgba(42,37,38,.05);}
+.card.light:hover{box-shadow:var(--shadow-md);transform:translateY(-3px);}
+.card.light h3{font-size:16.5px;font-weight:600;margin:14px 0 8px;line-height:1.3;}
+.card.light p{font-size:13.5px;font-weight:300;color:var(--fg2);line-height:1.6;}
+
+/* MODULOS */
+.mod-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:38px;}
+.mod-card{background:var(--white);border:1px solid var(--border);border-radius:18px;padding:26px;box-shadow:0 1px 2px rgba(42,37,38,.05);transition:box-shadow .24s var(--ease),transform .24s var(--ease);}
+.mod-card:hover{box-shadow:var(--shadow-md);transform:translateY(-3px);}
+.mod-card.wide{grid-column:1/-1;background:linear-gradient(135deg,var(--lav-50),var(--white));border-color:var(--lav-100);}
+.mod-header{display:flex;align-items:center;gap:14px;margin-bottom:18px;flex-wrap:wrap;}
+.mod-num{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--white);background:var(--wine);padding:7px 13px;border-radius:var(--r-pill);}
+.mod-ch{font-size:12px;font-weight:600;color:var(--wine);background:var(--wine-50);padding:6px 13px;border-radius:var(--r-pill);margin-left:auto;}
+.mod-card h3{font-size:16.5px;font-weight:600;line-height:1.3;letter-spacing:-.01em;margin-bottom:14px;}
+.mod-body{list-style:none;}
+.mod-body li{font-size:13.5px;font-weight:300;color:var(--fg2);line-height:1.5;padding:6px 0 6px 18px;position:relative;}
+.mod-body li::before{content:'';position:absolute;left:0;top:13px;width:6px;height:6px;border-radius:50%;background:var(--red);}
+.note{margin-top:22px;font-size:13.5px;font-weight:300;color:var(--fg2);background:var(--white);border:1px solid var(--border);border-radius:12px;padding:16px 20px;display:flex;gap:12px;align-items:flex-start;}
+.note svg{width:20px;height:20px;fill:none;stroke:var(--wine);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;margin-top:1px;}
+
+/* Avaliação steps */
+.aval{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:38px;counter-reset:step;}
+.aval .step{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:24px;position:relative;}
+.aval .step .n{width:34px;height:34px;border-radius:50%;background:rgba(165,165,211,.2);color:var(--lav);font-weight:700;font-size:15px;display:flex;align-items:center;justify-content:center;margin-bottom:16px;}
+.aval .step h3{font-size:14.5px;font-weight:600;color:var(--white);margin-bottom:7px;line-height:1.3;}
+.aval .step p{font-size:12.5px;font-weight:300;color:var(--onw);line-height:1.55;opacity:.86;}
+
+/* INCLUSO */
+.incluso-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:38px;}
+.incluso-item{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:24px;}
+.incluso-item .seal{margin-bottom:14px;}
+.incluso-item h3{font-size:15px;font-weight:600;color:var(--white);margin-bottom:6px;line-height:1.3;}
+.incluso-item p{font-size:13px;font-weight:300;color:var(--onw);line-height:1.55;opacity:.86;}
+.bonus{margin-top:20px;background:var(--lav);color:var(--wine);border-radius:18px;padding:24px 28px;display:flex;gap:18px;align-items:center;}
+.bonus .seal{background:var(--wine);}.bonus .seal svg{stroke:var(--white);}
+.bonus strong{font-size:15px;font-weight:700;letter-spacing:.03em;color:var(--wine);}
+.bonus span{font-size:13.5px;font-weight:400;display:block;margin-top:4px;color:var(--wine-800);}
+
+/* PARA QUEM */
+.pq-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:38px;}
+.pq-card{background:var(--white);border:1px solid var(--border);border-radius:18px;padding:28px;box-shadow:0 1px 2px rgba(42,37,38,.05);}
+.pq-icon{width:52px;height:52px;border-radius:14px;background:var(--lav-100);display:flex;align-items:center;justify-content:center;margin-bottom:18px;}
+.pq-icon svg{width:24px;height:24px;fill:none;stroke:var(--wine);stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;}
+.pq-card h3{font-size:16.5px;font-weight:600;margin-bottom:8px;}
+.pq-card p{font-size:13.5px;font-weight:300;color:var(--fg2);line-height:1.6;}
+.scope-note{margin-top:24px;font-size:13.5px;font-weight:400;color:var(--fg2);line-height:1.65;background:var(--white);border:1px solid var(--border);border-radius:12px;padding:18px 22px;}
+.scope-note strong{color:var(--ink);font-weight:600;}
+
+/* CERTIFICAÇÃO */
+.certgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:38px;}
+.certcard{background:var(--paper);border:1px solid var(--border);border-radius:16px;padding:24px;}
+.certcard .seal{margin-bottom:14px;}
+.certcard h3{font-size:15px;font-weight:600;margin-bottom:6px;}
+.certcard p{font-size:13.5px;font-weight:300;color:var(--fg2);line-height:1.6;}
+.reqbox{margin-top:20px;display:grid;grid-template-columns:1.1fr 1fr;gap:16px;}
+.reqbox .b{background:var(--white);border:1px solid var(--border);border-radius:16px;padding:24px;}
+.reqbox .b h3{font-size:14px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:var(--wine);margin-bottom:14px;}
+.reqbox .b ul{list-style:none;}
+.reqbox .b li{font-size:14px;font-weight:300;color:var(--fg2);line-height:1.5;padding:7px 0 7px 20px;position:relative;}
+.reqbox .b li::before{content:'';position:absolute;left:0;top:14px;width:6px;height:6px;border-radius:50%;background:var(--red);}
+.reqbox .b.limits li::before{background:var(--gray-300);border-radius:2px;}
+
+/* CARLA */
+.carla-grid{display:grid;grid-template-columns:300px 1fr;gap:40px;align-items:center;margin-top:24px;}
+.carla-foto{background:linear-gradient(140deg,var(--lav),var(--peri) 55%,var(--slate));border-radius:20px;aspect-ratio:4/5;position:relative;overflow:hidden;display:flex;align-items:flex-end;justify-content:center;box-shadow:var(--shadow-lg);}
+.carla-foto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+.carla-foto .mono{font-size:5rem;font-weight:800;color:rgba(255,255,255,.9);letter-spacing:-.03em;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);}
+.carla-badge{position:absolute;bottom:16px;left:16px;right:16px;background:rgba(23,17,44,.72);backdrop-filter:blur(6px);color:var(--white);font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:10px 14px;border-radius:12px;text-align:center;}
+.carla-nome{font-size:clamp(1.5rem,3vw,2.1rem);font-weight:700;color:var(--white);margin-top:6px;letter-spacing:-.01em;}
+.carla-titulo{font-size:14px;font-weight:500;color:var(--lav);margin-top:8px;letter-spacing:.02em;}
+.carla-bio{font-size:15px;font-weight:300;line-height:1.75;color:#D9D3EC;margin-top:18px;}
+.creds{list-style:none;margin-top:22px;display:grid;gap:10px;}
+.creds li{display:flex;gap:12px;align-items:flex-start;font-size:13.5px;font-weight:400;color:#D9D3EC;line-height:1.5;}
+.creds li svg{width:18px;height:18px;fill:none;stroke:var(--lav);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;margin-top:1px;}
+
+/* INFO TABLE */
+.info-table{margin-top:38px;background:var(--white);border:1px solid var(--border);border-radius:18px;overflow:hidden;box-shadow:0 1px 2px rgba(42,37,38,.05);}
+.info-table .row{display:grid;grid-template-columns:1fr 1.4fr;gap:16px;padding:16px 24px;border-bottom:1px solid var(--muted);}
+.info-table .row:last-child{border-bottom:none;}
+.info-table .k{font-size:13px;font-weight:600;color:var(--wine);letter-spacing:.02em;}
+.info-table .v{font-size:14px;font-weight:300;color:var(--fg2);}
+.info-table .v strong{color:var(--ink);font-weight:600;}
+
+/* PRECO */
+.preco-card{background:var(--white);border-radius:24px;box-shadow:var(--shadow-lg);overflow:hidden;max-width:620px;margin:40px auto 0;border:1px solid var(--border);}
+.preco-head{background:var(--wine);color:var(--white);padding:30px 34px;text-align:center;}
+.preco-head .tag{font-size:11.5px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--lav);}
+.preco-head .publico{font-size:1.4rem;font-weight:700;margin-top:8px;letter-spacing:-.01em;}
+.preco-head .preco-turma{font-size:13px;font-weight:500;color:rgba(255,255,255,.85);margin-top:12px;display:inline-flex;flex-wrap:wrap;justify-content:center;gap:6px 16px;}
+.preco-head .preco-turma strong{color:var(--lav);font-weight:700;}
+.preco-body{padding:34px;}
+.preco-valor{text-align:center;margin-bottom:26px;}
+.preco-valor .parcelas{font-size:clamp(2.2rem,5vw,2.9rem);font-weight:800;color:var(--wine);line-height:1;letter-spacing:-.02em;}
+.preco-valor .parcelas small{font-size:1.05rem;font-weight:600;}
+.preco-valor .avista{font-size:15px;font-weight:400;color:var(--fg2);margin-top:8px;}
+.preco-valor .avista strong{color:var(--ink);font-weight:600;}
+.preco-valor .obs{font-size:12px;color:var(--fg3);margin-top:10px;}
+.preco-body ul{list-style:none;margin-bottom:26px;}
+.preco-body ul li{display:flex;gap:12px;align-items:flex-start;font-size:14px;font-weight:400;color:var(--fg2);line-height:1.5;padding:8px 0;border-bottom:1px solid var(--muted);}
+.preco-body ul li:last-child{border-bottom:none;}
+.preco-body ul li svg{width:18px;height:18px;fill:none;stroke:var(--wine);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;margin-top:1px;}
+.btn-preco{width:100%;justify-content:center;}
+.scarcity{display:flex;justify-content:center;margin-bottom:20px;}
+.scarcity span{display:inline-flex;align-items:center;gap:9px;background:var(--wine-50);color:var(--wine);font-size:13px;font-weight:600;padding:10px 20px;border-radius:var(--r-pill);}
+.scarcity svg{width:16px;height:16px;fill:none;stroke:var(--red);stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;}
+.trust{display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin-top:24px;}
+.trust .t{display:flex;align-items:center;gap:8px;font-size:12.5px;font-weight:500;color:var(--fg2);}
+.trust .t svg{width:16px;height:16px;fill:none;stroke:var(--wine);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;}
+
+/* FAQ (details) */
+.faq-grid{margin-top:36px;}
+.faq-item{border:1px solid var(--border);border-radius:14px;margin-bottom:12px;background:var(--white);overflow:hidden;box-shadow:0 1px 2px rgba(42,37,38,.05);}
+.faq-item summary{display:flex;align-items:center;gap:14px;padding:20px 24px;cursor:pointer;list-style:none;font-size:15.5px;font-weight:500;color:var(--ink);line-height:1.4;transition:background .14s var(--ease);}
+.faq-item summary::-webkit-details-marker{display:none;}
+.faq-item summary:hover{background:var(--lav-50);}
+.faq-item summary::after{content:'';width:12px;height:12px;margin-left:auto;flex-shrink:0;border-right:2px solid var(--gray-500);border-bottom:2px solid var(--gray-500);transform:rotate(45deg);transition:transform .24s var(--ease);}
+.faq-item[open] summary::after{transform:rotate(-135deg);}
+.faq-item .faq-a{padding:2px 24px 22px;font-size:14.5px;font-weight:300;color:var(--fg2);line-height:1.7;}
+
+/* CTA FINAL */
+.cta-final{background:linear-gradient(160deg,#0d0203 0%,#2a0506 50%,var(--wine) 100%);color:var(--white);text-align:center;position:relative;overflow:hidden;}
+.cta-final .hero-grid-overlay{-webkit-mask-image:radial-gradient(ellipse 90% 80% at 50% 30%,#000,transparent 75%);mask-image:radial-gradient(ellipse 90% 80% at 50% 30%,#000,transparent 75%);}
+.cta-final-inner{position:relative;max-width:820px;margin:0 auto;padding:0 clamp(20px,4vw,48px);}
+.cta-final .kicker{font-size:12px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--lav);margin-bottom:18px;}
+.cta-final h2{font-size:clamp(1.8rem,4vw,2.9rem);font-weight:700;line-height:1.12;letter-spacing:-.02em;}
+.cta-final h2 .lav{color:var(--lav);}
+.cta-final .price{font-size:16px;font-weight:300;color:rgba(251,237,237,.86);line-height:1.7;margin:22px auto 0;}
+.cta-final .price strong{color:var(--white);font-weight:600;}
+.cta-final .btn{margin-top:30px;}
+.cta-final .legal{margin-top:34px;padding-top:26px;border-top:1px solid rgba(255,255,255,.14);font-size:12.5px;font-weight:300;color:rgba(251,237,237,.6);line-height:1.7;max-width:640px;margin-left:auto;margin-right:auto;}
+
+/* Sticky mobile CTA */
+.stickybar{position:fixed;left:0;right:0;bottom:0;z-index:180;background:rgba(255,255,255,.97);backdrop-filter:blur(8px);border-top:1px solid var(--border);padding:12px clamp(16px,4vw,24px);display:none;align-items:center;justify-content:space-between;gap:14px;box-shadow:0 -6px 20px rgba(42,37,38,.12);}
+.stickybar .p .a{font-size:16px;font-weight:700;color:var(--wine);line-height:1;}
+.stickybar .p .b{font-size:11.5px;color:var(--fg3);margin-top:3px;}
+.stickybar .btn{padding:13px 22px;font-size:12.5px;}
+
+@media(max-width:900px){
+.nums-grid,.g-4,.aval{grid-template-columns:repeat(2,1fr);}
+.mod-grid,.incluso-grid,.pq-grid,.pillars,.g-3,.reqbox{grid-template-columns:1fr 1fr;}
+.carla-grid{grid-template-columns:1fr;gap:26px;}.carla-foto{max-width:300px;margin:0 auto;}
+}
+@media(max-width:600px){
+.flist,.nums-grid,.g-2,.g-3,.g-4,.mod-grid,.incluso-grid,.pq-grid,.pillars,.aval,.reqbox{grid-template-columns:1fr;}
+.info-table .row{grid-template-columns:1fr;gap:4px;}
+.stickybar{display:flex;}body{padding-bottom:76px;}
+}
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-grid-overlay"></div>
+  <div class="hero-inner">
+    <div class="hero-badge">
+      <svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      Linha Cultura de Segurança · Grupo Nitro
+    </div>
+    <div class="hero-wordmark">SAV<span class="o">O</span></div>
+    <div class="hero-fullname">Suporte Avançado de Vida para a Odontologia</div>
+    <h1 class="hero-title">Quanto mais avançada a prática, mais avançada deve ser a capacidade de <span class="lav">intervir</span>.</h1>
+    <p class="hero-sub">Formação avançada para o cirurgião-dentista prevenir, reconhecer e manejar situações críticas no consultório. Especialmente para quem faz sedação e anestesia ou procedimentos de maior complexidade.</p>
+    <div class="hero-chips">
+      <span>Avaliação clínica</span><span>Monitorização</span><span>Capnografia</span><span>ECG</span><span>Vias aéreas</span><span>Suporte ventilatório</span><span>Acesso venoso</span><span>Farmacologia de urgência</span><span>Suporte cardiovascular</span><span>Liderança da equipe</span><span>Estabilização e transferência</span>
+    </div>
+    <div class="hero-turma">
+      <span class="it"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Primeira turma:&nbsp;<strong>5 e 6 de dezembro de 2026</strong></span>
+      <span class="it"><svg viewBox="0 0 24 24"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg><strong>Rio de Janeiro</strong></span>
+    </div>
+    <div class="cta-row">
+      <!-- SUBSTITUIR "#inscricao" pelo link real de checkout/pagamento -->
+      <a class="btn btn-wine btn-lg" href="#inscricao">Garantir minha inscrição no SAVO
+        <svg viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+    </div>
+  </div>
+  <div class="ticker-wrap"><div class="ticker-track"><span class="ticker-item highlight"><span class="dot"></span>Primeira turma: 5 e 6 de dezembro de 2026</span><span class="ticker-item highlight"><span class="dot"></span>Rio de Janeiro</span><span class="ticker-item"><span class="dot"></span>32h de formação · híbrida</span><span class="ticker-item"><span class="dot"></span>16h ao vivo + 16h presenciais</span><span class="ticker-item"><span class="dot"></span>Turmas de 12 a 20 cirurgiões-dentistas</span><span class="ticker-item"><span class="dot"></span>4 professores na etapa prática</span><span class="ticker-item highlight"><span class="dot"></span>ECG · Capnografia · Vias aéreas</span><span class="ticker-item"><span class="dot"></span>Exclusivo para cirurgiões-dentistas</span><span class="ticker-item highlight"><span class="dot"></span>Linha Cultura de Segurança</span><span class="ticker-item highlight"><span class="dot"></span>Primeira turma: 5 e 6 de dezembro de 2026</span><span class="ticker-item highlight"><span class="dot"></span>Rio de Janeiro</span><span class="ticker-item"><span class="dot"></span>32h de formação · híbrida</span><span class="ticker-item"><span class="dot"></span>16h ao vivo + 16h presenciais</span><span class="ticker-item"><span class="dot"></span>Turmas de 12 a 20 cirurgiões-dentistas</span><span class="ticker-item"><span class="dot"></span>4 professores na etapa prática</span><span class="ticker-item highlight"><span class="dot"></span>ECG · Capnografia · Vias aéreas</span><span class="ticker-item"><span class="dot"></span>Exclusivo para cirurgiões-dentistas</span><span class="ticker-item highlight"><span class="dot"></span>Linha Cultura de Segurança</span></div></div>
+</section>
+
+<!-- NUMEROS -->
+<section>
+  <div class="inner">
+    <span class="eyebrow">A formação</span>
+    <h2 class="sec-title">32 horas para aprofundar <span class="red">conhecimento e desempenho</span>.</h2>
+    <div class="nums-grid reveal">
+      <div class="num-card"><div class="big">32h</div><div class="lbl">de formação, distribuídas igualmente entre fundamentação e treinamento presencial.</div></div>
+      <div class="num-card"><div class="big">16+16</div><div class="lbl">16h telepresenciais ao vivo e 16h presenciais de prática.</div></div>
+      <div class="num-card"><div class="big">12–20</div><div class="lbl">cirurgiões-dentistas por turma, para treinamento em pequenos grupos.</div></div>
+      <div class="num-card"><div class="big">4</div><div class="lbl">professores conduzindo a etapa prática, estações e simulações.</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- POSICIONAMENTO -->
+<section class="sec-paper2">
+  <div class="inner">
+    <span class="eyebrow">Por que o SAVO</span>
+    <h2 class="sec-title">A evolução da prática eleva a <span class="red">responsabilidade clínica</span>.</h2>
+    <p class="sec-lead">A Odontologia de hoje faz sedação, anestesia, cirurgias e monitorização. Quanto mais a prática avança, mais preparo clínico ela exige de quem a conduz.</p>
+    <p class="sec-lead">Nesse contexto, segurança é um conjunto de competências: avaliar o paciente, reconhecer o risco cedo, interpretar a monitorização, decidir e intervir. O SAVO foi criado para aprofundar essas competências na realidade do consultório.</p>
+    <div class="cta-row">
+      <!-- SUBSTITUIR "#inscricao" pelo link real de checkout/pagamento -->
+      <a class="btn btn-wine" href="#inscricao">Quero aprofundar minha competência
+        <svg viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- SEDAÇÃO -->
+<section class="sec-wine">
+  <div class="inner">
+    <span class="eyebrow eyebrow-lav">Para quem é responsável pela sedação e anestesia</span>
+    <h2 class="sec-title">Monitorizar, interpretar e <span class="lav">resgatar</span> quando necessário.</h2>
+    <p class="sec-lead">Sedar exige planejamento, avaliação do paciente e monitorização compatível com a técnica — e saber conduzir, intervir e resgatar quando preciso. Monitorizar e intervir fazem parte da segurança clínica e do que as normas exigem.</p>
+    <div class="grid g-3">
+      <div class="card on-wine">
+        <div class="seal seal-onwine"><svg viewBox="0 0 24 24"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></div>
+        <h3>Capnografia e monitorização</h3>
+        <p>A curva capnográfica é lida junto com os sinais clínicos, a oximetria e o ECG — para que a informação ventilatória entre no raciocínio e na decisão.</p>
+      </div>
+      <div class="card on-wine">
+        <div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2"/></svg></div>
+        <h3>Vias aéreas e ventilação</h3>
+        <p>Conduzir a ventilação, manejar as vias aéreas e usar os medicamentos de urgência, reversão e resgate diante de alterações respiratórias e cardiovasculares.</p>
+      </div>
+      <div class="card on-wine">
+        <div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/></svg></div>
+        <h3>Liderança da resposta</h3>
+        <p>Definir prioridades, distribuir funções e comunicar decisões — conduzindo a estabilização, o acionamento do suporte externo e a transferência.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- METODOLOGIA -->
+<section>
+  <div class="inner">
+    <span class="eyebrow">A metodologia</span>
+    <h2 class="sec-title">Critérios, processos e <span class="red">atitudes</span>.</h2>
+    <p class="sec-lead">A formação se organiza em três dimensões complementares, que orientam a progressão do aluno da fundamentação aos cenários integrados de simulação.</p>
+    <div class="pillars reveal">
+      <div class="pillar"><div class="num">Dimensão 01</div><h3>Critérios</h3><p>Sustentam a avaliação do paciente, a estratificação de riscos, a interpretação dos sinais e da monitorização e o reconhecimento das situações que requerem intervenção.</p></div>
+      <div class="pillar"><div class="num">Dimensão 02</div><h3>Processos</h3><p>Organizam equipamentos, medicamentos, protocolos, checklists, atribuições da equipe, suporte externo, estabilização, transferência e documentação.</p></div>
+      <div class="pillar"><div class="num">Dimensão 03</div><h3>Atitudes</h3><p>Traduzem conhecimento e processo em desempenho: decidir, executar, comunicar, coordenar a equipe, reavaliar o paciente e ajustar a resposta.</p></div>
+    </div>
+    <div class="flow reveal">
+      <div class="flow-step"><div class="n">01</div><div class="t">Avaliação de risco</div><div class="d">Avaliação criteriosa do paciente e estratificação.</div></div>
+      <div class="flow-step"><div class="n">02</div><div class="t">Reconhecimento</div><div class="d">ABCDE e leitura precoce da deterioração.</div></div>
+      <div class="flow-step"><div class="n">03</div><div class="t">Intervenção</div><div class="d">Suporte vital, vias aéreas e medicamentos.</div></div>
+      <div class="flow-step"><div class="n">04</div><div class="t">Estabilização</div><div class="d">Manter o paciente viável e coordenar a equipe.</div></div>
+      <div class="flow-step"><div class="n">05</div><div class="t">Transferência</div><div class="d">Suporte externo e remoção segura.</div></div>
+      <div class="flow-step"><div class="n">06</div><div class="t">Documentação</div><div class="d">Registro, debriefing e revisão do PSP.</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- COMPETENCIAS CENTRAIS -->
+<section class="sec-wine">
+  <div class="inner">
+    <span class="eyebrow eyebrow-lav">Competências centrais do treinamento</span>
+    <h2 class="sec-title">Da monitorização à <span class="lav">resposta coordenada</span>.</h2>
+    <div class="grid g-4">
+      <div class="card on-wine">
+        <div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
+        <h3>Monitorização, ECG e capnografia</h3>
+        <p>Oximetria, curva capnográfica, fundamentos do ECG e ritmos críticos — integrados ao ABCDE e aos sinais clínicos.</p>
+      </div>
+      <div class="card on-wine">
+        <div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2"/></svg></div>
+        <h3>Vias aéreas e ventilação</h3>
+        <p>Oxigenoterapia, aspiração, bolsa-válvula-máscara e escalonamento com dispositivos supra e infraglóticos.</p>
+      </div>
+      <div class="card on-wine">
+        <div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg></div>
+        <h3>Suporte cardiovascular</h3>
+        <p>RCP de alta qualidade, DEA, acesso venoso, fluidoterapia e medicamentos de urgência, reversão e resgate.</p>
+      </div>
+      <div class="card on-wine">
+        <div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/></svg></div>
+        <h3>Liderança clínica</h3>
+        <p>Consciência situacional, prioridades, comunicação objetiva e coordenação da resposta no tempo clínico disponível.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROGRAMA (MODULOS) -->
+<section id="conteudo" class="sec-paper2">
+  <div class="inner">
+    <span class="eyebrow">O programa SAVO</span>
+    <h2 class="sec-title">4 módulos ao vivo e uma <span class="red">imersão prática</span> de 16 horas.</h2>
+    <p class="sec-lead">A etapa telepresencial estrutura os fundamentos jurídicos, clínicos e técnicos. Ao término da teoria, há uma verificação de conhecimento antes da progressão para o presencial.</p>
+    <div class="mod-grid reveal">
+      <div class="mod-card">
+        <div class="mod-header"><span class="mod-num">Módulo 01</span><span class="mod-ch">4h</span></div>
+        <h3>Fundamentação Jurídica, Cultura de Segurança e Responsabilidade Profissional</h3>
+        <ul class="mod-body">
+          <li>Competência, dever de cuidado e dever de prestar socorro; imperícia, imprudência e negligência.</li>
+          <li>Responsabilidades civil, ética, administrativa e penal; limites profissionais; consentimento.</li>
+          <li>Segurança do paciente, gerenciamento de riscos e Plano de Segurança do Paciente.</li>
+          <li>Protocolos, checklists, suporte externo e transferência.</li>
+          <li>Normas pertinentes: RDC Anvisa nº 1.002/2025 e Resolução CFO nº 295/2026.</li>
+        </ul>
+      </div>
+      <div class="mod-card">
+        <div class="mod-header"><span class="mod-num">Módulo 02</span><span class="mod-ch">4h</span></div>
+        <h3>Avaliação Clínica, Populações Especiais e Intercorrências</h3>
+        <ul class="mod-body">
+          <li>Anamnese direcionada ao risco: comorbidades, alergias, antecedentes e interações.</li>
+          <li>Sinais vitais, exame físico dirigido, ausculta, classificação ASA e vias aéreas.</li>
+          <li>Pediatria, pacientes com necessidades especiais, idosos frágeis e polifarmácia.</li>
+          <li>Toxicidade Sistêmica por Anestésico Local (LAST) e abordagem inicial das intercorrências.</li>
+          <li>Documentação, comunicação e compatibilidade entre paciente, procedimento, risco e ambiente.</li>
+        </ul>
+      </div>
+      <div class="mod-card">
+        <div class="mod-header"><span class="mod-num">Módulo 03</span><span class="mod-ch">4h</span></div>
+        <h3>Monitorização, ECG e Capnografia</h3>
+        <ul class="mod-body">
+          <li>Princípios da monitorização clínica e instrumental aplicada à Odontologia.</li>
+          <li>Oximetria de pulso; capnografia: curva, componentes e alterações ventilatórias.</li>
+          <li>Integração entre sinais clínicos, oximetria e capnografia.</li>
+          <li>Fundamentos do ECG e interpretação básica aplicada às emergências.</li>
+          <li>Ritmos críticos, chocáveis e não chocáveis, integrados ao ABCDE.</li>
+        </ul>
+      </div>
+      <div class="mod-card">
+        <div class="mod-header"><span class="mod-num">Módulo 04</span><span class="mod-ch">4h</span></div>
+        <h3>Suporte Avançado, Vias Aéreas e Resposta às Emergências</h3>
+        <ul class="mod-body">
+          <li>Organização da resposta e reconhecimento da deterioração clínica.</li>
+          <li>Oxigenoterapia, aspiração, ventilação e escalonamento das vias aéreas.</li>
+          <li>Cânulas e dispositivos supra e infraglóticos.</li>
+          <li>Acesso venoso, fluidoterapia e medicamentos de urgência, reversão e resgate.</li>
+          <li>Emergências cardiovasculares e respiratórias, PCR, RCP, DEA e transferência.</li>
+        </ul>
+      </div>
+      <div class="mod-card wide">
+        <div class="mod-header"><span class="mod-num">Etapa Presencial</span><span class="mod-ch">16h · 2 dias · 4 professores</span></div>
+        <h3>Estações de habilidades e simulações integradas em pequenos grupos</h3>
+        <ul class="mod-body">
+          <li>Avaliação ABCDE, ausculta cardíaca e pulmonar e reconhecimento da deterioração.</li>
+          <li>RCP de alta qualidade, DEA, oxigenoterapia, aspiração e ventilação com bolsa-válvula-máscara.</li>
+          <li>Escalonamento das vias aéreas com cânulas e dispositivos supra e infraglóticos.</li>
+          <li>Monitorização com ECG, oximetria e capnografia; reconhecimento de ritmos críticos.</li>
+          <li>Acesso venoso periférico, fluidoterapia e medicamentos de urgência, reversão e resgate.</li>
+          <li>Emergências em adultos, crianças e pacientes com necessidades especiais.</li>
+          <li>Liderança da equipe, suporte externo, estabilização, transferência e documentação.</li>
+          <li>Debriefing e revisão do Plano de Segurança do Paciente.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="note reveal">
+      <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+      Procedimentos invasivos são conduzidos dentro dos limites técnicos, profissionais, normativos e pedagógicos do curso e, quando pertinente, treinados em simuladores.
+    </div>
+  </div>
+</section>
+
+<!-- COMPETENCIAS DESENVOLVIDAS -->
+<section>
+  <div class="inner">
+    <span class="eyebrow">Resultados da formação</span>
+    <h2 class="sec-title">O que você será capaz de <span class="red">fazer ao final</span>.</h2>
+    <p class="sec-lead">Ao concluir o percurso acadêmico do SAVO, espera-se que o cirurgião-dentista seja capaz de:</p>
+    <ul class="flist reveal">
+      <li><span class="fchk"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Avaliar riscos e reconhecer precocemente a deterioração clínica.</li>
+      <li><span class="fchk"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Organizar e liderar a resposta da equipe diante de situações críticas.</li>
+      <li><span class="fchk"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Interpretar monitorização com oximetria, capnografia e ECG.</li>
+      <li><span class="fchk"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Realizar suporte vital, RCP de alta qualidade e utilizar o DEA.</li>
+      <li><span class="fchk"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Executar o escalonamento das vias aéreas e as intervenções de suporte e estabilização.</li>
+      <li><span class="fchk"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Utilizar acesso venoso, fluidoterapia e medicamentos de urgência, reversão e resgate.</li>
+      <li><span class="fchk"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Conduzir acionamento do suporte externo, estabilização, transferência e documentação.</li>
+      <li><span class="fchk"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Integrar essas competências à Cultura de Segurança e ao Plano de Segurança do Paciente.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- AVALIAÇÃO -->
+<section class="sec-wine">
+  <div class="inner">
+    <span class="eyebrow eyebrow-lav">Avaliação de competências</span>
+    <h2 class="sec-title">Uma formação que <span class="lav">verifica o desempenho</span>.</h2>
+    <p class="sec-lead">A avaliação acompanha todo o percurso acadêmico, do conhecimento inicial à resposta integrada em cenário.</p>
+    <div class="aval reveal">
+      <div class="step"><div class="n">1</div><h3>Mapa de Decisão</h3><p>Pré-teste diagnóstico para identificar o conhecimento inicial.</p></div>
+      <div class="step"><div class="n">2</div><h3>Verificação pré-prática</h3><p>Ao término da etapa telepresencial, avalia o domínio dos fundamentos antes do presencial.</p></div>
+      <div class="step"><div class="n">3</div><h3>Estações práticas</h3><p>Observação de habilidades e tomada de decisão durante as atividades.</p></div>
+      <div class="step"><div class="n">4</div><h3>Avaliação prática final</h3><p>Cenário integrado ao final das 16h para demonstrar a resposta às situações do programa.</p></div>
+    </div>
+    <p class="sec-lead">A certificação é condicionada ao cumprimento dos critérios acadêmicos de frequência e aprovação estabelecidos pela coordenação.</p>
+  </div>
+</section>
+
+<!-- MATERIAL -->
+<section class="sec-dark">
+  <div class="inner">
+    <span class="eyebrow eyebrow-lav">Material didático e recursos de aprendizagem</span>
+    <h2 class="sec-title" style="color:#fff">Recursos que apoiam o <span class="lav">percurso formativo</span>.</h2>
+    <div class="incluso-grid reveal">
+      <div class="incluso-item"><div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></div><h3>E-book SAVO</h3><p>A referência completa da formação para consultar em todo o percurso.</p></div>
+      <div class="incluso-item"><div class="seal seal-onwine"><svg viewBox="0 0 24 24"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg></div><h3>Infográficos de apoio clínico</h3><p>Guias visuais para organizar o raciocínio na hora da decisão.</p></div>
+      <div class="incluso-item"><div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1"/><polyline points="9 14 11 16 15 12"/></svg></div><h3>Checklists operacionais</h3><p>Para o treinamento e a padronização da resposta da equipe.</p></div>
+      <div class="incluso-item"><div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></div><h3>Material preparatório</h3><p>Conteúdo para chegar pronto à etapa teórica.</p></div>
+      <div class="incluso-item"><div class="seal seal-onwine"><svg viewBox="0 0 24 24"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg></div><h3>Algoritmos de revisão</h3><p>Materiais de revisão relacionados às emergências abordadas.</p></div>
+      <div class="incluso-item"><div class="seal seal-onwine"><svg viewBox="0 0 24 24"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div><h3>Insumos e simulação</h3><p>Materiais das estações práticas e recursos de simulação inclusos.</p></div>
+    </div>
+    <div class="bonus reveal">
+      <div class="seal"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12v10H4V12"/><rect x="2" y="7" width="20" height="5"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"/></svg></div>
+      <div><strong>RDC COMENTADA</strong><span>A leitura da norma traduzida para a prática, incluída na sua inscrição.</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- PARA QUEM -->
+<section class="sec-paper2">
+  <div class="inner">
+    <span class="eyebrow">Para quem é</span>
+    <h2 class="sec-title">Relevante para contextos de <span class="red">maior complexidade</span>.</h2>
+    <p class="sec-lead">O SAVO é exclusivo para cirurgiões-dentistas e foi concebido como formação transversal em segurança e emergências médicas no ambiente odontológico. Tem particular pertinência para:</p>
+    <div class="pq-grid reveal">
+      <div class="pq-card">
+        <div class="pq-icon"><svg viewBox="0 0 24 24"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></div>
+        <h3>Sedação e anestesia</h3>
+        <p>Onde a monitorização, as vias aéreas, a ventilação e a farmacologia de resgate são decisivas — e alguém precisa coordenar a resposta.</p>
+      </div>
+      <div class="pq-card">
+        <div class="pq-icon"><svg viewBox="0 0 24 24"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
+        <h3>Cirurgia e Implantodontia</h3>
+        <p>Procedimentos de maior complexidade, nos quais avaliação de risco, monitorização e preparação para emergências são parte da prática.</p>
+      </div>
+      <div class="pq-card">
+        <div class="pq-icon"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></div>
+        <h3>Odontopediatria e PNE</h3>
+        <p>Atendimento a crianças e pacientes com necessidades especiais, com avaliação e resposta adaptadas ao perfil de cada paciente.</p>
+      </div>
+    </div>
+    <p class="scope-note">O SAVO aprofunda competências dentro do campo profissional do cirurgião-dentista. <strong>A formação não amplia o escopo de atuação profissional nem confere, isoladamente, habilitação em sedação.</strong></p>
+  </div>
+</section>
+
+<!-- CERTIFICAÇÃO + PRÉ-REQUISITOS -->
+<section>
+  <div class="inner">
+    <span class="eyebrow">Certificação e pré-requisitos</span>
+    <h2 class="sec-title">Certificado SAVO de <span class="red">32 horas</span>.</h2>
+    <p class="sec-lead">Os alunos que cumprirem os critérios acadêmicos de frequência e aprovação recebem o Certificado SAVO — Suporte Avançado de Vida para a Odontologia.</p>
+    <div class="certgrid reveal">
+      <div class="certcard"><div class="seal seal-lav"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="6"/><path d="M8.21 13.89 7 22l5-3 5 3-1.21-8.11"/></svg></div><h3>Certificado SAVO</h3><p>Formação complementar em Suporte Avançado de Vida para a Odontologia, com 32 horas certificadas.</p></div>
+      <div class="certcard"><div class="seal seal-lav"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg></div><h3>Atualização</h3><p>Para os profissionais abrangidos pelo art. 48 da Resolução CFO nº 295/2026, prevê-se atualização pelo menos a cada 2 anos.</p></div>
+      <div class="certcard"><div class="seal seal-lav"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></div><h3>Reconhecimento</h3><p>Certificação da linha Cultura de Segurança do Grupo Nitro, orientada por consensos científicos.</p></div>
+    </div>
+    <div class="reqbox reveal">
+      <div class="b">
+        <h3>Pré-requisitos para ingresso</h3>
+        <ul>
+          <li>Graduação em Odontologia.</li>
+          <li>Inscrição ativa ou regular no CRO.</li>
+          <li>Certificação vigente em SBV, realizada ou atualizada há menos de 2 anos.</li>
+          <li>Não há exigência de tempo mínimo de exercício profissional.</li>
+        </ul>
+      </div>
+      <div class="b limits">
+        <h3>O que o certificado não é</h3>
+        <ul>
+          <li>Não corresponde automaticamente a uma certificação oficial ACLS.</li>
+          <li>Não substitui a certificação própria em Suporte Básico de Vida (SBV).</li>
+          <li>Isoladamente, não confere habilitação em sedação.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CARLA -->
+<section class="sec-dark">
+  <div class="inner">
+    <span class="eyebrow eyebrow-lav">Coordenação acadêmica</span>
+    <div class="carla-grid reveal">
+      <div class="carla-foto">
+        <!-- SUBSTITUIR pela foto real da Profª Carla Gamba (ex.: assets/carla-cafe.jpeg) -->
+        <span class="mono">CG</span>
+        <div class="carla-badge">Pioneira na sedação inalatória · desde 2000</div>
+      </div>
+      <div>
+        <div class="carla-nome">Profª Dra. Carla Gamba</div>
+        <div class="carla-titulo">CD, MSc · Cofundadora do Grupo Nitro</div>
+        <p class="carla-bio">Uma das pioneiras na sedação inalatória no Brasil, formou a primeira turma em 2000 e participou da construção da Resolução CFO 51/2004. Com mais de 25 anos no ensino da sedação inclusiva em Odontologia, coordena a equipe acadêmica e garante o alinhamento entre o conteúdo clínico e a realidade do consultório.</p>
+        <ul class="creds">
+          <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Cofundadora do Grupo Nitro — mais de 25 anos formando dentistas.</li>
+          <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Pioneira na sedação inalatória no Brasil desde 2000.</li>
+          <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Participação na construção da Resolução CFO 51/2004.</li>
+          <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Trajetória dedicada à Cultura de Segurança na Odontologia.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- INFORMAÇÕES DA FORMAÇÃO -->
+<section class="sec-paper2">
+  <div class="inner">
+    <span class="eyebrow">Informações da formação</span>
+    <h2 class="sec-title">Tudo em um <span class="red">quadro só</span>.</h2>
+    <div class="info-table reveal">
+      <div class="row"><div class="k">Curso</div><div class="v"><strong>SAVO — Suporte Avançado de Vida para a Odontologia</strong></div></div>
+      <div class="row"><div class="k">Carga horária</div><div class="v">32 horas</div></div>
+      <div class="row"><div class="k">Modalidade</div><div class="v">Híbrida</div></div>
+      <div class="row"><div class="k">Etapa telepresencial</div><div class="v">16 horas — 4 encontros de 4 horas, ao vivo</div></div>
+      <div class="row"><div class="k">Etapa presencial</div><div class="v">16 horas — 2 dias consecutivos de 8 horas</div></div>
+      <div class="row"><div class="k">Turma</div><div class="v">12 a 20 cirurgiões-dentistas</div></div>
+      <div class="row"><div class="k">Equipe docente (presencial)</div><div class="v">4 professores</div></div>
+      <div class="row"><div class="k">Pré-requisito pedagógico</div><div class="v">SBV vigente, realizado ou atualizado há menos de 2 anos</div></div>
+      <div class="row"><div class="k">Etapa presencial (próxima turma)</div><div class="v"><strong>5 e 6 de dezembro de 2026</strong>, no Rio de Janeiro</div></div>
+      <div class="row"><div class="k">Local da etapa presencial</div><div class="v"><strong>Rio de Janeiro</strong></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- PRECO -->
+<section id="inscricao" class="center">
+  <div class="inner">
+    <span class="eyebrow">Investimento</span>
+    <h2 class="sec-title">Eleve sua competência. Aprofunde a <span class="red">segurança da sua prática</span>.</h2>
+    <div class="preco-card reveal">
+      <div class="preco-head">
+        <div class="tag">SAVO · Suporte Avançado de Vida para a Odontologia</div>
+        <div class="publico">Formação híbrida completa · 32 horas</div>
+        <div class="preco-turma">
+          <span>Primeira turma: <strong>5 e 6 de dezembro de 2026</strong></span>
+          <span><strong>Rio de Janeiro</strong></span>
+        </div>
+      </div>
+      <div class="preco-body">
+        <div class="scarcity"><span>
+          <svg viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/></svg>
+          Turmas de 12 a 20 cirurgiões-dentistas · vagas limitadas
+        </span></div>
+        <div class="preco-valor">
+          <div class="parcelas">12x de <small>R$</small> 247,50</div>
+          <div class="avista">ou <strong>R$ 2.970,00</strong> à vista</div>
+          <div class="obs">Parcelamento em até 12x no cartão de crédito, com juros da operadora.</div>
+        </div>
+        <ul>
+          <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>32 horas completas: 16h ao vivo + 16h presenciais.</li>
+          <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Etapa prática com 4 professores, estações e simulações.</li>
+          <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>E-book, infográficos, checklists, material preparatório e algoritmos.</li>
+          <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Insumos das estações e recursos de simulação inclusos.</li>
+          <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Bônus: RDC Comentada.</li>
+        </ul>
+        <!-- SUBSTITUIR "#" pelo link real de checkout/pagamento -->
+        <a class="btn btn-wine btn-lg btn-preco" href="#">Garantir minha inscrição
+          <svg viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+        <div class="trust">
+          <span class="t"><svg viewBox="0 0 24 24"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>Pagamento seguro</span>
+          <span class="t"><svg viewBox="0 0 24 24"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg>Material incluso</span>
+          <span class="t"><svg viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>Turmas pequenas</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="sec-paper2">
+  <div class="inner">
+    <span class="eyebrow">Perguntas frequentes</span>
+    <h2 class="sec-title">O que você precisa <span class="red">saber</span>.</h2>
+    <div class="faq-grid reveal">
+      <details class="faq-item"><summary>Preciso de conhecimento prévio para fazer o SAVO?</summary><div class="faq-a">Sim. É pré-requisito ter certificação vigente em SBV (Suporte Básico de Vida), realizada ou atualizada há menos de 2 anos, além de graduação em Odontologia e inscrição ativa ou regular no CRO. Não há exigência de tempo mínimo de exercício profissional.</div></details>
+      <details class="faq-item"><summary>O SAVO me habilita a fazer sedação?</summary><div class="faq-a">Não. O SAVO aprofunda competências dentro do campo profissional do cirurgião-dentista, mas não amplia o escopo de atuação nem confere, isoladamente, habilitação em sedação.</div></details>
+      <details class="faq-item"><summary>O curso substitui o SBV ou um ACLS oficial?</summary><div class="faq-a">Não. O certificado SAVO não corresponde automaticamente a uma certificação oficial ACLS e não substitui a certificação própria em Suporte Básico de Vida. Ele é uma formação complementar, com foco na realidade da Odontologia.</div></details>
+      <details class="faq-item"><summary>Por que o SAVO é especialmente indicado para quem faz sedação?</summary><div class="faq-a">Porque a segurança da sedação depende de monitorização, vias aéreas, ventilação e farmacologia de resgate — e de coordenar a resposta quando algo foge do previsto. O curso aprofunda a leitura de capnografia, oximetria e ECG e a decisão em situações que exigem suporte avançado.</div></details>
+      <details class="faq-item"><summary>Como funciona o formato híbrido?</summary><div class="faq-a">São 32 horas: 16 horas telepresenciais ao vivo (4 encontros de 4 horas) seguidas de 16 horas presenciais (2 dias de 8 horas), com estações e simulações conduzidas por 4 professores. Há uma verificação de conhecimento ao final da teoria, antes do início da etapa prática.</div></details>
+      <details class="faq-item"><summary>Como sou avaliado durante o curso?</summary><div class="faq-a">A avaliação acompanha todo o percurso: o Mapa de Decisão (pré-teste diagnóstico), a verificação pré-prática ao término da teoria, a observação durante as estações e uma avaliação prática final em cenário integrado. A certificação depende do cumprimento dos critérios de frequência e aprovação.</div></details>
+      <details class="faq-item"><summary>Quantos alunos por turma?</summary><div class="faq-a">De 12 a 20 cirurgiões-dentistas. A configuração em pequenos grupos permite acompanhar a execução técnica, a tomada de decisão, a comunicação e a liderança durante os exercícios.</div></details>
+      <details class="faq-item"><summary>Como posso pagar?</summary><div class="faq-a">O investimento é de R$ 2.970,00 à vista ou em até 12 parcelas no cartão de crédito, com juros da operadora. Materiais didáticos, insumos das estações e recursos de simulação previstos no programa estão inclusos.</div></details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA FINAL -->
+<section class="cta-final">
+  <div class="hero-grid-overlay"></div>
+  <div class="cta-final-inner">
+    <div class="kicker">SAVO · Suporte Avançado de Vida para a Odontologia</div>
+    <h2>Eleve sua competência técnica. Aprofunde a <span class="lav">segurança da sua prática</span>.</h2>
+    <div class="price">32 horas · formação híbrida · turmas de 12 a 20 cirurgiões-dentistas<br><strong>R$ 2.970,00 à vista</strong> ou em até 12x no cartão, com juros da operadora.</div>
+    <!-- SUBSTITUIR "#" pelo link real de checkout/pagamento -->
+    <a class="btn btn-light btn-lg" href="#">Garantir minha inscrição no SAVO
+      <svg viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+    </a>
+    <div class="legal">Inscrição condicionada ao atendimento dos pré-requisitos acadêmicos e profissionais estabelecidos para o curso. Formação da linha Cultura de Segurança do Grupo Nitro.</div>
+  </div>
+</section>
+
+<!-- STICKY MOBILE CTA -->
+<div class="stickybar">
+  <div class="p"><div class="a">12x R$ 247,50</div><div class="b">ou R$ 2.970 à vista</div></div>
+  <!-- SUBSTITUIR "#inscricao" pelo link real de checkout/pagamento -->
+  <a class="btn btn-wine" href="#inscricao">Inscrever-me</a>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "SAVO — Suporte Avançado de Vida para a Odontologia",
+  "description": "Formação híbrida de 32h, exclusiva para cirurgiões-dentistas, para aprofundar competências em avaliação clínica, monitorização (ECG e capnografia), vias aéreas, farmacologia de urgência, liderança e resposta a situações críticas no ambiente odontológico.",
+  "provider": { "@type": "Organization", "name": "Grupo Nitro", "sameAs": "https://www.instagram.com/gruponitro.sedacao/" },
+  "educationalCredentialAwarded": "Certificado SAVO — 32 horas",
+  "timeRequired": "PT32H",
+  "inLanguage": "pt-BR",
+  "offers": {
+    "@type": "Offer",
+    "price": "2970.00",
+    "priceCurrency": "BRL",
+    "category": "Educação continuada em Odontologia"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "courseMode": "blended",
+    "courseWorkload": "PT32H",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "location": {
+      "@type": "Place",
+      "name": "Rio de Janeiro",
+      "address": { "@type": "PostalAddress", "addressLocality": "Rio de Janeiro", "addressRegion": "RJ", "addressCountry": "BR" }
+    }
+  }
+}
+</script>
+</body>
+</html>
