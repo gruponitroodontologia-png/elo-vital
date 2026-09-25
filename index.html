@@ -206,6 +206,16 @@ section{padding:clamp(52px,6.5vw,96px) 0;}
 .creds{list-style:none;margin-top:22px;display:grid;gap:10px;}
 .creds li{display:flex;gap:12px;align-items:flex-start;font-size:13.5px;font-weight:400;color:#D9D3EC;line-height:1.5;}
 .creds li svg{width:18px;height:18px;fill:none;stroke:var(--lav);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;margin-top:1px;}
+.prof-block{margin-top:44px;padding-top:36px;border-top:1px solid rgba(255,255,255,.14);}
+.prof-lead{font-size:14.5px;font-weight:400;color:#D9D3EC;line-height:1.6;max-width:62ch;margin-top:8px;}
+.prof-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;margin-top:26px;}
+.prof-card{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12);border-radius:18px;padding:22px;display:flex;gap:18px;align-items:flex-start;}
+.prof-foto{width:96px;height:96px;border-radius:14px;flex-shrink:0;background:linear-gradient(140deg,var(--lav),var(--peri) 55%,var(--slate));position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;}
+.prof-foto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+.prof-foto .mono{font-size:2.2rem;font-weight:800;color:rgba(255,255,255,.92);}
+.prof-nome{font-size:16px;font-weight:600;color:#fff;line-height:1.25;}
+.prof-role{font-size:11.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--lav);margin-top:4px;}
+.prof-bio{font-size:13px;font-weight:400;color:#D9D3EC;line-height:1.55;margin-top:10px;opacity:.9;}
 
 /* INFO TABLE */
 .info-table{margin-top:38px;background:var(--white);border:1px solid var(--border);border-radius:18px;overflow:hidden;box-shadow:0 1px 2px rgba(42,37,38,.05);}
@@ -275,7 +285,7 @@ section{padding:clamp(52px,6.5vw,96px) 0;}
 .carla-grid{grid-template-columns:1fr;gap:26px;}.carla-foto{max-width:300px;margin:0 auto;}
 }
 @media(max-width:600px){
-.flist,.nums-grid,.g-2,.g-3,.g-4,.mod-grid,.incluso-grid,.pq-grid,.pillars,.aval,.reqbox{grid-template-columns:1fr;}
+.flist,.nums-grid,.g-2,.g-3,.g-4,.mod-grid,.incluso-grid,.pq-grid,.pillars,.aval,.reqbox,.prof-grid{grid-template-columns:1fr;}
 .info-table .row{grid-template-columns:1fr;gap:4px;}
 .stickybar{display:flex;}body{padding-bottom:76px;}
 }
@@ -628,6 +638,29 @@ section{padding:clamp(52px,6.5vw,96px) 0;}
           <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Participação na construção da Resolução CFO 51/2004.</li>
           <li><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Trajetória dedicada à Cultura de Segurança na Odontologia.</li>
         </ul>
+      </div>
+    </div>
+    <!-- CORPO DOCENTE -->
+    <div class="prof-block reveal">
+      <span class="eyebrow eyebrow-lav">Corpo docente · etapa prática</span>
+      <p class="prof-lead">Os professores que conduzem as estações de habilidades e as simulações da etapa presencial.</p>
+      <div class="prof-grid">
+        <div class="prof-card">
+          <div class="prof-foto"><!-- SUBSTITUIR pela foto do Prof. Alex: assets/prof-alex.jpg (usar <img src=...>) --><span class="mono">A</span></div>
+          <div>
+            <div class="prof-nome">Prof. Alex [sobrenome]</div>
+            <div class="prof-role">Etapa prática · SAVO</div>
+            <p class="prof-bio">[Currículo a definir]</p>
+          </div>
+        </div>
+        <div class="prof-card">
+          <div class="prof-foto"><!-- SUBSTITUIR pela foto da Profª Sandra: assets/prof-sandra.jpg (usar <img src=...>) --><span class="mono">S</span></div>
+          <div>
+            <div class="prof-nome">Profª Sandra [sobrenome]</div>
+            <div class="prof-role">Etapa prática · SAVO</div>
+            <p class="prof-bio">[Currículo a definir]</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
