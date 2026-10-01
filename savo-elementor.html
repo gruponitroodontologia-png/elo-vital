@@ -306,6 +306,24 @@ section{padding:clamp(52px,6.5vw,96px) 0;}
 .wa-float:hover .wa-label,.wa-float:focus-visible .wa-label{max-width:200px;opacity:1;margin-left:10px;}
 @media(max-width:600px){.wa-float{bottom:88px;right:16px;padding:0 12px;}}
 
+/* Formulário de captura de leads */
+.leadform-wrap{max-width:620px;margin:40px auto 0;background:var(--white);border:1px solid var(--border);border-radius:24px;box-shadow:var(--shadow-lg);padding:clamp(24px,4vw,36px);}
+.leadform{display:grid;gap:14px;}
+.lf-row{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+.lf-field{display:flex;flex-direction:column;gap:6px;text-align:left;}
+.lf-field label{font-size:12.5px;font-weight:600;color:var(--ink);}
+.lf-field label .opt{font-weight:400;color:var(--fg3);}
+.lf-field input{font-family:var(--sans);font-size:15px;color:var(--ink);background:var(--paper);border:1.5px solid var(--border);border-radius:12px;padding:13px 15px;transition:border-color .15s var(--ease),box-shadow .15s var(--ease);width:100%;}
+.lf-field input::placeholder{color:var(--gray-500);}
+.lf-field input:focus{outline:none;border-color:var(--lav);box-shadow:0 0 0 3px var(--lav-100);}
+.leadform .btn{width:100%;justify-content:center;margin-top:6px;}
+.lf-msg{font-size:13.5px;line-height:1.5;margin:2px 0 0;min-height:1px;}
+.lf-msg.ok{color:#1E7E34;}
+.lf-msg.err{color:#C0392B;}
+.lf-msg a{color:var(--wine);font-weight:600;text-decoration:underline;}
+.lf-note{font-size:11.5px;color:var(--fg3);margin-top:8px;line-height:1.5;text-align:left;}
+@media(max-width:600px){.lf-row{grid-template-columns:1fr;}}
+
 @media(max-width:900px){
 .nums-grid,.g-4,.aval{grid-template-columns:repeat(2,1fr);}
 .mod-grid,.incluso-grid,.pq-grid,.pillars,.g-3,.reqbox,.team-grid{grid-template-columns:1fr 1fr;}
@@ -847,6 +865,38 @@ section{padding:clamp(52px,6.5vw,96px) 0;}
   </div>
 </section>
 
+<!-- CAPTURA DE LEADS -->
+<section id="contato">
+  <div class="inner center">
+    <span class="eyebrow">Ainda avaliando?</span>
+    <h2 class="sec-title">Ficou interessado? <span class="red">Deixe seu contato.</span></h2>
+    <p class="sec-lead" style="margin-left:auto;margin-right:auto;">Preencha e a nossa equipe fala com você sobre a turma, os pré-requisitos e as formas de pagamento. Sem compromisso.</p>
+    <div class="leadform-wrap reveal">
+      <form class="leadform" id="leadForm" novalidate>
+        <div class="lf-field">
+          <label for="lf-nome">Nome</label>
+          <input id="lf-nome" name="nome" type="text" placeholder="Seu nome completo" required autocomplete="name">
+        </div>
+        <div class="lf-row">
+          <div class="lf-field">
+            <label for="lf-zap">WhatsApp</label>
+            <input id="lf-zap" name="telefone" type="tel" placeholder="(21) 90000-0000" required autocomplete="tel" inputmode="tel">
+          </div>
+          <div class="lf-field">
+            <label for="lf-email">E-mail <span class="opt">(opcional)</span></label>
+            <input id="lf-email" name="email" type="email" placeholder="voce@email.com" autocomplete="email">
+          </div>
+        </div>
+        <button class="btn btn-wine" type="submit" id="lf-submit">Quero que entrem em contato
+          <svg viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
+        <p class="lf-msg" id="lf-msg" role="status" aria-live="polite"></p>
+        <p class="lf-note">Seus dados são usados apenas para contato sobre o SAVO. Não compartilhamos com terceiros.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
 <!-- CTA FINAL -->
 <section class="cta-final">
   <div class="hero-grid-overlay"></div>
@@ -928,5 +978,48 @@ document.documentElement.classList.add('js');
   if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
   var io=new IntersectionObserver(function(en){en.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target);}});},{threshold:.12});
   els.forEach(function(e){io.observe(e);});
+})();
+// Formulário de captura de leads → Supabase (com fallback para WhatsApp)
+(function(){
+  // ===== CONFIGURAÇÃO SUPABASE — preencher com os dados do projeto =====
+  var SUPABASE_URL = "__SUPABASE_URL__";            // ex.: https://xxxxxxxx.supabase.co
+  var SUPABASE_ANON_KEY = "__SUPABASE_ANON_KEY__";  // chave anon public
+  // ====================================================================
+  var WA_NUMBER = "5521935003307";
+  var form = document.getElementById('leadForm');
+  if(!form) return;
+  var msg = document.getElementById('lf-msg');
+  var btn = document.getElementById('lf-submit');
+  function waLink(nome, tel, email){
+    var t = "Olá! Tenho interesse no SAVO.%0ANome: "+encodeURIComponent(nome)+"%0AWhatsApp: "+encodeURIComponent(tel);
+    if(email) t += "%0AE-mail: "+encodeURIComponent(email);
+    return "https://wa.me/"+WA_NUMBER+"?text="+t;
+  }
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    msg.className='lf-msg'; msg.textContent='';
+    var nome=form.nome.value.trim(), tel=form.telefone.value.trim(), email=form.email.value.trim();
+    if(!nome){ msg.className='lf-msg err'; msg.textContent='Por favor, informe seu nome.'; form.nome.focus(); return; }
+    if(tel.replace(/\D/g,'').length < 10){ msg.className='lf-msg err'; msg.textContent='Informe um WhatsApp válido, com DDD.'; form.telefone.focus(); return; }
+    if(email && !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ msg.className='lf-msg err'; msg.textContent='E-mail inválido.'; form.email.focus(); return; }
+    var configured = SUPABASE_URL.indexOf('http')===0 && SUPABASE_ANON_KEY.indexOf('__')!==0;
+    if(!configured){
+      window.open(waLink(nome,tel,email),'_blank','noopener');
+      msg.className='lf-msg ok'; msg.textContent='Abrindo o WhatsApp para você concluir o contato…';
+      return;
+    }
+    btn.disabled=true; var old=btn.innerHTML; btn.textContent='Enviando…';
+    fetch(SUPABASE_URL.replace(/\/+$/,'')+'/rest/v1/leads', {
+      method:'POST',
+      headers:{ 'Content-Type':'application/json', 'apikey':SUPABASE_ANON_KEY, 'Authorization':'Bearer '+SUPABASE_ANON_KEY, 'Prefer':'return=minimal' },
+      body: JSON.stringify({ nome:nome, telefone:tel, email: email||null, origem:'site-savo' })
+    }).then(function(r){
+      if(r.ok){ form.reset(); msg.className='lf-msg ok'; msg.textContent='Contato enviado! Em breve a nossa equipe fala com você.'; }
+      else { throw new Error('status '+r.status); }
+    }).catch(function(){
+      msg.className='lf-msg err';
+      msg.innerHTML='Não foi possível enviar agora. <a href="'+waLink(nome,tel,email)+'" target="_blank" rel="noopener">Fale com a gente no WhatsApp</a>.';
+    }).finally(function(){ btn.disabled=false; btn.innerHTML=old; });
+  });
 })();
 </script>
