@@ -139,7 +139,10 @@ section{padding:clamp(52px,6.5vw,96px) 0;}
 .mod-header{display:flex;align-items:center;gap:14px;margin-bottom:18px;flex-wrap:wrap;}
 .mod-num{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--white);background:var(--wine);padding:7px 13px;border-radius:var(--r-pill);}
 .mod-ch{font-size:12px;font-weight:600;color:var(--wine);background:var(--wine-50);padding:6px 13px;border-radius:var(--r-pill);margin-left:auto;}
-.mod-card h3{font-size:16.5px;font-weight:600;line-height:1.3;letter-spacing:-.01em;margin-bottom:14px;}
+.mod-card h3{font-size:16.5px;font-weight:600;line-height:1.3;letter-spacing:-.01em;margin-bottom:8px;}
+.mod-prof{display:inline-flex;align-items:center;gap:7px;font-size:12px;font-weight:600;color:var(--wine);background:var(--wine-50);border:1px solid var(--wine-100);padding:5px 11px;border-radius:var(--r-pill);margin-bottom:14px;}
+.mod-prof::before{content:'';width:6px;height:6px;border-radius:50%;background:var(--wine);flex-shrink:0;}
+.mod-card.wide .mod-prof{background:rgba(105,13,14,.08);}
 .mod-body{list-style:none;}
 .mod-body li{font-size:13.5px;font-weight:400;color:var(--fg2);line-height:1.5;padding:6px 0 6px 18px;position:relative;}
 .mod-body li::before{content:'';position:absolute;left:0;top:13px;width:6px;height:6px;border-radius:50%;background:var(--red);}
@@ -480,43 +483,49 @@ section{padding:clamp(52px,6.5vw,96px) 0;}
     <span class="eyebrow">O programa SAVO</span>
     <h2 class="sec-title">4 módulos ao vivo e uma <span class="red">imersão prática</span> de 16 horas.</h2>
     <p class="sec-lead">A etapa telepresencial estrutura os fundamentos jurídicos, clínicos e técnicos. Ao término da teoria, há uma verificação de conhecimento antes da progressão para o presencial.</p>
+    <p class="sec-lead">Encontros telepresenciais de <strong>28/11 a 02/12 de 2026</strong> e imersão presencial em <strong>5 e 6 de dezembro</strong>, no Rio de Janeiro.</p>
     <div class="mod-grid reveal">
       <div class="mod-card">
-        <div class="mod-header"><span class="mod-num">Módulo 01</span><span class="mod-ch">4h</span></div>
+        <div class="mod-header"><span class="mod-num">Módulo 01</span><span class="mod-ch">Sáb · 28/11 · 14h–18h</span></div>
+        <h3>Monitorização: ECG, Capnografia, Oximetria e Ausculta</h3>
+        <div class="mod-prof">Prof.ª Sandra Chicharo</div>
+        <ul class="mod-body">
+          <li>A monitorização como prevenção: registros e alarmes.</li>
+          <li>Capnografia: curva, padrões na sedação e alerta precoce de hipoventilação e obstrução.</li>
+          <li>Fundamentos do ECG para monitorização e reconhecimento dos principais ritmos críticos, integrados ao DEA.</li>
+          <li>Oxigenação e algoritmo de via aérea: manobras, cânulas, bolsa-válvula-máscara e manejo do laringoespasmo.</li>
+          <li>Ausculta cardíaca e pulmonar: anatomia, focos e semiogênese dos sons.</li>
+        </ul>
+      </div>
+      <div class="mod-card">
+        <div class="mod-header"><span class="mod-num">Módulo 02</span><span class="mod-ch">Seg · 30/11 · 18h–22h</span></div>
         <h3>Fundamentação Jurídica, Cultura de Segurança e Responsabilidade Profissional</h3>
+        <div class="mod-prof">Prof.ªs Carla Gamba e Danielle Coelho</div>
         <ul class="mod-body">
           <li>Competência, dever de cuidado e dever de prestar socorro; imperícia, imprudência e negligência.</li>
           <li>Responsabilidades civil, ética, administrativa e penal; limites profissionais; consentimento.</li>
           <li>Segurança do paciente, gerenciamento de riscos e Plano de Segurança do Paciente.</li>
           <li>Protocolos, checklists, suporte externo e transferência.</li>
-          <li>Normas pertinentes: RDC Anvisa nº 1.002/2025 e Resolução CFO nº 295/2026.</li>
+          <li>Normas: RDC Anvisa nº 1.002/2025 e Resolução CFO nº 295/2026.</li>
         </ul>
       </div>
       <div class="mod-card">
-        <div class="mod-header"><span class="mod-num">Módulo 02</span><span class="mod-ch">4h</span></div>
+        <div class="mod-header"><span class="mod-num">Módulo 03</span><span class="mod-ch">Ter · 01/12 · 18h–22h</span></div>
         <h3>Avaliação Clínica, Prevenção de Emergências e Populações Especiais</h3>
+        <div class="mod-prof">Prof.ªs Carla Gamba e Danielle Coelho</div>
         <ul class="mod-body">
           <li>Prevenção em três tempos: antes, durante e depois do atendimento.</li>
           <li>Anamnese orientada ao risco e medicamentos em uso: anticoagulantes, anti-hipertensivos, hipoglicemiantes, agonistas de GLP-1 e inibidores de PDE5.</li>
           <li>Sinais vitais, exame físico dirigido, classificação ASA e avaliação da via aérea; decisão entre tratar, otimizar, adiar ou encaminhar.</li>
           <li>Protocolos de prevenção: controle da ansiedade, anestesia local segura e prevenção da LAST e da aspiração de corpo estranho.</li>
-          <li>Populações especiais: crianças, PNE, idosos frágeis, gestantes, cardiopatas, asmáticos, diabéticos e epilépticos.</li>
+          <li>Populações especiais, estratificação e processos no SAVO: crianças, PNE, idosos frágeis, gestantes, cardiopatas, asmáticos, diabéticos e epilépticos.</li>
+          <li>Populações especiais — o que é possível? Sinais vitais, exame físico e avaliação da via aérea; decisão entre tratar, otimizar, adiar ou encaminhar.</li>
         </ul>
       </div>
       <div class="mod-card">
-        <div class="mod-header"><span class="mod-num">Módulo 03</span><span class="mod-ch">4h</span></div>
-        <h3>Monitorização, Capnografia e Vias Aéreas</h3>
-        <ul class="mod-body">
-          <li>A monitorização como prevenção: oximetria, alarmes e registro.</li>
-          <li>Capnografia: curva, padrões na sedação e alerta precoce de hipoventilação e obstrução.</li>
-          <li>Fundamentos do ECG para monitorização e reconhecimento de ritmos críticos, integrados ao DEA.</li>
-          <li>Oxigenação e algoritmo de via aérea: manobras, cânulas, bolsa-válvula-máscara e manejo do laringoespasmo.</li>
-          <li>Dispositivos supraglóticos como resgate ventilatório quando a ventilação com bolsa-válvula-máscara é insuficiente.</li>
-        </ul>
-      </div>
-      <div class="mod-card">
-        <div class="mod-header"><span class="mod-num">Módulo 04</span><span class="mod-ch">4h</span></div>
+        <div class="mod-header"><span class="mod-num">Módulo 04</span><span class="mod-ch">Qua · 02/12 · 18h–22h</span></div>
         <h3>Farmacologia das Intercorrências, Liderança de Equipe e Resposta à Emergência</h3>
+        <div class="mod-prof">Prof.ª Carla Gamba</div>
         <ul class="mod-body">
           <li>Princípios da farmacologia de emergência: vias de administração, cálculo por peso, prevenção de erro de medicação e kit escalonado.</li>
           <li>Intercorrências cardiovasculares, respiratórias e alérgicas: síncope, crise hipertensiva, angina, bradicardia, broncoespasmo e anafilaxia.</li>
@@ -526,14 +535,14 @@ section{padding:clamp(52px,6.5vw,96px) 0;}
         </ul>
       </div>
       <div class="mod-card wide">
-        <div class="mod-header"><span class="mod-num">Etapa Presencial</span><span class="mod-ch">16h · 2 dias · 4 professores</span></div>
+        <div class="mod-header"><span class="mod-num">Etapa Presencial</span><span class="mod-ch">5 e 6/12 · Sáb e Dom · 9h–19h · 4 professores</span></div>
         <h3>Estações de habilidades e simulações integradas em pequenos grupos</h3>
         <ul class="mod-body">
           <li>Avaliação ABCDE, ausculta cardíaca e pulmonar e reconhecimento da deterioração.</li>
           <li>RCP de alta qualidade, DEA, oxigenoterapia, aspiração e ventilação com bolsa-válvula-máscara.</li>
           <li>Escalonamento das vias aéreas com cânulas e dispositivos supraglóticos em simulador.</li>
           <li>Monitorização com ECG, oximetria e capnografia; reconhecimento de ritmos críticos.</li>
-          <li>Acesso venoso periférico, fluidoterapia e medicamentos de urgência, reversão e resgate.</li>
+          <li>Acesso venoso periférico, anatomia, fluidoterapia e medicamentos de urgência, reversão e resgate.</li>
           <li>Emergências em adultos, crianças e pacientes com necessidades especiais.</li>
           <li>Liderança da equipe, suporte externo, estabilização, transferência e documentação.</li>
           <li>Debriefing e revisão do Plano de Segurança do Paciente.</li>
