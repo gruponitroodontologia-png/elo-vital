@@ -125,7 +125,12 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   imagens); citações entram como **legenda**, não precisam ser faladas.
 
 ## Plano Odisseia e frentes ligadas
-- **Plano Odisseia 2026–2031** (Claude Docs, artifact
+- **Pasta `odisseia/`** (desde 03/11/2026) é a **versão oficial** do plano e
+  das frentes; `odisseia/README.md` tem o índice e o passo a passo. Toda
+  decisão nova entra nos arquivos da pasta, com data. O Claude Docs fica para
+  o que a equipe edita junto (tabela dos podcasts).
+- **Plano Odisseia 2026–2031** (`odisseia/plano-odisseia-2026-2031.md`;
+  original no Claude Docs, artifact
   `541226f7-17b2-40cf-8c49-10b8604495e2`): meta R$ 100 mil/mês em out/2031;
   8 h semanais protegidas; Teste do ikigai (3 perguntas) para toda ideia nova;
   no máximo 3 prioridades por trimestre; revisão trimestral na S10 (14–18/12).
@@ -136,7 +141,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   (anestesia médica × sedação). Odontologia sem Medo descartado (sem entrevistas).
 - **Permanecer no Cuidado** (método de longevidade clínica da mulher
   cirurgiã-dentista 50+; pasta no Drive). Revisão e proposta de integração ao
-  Odisseia em `odisseia/permanecer-no-cuidado.md`. A tabela de referências do
+  Odisseia em `odisseia/permanecer-no-cuidado/` (revisão, manifesto e keynote revisados). A tabela de referências do
   dossiê original tem números errados: usar só a versão conferida.
 
 ## Pendências / próximos passos
