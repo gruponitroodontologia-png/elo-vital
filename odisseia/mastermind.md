@@ -20,10 +20,10 @@
 
 | Data | Lembrete |
 | --- | --- |
-| Hoje, 03/11 | Enviar os 7 convites (feito junto com o Claude) |
-| Sex 06/11, 9h | Ver quem respondeu e anotar quem confirmou |
-| Qui 12/11, 9h | Retomar quem não respondeu, antes da viagem |
-| Sáb 14/11, 10h | Com 5 ou mais confirmações, enviar o convite do Google Agenda (link do Meet já criado); com menos, escolher nova data |
+| **Seg 09/11, 9h** | **Enviar os 7 convites** (lua nova, escolha da Carla) |
+| Qua 11/11, 9h | Ver quem respondeu e anotar quem confirmou |
+| Sex 13/11, 9h | Retomar quem não respondeu, antes da viagem |
+| Seg 16/11, 9h | Com 5 ou mais confirmações, enviar o convite do Google Agenda (link do Meet já criado); com menos, escolher nova data |
 | Seg 07/12, 9h | Lembrete aos conselheiros, 1 semana antes |
 | Sex 11/12, 9h | Enviar a página-resumo e a pergunta da 1ª reunião |
 | **Seg 14/12, 20h–21h** | **1ª reunião, todos juntos** (Google Meet: meet.google.com/yac-fheu-zyx) |
@@ -32,7 +32,7 @@
 
 | Reunião | Semana | Observação |
 | --- | --- | --- |
-| Convites | Até 07/11 | Os 7 convites, antes da viagem, para dar tempo de responderem |
+| Convites | Seg 09/11 (lua nova) | Os 7 convites, antes da viagem, para dar tempo de responderem |
 | 1ª | **Seg 14/12, 20h–21h** | Data única, todos juntos (decisão da Carla, 03/11/2026), na semana da revisão trimestral (S10). Combinar ali o dia fixo mensal |
 | 2ª | Janeiro (dia fixo a combinar) | Depois do recesso de 21/12 a 03/01 |
 | 3ª | Fevereiro (dia fixo a combinar) | Evitar a semana do Carnaval (08–12/02) |
@@ -67,6 +67,9 @@ interesse comercial em sedação.
   funciona com franqueza.
 
 ## Carta-convite (versão completa, 03/11/2026)
+
+Versão pronta para copiar, uma carta por pessoa, no Google Docs:
+https://docs.google.com/document/d/10o6P5KlZdkxBNTHkTYGNIFchbUz89Q-tox8ReQyDe_8/edit
 
 Uma parte comum a todos, aberta por uma linha pessoal. Duração: **6
 encontros mensais, de dezembro/2026 a maio/2027**, com uma conversa no 3º
@@ -108,4 +111,4 @@ mais 6 meses, até completar o primeiro ano do Odisseia.
 
 ## Pendências
 
-- [ ] Enviar os 7 convites até 07/11
+- [ ] Enviar os 7 convites na segunda, 09/11

@@ -34,12 +34,12 @@ data e motivo, e nada se perde.
 - [x] 03/11 — Mastermind definido (7 pessoas); 1ª reunião marcada para seg 14/12, 20h, todos juntos
 
 ### Agora (semana 4, 03 a 07/11)
-- [ ] Carla envia os 7 convites do mastermind (textos em mastermind.md)
 - [ ] Carla lê o manifesto e a keynote revisados e aprova ou ajusta
 - [ ] Carla comenta no post de estreia do Entre Nós pelo perfil pessoal
 - [ ] Equipe confere seguidores e última publicação dos podcasts de prioridade 1
 
 ### Antes da viagem (até 16/11)
+- [ ] Seg 09/11 (lua nova): Carla envia os 7 convites do mastermind ([carta no Google Docs](https://docs.google.com/document/d/10o6P5KlZdkxBNTHkTYGNIFchbUz89Q-tox8ReQyDe_8/edit))
 - [ ] Equipe envia o direct ao Entre Nós e aos primeiros 5 podcasts
 - [ ] Media kit da S5 (09–13/11), que também serve para os podcasts
 
