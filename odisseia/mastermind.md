@@ -72,6 +72,35 @@ sobre por que aquela pessoa foi escolhida.
 **Danielle Coelho**
 > Dani, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia. Além do nosso trabalho juntas, quero você num papel diferente: no conselho que vai me acompanhar mês a mês, para questionar o plano com o olhar jurídico, e não para executar. Seria uma hora por mês, nos próximos seis meses. Topa? Se sim, te mando duas datas.
 
+## Como estimular a participação
+
+**No convite**
+- Prazo fechado: 6 encontros de 1 hora, com revisão no 3º. Compromisso pequeno e com fim definido é mais fácil de aceitar.
+- Dizer por que aquela pessoa foi escolhida (já está em cada convite).
+- Duas opções de data, nunca "quando você puder".
+
+**Na reunião (60 minutos)**
+- 10 min: a Carla apresenta números e bloqueios, enviados 48 h antes numa página só.
+- 35 min: uma pergunta difícil por encontro, escolhida pela Carla ("Qual destes 3 caminhos você cortaria?").
+- 10 min: cada conselheiro traz um desafio próprio, que o grupo ajuda a pensar.
+- 5 min: a Carla anuncia o compromisso do mês.
+- Começar e terminar no horário. Online, câmera aberta.
+
+**Entre as reuniões**
+- Até 48 h depois: mensagem curta com o que mudou por causa do conselho ("Rodolfo, segui sua sugestão e…"). Quem vê o efeito do próprio conselho volta.
+- Nenhuma tarefa para os conselheiros.
+
+**Contrapartida (o que eles ganham)**
+- Espaço para os próprios desafios (os 10 min de cada reunião).
+- Convivência com perfis que eles não encontram no dia a dia.
+- Reconhecimento público, se quiserem: agradecimento no livro e nos eventos.
+- Convite de honra para eventos do Nitro, como cortesia, sem venda.
+
+**Regras combinadas no 1º encontro**
+- Sigilo sobre o que for dito.
+- Franqueza: discordar é o papel de cada um.
+- Quem não puder ir avisa e manda uma pergunta por escrito.
+
 ## Pendências
 
 - [ ] Sobrenome e cargo da Lucia
