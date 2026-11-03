@@ -13,6 +13,7 @@
 | Alessandra Camargo | Regulação e políticas | Sim | | |
 | Lucia | Saúde pública | Sim | | |
 | Danielle Coelho | Jurídico em saúde | Sim | | |
+| *A definir* | Medicina (olhar de fora da odontologia) | Não | | |
 
 ## Calendário (ajustado em 03/11/2026 por causa da viagem a Orlando)
 
@@ -26,6 +27,21 @@
 
 Em cada reunião, a Carla apresenta os números da semana e os bloqueios do
 mês, e sai com **um compromisso público** (seção 8 do plano).
+
+## Sexta cadeira: um médico (pedido da Carla em 03/11/2026)
+
+Alguém da saúde que não seja dentista, com olhar fora da caixinha. Com ele,
+o conselho chega a 6, o máximo previsto no plano. Perfis que mais somam:
+
+| Perfil | O que traz ao Odisseia |
+| --- | --- |
+| Médico de qualidade e segurança do paciente (gestão hospitalar, acreditação) | Linguagem das instituições: abre a frente corporativa do Ano 2 |
+| Intensivista ou emergencista | Vivência real de resgate, coerente com "quem ensina é quem pratica o resgate"; olhar crítico sobre o SAVO |
+| Anestesiologista aliado | Ponte com o debate "anestesia médica × sedação"; transforma a tensão em diálogo |
+| Geriatra ou médico de família | Longevidade, envelhecimento e cuidado integral; dialoga com o Permanecer no Cuidado e com a inclusão |
+
+Critério principal: alguém que **discorde com respeito** e que não tenha
+interesse comercial em sedação.
 
 ## Dois cuidados
 
@@ -59,5 +75,6 @@ sobre por que aquela pessoa foi escolhida.
 ## Pendências
 
 - [ ] Sobrenome e cargo da Lucia
+- [ ] Escolher o médico da sexta cadeira
 - [ ] Enviar os 5 convites até 07/11
 - [ ] Definir duas opções de data na S9 (07–11/12) para quem aceitar
