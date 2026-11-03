@@ -66,64 +66,45 @@ interesse comercial em sedação.
   conselho o papel dele é discordar quando achar necessário. O mastermind só
   funciona com franqueza.
 
-## Convites (WhatsApp)
+## Carta-convite (versão completa, 03/11/2026)
 
-A base é a mensagem da seção 7.1 do plano. Cada convite abre com uma linha
-sobre por que aquela pessoa foi escolhida.
+Uma parte comum a todos, aberta por uma linha pessoal. Duração: **6
+encontros mensais, de dezembro/2026 a maio/2027**, com uma conversa no 3º
+encontro para avaliar juntos se o conselho segue. Se funcionar, renova-se por
+mais 6 meses, até completar o primeiro ano do Odisseia.
 
-**Rodolfo Paiva**
-> Rodolfo, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório às grandes instituições. Quero no meu conselho alguém que olhe para o negócio de fora da odontologia, sem os vícios da área, e pensei em você. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntos. A riqueza está na troca, por isso quero todos juntos: a primeira conversa será online na segunda, 14/12, às 20h. Topa? Posso reservar na sua agenda?
+### Linhas pessoais (abrem a carta)
 
-**Gamba Jr**
-> Jr, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia. Quero montar um pequeno conselho que me acompanhe mês a mês, e preciso de alguém de comunicação e marketing que me diga com franqueza o que funciona e o que não funciona, inclusive quando eu não quiser ouvir. Seria uma hora por mês, nos próximos seis meses. A riqueza está na troca, por isso quero todos juntos: a primeira conversa será online na segunda, 14/12, às 20h. Topa? Posso reservar na sua agenda?
+| Pessoa | Linha de abertura |
+| --- | --- |
+| Rodolfo Paiva | Rodolfo, quero no meu conselho alguém que olhe para o negócio de fora da odontologia, sem os vícios da área, e pensei em você. |
+| Gamba Jr | Jr, preciso de alguém de comunicação e marketing que me diga com franqueza o que funciona e o que não funciona, inclusive quando eu não quiser ouvir. |
+| Ana Jacqueline | Ana, quero um olhar médico de fora da odontologia, e o seu é raro: a clínica, a nefrologia, que conhece de perto o paciente complexo, e a acupuntura, que pensa o cuidado de forma integral. |
+| Alessandra Camargo | Alessandra, com a CFO 295 e a RDC 1002 em implantação, quero por perto alguém que enxergue a regulação com a sua profundidade. |
+| Luciana Seves | Luciana, boa parte deste projeto é ensinar e comunicar saúde de um jeito que transforme a prática, e quero o seu olhar de educação e comunicação em saúde. |
+| Lucia Sperb | Lucia, uma das frentes é levar o atendimento seguro a quem hoje espera na fila do centro cirúrgico, e quero o olhar da saúde pública desde o começo. |
+| Danielle Coelho | Dani, além do nosso trabalho juntas, quero você num papel diferente: questionar o plano com o olhar jurídico, e não executá-lo. |
 
-**Alessandra Camargo**
-> Alessandra, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório às grandes instituições. Com a CFO 295 e a RDC 1002 em implantação, quero por perto alguém que enxergue a regulação com a sua profundidade. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. A riqueza está na troca, por isso quero todos juntos: a primeira conversa será online na segunda, 14/12, às 20h. Topa? Posso reservar na sua agenda?
+### Texto comum
 
-**Luciana Seves**
-> Luciana, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório às universidades e aos serviços públicos. Boa parte dele é ensinar e comunicar saúde de um jeito que transforme a prática, e quero por perto o seu olhar de educação e comunicação em saúde. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. A riqueza está na troca, por isso quero todos juntos: a primeira conversa será online na segunda, 14/12, às 20h. Topa? Posso reservar na sua agenda?
-
-**Lucia Sperb**
-> Lucia, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório aos serviços públicos. Uma das frentes é levar o atendimento seguro a quem hoje espera na fila do centro cirúrgico, e quero o olhar da saúde pública desde o começo. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. A riqueza está na troca, por isso quero todos juntos: a primeira conversa será online na segunda, 14/12, às 20h. Topa? Posso reservar na sua agenda?
-
-**Danielle Coelho**
-> Dani, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia. Além do nosso trabalho juntas, quero você num papel diferente: no conselho que vai me acompanhar mês a mês, para questionar o plano com o olhar jurídico, e não para executar. Seria uma hora por mês, nos próximos seis meses. A riqueza está na troca, por isso quero todos juntos: a primeira conversa será online na segunda, 14/12, às 20h. Topa? Posso reservar na sua agenda?
-
-## Como estimular a participação
-
-**No convite**
-- Prazo fechado: 6 encontros de 1 hora, com revisão no 3º. Compromisso pequeno e com fim definido é mais fácil de aceitar.
-- Dizer por que aquela pessoa foi escolhida (já está em cada convite).
-- Duas opções de data, nunca "quando você puder".
-
-**Presença:** a riqueza do conselho está na troca e na diversidade, por isso
-as reuniões acontecem com todos juntos, numa data única por mês, combinada
-com antecedência. Quem não puder ir manda uma pergunta por escrito.
-
-**Na reunião (60 minutos)**
-- 10 min: a Carla apresenta números e bloqueios, enviados 48 h antes numa página só.
-- 35 min: uma pergunta difícil por encontro, escolhida pela Carla ("Qual destes 3 caminhos você cortaria?").
-- 10 min: dois conselheiros por reunião, em rodízio, trazem um desafio próprio, que o grupo ajuda a pensar.
-- 5 min: a Carla anuncia o compromisso do mês.
-- Começar e terminar no horário. Online, câmera aberta.
-
-**Entre as reuniões**
-- Até 48 h depois: mensagem curta com o que mudou por causa do conselho ("Rodolfo, segui sua sugestão e…"). Quem vê o efeito do próprio conselho volta.
-- Nenhuma tarefa para os conselheiros.
-
-**Contrapartida (o que eles ganham)**
-- Espaço para os próprios desafios (os 10 min de cada reunião).
-- Convivência com perfis que eles não encontram no dia a dia.
-- Reconhecimento público, se quiserem: agradecimento no livro e nos eventos.
-- Convite de honra para eventos do Nitro, como cortesia, sem venda.
-
-**Regras combinadas no 1º encontro**
-- Sigilo sobre o que for dito.
-- Franqueza: discordar é o papel de cada um.
-- Quem não puder ir avisa e manda uma pergunta por escrito.
-
-**Ana Jacqueline**
-> Ana, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório às grandes instituições. Quero no meu conselho um olhar médico de fora da odontologia, e o seu é raro: a clínica, a nefrologia, que conhece de perto o paciente complexo, e a acupuntura, que pensa o cuidado de forma integral. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. A riqueza está na troca, por isso quero todos juntos: a primeira conversa será online na segunda, 14/12, às 20h. Topa? Posso reservar na sua agenda?
+> [linha pessoal]
+>
+> **O projeto.** Estou começando o Plano Odisseia, um plano de cinco anos, de 2026 a 2031, com um propósito: tornar a segurança e a inclusão padrão na Odontologia brasileira, do consultório às redes de clínicas, universidades e serviços públicos. Ele parte do que já construí em mais de 25 anos de Grupo Nitro e da participação na construção das normas que hoje regem a área.
+>
+> **Por que um conselho.** Um plano deste tamanho não se constrói sozinha. Quero ao meu lado pessoas que enxerguem o que eu não enxergo, vindas de áreas diferentes: gestão, comunicação, medicina, regulação, educação, saúde pública e direito.
+>
+> **O que é um mastermind.** É o nome que Napoleon Hill deu, em 1937, a um pequeno grupo que se reúne com regularidade para pensar junto, desafiar e apoiar. Não é equipe nem consultoria: ninguém executa tarefas. É um conselho de pares, e a riqueza está na troca e na diversidade.
+>
+> **Como.** Uma vez por mês, uma hora, online e todos juntos. Antes de cada encontro, envio um resumo de uma página. Na reunião, apresento os números e os desafios do mês e discutimos uma pergunta central. A cada encontro, dois conselheiros também trazem um desafio próprio para o grupo pensar. O que é dito ali fica ali.
+>
+> **Quando.** Seis encontros, de dezembro de 2026 a maio de 2027, com uma conversa no terceiro para avaliarmos juntos se seguimos. O primeiro será na segunda-feira, 14/12, às 20h. As datas seguintes combinamos juntos nesse dia.
+>
+> **O que peço.** Uma hora por mês e a sua franqueza. Discordar faz parte.
+>
+> Topa? Se sim, já reservo na sua agenda e te envio o link.
+>
+> Com admiração,
+> Carla
 
 ## Pendências
 
