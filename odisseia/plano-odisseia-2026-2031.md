@@ -289,8 +289,9 @@ O conselho deve ter de 4 a 6 pessoas com competências complementares: regulaç�
 | Regulação e políticas | Alessandra Camargo | Sim |
 | Educação, saúde e comunicação | Luciana Seves | Sim |
 | Jurídico em saúde | Danielle Coelho | Sim |
+| Medicina (nefrologia, clínica geral e acupuntura) | Ana Jacqueline | Não |
 
-Cinco pessoas, dentro da faixa de 4 a 6, com todas as competências cobertas e dois pares de fora da odontologia. Convites personalizados em `odisseia/mastermind.md`.
+Seis pessoas, o máximo previsto, com três pares de fora da odontologia. Saúde pública ficou sem titular: cobrir com convidados pontuais quando a pauta for secretarias e instituições de PCD. Convites personalizados em `odisseia/mastermind.md`.
 
 ### 7.2 Roteiro de reunião corporativa em 3 blocos (S4 em diante)
 

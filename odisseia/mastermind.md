@@ -13,13 +13,13 @@
 | Alessandra Camargo | Regulação e políticas | Sim | | |
 | Luciana Seves | Educação, saúde e comunicação | Sim | | |
 | Danielle Coelho | Jurídico em saúde | Sim | | |
-| *A definir* | Medicina (olhar de fora da odontologia) | Não | | |
+| Ana Jacqueline | Medicina: nefrologia, clínica geral e acupuntura | Não | | |
 
 ## Calendário (ajustado em 03/11/2026 por causa da viagem a Orlando)
 
 | Reunião | Semana | Observação |
 | --- | --- | --- |
-| Convites | Até 07/11 | Antes da viagem, para dar tempo de responderem |
+| Convites | Até 07/11 | Os 6 convites, antes da viagem, para dar tempo de responderem |
 | 1ª | S9 · 07–11/12 | Depois da Turma 1 do SAVO (presencial em 5 e 6/12) |
 | 2ª | S13 · 18–22/01 | Depois do recesso de 21/12 a 03/01 |
 | 3ª | S17 · 15–19/02 | |
@@ -28,7 +28,7 @@
 Em cada reunião, a Carla apresenta os números da semana e os bloqueios do
 mês, e sai com **um compromisso público** (seção 8 do plano).
 
-## Sexta cadeira: um médico (pedido da Carla em 03/11/2026)
+## Sexta cadeira: um médico (pedido da Carla; escolhida em 03/11/2026: Ana Jacqueline)
 
 Alguém da saúde que não seja dentista, com olhar fora da caixinha. Com ele,
 o conselho chega a 6, o máximo previsto no plano. Perfis que mais somam:
@@ -101,8 +101,10 @@ sobre por que aquela pessoa foi escolhida.
 - Franqueza: discordar é o papel de cada um.
 - Quem não puder ir avisa e manda uma pergunta por escrito.
 
+**Ana Jacqueline**
+> Ana, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório às grandes instituições. Quero no meu conselho um olhar médico de fora da odontologia, e o seu é raro: a clínica, a nefrologia, que conhece de perto o paciente complexo, e a acupuntura, que pensa o cuidado de forma integral. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. Topa? Se sim, te mando duas datas.
+
 ## Pendências
 
-- [ ] Escolher o médico da sexta cadeira
-- [ ] Enviar os 5 convites até 07/11
+- [ ] Enviar os 6 convites até 07/11
 - [ ] Definir duas opções de data na S9 (07–11/12) para quem aceitar
