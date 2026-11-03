@@ -31,10 +31,10 @@ data e motivo, e nada se perde.
 - [x] 03/11 — Plano Odisseia trazido do Claude Docs para esta pasta
 - [x] 03/11 — Frente Podcasts montada (mensagens, lista, acompanhamento)
 - [x] 03/11 — Permanecer no Cuidado revisado; manifesto e keynote corrigidos
-- [x] 03/11 — Mastermind definido (6 pessoas); 1ª reunião remarcada para 07–11/12
+- [x] 03/11 — Mastermind definido (7 pessoas); 1ª reunião remarcada para 07–11/12
 
 ### Agora (semana 4, 03 a 07/11)
-- [ ] Carla envia os 6 convites do mastermind (textos em mastermind.md)
+- [ ] Carla envia os 7 convites do mastermind (textos em mastermind.md)
 - [ ] Carla lê o manifesto e a keynote revisados e aprova ou ajusta
 - [ ] Carla comenta no post de estreia do Entre Nós pelo perfil pessoal
 - [ ] Equipe confere seguidores e última publicação dos podcasts de prioridade 1

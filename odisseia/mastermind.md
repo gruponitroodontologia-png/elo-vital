@@ -12,6 +12,7 @@
 | Gamba Jr | Comunicação e marketing | Não | | |
 | Alessandra Camargo | Regulação e políticas | Sim | | |
 | Luciana Seves | Educação, saúde e comunicação | Sim | | |
+| Lucia Sperb | Saúde pública | Sim | | |
 | Danielle Coelho | Jurídico em saúde | Sim | | |
 | Ana Jacqueline | Medicina: nefrologia, clínica geral e acupuntura | Não | | |
 
@@ -19,7 +20,7 @@
 
 | Reunião | Semana | Observação |
 | --- | --- | --- |
-| Convites | Até 07/11 | Os 6 convites, antes da viagem, para dar tempo de responderem |
+| Convites | Até 07/11 | Os 7 convites, antes da viagem, para dar tempo de responderem |
 | 1ª | S9 · 07–11/12 | Depois da Turma 1 do SAVO (presencial em 5 e 6/12) |
 | 2ª | S13 · 18–22/01 | Depois do recesso de 21/12 a 03/01 |
 | 3ª | S17 · 15–19/02 | |
@@ -30,8 +31,9 @@ mês, e sai com **um compromisso público** (seção 8 do plano).
 
 ## Sexta cadeira: um médico (pedido da Carla; escolhida em 03/11/2026: Ana Jacqueline)
 
-Alguém da saúde que não seja dentista, com olhar fora da caixinha. Com ele,
-o conselho chega a 6, o máximo previsto no plano. Perfis que mais somam:
+Alguém da saúde que não seja dentista, com olhar fora da caixinha. Com ela e a Lucia Sperb, o conselho chega a 7 (ajuste de 03/11/2026: o
+plano previa até 6; os desafios dos conselheiros passam a ser em rodízio para
+caber em 1 hora). Perfis que mais somam:
 
 | Perfil | O que traz ao Odisseia |
 | --- | --- |
@@ -69,6 +71,9 @@ sobre por que aquela pessoa foi escolhida.
 **Luciana Seves**
 > Luciana, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório às universidades e aos serviços públicos. Boa parte dele é ensinar e comunicar saúde de um jeito que transforme a prática, e quero por perto o seu olhar de educação e comunicação em saúde. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. Topa? Se sim, te mando duas datas.
 
+**Lucia Sperb**
+> Lucia, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório aos serviços públicos. Uma das frentes é levar o atendimento seguro a quem hoje espera na fila do centro cirúrgico, e quero o olhar da saúde pública desde o começo. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. Topa? Se sim, te mando duas datas.
+
 **Danielle Coelho**
 > Dani, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia. Além do nosso trabalho juntas, quero você num papel diferente: no conselho que vai me acompanhar mês a mês, para questionar o plano com o olhar jurídico, e não para executar. Seria uma hora por mês, nos próximos seis meses. Topa? Se sim, te mando duas datas.
 
@@ -82,7 +87,7 @@ sobre por que aquela pessoa foi escolhida.
 **Na reunião (60 minutos)**
 - 10 min: a Carla apresenta números e bloqueios, enviados 48 h antes numa página só.
 - 35 min: uma pergunta difícil por encontro, escolhida pela Carla ("Qual destes 3 caminhos você cortaria?").
-- 10 min: cada conselheiro traz um desafio próprio, que o grupo ajuda a pensar.
+- 10 min: dois conselheiros por reunião, em rodízio, trazem um desafio próprio, que o grupo ajuda a pensar.
 - 5 min: a Carla anuncia o compromisso do mês.
 - Começar e terminar no horário. Online, câmera aberta.
 
@@ -106,5 +111,5 @@ sobre por que aquela pessoa foi escolhida.
 
 ## Pendências
 
-- [ ] Enviar os 6 convites até 07/11
+- [ ] Enviar os 7 convites até 07/11
 - [ ] Definir duas opções de data na S9 (07–11/12) para quem aceitar

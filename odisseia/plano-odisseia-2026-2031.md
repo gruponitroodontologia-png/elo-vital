@@ -288,10 +288,11 @@ O conselho deve ter de 4 a 6 pessoas com competências complementares: regulaç�
 | Comunicação e marketing | Gamba Jr | Não |
 | Regulação e políticas | Alessandra Camargo | Sim |
 | Educação, saúde e comunicação | Luciana Seves | Sim |
+| Saúde pública | Lucia Sperb | Sim |
 | Jurídico em saúde | Danielle Coelho | Sim |
 | Medicina (nefrologia, clínica geral e acupuntura) | Ana Jacqueline | Não |
 
-Seis pessoas, o máximo previsto, com três pares de fora da odontologia. Saúde pública ficou sem titular: cobrir com convidados pontuais quando a pauta for secretarias e instituições de PCD. Convites personalizados em `odisseia/mastermind.md`.
+Sete pessoas (o plano previa até 6; ajuste de 03/11/2026), com todas as competências cobertas e três pares de fora da odontologia. Para caber em 1 hora, os desafios dos conselheiros são apresentados em rodízio, dois por reunião. Convites personalizados em `odisseia/mastermind.md`.
 
 ### 7.2 Roteiro de reunião corporativa em 3 blocos (S4 em diante)
 
