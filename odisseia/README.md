@@ -9,6 +9,7 @@ data e motivo, e nada se perde.
 | Arquivo | O que é |
 | --- | --- |
 | [plano-odisseia-2026-2031.md](plano-odisseia-2026-2031.md) | O plano completo: meta, ikigai, diagnóstico, metas anuais, 8 horas semanais, agenda até março/2027, ferramentas e indicadores |
+| [mastermind.md](mastermind.md) | Conselho pessoal da Carla: composição, calendário e convites |
 | [frente-podcasts.md](frente-podcasts.md) | Resumo da frente de podcasts. A tabela de acompanhamento fica no Claude Docs, onde a equipe atualiza pelo celular |
 | [permanecer-no-cuidado/revisao-e-integracao.md](permanecer-no-cuidado/revisao-e-integracao.md) | Revisão do projeto, referências conferidas e proposta de entrada no Odisseia |
 | [permanecer-no-cuidado/manifesto.md](permanecer-no-cuidado/manifesto.md) | Manifesto da Dentista Longeva, revisado |
@@ -30,8 +31,10 @@ data e motivo, e nada se perde.
 - [x] 03/11 — Plano Odisseia trazido do Claude Docs para esta pasta
 - [x] 03/11 — Frente Podcasts montada (mensagens, lista, acompanhamento)
 - [x] 03/11 — Permanecer no Cuidado revisado; manifesto e keynote corrigidos
+- [x] 03/11 — Mastermind definido (5 pessoas); 1ª reunião remarcada para 07–11/12
 
 ### Agora (semana 4, 03 a 07/11)
+- [ ] Carla envia os 5 convites do mastermind (textos em mastermind.md)
 - [ ] Carla lê o manifesto e a keynote revisados e aprova ou ajusta
 - [ ] Carla comenta no post de estreia do Entre Nós pelo perfil pessoal
 - [ ] Equipe confere seguidores e última publicação dos podcasts de prioridade 1

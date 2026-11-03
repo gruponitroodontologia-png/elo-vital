@@ -249,10 +249,10 @@ O primeiro trimestre tem três prioridades. Primeiro, colocar a palestra-âncora
 | S4 · 03–06/11 | Finados em 02/11, então o bloco vai para o sábado 07/11: revisão no PubMed de 10 artigos-chave sobre acesso de PCD, sedação e segurança | 3 reuniões com o roteiro em 3 blocos; data da 1ª reunião do mastermind fechada | Conteúdo de autoridade com dado científico | PSP: chamada para o prazo da RDC 1002 nas aulas |
 | S5 · 09–13/11 | Media kit em PDF de 4 páginas (tese, formatos, currículo, depoimentos) | Proposta padrão corporativa enviada a 5 alvos | Aula de quinta com chamada para a palestra corporativa | Números da reativação e da Trilha 295 revisados |
 | S6 · 16–21/11 | Página simples da palestra | Palestra-piloto agendada em 1 instituição (pode ser gratuita) | Conteúdo de conexão | Selo "Segura e Inclusiva" aplicado na página do N2O |
-| S7 · 23–27/11 | Roteiro do workshop de 4 h | **1ª reunião do mastermind** | Palestra-piloto entregue; 3 depoimentos em vídeo coletados | Selo "Segura e Inclusiva" aplicado na página do Sentados no Mocho |
+| S7 · 23–27/11 | Roteiro do workshop de 4 h | ~~1ª reunião do mastermind~~ remarcada para a S9 (viagem a Orlando de 17 a 28/11; ajuste de 03/11/2026) | Palestra-piloto entregue; 3 depoimentos em vídeo coletados | Selo "Segura e Inclusiva" aplicado na página do Sentados no Mocho |
 | S8 · 30/11–04/12 | Palestra ajustada com o feedback do piloto | 5 propostas ativas; meta: **1º contrato corporativo pago** | Depoimentos publicados | PSP: última chamada antes do prazo da RDC |
-| S9 · 07–11/12 | Esboço do método autoral (nome, princípios, 3×3×3 ampliado para sistemas), que vira a base do sumário do livro com a Cláudia | Reuniões de fechamento de ano com parceiros, com o roteiro em 3 blocos (2026 · 2027 · juntos) | Conteúdo de retrospectiva | Calendário de turmas 2027 do Nitro com o selo |
-| S10 · 14–18/12 | Prioridades do Q1/2027 definidas (no máximo 3) | Pipeline de 2027 organizado no CRM; 2ª reunião do mastermind | Última aula do ano | **Revisão anual** de 2026 |
+| S9 · 07–11/12 | Esboço do método autoral (nome, princípios, 3×3×3 ampliado para sistemas), que vira a base do sumário do livro com a Cláudia | **1ª reunião do mastermind** (ajuste de 03/11/2026); reuniões de fechamento de ano com parceiros, com o roteiro em 3 blocos (2026 · 2027 · juntos) | Conteúdo de retrospectiva | Calendário de turmas 2027 do Nitro com o selo |
+| S10 · 14–18/12 | Prioridades do Q1/2027 definidas (no máximo 3) | Pipeline de 2027 organizado no CRM | Última aula do ano | **Revisão anual** de 2026 |
 | Recesso · 21/12–03/01 | Somente a Declaração diária e a leitura de Hill | — | — | — |
 
 ### Janeiro a março de 2027
@@ -261,15 +261,15 @@ O primeiro trimestre tem três prioridades. Primeiro, colocar a palestra-âncora
 | --- | --- | --- | --- | --- |
 | S11 · 05–08/01 | Plano dos 100 primeiros dias da SOBRASO, a partir da janela cega do Johari | Retomada do pipeline: 5 follow-ups | Calendário de conteúdo de janeiro | Turmas do Q1 com o selo |
 | S12 · 11–15/01 | Ficha do programa institucional "Segurança e Inclusão" (versão piloto) | 5 novos contatos corporativos | Artigo de autoridade (LinkedIn) | Reativação de ex-alunos: status |
-| S13 · 18–22/01 | Isca digital do método: checklist de atendimento seguro e inclusivo | 2 propostas enviadas; 3ª reunião do mastermind | Aula com a isca como chamada | Isca conectada ao Mapa de Decisão |
+| S13 · 18–22/01 | Isca digital do método: checklist de atendimento seguro e inclusivo | 2 propostas enviadas; 2ª reunião do mastermind | Aula com a isca como chamada | Isca conectada ao Mapa de Decisão |
 | S14 · 25–29/01 | Calendário SOBRASO 2027 fechado: 3 SAVSO e cursos telepresenciais gratuitos | Meta: 2º contrato corporativo pago | Conteúdo de quebra de objeção | Calendário do SAVO-RJ revisto para não coincidir com o SAVSO |
 | S15 · 01–05/02 | 1º curso telepresencial gratuito (ECG): programa e docentes | 3 reuniões corporativas | Conteúdo de autoridade | Fichas do Curso Básico finalizadas com o selo |
 | S16 · 08–12/02 | Carnaval: semana reduzida | Somente follow-ups | — | Somente a revisão (1 h) |
-| S17 · 15–19/02 | Parcerias locais para o SAVSO no Sudeste e no Nordeste | Patrocinadores do SAVSO e do 7º EBSO; 4ª reunião do mastermind | Aula | Regras de convivência SAVO-RJ e SAVSO validadas com a diretoria |
+| S17 · 15–19/02 | Parcerias locais para o SAVSO no Sudeste e no Nordeste | Patrocinadores do SAVSO e do 7º EBSO; 3ª reunião do mastermind | Aula | Regras de convivência SAVO-RJ e SAVSO validadas com a diretoria |
 | S18 · 22–26/02 | Relatório de 100 dias aos associados (rascunho) | 5 propostas ativas | Conteúdo de bastidor | Status da Trilha 295 |
 | S19 · 01–05/03 | Inscrições abertas para o 1º SAVSO de 2027 | Agenda de conversas regionais | Conteúdo do SAVSO | Revisão |
 | S20 · 08–12/03 | 1º curso telepresencial gratuito no ar | Conversas regionais registradas no CRM | Aula | Follow-up em 48 h |
-| S21 · 15–19/03 | Relatório de 100 dias publicado aos associados | Follow-ups; 5ª reunião do mastermind | Recortes do relatório | Revisão |
+| S21 · 15–19/03 | Relatório de 100 dias publicado aos associados | Follow-ups; 4ª reunião do mastermind | Recortes do relatório | Revisão |
 | S22 · 22–27/03 | Revisão trimestral: meta do Q1 contra o realizado; 3 prioridades do Q2 | Pipeline do Q2 | Aula | Revisão trimestral no sábado 27/03 |
 
 ## 7. Ferramentas prontas
@@ -279,6 +279,18 @@ O primeiro trimestre tem três prioridades. Primeiro, colocar a palestra-âncora
 O conselho deve ter de 4 a 6 pessoas com competências complementares: regulação e políticas (CFO, CROs), jurídico em saúde, gestão e negócios, comunicação e marketing, saúde corporativa ou pública e um par de fora da Odontologia.
 
 > Fulano, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório às grandes instituições. Quero reservar uma hora com você por mês, nos próximos seis meses, para pensarmos juntos. Você é uma das pessoas cuja visão eu quero por perto nessa construção. Topa? Se sim, te mando duas datas.
+
+**Composição definida em 03/11/2026**
+
+| Competência | Pessoa | Da odontologia? |
+| --- | --- | --- |
+| Gestão e negócios | Rodolfo Paiva | Não |
+| Comunicação e marketing | Gamba Jr | Não |
+| Regulação e políticas | Alessandra Camargo | Sim |
+| Saúde pública | Lucia | Sim |
+| Jurídico em saúde | Danielle Coelho | Sim |
+
+Cinco pessoas, dentro da faixa de 4 a 6, com todas as competências cobertas e dois pares de fora da odontologia. Convites personalizados em `odisseia/mastermind.md`.
 
 ### 7.2 Roteiro de reunião corporativa em 3 blocos (S4 em diante)
 
