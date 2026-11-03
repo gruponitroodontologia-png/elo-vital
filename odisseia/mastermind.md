@@ -11,7 +11,7 @@
 | Rodolfo Paiva | Gestão e negócios | Não | | |
 | Gamba Jr | Comunicação e marketing | Não | | |
 | Alessandra Camargo | Regulação e políticas | Sim | | |
-| Lucia | Saúde pública | Sim | | |
+| Luciana Seves | Educação, saúde e comunicação | Sim | | |
 | Danielle Coelho | Jurídico em saúde | Sim | | |
 | *A definir* | Medicina (olhar de fora da odontologia) | Não | | |
 
@@ -66,8 +66,8 @@ sobre por que aquela pessoa foi escolhida.
 **Alessandra Camargo**
 > Alessandra, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório às grandes instituições. Com a CFO 295 e a RDC 1002 em implantação, quero por perto alguém que enxergue a regulação com a sua profundidade. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. Topa? Se sim, te mando duas datas.
 
-**Lucia**
-> Lucia, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório aos serviços públicos. Uma das frentes é levar o atendimento seguro a quem hoje espera na fila do centro cirúrgico, e quero o olhar da saúde pública desde o começo. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. Topa? Se sim, te mando duas datas.
+**Luciana Seves**
+> Luciana, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia, do consultório às universidades e aos serviços públicos. Boa parte dele é ensinar e comunicar saúde de um jeito que transforme a prática, e quero por perto o seu olhar de educação e comunicação em saúde. Seria uma hora por mês, nos próximos seis meses, para pensarmos juntas. Topa? Se sim, te mando duas datas.
 
 **Danielle Coelho**
 > Dani, estou começando um plano de cinco anos para levar segurança e inclusão a padrão na Odontologia. Além do nosso trabalho juntas, quero você num papel diferente: no conselho que vai me acompanhar mês a mês, para questionar o plano com o olhar jurídico, e não para executar. Seria uma hora por mês, nos próximos seis meses. Topa? Se sim, te mando duas datas.
@@ -103,7 +103,6 @@ sobre por que aquela pessoa foi escolhida.
 
 ## Pendências
 
-- [ ] Sobrenome e cargo da Lucia
 - [ ] Escolher o médico da sexta cadeira
 - [ ] Enviar os 5 convites até 07/11
 - [ ] Definir duas opções de data na S9 (07–11/12) para quem aceitar

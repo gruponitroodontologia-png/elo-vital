@@ -287,7 +287,7 @@ O conselho deve ter de 4 a 6 pessoas com competências complementares: regulaç�
 | Gestão e negócios | Rodolfo Paiva | Não |
 | Comunicação e marketing | Gamba Jr | Não |
 | Regulação e políticas | Alessandra Camargo | Sim |
-| Saúde pública | Lucia | Sim |
+| Educação, saúde e comunicação | Luciana Seves | Sim |
 | Jurídico em saúde | Danielle Coelho | Sim |
 
 Cinco pessoas, dentro da faixa de 4 a 6, com todas as competências cobertas e dois pares de fora da odontologia. Convites personalizados em `odisseia/mastermind.md`.
