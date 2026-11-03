@@ -141,7 +141,9 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   (anestesia médica × sedação). Odontologia sem Medo descartado (sem entrevistas).
 - **Mastermind pessoal** (`odisseia/mastermind.md`): 7 conselheiros (Rodolfo
   Paiva, Gamba Jr, Ana Jacqueline, Alessandra Camargo, Luciana Seves, Lucia
-  Sperb, Danielle Coelho); 6 encontros mensais (dez/26–mai/27), todos juntos;
+  Sperb, Danielle Coelho; perfis revisados em 03/11: Rodolfo = engenharia de
+  produção, olhar ousado e otimista; Gamba Jr = irmão da Carla, design;
+  Luciana = educadora, comunicação em saúde, não é dentista); 6 encontros mensais (dez/26–mai/27), todos juntos;
   convites enviados na lua nova, **seg 09/11**; **1ª reunião seg 14/12, 20h**
   (Meet meet.google.com/yac-fheu-zyx). Carta-convite no Google Docs (id
   `10o6P5KlZdkxBNTHkTYGNIFchbUz89Q-tox8ReQyDe_8`). Lembretes já na Google

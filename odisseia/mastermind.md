@@ -8,10 +8,10 @@
 
 | Pessoa | Competência | Da odontologia? | Convite enviado em | Resposta |
 | --- | --- | --- | --- | --- |
-| Rodolfo Paiva | Gestão e negócios | Não | | |
-| Gamba Jr | Comunicação e marketing | Não | | |
+| Rodolfo Paiva | Engenharia de produção; olhar ousado e otimista sobre o ser humano e o planeta | Não | | |
+| Gamba Jr | Design (irmão da Carla) | Não | | |
 | Alessandra Camargo | Regulação e políticas | Sim | | |
-| Luciana Seves | Educação, saúde e comunicação | Sim | | |
+| Luciana Seves | Educadora; comunicação em saúde | Não | | |
 | Lucia Sperb | Saúde pública | Sim | | |
 | Danielle Coelho | Jurídico em saúde | Sim | | |
 | Ana Jacqueline | Medicina: nefrologia, clínica geral e acupuntura | Não | | |
@@ -62,9 +62,9 @@ interesse comercial em sedação.
 - **Danielle Coelho já está na equipe** (validação jurídica, co-docência no
   SAVO). No mastermind, o papel dela é outro: desafiar o plano, e não
   executá-lo. Vale dizer isso no convite.
-- **Gamba Jr:** se for da família, combine desde o primeiro encontro que no
-  conselho o papel dele é discordar quando achar necessário. O mastermind só
-  funciona com franqueza.
+- **Gamba Jr é irmão da Carla:** vale combinar desde o primeiro encontro que
+  no conselho o papel dele é discordar quando achar necessário. O mastermind
+  só funciona com franqueza.
 
 ## Carta-convite (versão completa, 03/11/2026)
 
@@ -80,11 +80,11 @@ mais 6 meses, até completar o primeiro ano do Odisseia.
 
 | Pessoa | Linha de abertura |
 | --- | --- |
-| Rodolfo Paiva | Rodolfo, quero no meu conselho alguém que olhe para o negócio de fora da odontologia, sem os vícios da área, e pensei em você. |
-| Gamba Jr | Jr, preciso de alguém de comunicação e marketing que me diga com franqueza o que funciona e o que não funciona, inclusive quando eu não quiser ouvir. |
+| Rodolfo Paiva | Rodolfo, quero no meu conselho o raciocínio da engenharia de produção e o seu olhar ousado e otimista sobre o ser humano e o planeta, de fora da odontologia e sem os vícios da área. |
+| Gamba Jr | Jr, quero no conselho o seu olhar de designer e a franqueza de irmão: me diga o que funciona e o que não funciona, inclusive quando eu não quiser ouvir. |
 | Ana Jacqueline | Ana, quero um olhar médico de fora da odontologia, e o seu é raro: a clínica, a nefrologia, que conhece de perto o paciente complexo, e a acupuntura, que pensa o cuidado de forma integral. |
 | Alessandra Camargo | Alessandra, com a CFO 295 e a RDC 1002 em implantação, quero por perto alguém que enxergue a regulação com a sua profundidade. |
-| Luciana Seves | Luciana, boa parte deste projeto é ensinar e comunicar saúde de um jeito que transforme a prática, e quero o seu olhar de educação e comunicação em saúde. |
+| Luciana Seves | Luciana, boa parte deste projeto é ensinar e comunicar saúde de um jeito que transforme a prática, e quero o seu olhar de educadora e de quem trabalha com comunicação em saúde. |
 | Lucia Sperb | Lucia, uma das frentes é levar o atendimento seguro a quem hoje espera na fila do centro cirúrgico, e quero o olhar da saúde pública desde o começo. |
 | Danielle Coelho | Dani, além do nosso trabalho juntas, quero você num papel diferente: questionar o plano com o olhar jurídico, e não executá-lo. |
 
@@ -94,7 +94,7 @@ mais 6 meses, até completar o primeiro ano do Odisseia.
 >
 > **O projeto.** Estou começando o Plano Odisseia, um plano de cinco anos, de 2026 a 2031, com um propósito: tornar a segurança e a inclusão padrão na Odontologia brasileira, do consultório às redes de clínicas, universidades e serviços públicos. Ele parte do que já construí em mais de 25 anos de Grupo Nitro e da participação na construção das normas que hoje regem a área.
 >
-> **Por que um conselho.** Um plano deste tamanho não se constrói sozinha. Quero ao meu lado pessoas que enxerguem o que eu não enxergo, vindas de áreas diferentes: gestão, comunicação, medicina, regulação, educação, saúde pública e direito.
+> **Por que um conselho.** Um plano deste tamanho não se constrói sozinha. Quero ao meu lado pessoas que enxerguem o que eu não enxergo, vindas de áreas diferentes: engenharia, design, educação e comunicação em saúde, medicina, regulação, saúde pública e direito.
 >
 > **O que é um mastermind.** É o nome que Napoleon Hill deu, em 1937, a um pequeno grupo que se reúne com regularidade para pensar junto, desafiar e apoiar. Não é equipe nem consultoria: ninguém executa tarefas. É um conselho de pares, e a riqueza está na troca e na diversidade.
 >
@@ -108,6 +108,13 @@ mais 6 meses, até completar o primeiro ano do Odisseia.
 >
 > Com admiração,
 > Carla
+
+## Revisões
+
+- 03/11/2026 — Perfis corrigidos pela Carla: Luciana Seves é educadora (não é
+  dentista) e trabalha com comunicação em saúde; Gamba Jr é irmão da Carla e
+  traz o design; Rodolfo Paiva vem da engenharia de produção, com olhar ousado
+  e otimista sobre o ser humano e o planeta. Linhas pessoais ajustadas.
 
 ## Pendências
 

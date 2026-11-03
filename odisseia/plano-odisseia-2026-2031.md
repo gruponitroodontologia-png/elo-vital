@@ -284,15 +284,15 @@ O conselho deve ter de 4 a 6 pessoas com competências complementares: regulaç�
 
 | Competência | Pessoa | Da odontologia? |
 | --- | --- | --- |
-| Gestão e negócios | Rodolfo Paiva | Não |
-| Comunicação e marketing | Gamba Jr | Não |
+| Engenharia de produção; olhar ousado e otimista sobre o ser humano e o planeta | Rodolfo Paiva | Não |
+| Design | Gamba Jr | Não |
 | Regulação e políticas | Alessandra Camargo | Sim |
-| Educação, saúde e comunicação | Luciana Seves | Sim |
+| Educação e comunicação em saúde | Luciana Seves | Não |
 | Saúde pública | Lucia Sperb | Sim |
 | Jurídico em saúde | Danielle Coelho | Sim |
 | Medicina (nefrologia, clínica geral e acupuntura) | Ana Jacqueline | Não |
 
-Sete pessoas (o plano previa até 6; ajuste de 03/11/2026), com todas as competências cobertas e três pares de fora da odontologia. Para caber em 1 hora, os desafios dos conselheiros são apresentados em rodízio, dois por reunião. Convites personalizados em `odisseia/mastermind.md`.
+Sete pessoas (o plano previa até 6; ajuste de 03/11/2026), com quatro pares de fora da odontologia (perfis revisados pela Carla em 03/11/2026). Para caber em 1 hora, os desafios dos conselheiros são apresentados em rodízio, dois por reunião. Convites personalizados em `odisseia/mastermind.md`.
 
 ### 7.2 Roteiro de reunião corporativa em 3 blocos (S4 em diante)
 
