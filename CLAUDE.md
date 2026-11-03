@@ -124,6 +124,21 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Formatos gravados pela Carla são **talking-head** (sem encaixar outras
   imagens); citações entram como **legenda**, não precisam ser faladas.
 
+## Plano Odisseia e frentes ligadas
+- **Plano Odisseia 2026–2031** (Claude Docs, artifact
+  `541226f7-17b2-40cf-8c49-10b8604495e2`): meta R$ 100 mil/mês em out/2031;
+  8 h semanais protegidas; Teste do ikigai (3 perguntas) para toda ideia nova;
+  no máximo 3 prioridades por trimestre; revisão trimestral na S10 (14–18/12).
+- **Frente Podcasts** (Claude Docs, artifact
+  `ba3b74e7-23af-4d57-9ad3-81023cc467ff`): mensagens pelo direct em nome da
+  página, pauta quente CFO 295 + RDC 1002, tabela de acompanhamento.
+  Cortes de maior alcance: Sondar 184 mil (história da odontologia) e 26 mil
+  (anestesia médica × sedação). Odontologia sem Medo descartado (sem entrevistas).
+- **Permanecer no Cuidado** (método de longevidade clínica da mulher
+  cirurgiã-dentista 50+; pasta no Drive). Revisão e proposta de integração ao
+  Odisseia em `odisseia/permanecer-no-cuidado.md`. A tabela de referências do
+  dossiê original tem números errados: usar só a versão conferida.
+
 ## Pendências / próximos passos
 - Confirmar a **data-limite exata + artigo** do prazo da CFO (hoje usamos
   "janeiro de 2027" como informado pela Carla).
