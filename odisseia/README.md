@@ -31,7 +31,7 @@ data e motivo, e nada se perde.
 - [x] 03/11 — Plano Odisseia trazido do Claude Docs para esta pasta
 - [x] 03/11 — Frente Podcasts montada (mensagens, lista, acompanhamento)
 - [x] 03/11 — Permanecer no Cuidado revisado; manifesto e keynote corrigidos
-- [x] 03/11 — Mastermind definido (7 pessoas); 1ª reunião remarcada para 07–11/12
+- [x] 03/11 — Mastermind definido (7 pessoas); 1ª reunião marcada para qui 10/12, 19h, todos juntos
 
 ### Agora (semana 4, 03 a 07/11)
 - [ ] Carla envia os 7 convites do mastermind (textos em mastermind.md)
