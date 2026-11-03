@@ -139,6 +139,14 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   página, pauta quente CFO 295 + RDC 1002, tabela de acompanhamento.
   Cortes de maior alcance: Sondar 184 mil (história da odontologia) e 26 mil
   (anestesia médica × sedação). Odontologia sem Medo descartado (sem entrevistas).
+- **Mastermind pessoal** (`odisseia/mastermind.md`): 7 conselheiros (Rodolfo
+  Paiva, Gamba Jr, Ana Jacqueline, Alessandra Camargo, Luciana Seves, Lucia
+  Sperb, Danielle Coelho); 6 encontros mensais (dez/26–mai/27), todos juntos;
+  convites enviados na lua nova, **seg 09/11**; **1ª reunião seg 14/12, 20h**
+  (Meet meet.google.com/yac-fheu-zyx). Carta-convite no Google Docs (id
+  `10o6P5KlZdkxBNTHkTYGNIFchbUz89Q-tox8ReQyDe_8`). Lembretes já na Google
+  Agenda (09/11, 11/11, 13/11, 16/11, 07/12, 11/12). A Carla prefere Google
+  Docs a arquivos .md para ler e copiar. Viagem a Orlando 17–28/11.
 - **Permanecer no Cuidado** (método de longevidade clínica da mulher
   cirurgiã-dentista 50+; pasta no Drive). Revisão e proposta de integração ao
   Odisseia em `odisseia/permanecer-no-cuidado/` (revisão, manifesto e keynote revisados). A tabela de referências do
