@@ -72,20 +72,20 @@ Cada peça tem a sua evidência.
 > dois tubetes, o limite de adrenalina para esse paciente [61, 62]. Acabo de
 > passar a primeira fresa, e ele informa dor.
 
+**Pergunta para a audiência (logo após a cena, com pausa):** *"Se isso
+acontecer amanhã no seu consultório, qual é a sua alternativa?"*
+
 Sem um protocolo de redução de estresse, restam três caminhos, e nenhum é bom:
 1. **Mais anestésico além do limite.** Isso ultrapassa a dose de 0,04 mg de adrenalina definida para o paciente com doença cardiovascular [61].
 2. **Seguir com dor.** A dor e a ansiedade elevam a adrenalina endógena [53] e a pressão [17], que é exatamente o que o limite de tubetes queria evitar.
 3. **Interromper o procedimento.** O paciente sai com o leito aberto, a confiança abalada e uma nova consulta pela frente.
 
-**O que muda a equação é o planejamento, não o improviso.** A resposta
+**A resposta:** o que muda a equação é o planejamento, não o improviso. A resposta
 simpática é mínima quando a anestesia é eficaz [55], e a sedação atenua a
 resposta simpatoadrenal ao estresse cirúrgico [56]. Um protocolo de redução de
 estresse, com técnica anestésica planejada, controle da ansiedade e as vias de
 sedação previstas na habilitação, é o que oferece **alternativas** quando a dor
 aparece no meio do procedimento.
-
-**Pergunta para a audiência:** *"Se isso acontecer amanhã no seu consultório,
-qual é a sua alternativa?"*
 
 **Peça 3. Depressão ou excitação do sistema nervoso central, que pode levar a convulsões, crises hipertensivas ou hipotensivas, taqui ou bradicardias.**
 - Na clínica geral britânica, a **convulsão foi a emergência mais frequente** [22].
