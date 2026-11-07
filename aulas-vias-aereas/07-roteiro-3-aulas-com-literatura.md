@@ -172,8 +172,23 @@ como se não ouvisse e não enxergasse esse alerta.
 
 ## 7. "O mundo da saúde pretende entregar a sedação. Os riscos estão na falta de conhecimento de anatomia, fisiologia e farmacologia, na falta de monitorização."
 
-- A revisão de escopo internacional sobre emergências na prática odontológica encontrou **falta de preparo como padrão**, apesar do reconhecimento universal da importância do tema [27].
-- A monitorização revela **tendências deletérias graduais, reversíveis antes da emergência** [8].
+**O que a frase afirma:** o risco não está na sedação em si. Está nas lacunas de conhecimento e de monitorização que já existem na rotina.
+
+*Falta de preparo como padrão:*
+- "A revisão de escopo internacional identificou falta de preparo para emergências médicas como padrão, apesar do reconhecimento universal da importância do tema" — **Vaughan e colaboradores, Australian Dental Journal, 2018** [27].
+- "Com o envelhecimento da população, os pacientes com hipertensão e diabetes desenvolvem cada vez mais emergências, e muitos profissionais ainda não têm as habilidades para manejá-las" — **Kishimoto e colaboradores, Japanese Dental Science Review, 2023** [1].
+
+*Fisiologia e monitorização:*
+- "A monitorização revela tendências deletérias graduais, reversíveis antes da emergência" — **Fukayama e Yagiela, International Dental Journal, 2006** [8].
+- "Apenas 40,5% dos dentistas aferem a pressão arterial no consultório" — **Otero e colaboradores, Journal of Clinical and Experimental Dentistry, 2025** [65].
+- "57% não aferiam a pressão de pacientes novos com mais de 65 anos, e 14% nunca aferiam" — **Pyle e colaboradores, Special Care in Dentistry, 1999** [66].
+
+*Farmacologia:*
+- "Até 87% dos dentistas não calculam corretamente a dose de anestésico local" — **Christensen e Shipp, Journal of Dental Anesthesia and Pain Medicine, 2026** [67].
+- "Apenas 2,7% têm conhecimento detalhado da toxicidade sistêmica por anestésico local, e 3,3% têm um plano de resposta" — **Bakır e colaboradores, Healthcare, 2026** [21].
+
+*Na fala (sugestão):*
+> "A literatura diz: a falta de preparo para emergências é o padrão, e não a exceção — Vaughan e colaboradores, 2018. Apenas 40,5% dos dentistas aferem a pressão — Otero e colaboradores, 2025. E até 87% não calculam corretamente a dose de anestésico local — Christensen e Shipp, 2026. O risco não está na sedação. Está no que deixamos de conhecer e de monitorizar."
 
 ## 8. "E na falta de vontade de olhar para uma resolução, a RDC 1002/2025. Ela precisa ser revisada, mas precisa ser estudada e apreciada, como fizemos com a Lei Seca e com o EPI."
 
