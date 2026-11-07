@@ -124,6 +124,18 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Formatos gravados pela Carla são **talking-head** (sem encaixar outras
   imagens); citações entram como **legenda**, não precisam ser faladas.
 
+## Projeto Cultura de Segurança (aulas semanais no YouTube)
+- Aulas **semanais, quinta às 11h11**, numeradas "Aula #N". Pasta no Drive:
+  "Youtube - Cultura de Segurança" (uma subpasta por aula). Cerca de 19 min.
+- Formato: abertura **olho no olho (~1–2 min, sem slide)** → roteiro com
+  ~10–12 slides no visual da página, **sem preço**.
+- Toda semana: **roteiro + newsletter (terça 18h + lembrete quinta 7h, disparo
+  Fabrício) + reels + stories**. Referências na descrição do YouTube.
+- Regras da #10: nenhum curso habilita, inclusive o nosso; urgência só real
+  (vagas, prazos de condição), nunca o prazo do Conselho.
+- **RDC 1002/2025 = ANVISA** (PSP do consultório; adequação até dez/2026).
+- Novembro: aulas sustentam a venda da **Trilha 295**.
+
 ## Trilha 295 (Programa de Complementação para a Habilitação Básica)
 - Lançada em live em 05/11/2026 (replay no Substack:
   https://gruponitro.substack.com/p/replay-live-lancamento-programa-de).
@@ -140,7 +152,9 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Material em `aulas-vias-aereas/` (dossiês 01–02 com DOIs, tradução do reel
   da Sedation Academy, roteiro das 3 aulas, texto "Olho no olho" da Aula 11).
 - Tese: "a via aérea não pertence à sedação; pertence a toda a odontologia".
-- **Aula 11: quinta-feira, 12/11/2026** (12 e 13 a seguir, datas a definir).
+- **Aula #11: quinta, 12/11/2026, 11h11** · #12 em 19/11 · #13 em 26/11.
+- Pacote completo da #11 (roteiro, newsletter, reels, stories) em
+  `aulas-vias-aereas/05-aula11-pacote-da-semana.md`.
 - SARI = Simplified Airway Risk Index (El-Ganzouri 1996).
 
 ## Pendências / próximos passos
