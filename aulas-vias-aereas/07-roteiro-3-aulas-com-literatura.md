@@ -120,7 +120,7 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 3. 5:00–7:30 · A perfusão na rotina
 4. 7:30–11:00 · A obstrução em toda a Odontologia, incluindo a ortodontia
 5. 11:00–13:30 · O que sabemos, de verdade
-6. 13:30–16:30 · "Exclusivo de uma academia de sedação?", a cultura de segurança e a RDC 1002/2025 (itens 7 a 9)
+6. 13:30–16:30 · "Exclusivo de uma academia de sedação?", a cultura de segurança e a RDC 1002/2025 (itens 7 a 9). Fecha com a antecipação: "Toda grande mudança na segurança começa questionando aquilo que aprendemos a considerar seguro." O tema completo fica na #13
 7. 16:30–19:00 · Quatro gestos para a próxima consulta e convite: Trilha 295, Black Friday até 16/11
 
 ## ETAPA 2 · Aula #12 · 19/11 · "Prevenir: avaliar e monitorizar ventilação, oxigenação e perfusão"
@@ -163,10 +163,10 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 1. 0:00–1:30 · Olho no olho: "hoje, o minuto em que o risco se instala"
 2. 1:30–3:30 · **O vídeo da Sedation Academy**, com tradução
 3. 3:30–6:00 · Ouvir a via aérea: o estetoscópio pré-traqueal, retomando a cena da #11
-4. 6:00–9:30 · Manejar
-5. 9:30–12:00 · Resgatar
-6. 12:00–14:30 · Suporte de vida é de toda a Odontologia
-7. 14:30–17:30 · O PSP como trilha
+4. 6:00–8:30 · Manejar
+5. 8:30–10:30 · Resgatar
+6. 10:30–13:00 · Suporte de vida é de toda a Odontologia
+7. 13:00–17:30 · **"Quando a segurança deixa de ser uma escolha e se torna uma norma"** (Lei Seca, EPI, Festinger, os quatro movimentos, Reason; cerca de 3 min) → o PSP como trilha (cerca de 1 min). Texto no arquivo 08 [30, 51, 52]
 8. 17:30–20:00 · Fechamento e convite: Trilha 295, bônus até 27/11, vagas reais, turma de 5 a 9/12. "Nenhum curso habilita, inclusive o nosso."
 
 ---
@@ -223,6 +223,8 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 48. Jevon. Br Dent J 2016. doi:10.1038/sj.bdj.2016.181
 49. Kim. J Dent Anesth Pain Med 2026. doi:10.17245/jdapm.2026.26.189
 50. Corrêa et al. Cad Saude Publica 2020. doi:10.1590/0102-311X00197819
+51. Reason J. Human error: models and management. BMJ 2000;320:768-770. doi:10.1136/bmj.320.7237.768
+52. Kohn WG et al. (CDC). Guidelines for infection control in dental health-care settings, 2003. MMWR Recomm Rep 2003;52(RR-17). PMID 14685139
 
 **Antes de usar em slide:**
 - os autores estão sem iniciais (o PubMed retornou só o sobrenome); completar ao montar a descrição do YouTube;
