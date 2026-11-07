@@ -24,41 +24,22 @@
   **5 a 9 de dezembro**. Nunca vem do prazo do Conselho.
 - **Enquadramento:** nenhum curso habilita, inclusive o nosso; quem habilita é
   o Conselho. A norma entra como confirmação.
-- **Citações:** na tela, como legenda ou rodapé do slide. Não precisam ser
-  lidas.
+- **Citações:** faladas no olho no olho; nos slides, no rodapé; **todas na
+  descrição do YouTube**. Sem legenda na edição.
 
 ---
 
 ## Roteiro
 
-### Bloco 1 · Abertura · 0:00–1:30 · olho no olho
+### Bloco 1 · Abertura · 0:00–3:00 · olho no olho
 
-**Fala:**
-"Bom dia. Na Aula #10, falamos sobre o planejamento estratégico para 2027 e
-sobre os três caminhos possíveis para quem já tem a sedação na rotina. O link
-está na descrição.
+**Texto completo no arquivo 04** (teleprompter). Sem slide e sem legenda. As
+referências são **faladas** ("a literatura diz: … — Fulano e colaboradores,
+ano"): Kishimoto 2023 · Zouaidi 2024 · Boriosi 2019 · Manton 2021 · Stafuzza
+2014 · Arsati 2010. Fecha com: "Tudo o que eu trouxer está ancorado na
+literatura, e todas as referências estão na descrição desta aula."
 
-Hoje eu começo por uma cena de ontem. Sedei um paciente ASA III para uma
-manutenção simples das próteses protocolo sobre implante. Revisava o nosso
-checklist para gravar e entregar a vocês, e posicionei o estetoscópio
-pré-traqueal. O paciente fez uma pausa na respiração, muito breve. E, antes de
-qualquer pensamento, as minhas mãos já estavam aspirando, revisando secreção,
-protegendo a via aérea.
-
-Eu me perguntei: em que momento isso se tornou automático em mim?
-
-E voltei ao ano 2000. Eu tinha acabado de concluir uma certificação em Suporte
-Básico de Vida e já tinha mais de quinze anos de Odontologia. Foi ali que me
-fiz a pergunta mais desconfortável da minha carreira: como eu nunca tinha
-percebido os riscos que nós mesmos provocamos na nossa rotina?
-
-É dessa pergunta que trata a aula de hoje."
-
-*Legenda na edição:* "O estetoscópio pré-traqueal foi o primeiro monitor a
-detectar o evento adverso em 64% dos casos, contra 15% da oximetria." Boriosi
-et al., Paediatr Anaesth, 2019.
-
-### Bloco 2 · O efeito dominó · 1:30–4:30 · Slide 1
+### Bloco 2 · O efeito dominó · 3:00–5:30 · Slide 1
 
 **Slide 1:** Título: "O efeito dominó." Sete peças em sequência: sinais vitais não
 aferidos → estresse e ansiedade invisíveis → mais anestésico local → excitação
@@ -87,7 +68,7 @@ instale.
 
 Repare: nenhuma dessas peças é sedação. Todas são Odontologia do dia a dia."
 
-### Bloco 3 · A perfusão na rotina · 4:30–6:30 · Slide 2
+### Bloco 3 · A perfusão na rotina · 5:30–7:30 · Slide 2
 
 **Slide 2:** "A pressão sobe na rotina." Ensaio randomizado: a pressão
 sistólica sobe após lidocaína com adrenalina 1:80.000 em normotensos
@@ -110,7 +91,7 @@ Isso é perfusão. É fisiologia de qualquer paciente, em qualquer especialidade
 O mundo da saúde insiste em entregar esse conhecimento à sedação. Nós
 insistimos em devolvê-lo à Odontologia."
 
-### Bloco 4 · A obstrução está em toda a Odontologia · 6:30–9:30 · Slides 3 e 4
+### Bloco 4 · A obstrução está em toda a Odontologia · 7:30–10:00 · Slides 3 e 4
 
 **Slide 3:** "Onde a obstrução acontece." Prótese fixa e cimentação de coroas
 (Tiwana, JADA 2004) · endodontia: 44 aspirações em 11 anos de dados de
@@ -135,7 +116,7 @@ E há um dado que merece atenção: no Tokyo Dental College, esses eventos se
 concentraram nos profissionais com 1 a 7 anos de formados. Justamente quem
 ainda não procurou uma formação em sedação."
 
-### Bloco 5 · Ortodontia · 9:30–11:00 · Slide 5
+### Bloco 5 · Ortodontia · 10:00–11:15 · Slide 5
 
 **Slide 5:** "1 em cada 5." Varho et al., Acta Odontol Scand, 2015: 20% dos
 ortodontistas finlandeses tiveram um paciente que inalou ou engoliu parte do
@@ -149,7 +130,7 @@ chaves de expansor. A ortodontia trabalha com peças pequenas, soltas, na
 entrada da via aérea, muitas vezes com uma criança reclinada na cadeira. Na
 Aula #12, voltaremos à ortodontia por outra porta: o sono."
 
-### Bloco 6 · O que sabemos, de verdade · 11:00–13:30 · Slide 6
+### Bloco 6 · O que sabemos, de verdade · 11:15–13:15 · Slide 6
 
 **Slide 6:** Três números. **36%** acertam a conduta na aspiração de corpo
 estranho (Shaath, Eur J Dent 2023) · **82%** dos acadêmicos brasileiros não se
@@ -167,7 +148,7 @@ Saber não é o mesmo que conseguir fazer. E a competência que não é praticad
 se perde: sem treino, o tempo até a ventilação de resgate sobe de cerca de 57
 para cerca de 90 segundos em quatro meses (McCaw, 2023)."
 
-### Bloco 7 · Cultura de segurança · 13:30–16:30 · Slide 7
+### Bloco 7 · Cultura de segurança · 13:15–16:30 · Slide 7
 
 **Slide 7:** "Já fizemos isso antes." Lei Seca · EPI na Odontologia · RDC
 1002/2025 (ANVISA) · CFO 295/2026: "prevenir, reconhecer, manejar e resgatar".
