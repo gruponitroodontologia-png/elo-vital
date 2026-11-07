@@ -87,27 +87,30 @@ instale.
 
 Repare: nenhuma dessas peças é sedação. Todas são Odontologia do dia a dia."
 
-### Bloco 3 · O vídeo que todos compartilham · 4:30–6:00 · Slide 2
+### Bloco 3 · A perfusão na rotina · 4:30–6:30 · Slide 2
 
-**Slide 2:** Trecho do reel da Sedation Academy (cerca de 25 s), com legenda em
-português. Embaixo: "Troque 'sedação' por 'cimentação de coroa'."
+**Slide 2:** "A pressão sobe na rotina." Ensaio randomizado: a pressão
+sistólica sobe após lidocaína com adrenalina 1:80.000 em normotensos
+(Abu-Mostafa, J Clin Exp Dent 2015) · idosos: frequência cardíaca e pressão
+sobem na anestesia e na extração (Li, Front Public Health 2022) ·
+farmacovigilância da FDA: 1.956 eventos com anestésicos locais
+odontológicos, 46% graves, mais frequentes com vasoconstritor (Bayram, Int
+Dent J 2025).
 
 **Fala:**
-"Este vídeo circula muito. A tradução é: a obstrução da via aérea pode se
-instalar rapidamente; não reconhecer uma mudança na ventilação é uma das
-principais razões pelas quais uma sedação de rotina se transforma em crise;
-ronco, esforço paradoxal, pouca movimentação de ar ou um paciente que fica em
-silêncio devem fazer você parar e reavaliar.
+"A primeira peça do dominó já foi medida. Num ensaio randomizado com pacientes
+normotensos, a pressão sistólica subiu de forma significativa depois da
+anestesia com lidocaína e adrenalina. Em idosos com doenças sistêmicas, a
+frequência cardíaca e a pressão sobem já na anestesia local e seguem subindo na
+extração. E, na base de farmacovigilância da FDA, quase metade dos eventos
+adversos ligados aos anestésicos locais odontológicos foram graves, mais
+frequentes quando havia vasoconstritor.
 
-Está tudo certo, menos uma palavra: sedação. Troque por 'cimentação de uma
-coroa', 'troca de fio ortodôntico' ou 'irrigação endodôntica', e cada sinal
-continua verdadeiro. O mundo da saúde insiste em entregar a via aérea à
-sedação. Nós insistimos em devolvê-la à Odontologia."
+Isso é perfusão. É fisiologia de qualquer paciente, em qualquer especialidade.
+O mundo da saúde insiste em entregar esse conhecimento à sedação. Nós
+insistimos em devolvê-lo à Odontologia."
 
-*Antes de usar o trecho do reel, confirmar o crédito e o direito de uso, ou
-substituir pela leitura da tradução no slide.*
-
-### Bloco 4 · A obstrução está em toda a Odontologia · 6:00–9:30 · Slides 3 e 4
+### Bloco 4 · A obstrução está em toda a Odontologia · 6:30–9:30 · Slides 3 e 4
 
 **Slide 3:** "Onde a obstrução acontece." Prótese fixa e cimentação de coroas
 (Tiwana, JADA 2004) · endodontia: 44 aspirações em 11 anos de dados de
@@ -168,11 +171,19 @@ para cerca de 90 segundos em quatro meses (McCaw, 2023)."
 
 **Slide 7:** "Já fizemos isso antes." Lei Seca · EPI na Odontologia · RDC
 1002/2025 (ANVISA) · CFO 295/2026: "prevenir, reconhecer, manejar e resgatar".
+Rodapé: eventos adversos em 1,4% dos pacientes odontológicos, 2/3 evitáveis
+(Tokede, J Patient Saf 2024) · reconhecimento tardio da segurança do paciente
+na Odontologia (Padmanabhan, BMJ Open Qual 2024).
 
 **Fala:**
 "Será a via aérea um tema exclusivo de uma academia de sedação? Não. A sedação
 aumenta o risco, mas não é ela que cria a via aérea. A via aérea está presente
 em toda boca aberta, em toda cadeira reclinada e em todo fio que se solta.
+
+Um estudo americano de 2024, com revisão de prontuários, encontrou eventos
+adversos em 1,4% dos pacientes odontológicos, e ao menos dois terços eram
+evitáveis. A literatura é clara: a segurança do paciente chegou tarde à
+Odontologia.
 
 O que falta é conhecimento de anatomia, de fisiologia e de farmacologia. É
 monitorização. E é disposição para olhar para uma resolução. Falo da RDC
@@ -242,7 +253,7 @@ Braz Oral Res 2014 · McCaw et al. Adv Simul 2023.
 
 ## Checklist antes de gravar
 
-- ☐ Direito de uso do trecho do reel (ou slide só com a tradução)
+- ☐ (O reel da Sedation Academy ficou para a Aula #13)
 - ☐ Slides 1 a 10 no visual da página, sem preço
 - ☐ Gravação até terça, 10/11; edição até quarta, 11/11
 - ☐ Estreia agendada no YouTube: 12/11, 11h11
