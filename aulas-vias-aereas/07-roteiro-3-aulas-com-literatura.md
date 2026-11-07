@@ -55,14 +55,16 @@ Esta é a abertura olho no olho da Aula #11. Cada frase abaixo é seguida da evi
 
 Cada peça tem a sua evidência.
 
-**Peça 1. Não checar sinais vitais esconde o nível de estresse e ansiedade.**
-- Em extrações com lidocaína e adrenalina, as pressões sistólica e diastólica subiram durante a anestesia e a extração. Os autores recomendam manejar a ansiedade em pacientes ansiosos e hipertensos [17].
-- Na endodontia, pacientes mais ansiosos tiveram frequência cardíaca mais elevada [18].
+**Peça 1. Não checar sinais vitais esconde o estresse e a ansiedade, e o estresse libera adrenalina endógena.**
+- Durante procedimentos odontológicos, a adrenalina plasmática ficou **muito mais alta durante o procedimento** do que antes e depois, pela carga emocional [53]. Em crianças com comportamento negativo, a adrenalina e a noradrenalina urinárias aumentaram de forma significativa durante o tratamento [54].
+- Na extração, as pressões sistólica e diastólica sobem durante a anestesia e a extração. Os autores recomendam manejar a ansiedade [17]. Na endodontia, pacientes mais ansiosos têm frequência cardíaca mais alta [18].
+- **Uma anestesia eficaz reduz a resposta simpática:** depois de alcançada uma anestesia local adequada, as respostas hemodinâmica e simpática ao tratamento restaurador foram mínimas [55]. A sedação também atenua a resposta simpatoadrenal ao estresse cirúrgico [56].
+- **Como comparar com o tubete:** um tubete de lidocaína 2% com adrenalina 1:100.000 (18 µg) dobra a adrenalina plasmática [57]. Mesmo assim, o efeito hemodinâmico de dois tubetes (3,6 mL de lidocaína 1:80.000) foi **menor que o de um exercício leve**, como caminhar a 4,8 km/h [58]. Em pacientes com doença cardiovascular, um tubete teve pouca ou nenhuma consequência hemodinâmica [59].
 
-**Peça 2. O estresse pode estar relacionado à quantidade de anestésico local.**
-- Num ensaio randomizado em pacientes **normotensos**, a pressão sistólica subiu de forma significativa após lidocaína com adrenalina 1:80.000 [19].
-- Na base de farmacovigilância da FDA, foram registrados 1.956 eventos adversos com anestésicos locais odontológicos, **46% deles graves**, mais frequentes com vasoconstritor (70,1% contra 34,2%) e com outros medicamentos em uso [20].
-- Entre 369 dentistas, só **2,7%** tinham conhecimento detalhado da toxicidade sistêmica por anestésico local e só **3,3%** tinham um plano de resposta para ela. Apenas 40% calculavam a dose pelo peso [21].
+**Peça 2. O estresse e a dor levam a mais anestésico, e a dose tem limite.**
+- **Sem vasoconstritor, mais dor e mais anestésico:** num ensaio randomizado em cardiopatas valvares no InCor-USP, o grupo da lidocaína sem adrenalina teve **mais queixas de dor e recebeu mais anestésico local** [60].
+- **O limite nos pacientes com doença cardiovascular é de 0,04 mg de adrenalina.** Isso equivale a cerca de **2 tubetes de 1,8 mL** de solução 1:100.000 (18 µg cada) [61]. Uma revisão sistemática de ensaios randomizados concluiu que **1 a 2 tubetes** com adrenalina 1:80.000, 1:100.000 ou 1:200.000 são seguros em hipertensos e coronariopatas **controlados** [62]. *Na conta: 0,04 mg ÷ 0,018 mg ≈ 2,2 tubetes (1:100.000). Com 1:200.000, cerca de 4,4. Com 1:80.000, cerca de 1,8.*
+- Entre 369 dentistas, só **2,7%** tinham conhecimento detalhado da toxicidade sistêmica por anestésico local e só **3,3%** tinham um plano de resposta. Apenas 40% calculavam a dose pelo peso [21].
 
 **Peça 3. Depressão ou excitação do sistema nervoso central, que pode levar a convulsões, crises hipertensivas ou hipotensivas, taqui ou bradicardias.**
 - Na clínica geral britânica, a **convulsão foi a emergência mais frequente** [22].
@@ -107,7 +109,7 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 
 **Evidência:**
 - emergências sem sedação: convulsão e corpo estranho são as duas mais frequentes [22], com 42 eventos graves em um ano [25];
-- perfusão alterada na rotina: anestésico local, vasoconstritor e ansiedade [17, 19, 20];
+- perfusão alterada na rotina: o estresse libera adrenalina endógena [53, 54], a anestesia eficaz reduz essa resposta [55], e a dose tem limite: 0,04 mg, cerca de 2,2 tubetes 1:100.000 [61, 62];
 - obstrução em todas as especialidades: prótese [32], endodontia [33], implante [34], **ortodontia, com 1 em cada 5 ortodontistas** já tendo um paciente que inalou ou engoliu parte do aparelho [35], e mais eventos entre profissionais de 1 a 7 anos de formados [36];
 - conhecimento insuficiente [13, 14, 15, 24].
 
@@ -117,7 +119,7 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 **Blocos (cerca de 19 min):**
 1. 0:00–1:45 · **Olho no olho: a reflexão** (Parte 1, itens 1 a 5)
 2. 1:45–5:00 · O efeito dominó (item 6)
-3. 5:00–7:30 · A perfusão na rotina
+3. 5:00–7:30 · Estresse, adrenalina endógena e o limite de tubetes (peças 1 e 2)
 4. 7:30–11:00 · A obstrução em toda a Odontologia, incluindo a ortodontia
 5. 11:00–13:30 · O que sabemos, de verdade
 6. 13:30–16:30 · "Exclusivo de uma academia de sedação?", a cultura de segurança e a RDC 1002/2025 (itens 7 a 9). Fecha com a antecipação: "Toda grande mudança na segurança começa questionando aquilo que aprendemos a considerar seguro." O tema completo fica na #13
@@ -225,6 +227,16 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 50. Corrêa et al. Cad Saude Publica 2020. doi:10.1590/0102-311X00197819
 51. Reason J. Human error: models and management. BMJ 2000;320:768-770. doi:10.1136/bmj.320.7237.768
 52. Kohn WG et al. (CDC). Guidelines for infection control in dental health-care settings, 2003. MMWR Recomm Rep 2003;52(RR-17). PMID 14685139
+53. Taggart P et al. Br Med J 1976. doi:10.1136/bmj.2.6039.787
+54. Sakuma N, Nagasaka N. ASDC J Dent Child 1996. PMID 8708120
+55. Cioffi GA et al. J Am Dent Assoc 1985. doi:10.14219/jada.archive.1985.0038
+56. Dionne RA et al. Anesth Analg 1984. PMID 6731889
+57. Tolas AG et al. J Am Dent Assoc 1982. doi:10.14219/jada.archive.1982.0114
+58. Niwa H et al. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2000. doi:10.1067/moe.2000.107534
+59. Niwa H et al. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2001. doi:10.1067/moe.2001.118903
+60. Laragnoit AB et al. Clinics (São Paulo) 2009. doi:10.1590/s1807-59322009000300005
+61. Hashemi SH et al. Glob J Health Sci 2016. doi:10.5539/gjhs.v8n10p227
+62. Seminario-Amez M et al. J Evid Based Dent Pract 2021. doi:10.1016/j.jebdp.2021.101569
 
 **Antes de usar em slide:**
 - os autores estão sem iniciais (o PubMed retornou só o sobrenome); completar ao montar a descrição do YouTube;

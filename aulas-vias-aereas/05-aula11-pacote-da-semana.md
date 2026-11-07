@@ -68,28 +68,40 @@ instale.
 
 Repare: nenhuma dessas peças é sedação. Todas são Odontologia do dia a dia."
 
-### Bloco 3 · A perfusão na rotina · 5:30–7:30 · Slide 2
+### Bloco 3 · Estresse, adrenalina e o limite de tubetes · 5:30–7:30 · Slide 2
 
-**Slide 2:** "A pressão sobe na rotina." Ensaio randomizado: a pressão
-sistólica sobe após lidocaína com adrenalina 1:80.000 em normotensos
-(Abu-Mostafa, J Clin Exp Dent 2015) · idosos: frequência cardíaca e pressão
-sobem na anestesia e na extração (Li, Front Public Health 2022) ·
-farmacovigilância da FDA: 1.956 eventos com anestésicos locais
-odontológicos, 46% graves, mais frequentes com vasoconstritor (Bayram, Int
-Dent J 2025).
+**Slide 2:** "O estresse também é adrenalina." Adrenalina plasmática muito
+mais alta durante o procedimento pela carga emocional (Taggart et al., 1976) ·
+com anestesia eficaz, a resposta simpática é mínima (Cioffi et al., 1985) ·
+dois tubetes têm efeito hemodinâmico menor que uma caminhada leve (Niwa et
+al., 2000) · limite em pacientes com doença cardiovascular: **0,04 mg de
+adrenalina ≈ 2,2 tubetes 1:100.000** (Hashemi et al., 2016; Seminario-Amez et
+al., 2021).
 
 **Fala:**
-"A primeira peça do dominó já foi medida. Num ensaio randomizado com pacientes
-normotensos, a pressão sistólica subiu de forma significativa depois da
-anestesia com lidocaína e adrenalina. Em idosos com doenças sistêmicas, a
-frequência cardíaca e a pressão sobem já na anestesia local e seguem subindo na
-extração. E, na base de farmacovigilância da FDA, quase metade dos eventos
-adversos ligados aos anestésicos locais odontológicos foram graves, mais
-frequentes quando havia vasoconstritor.
+"A primeira peça do dominó tem nome: adrenalina. Mas não é só a do tubete. A
+literatura diz: durante o procedimento odontológico, a adrenalina plasmática
+do paciente fica muito mais alta pela carga emocional — Taggart e
+colaboradores, 1976. É o estresse que eu não enxergo quando não afiro os
+sinais vitais.
 
-Isso é perfusão. É fisiologia de qualquer paciente, em qualquer especialidade.
-O mundo da saúde insiste em entregar esse conhecimento à sedação. Nós
-insistimos em devolvê-lo à Odontologia."
+E o que reduz essa resposta? Uma anestesia eficaz. Depois de alcançada uma
+anestesia local adequada, a resposta simpática ao tratamento restaurador foi
+mínima — Cioffi e colaboradores, 1985. Para comparar: dois tubetes com
+adrenalina produziram um efeito hemodinâmico menor que o de uma caminhada leve
+— Niwa e colaboradores, 2000.
+
+Mas a dose tem limite. Num ensaio no InCor, sem vasoconstritor, os pacientes
+tiveram mais dor e receberam mais anestésico — Laragnoit e colaboradores,
+2009. E, no paciente com doença cardiovascular, o limite é de 0,04 mg de
+adrenalina: cerca de dois tubetes, 2,2 tubetes de solução 1:100.000 — Hashemi
+e colaboradores, 2016. Uma revisão sistemática confirma: um a dois tubetes são
+seguros nos hipertensos e coronariopatas controlados — Seminario-Amez e
+colaboradores, 2021.
+
+Isso é perfusão. É farmacologia e fisiologia de qualquer paciente, em qualquer
+especialidade. O mundo da saúde insiste em entregar esse conhecimento à
+sedação. Nós insistimos em devolvê-lo à Odontologia."
 
 ### Bloco 4 · A obstrução está em toda a Odontologia · 7:30–10:00 · Slides 3 e 4
 
