@@ -1,0 +1,230 @@
+# Aulas #11, #12 e #13: da reflexão ao raciocínio em 3 etapas
+
+Projeto Cultura de Segurança · YouTube · quintas, 11h11 · até 20 min por aula
+Rascunho para validação da Profa. Dra. Carla Gamba · literatura conferida no PubMed em 07/11/2026
+
+**Tese das três aulas:** a via aérea, a monitorização e o suporte de vida não pertencem à sedação. Pertencem a toda a Odontologia. O Plano de Segurança do Paciente (PSP) é a trilha que organiza esse percurso, ainda novo na Odontologia brasileira.
+
+---
+
+# PARTE 1 — A reflexão, frase por frase, com a literatura que a confirma
+
+Esta é a abertura olho no olho da Aula #11. Cada frase abaixo é seguida da evidência que a sustenta. As referências entram como legenda ou rodapé, não precisam ser faladas.
+
+## 1. "Ontem sedei um paciente ASA III para uma simples manutenção das próteses protocolo sobre implante."
+
+**O que a frase afirma:** um procedimento simples, num paciente com doença sistêmica, carrega um risco que o procedimento não anuncia.
+
+- Com o envelhecimento da população, cresce o número de pacientes odontológicos com hipertensão e diabetes, que **desenvolvem cada vez mais emergências durante o tratamento**. Muitos profissionais ainda não têm as habilidades para manejá-las [1].
+- Em idosos com doenças sistêmicas, a frequência cardíaca e a pressão arterial **sobem de forma significativa já na anestesia local** e seguem subindo na extração [2].
+- Em 13.527 extrações num hospital de Xangai, a hipertensão foi a comorbidade mais comum, e a monitorização cardíaca contínua detectou mais eventos cardiovasculares que o monitor convencional [3].
+
+## 2. "Revisava o nosso checklist para registrar em vídeo e entregar à comunidade."
+
+**O que a frase afirma:** o checklist é uma ferramenta de segurança, não uma burocracia.
+
+- Numa revisão de escopo com 27 estudos sobre checklists na Odontologia, **5 dos 6 que avaliaram efetividade mostraram redução de incidentes e eventos adversos** [4].
+- Nos eventos adversos odontológicos analisados na Veterans Health Administration, a **causa mais comum foi a falta de protocolo**, e a ação mais recomendada foi desenvolver ou revisar um protocolo [5].
+
+## 3. "Coloquei o estetoscópio pré-traqueal. Quando o paciente faz uma pausa, muito breve, eu já estou aspirando, revisando secreção, protegendo a via aérea."
+
+**O que a frase afirma:** ouvir a via aérea permite agir antes do oxímetro.
+
+- O estetoscópio pré-traqueal foi o **primeiro monitor a detectar o evento adverso em 64% dos casos**, contra 18% da capnografia e 15% da oximetria. Teve o melhor desempenho na obstrução de via aérea superior, com valor preditivo positivo de 100% [6].
+- Num ensaio randomizado em sedação odontológica pediátrica, o estetoscópio pré-traqueal **mais que dobrou os eventos respiratórios detectados**, de 20% para 44%, com menos falsos positivos que a capnografia [7].
+- Na ordem de importância dos recursos de monitorização no consultório, o primeiro é o **pessoal responsável**, seguido da pressão arterial, da oximetria, do ECG e do estetoscópio pré-traqueal ou da capnografia [8].
+
+## 4. "Eu não decido fazer isso. Eu faço. Em que momento isso se tornou automático em mim?"
+
+**O que a frase afirma:** a automaticidade é construída por treino deliberado e se perde sem ele.
+
+- Residentes treinados com simulação de emergências tiveram 90,9 contra 61,2 pontos num exame prático. **Todos foram aprovados, contra nenhum do grupo de aulas expositivas** [9].
+- Após simulação de alta fidelidade com cenários odontológicos, capacidade e autoeficácia **se mantiveram estáveis de 9 a 11 meses** depois [10].
+- Sem treino, o tempo até a ventilação de resgate sobe de cerca de 57 para cerca de 90 segundos em quatro meses [11], e a habilidade decai em seis meses [12].
+
+## 5. "Em 2000, depois de uma certificação em SBV, eu já tinha mais de 15 anos de Odontologia. Como eu nunca tinha percebido os riscos que nós mesmos provocamos?"
+
+**O que a frase afirma:** a formação odontológica não ensina a enxergar esse risco. Saber não é o mesmo que conseguir fazer.
+
+- No Brasil, só **41% dos dentistas** se julgam capazes de diagnosticar a causa de uma emergência [13].
+- Num hospital da USP, **87% tinham treinamento em SBV, mas só 43%** se diziam capazes de executar as manobras [14].
+- Em 2026, **82% dos acadêmicos brasileiros** disseram não se sentir preparados para manejar emergências [15].
+- A segurança do paciente teve **reconhecimento tardio na Odontologia** em comparação com outras áreas da saúde [16].
+
+## 6. "O risco na nossa rotina funciona como um efeito dominó."
+
+Cada peça tem a sua evidência.
+
+**Peça 1. Não checar sinais vitais esconde o nível de estresse e ansiedade.**
+- Em extrações com lidocaína e adrenalina, as pressões sistólica e diastólica subiram durante a anestesia e a extração. Os autores recomendam manejar a ansiedade em pacientes ansiosos e hipertensos [17].
+- Na endodontia, pacientes mais ansiosos tiveram frequência cardíaca mais elevada [18].
+
+**Peça 2. O estresse pode estar relacionado à quantidade de anestésico local.**
+- Num ensaio randomizado em pacientes **normotensos**, a pressão sistólica subiu de forma significativa após lidocaína com adrenalina 1:80.000 [19].
+- Na base de farmacovigilância da FDA, foram registrados 1.956 eventos adversos com anestésicos locais odontológicos, **46% deles graves**, mais frequentes com vasoconstritor (70,1% contra 34,2%) e com outros medicamentos em uso [20].
+- Entre 369 dentistas, só **2,7%** tinham conhecimento detalhado da toxicidade sistêmica por anestésico local e só **3,3%** tinham um plano de resposta para ela. Apenas 40% calculavam a dose pelo peso [21].
+
+**Peça 3. Depressão ou excitação do sistema nervoso central, que pode levar a convulsões, crises hipertensivas ou hipotensivas, taqui ou bradicardias.**
+- Na clínica geral britânica, a **convulsão foi a emergência mais frequente** [22].
+- No Brasil, os dentistas relataram pré-síncope (54%), hipotensão ortostática (44%), crise hipertensiva (15%) e convulsão (6%) [13].
+- O **reflexo vasovagal é a emergência mais frequente** durante procedimentos odontológicos, com hiperatividade parassimpática seguida de simpática [23].
+
+**Peça 4. Engasgo e obstrução por corpo estranho.**
+- Na Grã-Bretanha, o **corpo estranho deglutido foi a 2ª emergência mais frequente** [22].
+- Na Veterans Health Administration, a ingestão foi o **2º evento adverso mais frequente** (19%) [5].
+- Entre dentistas, só **36%** acertaram a conduta na aspiração de corpo estranho [24].
+
+**Peça 5. A deterioração clínica imediata.**
+- Na Saxônia, Alemanha, houve **42 eventos graves com risco de vida** em cerca de 1,28 milhão de atendimentos em 12 meses [25].
+- Na Grã-Bretanha, foram relatados 20 óbitos ligados a emergências na prática odontológica [22].
+- Eventos adversos ocorrem em **1,4% dos pacientes odontológicos**, e ao menos dois terços são evitáveis [26].
+
+## 7. "O mundo da saúde pretende entregar a sedação. Os riscos estão na falta de conhecimento de anatomia, fisiologia e farmacologia, na falta de monitorização."
+
+- A revisão de escopo internacional sobre emergências na prática odontológica encontrou **falta de preparo como padrão**, apesar do reconhecimento universal da importância do tema [27].
+- A monitorização revela **tendências deletérias graduais, reversíveis antes da emergência** [8].
+
+## 8. "E na falta de vontade de olhar para uma resolução, a RDC 1002/2025. Ela precisa ser revisada, mas precisa ser estudada e apreciada, como fizemos com a Lei Seca e com o EPI."
+
+- Numa revisão global sobre legislação de trânsito e trauma maxilofacial, os autores concluem que **a legislação sozinha não basta**. É preciso fiscalização consistente e educação do público. O Brasil aparece como exemplo de leis abrangentes com alta mortalidade [28].
+- **Leitura para a aula:** uma norma só transforma a prática quando é estudada, compreendida e incorporada. É exatamente o papel de uma cultura de segurança.
+- As oito estratégias de cultura de segurança na Odontologia incluem educação da equipe, **protocolos e checklists**, notificação não punitiva e melhoria contínua [29].
+
+## 9. "Estamos num momento de inflexão. A dissonância cognitiva aponta apenas um caminho."
+
+- A dissonância cognitiva (Festinger, 1957) já foi apresentada na Aula #10: diante de evidências que contrariam a prática, há três saídas, e só uma é coerente, que é mudar o comportamento [30].
+- Cerca de 95% do atendimento odontológico acontece no consultório, onde a pesquisa em segurança do paciente ainda é escassa [31]. É ali que a inflexão precisa acontecer.
+
+---
+
+# PARTE 2 — O raciocínio em 3 etapas
+
+Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusão que abre a etapa seguinte. Os três momentos seguem os verbos da Resolução CFO 295/2026: prevenir, reconhecer, manejar e resgatar.
+
+## ETAPA 1 · Aula #11 · 12/11 · "O efeito dominó: o risco que nós mesmos provocamos"
+
+**Premissa:** o risco à via aérea e à vida existe em toda a Odontologia, não só na sedação.
+
+**Evidência:**
+- emergências sem sedação: convulsão e corpo estranho são as duas mais frequentes [22], com 42 eventos graves em um ano [25];
+- perfusão alterada na rotina: anestésico local, vasoconstritor e ansiedade [17, 19, 20];
+- obstrução em todas as especialidades: prótese [32], endodontia [33], implante [34], **ortodontia, com 1 em cada 5 ortodontistas** já tendo um paciente que inalou ou engoliu parte do aparelho [35], e mais eventos entre profissionais de 1 a 7 anos de formados [36];
+- conhecimento insuficiente [13, 14, 15, 24].
+
+**Conclusão:** "A via aérea não é tema exclusivo de uma academia de sedação."
+**Ponte para a Etapa 2:** "Se o risco existe em toda consulta, o que você avalia antes de abrir a boca do paciente?"
+
+**Blocos (cerca de 19 min):**
+1. 0:00–1:45 · **Olho no olho: a reflexão** (Parte 1, itens 1 a 5)
+2. 1:45–5:00 · O efeito dominó (item 6)
+3. 5:00–7:30 · A perfusão na rotina
+4. 7:30–11:00 · A obstrução em toda a Odontologia, incluindo a ortodontia
+5. 11:00–13:30 · O que sabemos, de verdade
+6. 13:30–16:30 · "Exclusivo de uma academia de sedação?", a cultura de segurança e a RDC 1002/2025 (itens 7 a 9)
+7. 16:30–19:00 · Quatro gestos para a próxima consulta e convite: Trilha 295, Black Friday até 16/11
+
+## ETAPA 2 · Aula #12 · 19/11 · "Prevenir: avaliar e monitorizar ventilação, oxigenação e perfusão"
+
+**Premissa:** ventilação, oxigenação e perfusão são a fisiologia de qualquer paciente na cadeira. Prevenir é avaliá-las antes e acompanhá-las durante o atendimento.
+
+**Evidência:**
+- **monitorizar:** detecta tendências antes da emergência [8], e monitorizar mais detecta mais [3];
+- **triagem do sono (STOP-Bang):** 48% dos pacientes de clínicas odontológicas em risco de apneia [37]; numa clínica-escola, 398 pacientes de alto risco e **nenhum encaminhado** [38]; a polissonografia diagnostica, e o dentista tria e encaminha [39];
+- **anatomia (Mallampati e SARI):** cada ponto a mais no Mallampati mais que dobra a chance de apneia [40]; o SARI de El-Ganzouri tem 7 critérios, 6 de exame de cabeça e pescoço [41];
+- **IMC:** crianças com sobrepeso tiveram 3,4 vezes mais hipoxemia na sedação odontológica [42]; pacientes com apneia precisaram 3,3 vezes mais de manobras de via aérea [43];
+- **ortodontia e sono:** horas de educação continuada foram o principal fator associado a triar apneia [44].
+
+**Conclusão:** "A avaliação leva dois minutos e usa instrumentos que o dentista já domina."
+**Ponte para a Etapa 3:** "E quando, mesmo assim, o risco se instala?"
+
+**Blocos (cerca de 19 min):**
+1. 0:00–1:30 · Olho no olho: retoma a pergunta "você aferiu a pressão?"
+2. 1:30–4:00 · Ventilação, oxigenação e perfusão, e "o primeiro monitor é a equipe"
+3. 4:00–8:00 · STOP-Bang e polissonografia
+4. 8:00–12:30 · Mallampati e SARI
+5. 12:30–14:30 · IMC
+6. 14:30–16:30 · Ortodontia e sono
+7. 16:30–19:00 · O roteiro de 2 minutos (pergunte, meça, olhe, decida, registre) e convite: Trilha 295, bônus até 27/11
+
+## ETAPA 3 · Aula #13 · 26/11 · "Reconhecer, manejar, resgatar, e o PSP como trilha"
+
+**Premissa:** o resgate é uma competência treinável, e o PSP é o que transforma conhecimento individual em segurança do consultório.
+
+**Evidência:**
+- **reconhecer:** o vídeo da Sedation Academy (ronco, esforço paradoxal, pouca movimentação de ar, silêncio), lido para toda a Odontologia; o estetoscópio pré-traqueal [6, 7];
+- **manejar:** aspiração e secreções, posicionamento, laringoespasmo, obstrução por corpo estranho (Dossiê 03, a fazer);
+- **resgatar:** dentistas ventilaram com dispositivo supraglótico sem insuflação gástrica após treino [45]; a máscara laríngea foi posicionada corretamente após 5 treinos [46];
+- **suporte de vida é de toda a Odontologia:** declaração de política da FDI sobre SBV na prática odontológica [47]; Resuscitation Council UK [48]; **Dental Advanced Life Support na Coreia do Sul** [49]; simulação com 100% contra 0% de aprovação [9] e estabilidade em 11 meses [10];
+- **o PSP como trilha:** a falta de protocolo é a causa mais comum dos eventos [5]; checklists reduzem incidentes [4]; cultura de segurança em oito estratégias [29]; a Odontologia avançou, mas ainda precisa levar a evidência à prática [50].
+
+**Conclusão:** "O PSP não é um documento para a gaveta. É a trilha que organiza, no consultório, o que a literatura mostra funcionar. A RDC 1002/2025 estabelece esse caminho, e a CFO 295/2026 confirma o destino: prevenir, reconhecer, manejar e resgatar."
+
+**Blocos (cerca de 20 min):**
+1. 0:00–1:30 · Olho no olho: "hoje, o minuto em que o risco se instala"
+2. 1:30–3:30 · **O vídeo da Sedation Academy**, com tradução
+3. 3:30–6:00 · Ouvir a via aérea: o estetoscópio pré-traqueal, retomando a cena da #11
+4. 6:00–9:30 · Manejar
+5. 9:30–12:00 · Resgatar
+6. 12:00–14:30 · Suporte de vida é de toda a Odontologia
+7. 14:30–17:30 · O PSP como trilha
+8. 17:30–20:00 · Fechamento e convite: Trilha 295, bônus até 27/11, vagas reais, turma de 5 a 9/12. "Nenhum curso habilita, inclusive o nosso."
+
+---
+
+# Referências (PubMed)
+
+1. Kishimoto N et al. Jpn Dent Sci Rev 2023. doi:10.1016/j.jdsr.2023.02.004
+2. Li X et al. Front Public Health 2022. doi:10.3389/fpubh.2022.938609
+3. Lu Y et al. Med Sci Monit 2014. doi:10.12659/MSM.890131
+4. Zouaidi K et al. Clin Oral Investig 2024. doi:10.1007/s00784-024-05996-6
+5. Lo et al. J Am Dent Assoc 2025. doi:10.1016/j.adaj.2025.07.017
+6. Boriosi JP et al. Paediatr Anaesth 2019. doi:10.1111/pan.13616
+7. Somri M et al. J Clin Pediatr Dent 2017. doi:10.17796/1053-4628-41.2.154
+8. Fukayama H, Yagiela JA. Int Dent J 2006. doi:10.1111/j.1875-595x.2006.tb00081.x
+9. Manton JW et al. Anesth Prog 2021. doi:10.2344/anpr-67-04-04
+10. Alawaji et al. BMC Med Educ 2026. doi:10.1186/s12909-026-09182-y
+11. McCaw et al. Adv Simul 2023. doi:10.1186/s41077-023-00244-5
+12. Chan et al. PLOS Glob Public Health 2023. doi:10.1371/journal.pgph.0000705
+13. Arsati F et al. J Dent Educ 2010. PMID 20516306
+14. Stafuzza TC et al. Braz Oral Res 2014. doi:10.1590/1807-3107bor-2014.vol28.0029
+15. de Aquino et al. Eur J Dent Educ 2026. doi:10.1111/eje.70151
+16. Padmanabhan V et al. BMJ Open Qual 2024. doi:10.1136/bmjoq-2023-002502
+17. Kumari et al. J Pharm Bioallied Sci 2025. doi:10.4103/jpbs.jpbs_687_25
+18. Olivieri JG et al. J Endod 2020. doi:10.1016/j.joen.2020.10.024
+19. Abu-Mostafa N et al. J Clin Exp Dent 2015. doi:10.4317/jced.52321
+20. Bayram et al. Int Dent J 2025. doi:10.1016/j.identj.2025.03.002
+21. Bakır et al. Healthcare (Basel) 2026. doi:10.3390/healthcare14142033
+22. Atherton GJ et al. Br Dent J 1999. doi:10.1038/sj.bdj.4800023
+23. Yamashita et al. Front Physiol 2025. doi:10.3389/fphys.2025.1607816
+24. Shaath H et al. Eur J Dent 2023. doi:10.1055/s-0042-1755628
+25. Müller MP et al. Emerg Med J 2008. doi:10.1136/emj.2007.052936
+26. Tokede O et al. J Patient Saf 2024. doi:10.1097/PTS.0000000000001255
+27. Vaughan M et al. Aust Dent J 2018. doi:10.1111/adj.12649
+28. Grillo R et al. J Craniomaxillofac Surg 2025. doi:10.1016/j.jcms.2025.11.005
+29. Ensaldo-Carrasco E et al. BDJ Open 2026. doi:10.1038/s41405-026-00500-6
+30. Festinger L. A Theory of Cognitive Dissonance. Stanford University Press; 1957.
+31. Bailey E, Dungarwalla M. Prim Dent J 2021. doi:10.1177/2050168420980990
+32. Tiwana KK et al. J Am Dent Assoc 2004. doi:10.14219/jada.archive.2004.0404
+33. Susini G et al. Int Endod J 2007. doi:10.1111/j.1365-2591.2007.01249.x
+34. Araujo SCS et al. J Stomatol Oral Maxillofac Surg 2021. doi:10.1016/j.jormas.2021.10.009
+35. Varho R et al. Acta Odontol Scand 2015. doi:10.3109/00016357.2014.971867
+36. Hisanaga R et al. Bull Tokyo Dent Coll 2014. doi:10.2209/tdcpublication.55.55
+37. Lonia L et al. Medicina (Kaunas) 2020. doi:10.3390/medicina56070324
+38. Guess et al. J Dent Educ 2021. doi:10.1002/jdd.12831
+39. Kapur VK et al. J Clin Sleep Med 2017. doi:10.5664/jcsm.6506
+40. Nuckton TJ et al. Sleep 2006. doi:10.1093/sleep/29.7.903
+41. el-Ganzouri AR et al. Anesth Analg 1996. doi:10.1097/00000539-199606000-00017
+42. Sevgili, Değirmencioğlu. J Anesth 2026. doi:10.1007/s00540-026-03879-6
+43. Ceban et al. Sleep Med Rev 2024. doi:10.1016/j.smrv.2024.102029
+44. Triggs et al. J Clin Exp Dent 2022. doi:10.4317/jced.59708
+45. Keilholz L, Mutzbauer TS. Br Dent J 2015. doi:10.1038/sj.bdj.2015.385
+46. Morse Z et al. Anesth Prog 2002. PMID 12779108
+47. FDI World Dental Federation. Int Dent J 2022. doi:10.1016/j.identj.2021.11.009
+48. Jevon P. Br Dent J 2016. doi:10.1038/sj.bdj.2016.181
+49. Kim. J Dent Anesth Pain Med 2026. doi:10.17245/jdapm.2026.26.189
+50. Corrêa CDTSO et al. Cad Saude Publica 2020. doi:10.1590/0102-311X00197819
+
+**Antes de usar em slide:**
+- conferir no texto completo as iniciais de autores marcadas sem inicial;
+- ler o texto completo de [47] e [49];
+- confirmar o direito de uso do reel da Sedation Academy na #13.
