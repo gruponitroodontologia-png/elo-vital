@@ -124,6 +124,24 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Formatos gravados pela Carla são **talking-head** (sem encaixar outras
   imagens); citações entram como **legenda**, não precisam ser faladas.
 
+## Trilha 295 (Programa de Complementação para a Habilitação Básica)
+- Lançada em live em 05/11/2026 (replay no Substack:
+  https://gruponitro.substack.com/p/replay-live-lancamento-programa-de).
+- Público: CD habilitado em N2O que já usa, ou não, benzodiazepínicos e
+  anti-histamínicos com finalidade sedativa. Reúne complementação de carga
+  horária + certificações exigidas para a Habilitação Básica em Sedação.
+- Percursos versáteis (raciocínio farmacológico, prática clínica supervisionada,
+  suporte de vida, ou completo até o pedido de registro). **Trilha 295 Online:
+  104 h telepresenciais.** Página: https://gruponitrosedacao.com.br/trilha295
+- Black Friday: 47% de redução no custo total até 16/11.
+- `gruponitro.substack.com` está liberado na rede do ambiente (Instagram não).
+
+## Aulas gratuitas de vias aéreas (11, 12 e 13)
+- Material em `aulas-vias-aereas/` (dossiês 01–02 com DOIs, tradução do reel
+  da Sedation Academy, roteiro das 3 aulas, texto "Olho no olho" da Aula 11).
+- Tese: "a via aérea não pertence à sedação; pertence a toda a odontologia".
+- SARI = Simplified Airway Risk Index (El-Ganzouri 1996).
+
 ## Pendências / próximos passos
 - Confirmar a **data-limite exata + artigo** do prazo da CFO (hoje usamos
   "janeiro de 2027" como informado pela Carla).
