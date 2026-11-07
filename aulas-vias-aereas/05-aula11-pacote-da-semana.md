@@ -141,8 +141,7 @@ treinados, 43% aptos** (Stafuzza, Braz Oral Res 2014).
 "Quanto sabemos sobre isso? Num estudo com dentistas, só 36% acertaram a
 conduta diante da aspiração de um corpo estranho. Num estudo brasileiro de
 2026, 82% dos acadêmicos disseram não se sentir preparados para manejar uma
-emergência. E, num hospital da USP, 87% dos dentistas tinham treinamento em
-Suporte Básico de Vida, mas só 43% se diziam capazes de executar as manobras.
+emergência. E, como vimos no início, 87% treinados contra 43% aptos.
 
 Saber não é o mesmo que conseguir fazer. E a competência que não é praticada
 se perde: sem treino, o tempo até a ventilação de resgate sobe de cerca de 57
