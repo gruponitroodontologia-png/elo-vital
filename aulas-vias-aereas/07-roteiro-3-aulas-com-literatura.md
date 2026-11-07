@@ -155,10 +155,20 @@ de fluxo aéreo, ou seja, obstrução completa. E assim cai mais uma peça do
 nosso dominó."* (Gancho para a Aula #13, em que o vídeo da Sedation Academy
 mostra exatamente esse sinal.)
 
-**Peça 5. A deterioração clínica imediata.**
-- Na Saxônia, Alemanha, houve **42 eventos graves com risco de vida** em cerca de 1,28 milhão de atendimentos em 12 meses [25].
-- Na Grã-Bretanha, foram relatados 20 óbitos ligados a emergências na prática odontológica [22].
-- Eventos adversos ocorrem em **1,4% dos pacientes odontológicos**, e ao menos dois terços são evitáveis [26].
+**Peça 5. A deterioração clínica imediata, e a red flag que a Odontologia ainda não ouviu.**
+- Na Saxônia, Alemanha, houve **42 eventos graves com risco de vida** em cerca de 1,28 milhão de atendimentos em 12 meses [25]. Na Grã-Bretanha, foram relatados 20 óbitos ligados a emergências na prática odontológica [22].
+- Eventos adversos ocorrem em **1,4% dos pacientes odontológicos**, ao menos dois terços são evitáveis, e **8% dos pacientes lesados procuraram apenas o médico**, sem retornar ao dentista [26]. Muitas vezes, o profissional nem chega a saber que o dano ocorreu.
+- A **causa mais comum** dos eventos adversos odontológicos foi a **falta de protocolo** [5]. Só **44,5%** dos dentistas relataram protocolo de emergência na clínica, e 7,5% tinham DEA [74]. A subnotificação limita a compreensão real dos incidentes [75].
+
+**Conclusão da peça 5: a red flag**
+
+A RDC 1002/2025 da ANVISA, ao estabelecer o Plano de Segurança do Paciente no
+consultório, **confirma** o que a literatura já vinha mostrando: o risco existe,
+é em grande parte evitável e depende de protocolo. A norma precisa ser revisada,
+mas, antes, estudada e apreciada. Ainda assim, grande parte da Odontologia segue
+como se não ouvisse e não enxergasse esse alerta.
+
+**Fechamento do dominó:** *"E cai a última peça do nosso dominó."*
 
 ## 7. "O mundo da saúde pretende entregar a sedação. Os riscos estão na falta de conhecimento de anatomia, fisiologia e farmacologia, na falta de monitorização."
 
@@ -327,6 +337,8 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 71. Velapati S et al. J Bronchology Interv Pulmonol 2026. doi:10.1097/LBR.0000000000001072
 72. Xie F et al. Medicine (Baltimore) 2026. doi:10.1097/MD.0000000000047237
 73. Honda et al. Kyobu Geka 2024. PMID 39675917
+74. Khattak O et al. PeerJ 2026. doi:10.7717/peerj.21098
+75. Siriwatana K, Pongpanich S. BMC Oral Health 2024. doi:10.1186/s12903-024-05034-7
 
 **Antes de usar em slide:**
 - os autores estão sem iniciais (o PubMed retornou só o sobrenome); completar ao montar a descrição do YouTube;

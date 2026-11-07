@@ -18,7 +18,7 @@
   visual da página. **Sem preço.**
 - **Fio condutor:** o efeito dominó. Nenhuma das peças é sedação; todas são
   odontologia de rotina.
-- **Trilha 295:** entra **só no Bloco 8**, como convite. A urgência vem do que
+- **Trilha 295:** entra **só no Bloco 7 (convite final)**, como convite. A urgência vem do que
   é real: **Black Friday até 16/11**, boleto em 6× até 16/11, bônus até 27/11,
   vagas (12 na Mentoria, 8 na Imersão, 20 no SAVO) e a turma presencial de
   **5 a 9 de dezembro**. Nunca vem do prazo do Conselho.
@@ -189,6 +189,20 @@ E há um dado que merece atenção: no Tokyo Dental College, esses eventos se
 concentraram nos profissionais com 1 a 7 anos de formados. Justamente quem
 ainda não procurou uma formação em sedação."
 
+#### Bloco 4 (cont.) · Ortodontia · cerca de 40 s · Slide 5
+
+**Slide 5:** "1 em cada 5." Varho et al., Acta Odontol Scand, 2015: 20% dos
+ortodontistas finlandeses tiveram um paciente que inalou ou engoliu parte do
+aparelho. Bandas, fios e chaves de expansor (Karamani, J Orthod Sci, 2022).
+
+**Fala:**
+"Agora, a especialidade que menos se associa à via aérea. Num levantamento
+nacional na Finlândia, um em cada cinco ortodontistas teve um paciente que
+inalou ou engoliu parte do aparelho. Os itens mais comuns são bandas, fios e
+chaves de expansor. A ortodontia trabalha com peças pequenas, soltas, na
+entrada da via aérea, muitas vezes com uma criança reclinada na cadeira. Na
+Aula #12, voltaremos à ortodontia por outra porta: o sono."
+
 **Conclusão do Bloco 4 · Peça 4 (cerca de 1 min, Slide 4b):** "Engoliu ou
 aspirou?" Objetos mais aspirados: próteses 29%, coroas 22%, chaves de implante
 17% (Velapati et al., 2026) · "primeiro descartar a via aérea" (Xie et al.,
@@ -223,21 +237,7 @@ obstrução completa.
 
 E assim cai mais uma peça do nosso dominó."
 
-### Bloco 5 · Ortodontia · 12:00–12:45 · Slide 5
-
-**Slide 5:** "1 em cada 5." Varho et al., Acta Odontol Scand, 2015: 20% dos
-ortodontistas finlandeses tiveram um paciente que inalou ou engoliu parte do
-aparelho. Bandas, fios e chaves de expansor (Karamani, J Orthod Sci, 2022).
-
-**Fala:**
-"Agora, a especialidade que menos se associa à via aérea. Num levantamento
-nacional na Finlândia, um em cada cinco ortodontistas teve um paciente que
-inalou ou engoliu parte do aparelho. Os itens mais comuns são bandas, fios e
-chaves de expansor. A ortodontia trabalha com peças pequenas, soltas, na
-entrada da via aérea, muitas vezes com uma criança reclinada na cadeira. Na
-Aula #12, voltaremos à ortodontia por outra porta: o sono."
-
-### Bloco 6 · O que sabemos, de verdade · 12:45–14:00 · Slide 6
+### Bloco 5 · O que sabemos, de verdade · 12:00–13:15 · Slide 6
 
 **Slide 6:** Três números. **36%** acertam a conduta na aspiração de corpo
 estranho (Shaath, Eur J Dent 2023) · **82%** dos acadêmicos brasileiros não se
@@ -254,37 +254,56 @@ Saber não é o mesmo que conseguir fazer. E a competência que não é praticad
 se perde: sem treino, o tempo até a ventilação de resgate sobe de cerca de 57
 para cerca de 90 segundos em quatro meses (McCaw, 2023)."
 
-### Bloco 7 · Cultura de segurança · 14:00–17:00 · Slide 7
+### Bloco 6 · Peça 5: a deterioração clínica e a red flag da RDC 1002/2025 · 13:15–16:45 · Slides 7 e 7b
 
-**Slide 7:** "Já fizemos isso antes." Lei Seca · EPI na Odontologia · RDC
-1002/2025 (ANVISA) · CFO 295/2026: "prevenir, reconhecer, manejar e resgatar".
-Rodapé: eventos adversos em 1,4% dos pacientes odontológicos, 2/3 evitáveis
-(Tokede, J Patient Saf 2024) · reconhecimento tardio da segurança do paciente
-na Odontologia (Padmanabhan, BMJ Open Qual 2024).
+**Slide 7:** "A última peça." 42 eventos graves com risco de vida em cerca de
+1,28 milhão de atendimentos em 1 ano (Müller et al., 2008) · eventos adversos
+em 1,4% dos pacientes, 2/3 evitáveis, e 8% dos lesados procuraram só o médico
+(Tokede et al., 2024) · a causa mais comum é a falta de protocolo (Lo et al.,
+2025) · só 44,5% das clínicas têm protocolo de emergência (Khattak et al.,
+2026).
+
+**Slide 7b:** "Red flag." RDC 1002/2025 (ANVISA) → Plano de Segurança do
+Paciente · CFO 295/2026: "prevenir, reconhecer, manejar e resgatar".
 
 **Fala:**
-"Será a via aérea um tema exclusivo de uma academia de sedação? Não. A sedação
-aumenta o risco, mas não é ela que cria a via aérea. A via aérea está presente
-em toda boca aberta, em toda cadeira reclinada e em todo fio que se solta.
+"A quinta peça é a deterioração clínica imediata. E ela não é teórica. A
+literatura diz: num único ano, 42 eventos graves com risco de vida em cerca de
+1,28 milhão de atendimentos odontológicos — Müller e colaboradores, 2008.
 
-Um estudo americano de 2024, com revisão de prontuários, encontrou eventos
-adversos em 1,4% dos pacientes odontológicos, e ao menos dois terços eram
-evitáveis. A literatura é clara: a segurança do paciente chegou tarde à
-Odontologia.
+E há um dado ainda mais inquietante. Eventos adversos acontecem em 1,4% dos
+pacientes odontológicos, ao menos dois terços são evitáveis, e 8% dos pacientes
+que sofreram dano procuraram apenas o médico, sem retornar ao dentista que os
+atendeu — Tokede e colaboradores, 2024. Muitas vezes, nem chegamos a saber que
+a última peça caiu.
 
-O que falta é conhecimento de anatomia, de fisiologia e de farmacologia. É
-monitorização. E é disposição para olhar para uma resolução. Falo da RDC
-1002/2025 da ANVISA. Ela precisa ser revisada? Não temos a menor dúvida. Mas,
-antes, precisa ser estudada e apreciada, como fizemos com a Lei Seca e com o
-EPI na Odontologia. Toda mudança de cultura passou por resistência, depois por
-estudo, depois por prática. Hoje, ninguém imagina voltar atrás.
+Por que isso acontece? A causa mais comum dos eventos adversos odontológicos
+foi a falta de protocolo — Lo e colaboradores, 2025. E só 44,5% das clínicas
+relataram ter um protocolo de emergência — Khattak e colaboradores, 2026.
 
-Na Aula #10, falamos da dissonância cognitiva. Ela também se aplica aqui:
-diante dessas evidências, só há um caminho coerente. A Resolução CFO 295/2026
-estabelece que o cirurgião-dentista deverá estar apto a prevenir, reconhecer,
-manejar e resgatar. Esses quatro verbos são o roteiro das próximas aulas."
+*(pausa)*
 
-### Bloco 8 · Próximos passos e convite · 17:00–19:45 · Slides 8, 9 e 10
+Isso é uma red flag. E a RDC 1002/2025 da ANVISA, ao estabelecer o Plano de
+Segurança do Paciente no consultório, confirma exatamente o que a literatura já
+vinha mostrando. Ela precisa ser revisada? Não temos a menor dúvida. Mas, antes,
+precisa ser estudada e apreciada. Ainda assim, grande parte da Odontologia
+segue como se não ouvisse e não enxergasse esse alerta.
+
+Será, então, a via aérea um tema exclusivo de uma academia de sedação? Não. A
+sedação aumenta o risco, mas não é ela que cria a via aérea. A via aérea está
+presente em toda boca aberta, em toda cadeira reclinada e em todo fio que se
+solta. A Resolução CFO 295/2026 estabelece que o cirurgião-dentista deverá estar
+apto a prevenir, reconhecer, manejar e resgatar.
+
+Toda grande mudança na segurança começa questionando aquilo que, durante anos,
+aprendemos a considerar seguro. Foi assim com a Lei Seca e com os EPIs, e é
+disso que vamos falar na Aula #13.
+
+*(pausa)*
+
+E cai a última peça do nosso dominó."
+
+### Bloco 7 · Próximos passos e convite · 16:45–19:30 · Slides 8, 9 e 10
 
 **Slide 8:** "Na sua próxima consulta." Aferir a pressão · perguntar sobre ronco ·
 olhar a orofaringe · ter aspiração pronta.
