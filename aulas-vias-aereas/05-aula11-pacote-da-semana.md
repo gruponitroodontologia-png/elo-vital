@@ -68,7 +68,7 @@ instale.
 
 Repare: nenhuma dessas peças é sedação. Todas são Odontologia do dia a dia."
 
-### Bloco 3 · Estresse, adrenalina e o limite de tubetes · 5:30–7:30 · Slide 2
+### Bloco 3 · Estresse, adrenalina e o limite de tubetes · 5:30–8:30 · Slides 2 e 2b
 
 **Slide 2:** "O estresse também é adrenalina." Adrenalina plasmática muito
 mais alta durante o procedimento pela carga emocional (Taggart et al., 1976) ·
@@ -77,6 +77,11 @@ dois tubetes têm efeito hemodinâmico menor que uma caminhada leve (Niwa et
 al., 2000) · limite em pacientes com doença cardiovascular: **0,04 mg de
 adrenalina ≈ 2,2 tubetes 1:100.000** (Hashemi et al., 2016; Seminario-Amez et
 al., 2021).
+
+**Slide 2b:** o cenário. "Implante · ASA II, hipertenso controlado · 2 tubetes
+· primeira fresa · dor." Três setas: mais anestésico além do limite? Seguir com
+dor? Interromper? Embaixo: **"Qual é a sua alternativa?"** Rodapé: Cioffi et
+al., 1985 · Dionne et al., 1984.
 
 **Fala:**
 "A primeira peça do dominó tem nome: adrenalina. Mas não é só a do tubete. A
@@ -99,11 +104,30 @@ e colaboradores, 2016. Uma revisão sistemática confirma: um a dois tubetes sã
 seguros nos hipertensos e coronariopatas controlados — Seminario-Amez e
 colaboradores, 2021.
 
-Isso é perfusão. É farmacologia e fisiologia de qualquer paciente, em qualquer
-especialidade. O mundo da saúde insiste em entregar esse conhecimento à
-sedação. Nós insistimos em devolvê-lo à Odontologia."
+Agora, imagine a cena. Um implante, num paciente ASA II, hipertenso
+controlado. Você já administrou dois tubetes: o limite. Acabou de passar a
+primeira fresa, e ele diz: 'estou sentindo dor'.
 
-### Bloco 4 · A obstrução está em toda a Odontologia · 7:30–10:00 · Slides 3 e 4
+*(pausa)*
+
+Qual é a sua alternativa?
+
+Mais anestésico, além do limite? Seguir com dor, e deixar que a adrenalina do
+próprio paciente faça o que o limite de tubetes queria evitar? Ou interromper,
+com o leito aberto e a confiança abalada?
+
+Sem um protocolo de redução de estresse, com técnica anestésica planejada,
+controle da ansiedade e as vias de sedação previstas na habilitação, você está
+sem alternativas. E a literatura mostra o caminho: com anestesia eficaz, a
+resposta simpática é mínima — Cioffi e colaboradores, 1985. E a sedação atenua
+a resposta ao estresse cirúrgico — Dionne e colaboradores, 1984.
+
+O que muda essa equação é o planejamento, não o improviso. Isso é perfusão. É
+farmacologia e fisiologia de qualquer paciente, em qualquer especialidade. O
+mundo da saúde insiste em entregar esse conhecimento à sedação. Nós insistimos
+em devolvê-lo à Odontologia."
+
+### Bloco 4 · A obstrução está em toda a Odontologia · 8:30–10:45 · Slides 3 e 4
 
 **Slide 3:** "Onde a obstrução acontece." Prótese fixa e cimentação de coroas
 (Tiwana, JADA 2004) · endodontia: 44 aspirações em 11 anos de dados de
@@ -128,7 +152,7 @@ E há um dado que merece atenção: no Tokyo Dental College, esses eventos se
 concentraram nos profissionais com 1 a 7 anos de formados. Justamente quem
 ainda não procurou uma formação em sedação."
 
-### Bloco 5 · Ortodontia · 10:00–11:15 · Slide 5
+### Bloco 5 · Ortodontia · 10:45–11:45 · Slide 5
 
 **Slide 5:** "1 em cada 5." Varho et al., Acta Odontol Scand, 2015: 20% dos
 ortodontistas finlandeses tiveram um paciente que inalou ou engoliu parte do
@@ -142,7 +166,7 @@ chaves de expansor. A ortodontia trabalha com peças pequenas, soltas, na
 entrada da via aérea, muitas vezes com uma criança reclinada na cadeira. Na
 Aula #12, voltaremos à ortodontia por outra porta: o sono."
 
-### Bloco 6 · O que sabemos, de verdade · 11:15–13:15 · Slide 6
+### Bloco 6 · O que sabemos, de verdade · 11:45–13:30 · Slide 6
 
 **Slide 6:** Três números. **36%** acertam a conduta na aspiração de corpo
 estranho (Shaath, Eur J Dent 2023) · **82%** dos acadêmicos brasileiros não se
@@ -159,7 +183,7 @@ Saber não é o mesmo que conseguir fazer. E a competência que não é praticad
 se perde: sem treino, o tempo até a ventilação de resgate sobe de cerca de 57
 para cerca de 90 segundos em quatro meses (McCaw, 2023)."
 
-### Bloco 7 · Cultura de segurança · 13:15–16:30 · Slide 7
+### Bloco 7 · Cultura de segurança · 13:30–16:30 · Slide 7
 
 **Slide 7:** "Já fizemos isso antes." Lei Seca · EPI na Odontologia · RDC
 1002/2025 (ANVISA) · CFO 295/2026: "prevenir, reconhecer, manejar e resgatar".
