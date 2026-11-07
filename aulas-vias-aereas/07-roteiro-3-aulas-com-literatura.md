@@ -92,7 +92,7 @@ aparece no meio do procedimento.
 *O que acontece no paciente:*
 - O **reflexo vasovagal é a emergência mais frequente** durante procedimentos odontológicos, com hiperatividade parassimpática seguida de simpática [23]. Desde 1976 se sabe que, mesmo com a adrenalina plasmática elevada pelo estresse, a frequência cardíaca **cai** durante o procedimento, pela dominância vagal ("the forgotten vagus") [53]. No Brasil, a pré-síncope foi relatada por 54% dos dentistas [13].
 - A **toxicidade sistêmica por anestésico local** tem prevalência relatada de 0,27 por 1.000 em odontologia. No sistema nervoso central, vai de **tontura a inconsciência**. No sistema cardiovascular, vai de **arritmias a parada cardíaca** [63].
-- Entre os casos de toxicidade causados por não anestesiologistas, a **sobredosagem foi a causa principal (67,8%)**, sobretudo com lidocaína. Os sintomas foram neurológicos, como convulsão, em 51% dos casos, e neurológicos e cardiovasculares em 27% [64].
+- Na odontopediatria, **sobredosagens fatais** já foram relatadas por erro no cálculo da dose. Um único tubete de lidocaína num bebê de 8 kg atinge 96,6% da dose tóxica cumulativa, e dois tubetes de mepivacaína numa criança de 18 kg ultrapassam o limite seguro [67].
 
 *O distanciamento do cirurgião-dentista:*
 - Na Colômbia, só **40,5% dos dentistas aferem a pressão** no consultório [65]. Nos EUA, 57% não aferiam a pressão de pacientes novos com mais de 65 anos, e 14% nunca aferiam [66].
@@ -113,7 +113,7 @@ pressão e a frequência de base; o que o monitor vinha mostrando. **Sem
 sinais vitais aferidos e sem a dose registrada, não há diagnóstico
 diferencial. Há palpite.** E cada um desses quadros pede uma resposta
 completamente diferente: um costuma se resolver com posicionamento e
-observação; o outro exige suporte avançado de vida [63, 64].
+observação; o outro exige suporte avançado de vida [63].
 
 **Frase-síntese:** *"O efeito dominó não avisa qual peça caiu. Só quem monitorou
 consegue saber."*
@@ -285,7 +285,7 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 61. Hashemi SH et al. Glob J Health Sci 2016. doi:10.5539/gjhs.v8n10p227
 62. Seminario-Amez M et al. J Evid Based Dent Pract 2021. doi:10.1016/j.jebdp.2021.101569
 63. Rhee SH et al. J Dent Anesth Pain Med 2019. doi:10.17245/jdapm.2019.19.4.181
-64. Lee SH et al. J Korean Med Sci 2025. doi:10.3346/jkms.2025.40.e265
+64. (removida: comparação com não anestesiologistas não se aplica à prática odontológica)
 65. Otero J et al. J Clin Exp Dent 2025. doi:10.4317/jced.62888
 66. Pyle MA et al. Spec Care Dentist 1999. doi:10.1111/j.1754-4505.1999.tb01391.x
 67. Christensen SA, Shipp EM. J Dent Anesth Pain Med 2026. doi:10.17245/jdapm.2026.26.031
