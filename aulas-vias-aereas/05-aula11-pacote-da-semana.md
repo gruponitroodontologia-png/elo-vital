@@ -189,6 +189,34 @@ E há um dado que merece atenção: no Tokyo Dental College, esses eventos se
 concentraram nos profissionais com 1 a 7 anos de formados. Justamente quem
 ainda não procurou uma formação em sedação."
 
+**Conclusão do Bloco 4 · Peça 4 (cerca de 1 min, Slide 4b):** "Engoliu ou
+aspirou?" Objetos mais aspirados: próteses 29%, coroas 22%, chaves de implante
+17% (Velapati et al., 2026) · "primeiro descartar a via aérea" (Xie et al.,
+2026).
+
+**Fala:**
+"E agora o dominó chega à via aérea. Aquele paciente que teve uma síncope, que
+convulsionou ou que está deprimindo está reclinado, de boca aberta, com água,
+sangue e objetos pequenos. A literatura diz: entre os adultos que aspiraram
+objetos odontológicos, os mais comuns foram próteses, coroas e chaves de
+implante — Velapati e colaboradores, 2026.
+
+Imagine: a coroa sobre implante escapa e desaparece. O paciente tosse com
+força. Depois, para de tossir.
+
+*(pausa)*
+
+Ele engoliu ou aspirou? E, se parou de tossir, é porque resolveu, ou porque a
+obstrução ficou completa?
+
+Tosse forte significa que ainda passa ar. O silêncio pode significar o
+contrário. A recomendação é clara: quando um componente se perde, primeiro
+descartar a via aérea, antes de presumir que foi engolido — Xie e
+colaboradores, 2026. Porque a aspiração pode ficar silenciosa por horas, ou por
+meses.
+
+Na via aérea, o silêncio não é alívio. Pode ser a última peça caindo."
+
 ### Bloco 5 · Ortodontia · 12:00–12:45 · Slide 5
 
 **Slide 5:** "1 em cada 5." Varho et al., Acta Odontol Scand, 2015: 20% dos

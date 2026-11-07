@@ -118,10 +118,40 @@ observação; o outro exige suporte avançado de vida [63].
 **Frase-síntese:** *"O efeito dominó não avisa qual peça caiu. Só quem monitorou
 consegue saber."*
 
-**Peça 4. Engasgo e obstrução por corpo estranho.**
-- Na Grã-Bretanha, o **corpo estranho deglutido foi a 2ª emergência mais frequente** [22].
-- Na Veterans Health Administration, a ingestão foi o **2º evento adverso mais frequente** (19%) [5].
-- Entre dentistas, só **36%** acertaram a conduta na aspiração de corpo estranho [24].
+**Peça 4. Engasgo, aspiração e obstrução por corpo estranho: quando a peça anterior derruba a proteção da via aérea.**
+
+*Como o dominó chega aqui:* o paciente que sofre uma síncope, convulsiona ou
+deprime por sobredosagem (peça 3) está reclinado, com a boca aberta, cheia de
+água, sangue, secreção e objetos pequenos. Nos idosos, os **reflexos
+protetores da via aérea já estão diminuídos** [68], e medicamentos como os
+ansiolíticos e outros psicotrópicos também reduzem esses reflexos e favorecem
+a disfagia [69].
+
+*O que a literatura mostra:*
+- Na Grã-Bretanha, o corpo estranho deglutido foi a **2ª emergência mais frequente** [22]. Na Veterans Health Administration, a ingestão foi o **2º evento adverso mais frequente** (19%) [5].
+- Os materiais odontológicos respondem por cerca de **15% a 20% das aspirações de corpo estranho em adultos** [70].
+- Numa revisão de 100 adultos que aspiraram objetos odontológicos, os mais aspirados foram **próteses (29%), coroas (22%) e chaves de implante (17%)**. Os pacientes **idosos ou com comprometimento cognitivo** foram os de maior risco [71].
+- **Na manutenção da prótese sobre implante:** durante a instalação de uma coroa sobre implante, o conjunto coroa-pilar se soltou, a paciente teve **tosse súbita e intensa**, e o objeto estava na árvore brônquica. Os autores recomendam: quando um componente se perde, **primeiro descartar a via aérea**, antes de presumir que foi deglutido [72].
+- **A aspiração pode ser silenciosa:** um paciente que aspirou uma broca estava estável e, em uma hora, apresentou tosse e hemoptise [68]. Outro aspirou uma coroa sem sintomas imediatos e só procurou atendimento **9 meses depois**, com empiema e pneumonia obstrutiva [73].
+- E só **36%** dos dentistas acertaram a conduta na aspiração de corpo estranho [24].
+
+**Conclusão da peça 4: a pergunta que ninguém quer responder no escuro**
+
+> O parafuso, a coroa ou a chave do implante escapa da pinça e desaparece. O
+> paciente tosse com força. Depois, para de tossir.
+
+**Pergunta para a audiência (com pausa):** *"Ele engoliu ou aspirou? E, se parou
+de tossir, é porque resolveu, ou porque a obstrução ficou completa?"*
+
+Tosse forte significa que ainda há ar passando. O silêncio pode significar o
+contrário. Sem saber reconhecer a diferença e sem um protocolo, o colega
+oscila entre o pânico e a falsa tranquilidade: "deve ter engolido". A
+literatura recomenda o caminho oposto: **primeiro descartar a via aérea** [72],
+porque a aspiração pode não dar sinais por horas ou meses [68, 73].
+
+**Frase-síntese:** *"Na via aérea, o silêncio não é alívio. Pode ser a última
+peça caindo."* (Gancho para a Aula #13, em que o vídeo da Sedation Academy
+mostra exatamente esse sinal.)
 
 **Peça 5. A deterioração clínica imediata.**
 - Na Saxônia, Alemanha, houve **42 eventos graves com risco de vida** em cerca de 1,28 milhão de atendimentos em 12 meses [25].
@@ -289,6 +319,12 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 65. Otero J et al. J Clin Exp Dent 2025. doi:10.4317/jced.62888
 66. Pyle MA et al. Spec Care Dentist 1999. doi:10.1111/j.1754-4505.1999.tb01391.x
 67. Christensen SA, Shipp EM. J Dent Anesth Pain Med 2026. doi:10.17245/jdapm.2026.26.031
+68. Grabie Y et al. HCA Healthc J Med 2025. doi:10.36518/2689-0216.1876
+69. Candela L et al. Diagnostics (Basel) 2026. doi:10.3390/diagnostics16182974
+70. Dos Santos et al. Prague Med Rep 2025. doi:10.14712/23362936.2025.13
+71. Velapati S et al. J Bronchology Interv Pulmonol 2026. doi:10.1097/LBR.0000000000001072
+72. Xie F et al. Medicine (Baltimore) 2026. doi:10.1097/MD.0000000000047237
+73. Honda et al. Kyobu Geka 2024. PMID 39675917
 
 **Antes de usar em slide:**
 - os autores estão sem iniciais (o PubMed retornou só o sobrenome); completar ao montar a descrição do YouTube;
