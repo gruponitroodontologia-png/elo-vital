@@ -127,7 +127,44 @@ farmacologia e fisiologia de qualquer paciente, em qualquer especialidade. O
 mundo da saúde insiste em entregar esse conhecimento à sedação. Nós insistimos
 em devolvê-lo à Odontologia."
 
-### Bloco 4 · A obstrução está em toda a Odontologia · 8:30–10:45 · Slides 3 e 4
+### Bloco 3b · Peça 3: vasovagal ou toxicidade? · 8:30–10:00 · Slide 2c
+
+**Slide 2c:** "Qual peça caiu?" À esquerda: reflexo vasovagal e síncope, a
+emergência mais frequente (Yamashita et al., 2025). À direita: sobredosagem de
+anestésico local, que vai da tontura à inconsciência e das arritmias à parada
+cardíaca (Rhee et al., 2019). No centro: "palidez · inconsciência · bradicardia
+· hipotensão". Rodapé: só 40,5% aferem a pressão (Otero et al., 2025) · até
+87% não calculam a dose corretamente (Christensen & Shipp, 2026).
+
+**Fala:**
+"A terceira peça é a variação hemodinâmica. E aqui está o nosso maior
+distanciamento. A literatura diz: só 40,5% dos dentistas aferem a pressão no
+consultório — Otero e colaboradores, 2025. E até 87% não calculam corretamente
+a dose de anestésico local — Christensen e Shipp, 2026.
+
+Agora, imagine: o paciente empalidece e perde a consciência. Bradicardia.
+Hipotensão importante.
+
+*(pausa)*
+
+Aconteceu um reflexo vasovagal e uma síncope, a emergência mais frequente na
+cadeira — Yamashita e colaboradores, 2025? Ou o seu paciente está deprimindo
+por sobredosagem grave de anestésico local, aquela que vai da tontura à
+inconsciência e das arritmias à parada cardíaca — Rhee e colaboradores, 2019?
+
+*(pausa)*
+
+Os dois podem começar de forma parecida. Um costuma se resolver com
+posicionamento e observação. O outro exige suporte avançado de vida. E o que
+diferencia um do outro não está no momento da crise. Está no que foi feito
+antes: quantos tubetes, em quanto tempo, para qual peso; qual era a pressão de
+base; o que o monitor vinha mostrando.
+
+Sem sinais vitais e sem a dose registrada, não há diagnóstico diferencial. Há
+palpite. O efeito dominó não avisa qual peça caiu. Só quem monitorou consegue
+saber."
+
+### Bloco 4 · A obstrução está em toda a Odontologia · 10:00–12:00 · Slides 3 e 4
 
 **Slide 3:** "Onde a obstrução acontece." Prótese fixa e cimentação de coroas
 (Tiwana, JADA 2004) · endodontia: 44 aspirações em 11 anos de dados de
@@ -152,7 +189,7 @@ E há um dado que merece atenção: no Tokyo Dental College, esses eventos se
 concentraram nos profissionais com 1 a 7 anos de formados. Justamente quem
 ainda não procurou uma formação em sedação."
 
-### Bloco 5 · Ortodontia · 10:45–11:45 · Slide 5
+### Bloco 5 · Ortodontia · 12:00–12:45 · Slide 5
 
 **Slide 5:** "1 em cada 5." Varho et al., Acta Odontol Scand, 2015: 20% dos
 ortodontistas finlandeses tiveram um paciente que inalou ou engoliu parte do
@@ -166,7 +203,7 @@ chaves de expansor. A ortodontia trabalha com peças pequenas, soltas, na
 entrada da via aérea, muitas vezes com uma criança reclinada na cadeira. Na
 Aula #12, voltaremos à ortodontia por outra porta: o sono."
 
-### Bloco 6 · O que sabemos, de verdade · 11:45–13:30 · Slide 6
+### Bloco 6 · O que sabemos, de verdade · 12:45–14:00 · Slide 6
 
 **Slide 6:** Três números. **36%** acertam a conduta na aspiração de corpo
 estranho (Shaath, Eur J Dent 2023) · **82%** dos acadêmicos brasileiros não se
@@ -183,7 +220,7 @@ Saber não é o mesmo que conseguir fazer. E a competência que não é praticad
 se perde: sem treino, o tempo até a ventilação de resgate sobe de cerca de 57
 para cerca de 90 segundos em quatro meses (McCaw, 2023)."
 
-### Bloco 7 · Cultura de segurança · 13:30–16:30 · Slide 7
+### Bloco 7 · Cultura de segurança · 14:00–17:00 · Slide 7
 
 **Slide 7:** "Já fizemos isso antes." Lei Seca · EPI na Odontologia · RDC
 1002/2025 (ANVISA) · CFO 295/2026: "prevenir, reconhecer, manejar e resgatar".
@@ -213,7 +250,7 @@ diante dessas evidências, só há um caminho coerente. A Resolução CFO 295/20
 estabelece que o cirurgião-dentista deverá estar apto a prevenir, reconhecer,
 manejar e resgatar. Esses quatro verbos são o roteiro das próximas aulas."
 
-### Bloco 8 · Próximos passos e convite · 16:30–19:00 · Slides 8, 9 e 10
+### Bloco 8 · Próximos passos e convite · 17:00–19:45 · Slides 8, 9 e 10
 
 **Slide 8:** "Na sua próxima consulta." Aferir a pressão · perguntar sobre ronco ·
 olhar a orofaringe · ter aspiração pronta.

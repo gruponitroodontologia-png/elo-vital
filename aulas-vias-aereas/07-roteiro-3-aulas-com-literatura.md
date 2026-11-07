@@ -87,10 +87,36 @@ estresse, com técnica anestésica planejada, controle da ansiedade e as vias de
 sedação previstas na habilitação, é o que oferece **alternativas** quando a dor
 aparece no meio do procedimento.
 
-**Peça 3. Depressão ou excitação do sistema nervoso central, que pode levar a convulsões, crises hipertensivas ou hipotensivas, taqui ou bradicardias.**
-- Na clínica geral britânica, a **convulsão foi a emergência mais frequente** [22].
-- No Brasil, os dentistas relataram pré-síncope (54%), hipotensão ortostática (44%), crise hipertensiva (15%) e convulsão (6%) [13].
-- O **reflexo vasovagal é a emergência mais frequente** durante procedimentos odontológicos, com hiperatividade parassimpática seguida de simpática [23].
+**Peça 3. A variação hemodinâmica, e o distanciamento de quem não a acompanha.**
+
+*O que acontece no paciente:*
+- O **reflexo vasovagal é a emergência mais frequente** durante procedimentos odontológicos, com hiperatividade parassimpática seguida de simpática [23]. Desde 1976 se sabe que, mesmo com a adrenalina plasmática elevada pelo estresse, a frequência cardíaca **cai** durante o procedimento, pela dominância vagal ("the forgotten vagus") [53]. No Brasil, a pré-síncope foi relatada por 54% dos dentistas [13].
+- A **toxicidade sistêmica por anestésico local** tem prevalência relatada de 0,27 por 1.000 em odontologia. No sistema nervoso central, vai de **tontura a inconsciência**. No sistema cardiovascular, vai de **arritmias a parada cardíaca** [63].
+- Entre os casos de toxicidade causados por não anestesiologistas, a **sobredosagem foi a causa principal (67,8%)**, sobretudo com lidocaína. Os sintomas foram neurológicos, como convulsão, em 51% dos casos, e neurológicos e cardiovasculares em 27% [64].
+
+*O distanciamento do cirurgião-dentista:*
+- Na Colômbia, só **40,5% dos dentistas aferem a pressão** no consultório [65]. Nos EUA, 57% não aferiam a pressão de pacientes novos com mais de 65 anos, e 14% nunca aferiam [66].
+- **Até 87% dos dentistas não calculam corretamente a dose** de anestésico local [67], e só 3,3% têm um plano de resposta à toxicidade [21].
+
+**Conclusão da peça 3: o dominó em um único minuto**
+
+> O paciente empalidece, perde a consciência. Bradicardia. Hipotensão importante.
+
+**Pergunta para a audiência (com pausa):** *"Aconteceu um reflexo vasovagal e
+uma síncope? Ou o seu paciente está deprimindo por sobredosagem grave de
+anestésico local e entrando em parada cardiorrespiratória?"*
+
+Os dois quadros podem começar de forma parecida [23, 63]. O que diferencia um
+do outro não está no momento da crise. Está no que foi feito **antes**: quantos
+tubetes, em quanto tempo, para qual peso e qual condição sistêmica; qual era a
+pressão e a frequência de base; o que o monitor vinha mostrando. **Sem
+sinais vitais aferidos e sem a dose registrada, não há diagnóstico
+diferencial. Há palpite.** E cada um desses quadros pede uma resposta
+completamente diferente: um costuma se resolver com posicionamento e
+observação; o outro exige suporte avançado de vida [63, 64].
+
+**Frase-síntese:** *"O efeito dominó não avisa qual peça caiu. Só quem monitorou
+consegue saber."*
 
 **Peça 4. Engasgo e obstrução por corpo estranho.**
 - Na Grã-Bretanha, o **corpo estranho deglutido foi a 2ª emergência mais frequente** [22].
@@ -258,6 +284,11 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 60. Laragnoit AB et al. Clinics (São Paulo) 2009. doi:10.1590/s1807-59322009000300005
 61. Hashemi SH et al. Glob J Health Sci 2016. doi:10.5539/gjhs.v8n10p227
 62. Seminario-Amez M et al. J Evid Based Dent Pract 2021. doi:10.1016/j.jebdp.2021.101569
+63. Rhee SH et al. J Dent Anesth Pain Med 2019. doi:10.17245/jdapm.2019.19.4.181
+64. Lee SH et al. J Korean Med Sci 2025. doi:10.3346/jkms.2025.40.e265
+65. Otero J et al. J Clin Exp Dent 2025. doi:10.4317/jced.62888
+66. Pyle MA et al. Spec Care Dentist 1999. doi:10.1111/j.1754-4505.1999.tb01391.x
+67. Christensen SA, Shipp EM. J Dent Anesth Pain Med 2026. doi:10.17245/jdapm.2026.26.031
 
 **Antes de usar em slide:**
 - os autores estão sem iniciais (o PubMed retornou só o sobrenome); completar ao montar a descrição do YouTube;
