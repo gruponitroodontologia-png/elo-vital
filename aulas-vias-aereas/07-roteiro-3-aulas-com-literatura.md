@@ -173,43 +173,43 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 
 # Referências (PubMed)
 
-1. Kishimoto N et al. Jpn Dent Sci Rev 2023. doi:10.1016/j.jdsr.2023.02.004
-2. Li X et al. Front Public Health 2022. doi:10.3389/fpubh.2022.938609
-3. Lu Y et al. Med Sci Monit 2014. doi:10.12659/MSM.890131
-4. Zouaidi K et al. Clin Oral Investig 2024. doi:10.1007/s00784-024-05996-6
+1. Kishimoto et al. Jpn Dent Sci Rev 2023. doi:10.1016/j.jdsr.2023.02.004
+2. Li et al. Front Public Health 2022. doi:10.3389/fpubh.2022.938609
+3. Lu et al. Med Sci Monit 2014. doi:10.12659/MSM.890131
+4. Zouaidi et al. Clin Oral Investig 2024. doi:10.1007/s00784-024-05996-6
 5. Lo et al. J Am Dent Assoc 2025. doi:10.1016/j.adaj.2025.07.017
 6. Boriosi JP et al. Paediatr Anaesth 2019. doi:10.1111/pan.13616
 7. Somri M et al. J Clin Pediatr Dent 2017. doi:10.17796/1053-4628-41.2.154
 8. Fukayama H, Yagiela JA. Int Dent J 2006. doi:10.1111/j.1875-595x.2006.tb00081.x
-9. Manton JW et al. Anesth Prog 2021. doi:10.2344/anpr-67-04-04
+9. Manton et al. Anesth Prog 2021. doi:10.2344/anpr-67-04-04
 10. Alawaji et al. BMC Med Educ 2026. doi:10.1186/s12909-026-09182-y
 11. McCaw et al. Adv Simul 2023. doi:10.1186/s41077-023-00244-5
 12. Chan et al. PLOS Glob Public Health 2023. doi:10.1371/journal.pgph.0000705
-13. Arsati F et al. J Dent Educ 2010. PMID 20516306
+13. Arsati et al. J Dent Educ 2010. PMID 20516306
 14. Stafuzza TC et al. Braz Oral Res 2014. doi:10.1590/1807-3107bor-2014.vol28.0029
 15. de Aquino et al. Eur J Dent Educ 2026. doi:10.1111/eje.70151
-16. Padmanabhan V et al. BMJ Open Qual 2024. doi:10.1136/bmjoq-2023-002502
+16. Padmanabhan et al. BMJ Open Qual 2024. doi:10.1136/bmjoq-2023-002502
 17. Kumari et al. J Pharm Bioallied Sci 2025. doi:10.4103/jpbs.jpbs_687_25
-18. Olivieri JG et al. J Endod 2020. doi:10.1016/j.joen.2020.10.024
-19. Abu-Mostafa N et al. J Clin Exp Dent 2015. doi:10.4317/jced.52321
+18. Olivieri et al. J Endod 2020. doi:10.1016/j.joen.2020.10.024
+19. Abu-Mostafa et al. J Clin Exp Dent 2015. doi:10.4317/jced.52321
 20. Bayram et al. Int Dent J 2025. doi:10.1016/j.identj.2025.03.002
 21. Bakır et al. Healthcare (Basel) 2026. doi:10.3390/healthcare14142033
-22. Atherton GJ et al. Br Dent J 1999. doi:10.1038/sj.bdj.4800023
+22. Atherton et al. Br Dent J 1999. doi:10.1038/sj.bdj.4800023
 23. Yamashita et al. Front Physiol 2025. doi:10.3389/fphys.2025.1607816
 24. Shaath H et al. Eur J Dent 2023. doi:10.1055/s-0042-1755628
 25. Müller MP et al. Emerg Med J 2008. doi:10.1136/emj.2007.052936
-26. Tokede O et al. J Patient Saf 2024. doi:10.1097/PTS.0000000000001255
-27. Vaughan M et al. Aust Dent J 2018. doi:10.1111/adj.12649
-28. Grillo R et al. J Craniomaxillofac Surg 2025. doi:10.1016/j.jcms.2025.11.005
-29. Ensaldo-Carrasco E et al. BDJ Open 2026. doi:10.1038/s41405-026-00500-6
+26. Tokede et al. J Patient Saf 2024. doi:10.1097/PTS.0000000000001255
+27. Vaughan et al. Aust Dent J 2018. doi:10.1111/adj.12649
+28. Grillo et al. J Craniomaxillofac Surg 2025. doi:10.1016/j.jcms.2025.11.005
+29. Ensaldo-Carrasco et al. BDJ Open 2026. doi:10.1038/s41405-026-00500-6
 30. Festinger L. A Theory of Cognitive Dissonance. Stanford University Press; 1957.
-31. Bailey E, Dungarwalla M. Prim Dent J 2021. doi:10.1177/2050168420980990
+31. Bailey, Dungarwalla. Prim Dent J 2021. doi:10.1177/2050168420980990
 32. Tiwana KK et al. J Am Dent Assoc 2004. doi:10.14219/jada.archive.2004.0404
 33. Susini G et al. Int Endod J 2007. doi:10.1111/j.1365-2591.2007.01249.x
 34. Araujo SCS et al. J Stomatol Oral Maxillofac Surg 2021. doi:10.1016/j.jormas.2021.10.009
-35. Varho R et al. Acta Odontol Scand 2015. doi:10.3109/00016357.2014.971867
+35. Varho et al. Acta Odontol Scand 2015. doi:10.3109/00016357.2014.971867
 36. Hisanaga R et al. Bull Tokyo Dent Coll 2014. doi:10.2209/tdcpublication.55.55
-37. Lonia L et al. Medicina (Kaunas) 2020. doi:10.3390/medicina56070324
+37. Lonia et al. Medicina (Kaunas) 2020. doi:10.3390/medicina56070324
 38. Guess et al. J Dent Educ 2021. doi:10.1002/jdd.12831
 39. Kapur VK et al. J Clin Sleep Med 2017. doi:10.5664/jcsm.6506
 40. Nuckton TJ et al. Sleep 2006. doi:10.1093/sleep/29.7.903
@@ -217,14 +217,14 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 42. Sevgili, Değirmencioğlu. J Anesth 2026. doi:10.1007/s00540-026-03879-6
 43. Ceban et al. Sleep Med Rev 2024. doi:10.1016/j.smrv.2024.102029
 44. Triggs et al. J Clin Exp Dent 2022. doi:10.4317/jced.59708
-45. Keilholz L, Mutzbauer TS. Br Dent J 2015. doi:10.1038/sj.bdj.2015.385
+45. Keilholz, Mutzbauer. Br Dent J 2015. doi:10.1038/sj.bdj.2015.385
 46. Morse Z et al. Anesth Prog 2002. PMID 12779108
 47. FDI World Dental Federation. Int Dent J 2022. doi:10.1016/j.identj.2021.11.009
-48. Jevon P. Br Dent J 2016. doi:10.1038/sj.bdj.2016.181
+48. Jevon. Br Dent J 2016. doi:10.1038/sj.bdj.2016.181
 49. Kim. J Dent Anesth Pain Med 2026. doi:10.17245/jdapm.2026.26.189
-50. Corrêa CDTSO et al. Cad Saude Publica 2020. doi:10.1590/0102-311X00197819
+50. Corrêa et al. Cad Saude Publica 2020. doi:10.1590/0102-311X00197819
 
 **Antes de usar em slide:**
-- conferir no texto completo as iniciais de autores marcadas sem inicial;
+- os autores estão sem iniciais (o PubMed retornou só o sobrenome); completar ao montar a descrição do YouTube;
 - ler o texto completo de [47] e [49];
 - confirmar o direito de uso do reel da Sedation Academy na #13.
