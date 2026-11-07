@@ -143,14 +143,15 @@ a disfagia [69].
 **Pergunta para a audiência (com pausa):** *"Ele engoliu ou aspirou? E, se parou
 de tossir, é porque resolveu, ou porque a obstrução ficou completa?"*
 
-Tosse forte significa que ainda há ar passando. O silêncio pode significar o
-contrário. Sem saber reconhecer a diferença e sem um protocolo, o colega
+A tosse vigorosa indica que ainda há fluxo aéreo. A sua interrupção, sem
+expulsão do corpo estranho, pode indicar o contrário. Sem saber reconhecer a diferença e sem um protocolo, o colega
 oscila entre o pânico e a falsa tranquilidade: "deve ter engolido". A
 literatura recomenda o caminho oposto: **primeiro descartar a via aérea** [72],
 porque a aspiração pode não dar sinais por horas ou meses [68, 73].
 
-**Frase-síntese:** *"Na via aérea, o silêncio não é alívio. Pode ser a última
-peça caindo."* (Gancho para a Aula #13, em que o vídeo da Sedation Academy
+**Frase-síntese:** *"Na obstrução da via aérea, o silêncio não indica
+resolução. A interrupção súbita da tosse e da fonação pode significar ausência
+de fluxo aéreo, ou seja, obstrução completa."* (Gancho para a Aula #13, em que o vídeo da Sedation Academy
 mostra exatamente esse sinal.)
 
 **Peça 5. A deterioração clínica imediata.**

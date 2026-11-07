@@ -209,13 +209,15 @@ força. Depois, para de tossir.
 Ele engoliu ou aspirou? E, se parou de tossir, é porque resolveu, ou porque a
 obstrução ficou completa?
 
-Tosse forte significa que ainda passa ar. O silêncio pode significar o
-contrário. A recomendação é clara: quando um componente se perde, primeiro
+A tosse vigorosa indica que ainda há fluxo aéreo. A sua interrupção, sem
+expulsão do corpo estranho, pode indicar o contrário. A recomendação é clara: quando um componente se perde, primeiro
 descartar a via aérea, antes de presumir que foi engolido — Xie e
 colaboradores, 2026. Porque a aspiração pode ficar silenciosa por horas, ou por
 meses.
 
-Na via aérea, o silêncio não é alívio. Pode ser a última peça caindo."
+Na obstrução da via aérea, o silêncio não indica resolução. A interrupção
+súbita da tosse e da fonação pode significar ausência de fluxo aéreo, ou seja,
+obstrução completa."
 
 ### Bloco 5 · Ortodontia · 12:00–12:45 · Slide 5
 
