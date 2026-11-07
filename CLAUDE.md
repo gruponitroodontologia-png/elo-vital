@@ -140,6 +140,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Material em `aulas-vias-aereas/` (dossiês 01–02 com DOIs, tradução do reel
   da Sedation Academy, roteiro das 3 aulas, texto "Olho no olho" da Aula 11).
 - Tese: "a via aérea não pertence à sedação; pertence a toda a odontologia".
+- **Aula 11: quinta-feira, 12/11/2026** (12 e 13 a seguir, datas a definir).
 - SARI = Simplified Airway Risk Index (El-Ganzouri 1996).
 
 ## Pendências / próximos passos

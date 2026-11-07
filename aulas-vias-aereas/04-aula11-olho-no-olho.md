@@ -1,5 +1,6 @@
 # Aula 11 · Parte 1 — "Olho no olho"
 
+**Data da aula:** quinta-feira, 12/11/2026
 **Formato:** talking-head, sem slide, câmera na altura dos olhos.
 **Duração estimada:** 3 a 4 minutos falados.
 **Citações:** entram só como **legenda** na edição. Não precisam ser faladas.

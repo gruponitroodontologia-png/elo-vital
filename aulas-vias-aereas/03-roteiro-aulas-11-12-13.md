@@ -17,6 +17,8 @@ arquivo 00 (tradução do reel) e arquivo 04 (texto do "olho no olho").
 
 ## AULA 11 — "O efeito dominó: a via aérea começa antes da sedação"
 
+**📅 Quinta-feira, 12/11/2026**
+
 ### Parte 1 · Olho no olho (3–4 min)
 Texto completo para o teleprompter no **arquivo 04**: a sedação de ontem, o
 estetoscópio pré-traqueal, o flashback de 2000, o efeito dominó e a pergunta
