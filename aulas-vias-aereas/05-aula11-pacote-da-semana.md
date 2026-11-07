@@ -217,7 +217,11 @@ meses.
 
 Na obstrução da via aérea, o silêncio não indica resolução. A interrupção
 súbita da tosse e da fonação pode significar ausência de fluxo aéreo, ou seja,
-obstrução completa."
+obstrução completa.
+
+*(pausa)*
+
+E assim cai mais uma peça do nosso dominó."
 
 ### Bloco 5 · Ortodontia · 12:00–12:45 · Slide 5
 

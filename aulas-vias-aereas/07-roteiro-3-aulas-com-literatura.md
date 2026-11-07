@@ -151,7 +151,8 @@ porque a aspiração pode não dar sinais por horas ou meses [68, 73].
 
 **Frase-síntese:** *"Na obstrução da via aérea, o silêncio não indica
 resolução. A interrupção súbita da tosse e da fonação pode significar ausência
-de fluxo aéreo, ou seja, obstrução completa."* (Gancho para a Aula #13, em que o vídeo da Sedation Academy
+de fluxo aéreo, ou seja, obstrução completa. E assim cai mais uma peça do
+nosso dominó."* (Gancho para a Aula #13, em que o vídeo da Sedation Academy
 mostra exatamente esse sinal.)
 
 **Peça 5. A deterioração clínica imediata.**
