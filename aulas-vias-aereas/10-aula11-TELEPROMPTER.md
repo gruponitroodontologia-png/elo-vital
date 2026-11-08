@@ -54,9 +54,15 @@ Tudo o que eu trouxer está ancorado na literatura, e todas as referências est�
 
 Esta é a Aula #11 do Projeto Cultura de Segurança. E o tema de hoje é uma premissa: a via aérea é competência de toda a Odontologia. Para entender por quê, eu vou montar com vocês um dominó de cinco peças.
 
-## 2 · O efeito dominó (03:20–05:00)
+## 2 · Apresentadora (03:20–03:40)
 
-[Slide 2 — O efeito dominó]
+[Slide 2 — Apresentadora]
+
+Para quem está chegando agora: eu sou Carla Gamba, do Grupo Nitro. Há vinte e seis anos, ensino sedação priorizando a segurança e a inclusão. E, todas as quintas-feiras, às onze e onze, o projeto Cultura de Segurança traz uma aula gratuita para toda a Odontologia.
+
+## 3 · O efeito dominó (03:40–05:00)
+
+[Slide 3 — O efeito dominó]
 
 O risco na cadeira odontológica se comporta como um efeito dominó.
 
@@ -68,9 +74,9 @@ As duas pontas desse dominó estão documentadas. Atherton e colaboradores ouvir
 
 Repare em cada peça. Nenhuma delas é sobre sedação. Este efeito dominó está na rotina clínica de toda a Odontologia.
 
-## 3 · Peça 1 · Sinais vitais e estresse (05:00–06:15)
+## 4 · Peça 1 · Sinais vitais e estresse (05:00–06:15)
 
-[Slide 3 — Peça 1 · Sinais vitais e estresse]
+[Slide 4 — Peça 1 · Sinais vitais e estresse]
 
 A primeira peça tem nome: adrenalina. E não é só a do tubete.
 
@@ -80,9 +86,9 @@ E o que reduz essa resposta? A anestesia eficaz. Cioffi e colaboradores, em 1985
 
 Ou seja: o problema raramente é o tubete bem indicado. O problema é a dor e o medo que não foram controlados.
 
-## 4 · Peça 2 · Uso irracional de anestésico local (06:15–08:15)
+## 5 · Peça 2 · Uso irracional de anestésico local (06:15–08:15)
 
-[Slide 4 — Peça 2 · Uso irracional de anestésico local]
+[Slide 5 — Peça 2 · Uso irracional de anestésico local]
 
 E é aqui que cai a segunda peça: o uso irracional de anestésico local.
 
@@ -94,9 +100,9 @@ No paciente ASA II, coexistem dois limites. O primeiro é a dose máxima do sal,
 
 E um alerta. A ausência de vasoconstritor não amplia a dose máxima. O limite passa a depender exclusivamente do sal e tende a ser atingido precocemente. Na metanálise de Guimaraes e colaboradores, de 2021, os cardiopatas anestesiados sem vasoconstritor tiveram mais dor e mais sangramento. E a mepivacaína 3%, segundo Chin e colaboradores, tem toxicidade por volume cerca de uma vez e meia superior. Menor eficácia significa mais volume e, de novo, mais adrenalina endógena.
 
-## 5 · O cenário clínico (08:15–09:30)
+## 6 · O cenário clínico (08:15–09:30)
 
-[Slide 5 — O cenário clínico]
+[Slide 6 — O cenário clínico]
 
 Agora, imagine a cena.
 
@@ -114,9 +120,9 @@ Sem um protocolo de redução de estresse, com técnica anestésica planejada e 
 
 O que muda essa equação é o planejamento, não o improviso. E isso é farmacologia e fisiologia de qualquer paciente, em qualquer especialidade.
 
-## 6 · Peça 3 · SNC e hemodinâmica (09:30–11:00)
+## 7 · Peça 3 · SNC e hemodinâmica (09:30–11:00)
 
-[Slide 6 — Peça 3 · SNC e hemodinâmica]
+[Slide 7 — Peça 3 · SNC e hemodinâmica]
 
 A terceira peça é a variação hemodinâmica. E aqui está o nosso maior distanciamento.
 
@@ -134,9 +140,9 @@ Os dois começam de forma parecida. Um costuma se resolver com posicionamento e 
 
 Sem sinais vitais e sem dose registrada, não há diagnóstico diferencial. Há palpite.
 
-## 7 · Peça 4 · Via aérea obstruída (11:00–12:15)
+## 8 · Peça 4 · Via aérea obstruída (11:00–12:15)
 
-[Slide 7 — Peça 4 · Via aérea obstruída]
+[Slide 8 — Peça 4 · Via aérea obstruída]
 
 E o dominó chega à via aérea. Aqui, a obstrução acontece em toda a Odontologia.
 
@@ -144,9 +150,9 @@ Na prótese, Tiwana e colaboradores revisaram dez anos de uma faculdade american
 
 E um dado que merece atenção: Hisanaga e colaboradores, em 2014, observaram esses eventos com mais frequência entre profissionais de um a sete anos de formados.
 
-## 8 · Ortodontia · Ingestão ou aspiração? (12:15–14:15)
+## 9 · Ortodontia · Ingestão ou aspiração? (12:15–14:15)
 
-[Slide 8 — Ortodontia · Ingestão ou aspiração?]
+[Slide 9 — Ortodontia · Ingestão ou aspiração?]
 
 Agora, a especialidade que menos se associa à via aérea.
 
@@ -170,9 +176,9 @@ Na obstrução, o silêncio não indica resolução. Pode significar ausência t
 
 E assim cai mais uma peça do nosso dominó.
 
-## 9 · Peça 5 · Deterioração clínica (14:15–15:30)
+## 10 · Peça 5 · Deterioração clínica (14:15–15:30)
 
-[Slide 9 — Peça 5 · Deterioração clínica]
+[Slide 10 — Peça 5 · Deterioração clínica]
 
 A quinta peça é a deterioração clínica. E ela não é teórica.
 
@@ -182,9 +188,9 @@ Tokede e colaboradores foram além, em 2024. Eventos adversos ocorreram em 1,4% 
 
 E por que acontecem? Lo e colaboradores, em 2025, identificaram a causa mais comum: a falta de protocolo. E Khattak e colaboradores, em 2026, encontraram apenas 44,5% de consultórios com um protocolo de emergência definido.
 
-## 10 · O que sabemos, de verdade (15:30–16:30)
+## 11 · O que sabemos, de verdade (15:30–16:30)
 
-[Slide 10 — O que sabemos, de verdade]
+[Slide 11 — O que sabemos, de verdade]
 
 E quanto sabemos sobre isso?
 
@@ -192,9 +198,9 @@ Lembram do início? Stafuzza e colaboradores: 87% treinados em Suporte Básico d
 
 Saber não é o mesmo que conseguir fazer sob pressão. A certificação não garante o resgate.
 
-## 11 · Red flag (16:30–17:30)
+## 12 · Red flag (16:30–17:30)
 
-[Slide 11 — Red flag]
+[Slide 12 — Red flag]
 
 Isso é uma red flag. E a norma confirma o que a literatura já vinha mostrando.
 
@@ -210,9 +216,9 @@ Toda grande mudança na segurança começa questionando aquilo que, durante anos
 
 E cai a última peça do nosso dominó.
 
-## 12 · Na sua próxima consulta (17:30–18:30)
+## 13 · Na sua próxima consulta (17:30–18:30)
 
-[Slide 12 — Na sua próxima consulta]
+[Slide 13 — Na sua próxima consulta]
 
 Mas o dominó pode ser interrompido. Para a sua próxima consulta, quatro atitudes.
 
@@ -224,9 +230,9 @@ Terceira: examinar a orofaringe e aplicar o SARI, o índice simplificado de risc
 
 Quarta: garantir uma aspiração eficaz. A função da bomba a vácuo não é desobstruir: é manter um fluxo contínuo de aspiração de sangue, saliva e secreção durante todo o atendimento. E o fluxo importa. Holliday e colaboradores, em 2021, e Graetz e colaboradores, em 2022, diferenciam: a aspiração de baixo volume, como a de muitas bombas portáteis, opera em torno de 40 litros por minuto; a referência de segurança é de 150 a 300.
 
-## 13 · Vias aéreas para toda a Odontologia (18:30–19:25)
+## 14 · Vias aéreas para toda a Odontologia (18:30–19:25)
 
-[Slide 13 — Vias aéreas para toda a Odontologia]
+[Slide 14 — Vias aéreas para toda a Odontologia]
 
 Este é o nosso percurso: três aulas, quatro verbos. Hoje, reconhecemos o risco. Na próxima quinta, 19 de novembro, vamos prevenir: avaliar a via aérea em dois minutos, com o STOP-Bang, o Mallampati e o SARI. E, no dia 26, reconhecer, manejar e resgatar, com o PSP, o SBV e o SAVO.
 
@@ -236,9 +242,9 @@ Como sempre: nenhum curso habilita, inclusive o nosso. Quem habilita é o Consel
 
 (pausa)
 
-## 14 · A nova premissa clínica (19:25–19:45)
+## 15 · A nova premissa clínica (19:25–19:45)
 
-[Slide 14 — A nova premissa clínica]
+[Slide 15 — A nova premissa clínica]
 
 (fale devagar, olhando para a lente)
 
