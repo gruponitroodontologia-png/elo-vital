@@ -36,6 +36,14 @@ Treinados, mas não preparados.
 
 (pausa)
 
+Quando eu trago para vocês uma vivência como esta, eu trago também a minha vocação: alfabetizar a Odontologia em cultura de segurança.
+
+A educadora Magda Soares, em 1998, nos ensinou a distinguir alfabetização de letramento. Alfabetizar é apropriar-se do código. Letrar é fazer uso desse código nas práticas reais, no contato com a realidade e com o outro. E, para ela, são processos distintos, mas indissociáveis.
+
+Na segurança do paciente, é exatamente assim. Aprender a ler um sinal vital, um ruído respiratório, uma pausa breve, é alfabetização. Agir sobre o que se leu, a cada novo atendimento, é letramento. E a sedação é uma dessas camadas de letramento: só se sustenta sobre uma alfabetização sólida, e se aprofunda a cada novo encontro.
+
+(pausa)
+
 É dessa distância que trata a aula de hoje: a via aérea não é tema exclusivo da sedação.
 
 Tudo o que eu trouxer está ancorado na literatura, e todas as referências estão na descrição desta aula.
