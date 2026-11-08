@@ -32,7 +32,7 @@ Evidências: Dossiês 01, 02 e 04 (DOIs no repositório).
 | 10:00–12:00 | **4. A obstrução em toda a Odontologia + Peça 4** | 3–4b | Prótese (Tiwana 2004) · endodontia (Susini 2007) · implante (Araujo 2021) · 1 a 7 anos de formado (Hisanaga 2014) · **ortodontia: 1 em 5** (Varho 2015). Conclusão: "ingestão ou aspiração? A cessação da tosse indica resolução ou obstrução completa?" Próteses, coroas e chaves de implante são os mais aspirados (Velapati 2026). "Primeiro descartar a via aérea" (Xie 2026) |
 | 12:00–13:15 | **5. O que sabemos, de verdade** | 6 | 36% acertam a conduta na aspiração (Shaath 2023) · 82% dos acadêmicos despreparados (de Aquino 2026) · decaimento em 4 meses (McCaw 2023) |
 | 13:15–16:45 | **6. Peça 5: a deterioração clínica e a red flag da RDC 1002/2025** | 7–7b | 42 eventos graves em 1 ano (Müller 2008) · 1,4% de eventos adversos, 2/3 evitáveis, 8% só procuraram o médico (Tokede 2024) · falta de protocolo é a causa nº 1 (Lo 2025) · só 44,5% com protocolo de emergência (Khattak 2026). A RDC 1002/2025 confirma: PSP. "Exclusivo de uma academia de sedação?" Antecipação da #13. "E cai a última peça do nosso dominó." |
-| 16:45–19:30 | **7. Próxima consulta e convite** | 8–10 | Quatro gestos: aferir a pressão, perguntar sobre ronco, olhar a orofaringe, deixar a aspiração pronta. Gancho para a #12. **Trilha 295: Black Friday até 16/11.** "Nenhum curso habilita, inclusive o nosso." |
+| 16:45–19:30 | **7. Próxima consulta e convite** | 8–10 | Quatro atitudes: aferir a pressão arterial · investigar ronco e apneia (STOP-Bang) · examinar a orofaringe (SARI) · aspiração eficaz (42 L/min). Gancho para a #12. **Trilha 295: Black Friday até 16/11.** "Nenhum curso habilita, inclusive o nosso." |
 ---
 
 ## ETAPA 2 · Aula #12 · 19/11 · "Prevenir: avaliar e monitorizar" · cerca de 19 min
@@ -60,7 +60,7 @@ Evidências: Dossiês 01, 02 e 04 (DOIs no repositório).
 | 9:30–12:00 | **5. Resgatar** | 5 | Dispositivo supraglótico: dentistas ventilam sem insuflação gástrica após treino (Keilholz 2015) · máscara laríngea correta após 5 treinos (Morse 2002) |
 | 12:00–14:30 | **6. Suporte de vida é de toda a Odontologia** | 6 | Declaração de política da FDI sobre SBV na prática odontológica (2021) · Resuscitation Council UK (Jevon 2016) · **DALS: suporte avançado de vida odontológico na Coreia** (Kim 2026) · simulação: **100% × 0% de aprovação** (Manton 2021), habilidade estável em 11 meses (Alawaji 2026) |
 | 14:30–17:30 | **7. O PSP como trilha** | 7 | Causa mais comum dos eventos: **falta de protocolo** (Lo, JADA 2025) · checklists reduzem incidentes (Zouaidi 2024) · 8 estratégias de cultura de segurança (Ensaldo-Carrasco 2026) · 95% da Odontologia está no consultório (Bailey 2021). "O PSP não é um documento para a gaveta. É a trilha." RDC 1002/2025 + CFO 295/2026 |
-| 17:30–20:00 | **8. Fechamento e convite** | 8 | "A via aérea não pertence à sedação. Pertence a quem abre uma boca todos os dias." **Trilha 295: bônus até 27/11, vagas reais (12 Mentoria, 8 Imersão, 20 SAVO), turma de 5 a 9/12.** "Nenhum curso habilita, inclusive o nosso." |
+| 17:30–20:00 | **8. Fechamento e convite** | 8 | "A via aérea não é domínio exclusivo da sedação. É competência clínica de todo cirurgião-dentista." **Trilha 295: bônus até 27/11, vagas reais (12 Mentoria, 8 Imersão, 20 SAVO), turma de 5 a 9/12.** "Nenhum curso habilita, inclusive o nosso." |
 
 ---
 

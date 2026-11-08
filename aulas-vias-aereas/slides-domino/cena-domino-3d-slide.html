@@ -7,7 +7,7 @@
 import * as THREE from 'three';
 const params = new URLSearchParams(location.search);
 const K = parseInt(params.get('k') || '0');       // quantas peças já caíram
-const W = 1200, H = 1080;
+const W = parseInt(params.get('w')||'1920'), H = 1080;
 const WINE = 0x690D0E, GOLD = '#E0A93B', PAPER = 0xFBFAFB;
 
 const renderer = new THREE.WebGLRenderer({antialias:true, preserveDrawingBuffer:true});
@@ -21,15 +21,15 @@ const scene = new THREE.Scene();
 scene.background = new THREE.Color(PAPER);
 scene.fog = new THREE.Fog(PAPER, 18, 34);
 
-const camera = new THREE.PerspectiveCamera(40, W/H, 0.1, 100);
-camera.position.set(-3.4, 4.0, 10.6);
-camera.lookAt(4.0, 1.7, 0.2);
+const camera = new THREE.PerspectiveCamera(34, W/H, 0.1, 100);
+camera.position.set(-4.6, 4.9, 10.8);
+camera.lookAt(5.0, 0.9, 0.2);
 
 scene.add(new THREE.HemisphereLight(0xffffff, 0xd9d2cc, 0.9));
 const sun = new THREE.DirectionalLight(0xffffff, 2.4);
 sun.position.set(-6, 12, 9); sun.castShadow = true;
 sun.shadow.mapSize.set(4096,4096);
-Object.assign(sun.shadow.camera,{left:-6,right:14,top:10,bottom:-10,near:1,far:40});
+Object.assign(sun.shadow.camera,{left:-12,right:16,top:14,bottom:-16,near:1,far:50});
 sun.shadow.radius = 6; sun.shadow.bias = -0.0004;
 scene.add(sun);
 const fill = new THREE.DirectionalLight(0xfff3e8, 0.6); fill.position.set(10,6,-4); scene.add(fill);
@@ -44,7 +44,7 @@ const labels = [
   ['4','Via aérea','obstruída'],
   ['5','Deterioração','clínica'],
 ];
-const w = 1.5, h = 2.7, d = 0.38, s = 2.05;
+const w = 1.7, h = 2.8, d = 0.38, s = parseFloat(params.get('s')||'3.0');
 
 function faceTexture(i, highlight){
   const c = document.createElement('canvas'); c.width = 512; c.height = 922;
@@ -55,52 +55,46 @@ function faceTexture(i, highlight){
   g.beginPath(); g.moveTo(70,470); g.lineTo(c.width-70,470); g.strokeStyle='rgba(251,237,237,0.45)'; g.lineWidth=5; g.stroke();
   g.fillStyle = highlight ? GOLD : '#FBEDED';
   g.textAlign='center'; g.textBaseline='middle';
-  g.font = '700 260px Georgia, "DejaVu Serif", serif'; g.fillText(labels[i][0], c.width/2, 250);
-  g.font = '600 58px "DejaVu Sans", Arial, sans-serif'; g.fillStyle = '#FBEDED';
-  g.fillText(labels[i][1], c.width/2, 610); g.fillText(labels[i][2], c.width/2, 690);
+  g.font = '700 300px Georgia, "DejaVu Serif", serif'; g.fillText(labels[i][0], c.width/2, 250);
+  g.font = '700 70px "DejaVu Sans", Arial, sans-serif'; g.fillStyle = '#FBEDED';
+  g.fillText(labels[i][1], c.width/2, 610); g.fillText(labels[i][2], c.width/2, 700);
   const t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = 8; return t;
 }
 
 const body = new THREE.MeshStandardMaterial({color:WINE, roughness:0.38, metalness:0.05});
+const PSI = (parseFloat(params.get('psi')||'38'))*Math.PI/180;   // inclinação da fileira
+const dir = new THREE.Vector3(Math.sin(PSI),0,-Math.cos(PSI));
 function domino(i){
-  const geo = new THREE.BoxGeometry(d, h, w);   // espessura ao longo de x (direção da queda)
-  const front = new THREE.MeshStandardMaterial({map:faceTexture(i, i===K-1 || (K===0 && false)), roughness:0.42});
-  // faces: +x, -x, +y, -y, +z, -z  → rótulo na face -x (voltada para a câmera, à esquerda)
-  const mats = [body, front, body, body, body, body];
+  const geo = new THREE.BoxGeometry(w, h, d);
+  const front = new THREE.MeshStandardMaterial({map:faceTexture(i, i===K-1), roughness:0.42});
+  const mats = [body, body, body, body, front, body];   // +x,-x,+y,-y,+z(rótulo),-z
   const m = new THREE.Mesh(geo, mats); m.castShadow = true; m.receiveShadow = true;
-  m.position.set(-d/2, h/2, 0);          // pivô na aresta inferior do lado +x
+  m.position.set(0, h/2, d/2);             // pivô na aresta inferior traseira
   const pivot = new THREE.Group(); pivot.add(m);
-  pivot.position.set(i*s + d/2, 0, 0);
-  return pivot;
+  const yaw = new THREE.Group(); yaw.add(pivot);
+  yaw.position.copy(dir.clone().multiplyScalar(i*s));
+  yaw.rotation.y = -PSI;
+  return {yaw, pivot};
 }
-// rótulo na face -x precisa estar legível: girar a textura para a orientação da face
-const pieces = labels.map((_,i)=>{ const p = domino(i); scene.add(p); return p; });
-
-// ângulos de queda resolvidos geometricamente: cada peça caída apoia o canto superior na face da seguinte
+const pieces = labels.map((_,i)=>{ const p = domino(i); scene.add(p.yaw); return p; });
 function solve(b, xi, xn){
-  // peça i: pivô (xi+d,0); peça n: pivô (xn+d,0) girada b (horário)
   const Bx = xn + d - d*Math.cos(b), By = d*Math.sin(b), ux = Math.sin(b), uy = Math.cos(b);
   let lo = 0, hi = Math.PI/2;
   for(let it=0; it<60; it++){
     const a = (lo+hi)/2;
     const Tx = xi + d + h*Math.sin(a), Ty = h*Math.cos(a);
-    const cr = (Tx-Bx)*uy - (Ty-By)*ux;   // >0: canto à direita da face (penetra)
+    const cr = (Tx-Bx)*uy - (Ty-By)*ux;
     if(cr > 0) hi = a; else lo = a;
   }
   return lo;
 }
 const ang = [0,0,0,0,0];
-if(K > 0){
-  let nextAngle = 0;
-  if(K === 5){ ang[4] = Math.PI/2 - 0.001; nextAngle = ang[4]; }
-  const startIdx = (K === 5) ? 3 : K-1;
-  if(K < 5) nextAngle = 0;
-  for(let i=startIdx; i>=0; i--){
-    ang[i] = solve(nextAngle, i*s, (i+1)*s);
-    nextAngle = ang[i];
-  }
-}
-for(let i=0;i<5;i++) pieces[i].rotation.z = -ang[i];
+for(let i=0;i<K;i++) ang[i] = Math.PI/2 - 0.001;
+for(let i=0;i<5;i++) pieces[i].pivot.rotation.x = -ang[i];
+const cam = (params.get('cam')||'-3.2,6.2,9.6,3.2,1.0,-3.6').split(',').map(Number);
+const fovp = parseFloat(params.get('fov')||'36');
+camera.fov = fovp; camera.aspect = W/H; camera.updateProjectionMatrix();
+camera.position.set(cam[0],cam[1],cam[2]); camera.lookAt(cam[3],cam[4],cam[5]);
 renderer.render(scene, camera);
 window.done = true;
 </script></body></html>

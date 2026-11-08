@@ -306,19 +306,22 @@ E cai a última peça do nosso dominó."
 
 ### Bloco 7 · Próximos passos e convite · 16:45–19:30 · Slides 8, 9 e 10
 
-**Slide 8:** "Na sua próxima consulta." Aferir a pressão · perguntar sobre ronco ·
-olhar a orofaringe · ter aspiração pronta.
+**Slide 8:** "Na sua próxima consulta: quatro atitudes." 1. Aferir a pressão
+arterial · 2. Investigar ronco e apneia (STOP-Bang) · 3. Examinar a orofaringe
+(SARI) · 4. Aspiração eficaz (42 L/min).
 
 **Slide 9:** Arco das vias aéreas: #11 Reconhecer o risco · #12 Prevenir:
 avaliar em 2 minutos (STOP-Bang, Mallampati, SARI) · #13 Reconhecer, manejar e
-resgatar.
+resgatar: PSP, SBV e SAVO.
 
 **Slide 10:** Trilha 295 · Black Friday até 16/11 · turma presencial de 5 a 9/12
 no Rio · Trilha 295 Online, 104 h · envie TRILHA no WhatsApp.
 
 **Fala:**
-"Para a sua próxima consulta, quatro gestos: aferir a pressão, perguntar sobre
-ronco, olhar a orofaringe e deixar a aspiração pronta antes de começar.
+"Para a sua próxima consulta, quatro atitudes. Primeira: aferir a pressão
+arterial. Segunda: investigar ronco e apneia, com o STOP-Bang. Terceira:
+examinar a orofaringe, com o SARI. Quarta: garantir uma aspiração eficaz, com
+fluxo de 42 litros por minuto, antes de iniciar o procedimento.
 
 Na Aula #12, na próxima quinta, vamos avaliar a via aérea em dois minutos: o
 STOP-Bang, o Mallampati e o SARI, um índice com sete critérios, dos quais seis
@@ -337,8 +340,8 @@ Conselho.
 
 [pausa]
 
-A via aérea não pertence à sedação. Ela pertence a quem abre uma boca todos os
-dias. Até a próxima quinta."
+A via aérea não é domínio exclusivo da sedação. É competência clínica de todo
+cirurgião-dentista. Até a próxima quinta."
 
 **Referências para a descrição do YouTube:** Atherton GJ et al. Br Dent J
 1999;186:72-79 · Fukayama H, Yagiela JA. Int Dent J 2006;56:102-108 · Boriosi JP
