@@ -60,7 +60,7 @@ Evidências: Dossiês 01, 02 e 04 (DOIs no repositório).
 | 9:30–12:00 | **5. Resgatar** | 5 | Dispositivo supraglótico: dentistas ventilam sem insuflação gástrica após treino (Keilholz 2015) · máscara laríngea correta após 5 treinos (Morse 2002) |
 | 12:00–14:30 | **6. Suporte de vida é de toda a Odontologia** | 6 | Declaração de política da FDI sobre SBV na prática odontológica (2021) · Resuscitation Council UK (Jevon 2016) · **DALS: suporte avançado de vida odontológico na Coreia** (Kim 2026) · simulação: **100% × 0% de aprovação** (Manton 2021), habilidade estável em 11 meses (Alawaji 2026) |
 | 14:30–17:30 | **7. O PSP como trilha** | 7 | Causa mais comum dos eventos: **falta de protocolo** (Lo, JADA 2025) · checklists reduzem incidentes (Zouaidi 2024) · 8 estratégias de cultura de segurança (Ensaldo-Carrasco 2026) · 95% da Odontologia está no consultório (Bailey 2021). "O PSP não é um documento para a gaveta. É a trilha." RDC 1002/2025 + CFO 295/2026 |
-| 17:30–20:00 | **8. Fechamento e convite** | 8 | "A obstrução não escolhe especialidade. Dominar a via aérea e o SAVO não é diferencial da sedação ou da CBMF; é o alicerce de segurança de toda a Odontologia." **Trilha 295: bônus até 27/11, vagas reais (12 Mentoria, 8 Imersão, 20 SAVO), turma de 5 a 9/12.** "Nenhum curso habilita, inclusive o nosso." |
+| 17:30–20:00 | **8. Fechamento e convite** | 8 | "Na Odontologia, a cavidade oral é o nosso campo de trabalho, mas a via aérea é a nossa responsabilidade: dominar sua anatomia e fisiologia é o que transforma o risco iminente em segurança clínica." **Trilha 295: bônus até 27/11, vagas reais (12 Mentoria, 8 Imersão, 20 SAVO), turma de 5 a 9/12.** "Nenhum curso habilita, inclusive o nosso." |
 
 ---
 
