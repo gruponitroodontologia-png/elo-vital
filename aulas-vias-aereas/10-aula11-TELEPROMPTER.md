@@ -7,10 +7,17 @@ link está na descrição.
 
 Hoje eu começo por uma cena de ontem.
 
-Sedei um paciente ASA III para uma manutenção simples das próteses protocolo
-sobre implante. Simples para o procedimento, não para o paciente. E esse
-paciente é cada vez mais o nosso paciente: Kishimoto e colaboradores, em 2023,
-mostraram que, com o envelhecimento da população, cresce o número de
+Sedei um paciente para a manutenção das próteses protocolo sobre implante.
+Na indicação, o nosso olhar estava voltado para quatro variáveis: a
+complexidade do procedimento, o tempo de duração, o comprometimento sistêmico
+e o grau de ansiedade.
+
+O procedimento era simples, com cerca de quarenta minutos. Mas o paciente era
+ASA III e extremamente ansioso. Simples para o procedimento, não para o
+paciente.
+
+E esse paciente é cada vez mais o nosso paciente: Kishimoto e colaboradores, em
+2023, mostraram que, com o envelhecimento da população, cresce o número de
 hipertensos e diabéticos que desenvolvem emergências na cadeira odontológica.
 
 Eu revisava o checklist, item por item, para gravar e entregar a vocês. Um
