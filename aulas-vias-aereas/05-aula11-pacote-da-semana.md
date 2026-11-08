@@ -306,7 +306,8 @@ E cai a última peça do nosso dominó."
 
 **Slide 8:** "Na sua próxima consulta: quatro atitudes." 1. Aferir a pressão
 arterial · 2. Investigar ronco e apneia (STOP-Bang) · 3. Examinar a orofaringe
-(SARI) · 4. Aspiração eficaz (150 a 300 L/min). Linha de apoio: baixo volume
+(SARI) · 4. Aspiração eficaz (150 a 300 L/min): fluxo contínuo de sangue,
+saliva e secreção para proteger a via aérea. Linha de apoio: baixo volume
 ≈ 40 L/min (bomba portátil) · médio ≈ 150–160 L/min · alto ≥ 250–300 L/min.
 Rodapé: Holliday et al., J Dent, 2021 · Graetz et al., Clin Oral Investig, 2022
 · Koch & Graetz, PLoS One, 2021.
@@ -322,7 +323,9 @@ no Rio · Trilha 295 Online, 104 h · envie TRILHA no WhatsApp.
 "Para a sua próxima consulta, quatro atitudes. Primeira: aferir a pressão
 arterial. Segunda: investigar ronco e apneia, com o STOP-Bang. Terceira:
 examinar a orofaringe, com o SARI. Quarta: garantir uma aspiração eficaz antes
-de iniciar o procedimento. A literatura diferencia: a aspiração de baixo volume,
+de iniciar o procedimento. A função da bomba a vácuo não é desobstruir: é manter
+um fluxo contínuo de aspiração de sangue, saliva e secreção, protegendo a via
+aérea durante todo o atendimento. E o fluxo importa. A literatura diferencia: a aspiração de baixo volume,
 como a de muitas bombas portáteis, opera em torno de 40 litros por minuto; a de
 médio volume, em torno de 150; a de alto volume, entre 250 e 350 litros por
 minuto — Holliday e colaboradores, 2021; Graetz e colaboradores, 2022. Para
