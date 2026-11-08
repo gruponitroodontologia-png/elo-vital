@@ -408,7 +408,7 @@ Odontologia. E a pergunta mais desconfortável da minha carreira: como eu nunca
 tinha percebido os riscos que nós mesmos provocamos na nossa rotina?
 
 O risco na cadeira funciona como um efeito dominó. O estresse que não aferimos,
-o anestésico além do limite, a variação hemodinâmica, a via aérea, a
+o uso irracional de anestésico local, a variação hemodinâmica, a via aérea, a
 deterioração clínica. **Nenhuma dessas peças é sedação.** A literatura mostra
 que, na clínica geral, as duas emergências mais frequentes foram a convulsão e o
 corpo estranho deglutido (Atherton e colaboradores, 1999).
