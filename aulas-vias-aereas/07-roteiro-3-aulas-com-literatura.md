@@ -355,6 +355,9 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 73. Honda et al. Kyobu Geka 2024. PMID 39675917
 74. Khattak O et al. PeerJ 2026. doi:10.7717/peerj.21098
 75. Siriwatana K, Pongpanich S. BMC Oral Health 2024. doi:10.1186/s12903-024-05034-7
+76. Holliday R et al. J Dent 2021. doi:10.1016/j.jdent.2020.103565
+77. Graetz C et al. Clin Oral Investig 2022. doi:10.1007/s00784-022-04525-7
+78. Koch M, Graetz C. PLoS One 2021. doi:10.1371/journal.pone.0257137
 
 **Antes de usar em slide:**
 - os autores estão sem iniciais (o PubMed retornou só o sobrenome); completar ao montar a descrição do YouTube;
