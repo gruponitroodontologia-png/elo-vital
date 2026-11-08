@@ -3,7 +3,7 @@
 **Lugar no roteiro:** abertura do bloco "O PSP como trilha" (Aula #13, 26/11),
 cerca de 3 minutos de fala, seguida de 1 minuto sobre o PSP.
 **Na Aula #11:** só uma frase de antecipação no Bloco 6 (abaixo).
-**Base:** reflexão da Profa. Dra. Carla Gamba, com as referências conferidas.
+**Base:** reflexão da Profa. Carla Gamba, com as referências conferidas.
 
 ---
 

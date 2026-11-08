@@ -1,7 +1,7 @@
 # Aulas #11, #12 e #13: da reflexão ao raciocínio em 3 etapas
 
 Projeto Cultura de Segurança · YouTube · quintas, 11h11 · até 20 min por aula
-Rascunho para validação da Profa. Dra. Carla Gamba · literatura conferida no PubMed em 07/11/2026
+Rascunho para validação da Profa. Carla Gamba · literatura conferida no PubMed em 07/11/2026
 
 **Tese das três aulas:** a via aérea, a monitorização e o suporte de vida não são domínio exclusivo da sedação: constituem competências de toda a Odontologia. O Plano de Segurança do Paciente (PSP) é a trilha que organiza esse percurso, ainda novo na Odontologia brasileira.
 

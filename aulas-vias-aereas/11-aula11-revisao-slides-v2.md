@@ -6,7 +6,7 @@ Base: `Aula_11.pdf` final, agora com **15 slides** (slide 2 = Apresentadora, igu
 
 | Slide | Ajuste | Motivo |
 |---|---|---|
-| 1 · Capa | "Profa. Dra. Carla Gamba**.**" → sem ponto final. | Nome não leva ponto |
+| 1 · Capa | **Feito:** "Profa. Carla Gamba" (sem "Dra." e sem ponto final). | Título correto |
 | 4 · Peça 1 | Peça 2 do dominó ainda diz "Anestésico local" (cortado). Ideal: **"Uso irracional de anestésico local"**, como no slide 2. | Coerência |
 | 5 · Peça 2 | "Mepivacaína 3% **(Sem vaso)**" → **"(sem vasoconstritor)"**. "1,5**x**" → **"1,5 vez"**. | Registro técnico |
 | 7 · Peça 3 | **Erro de digitação:** "inconci**i**ência" → **"inconsciência"**. | Ortografia |
