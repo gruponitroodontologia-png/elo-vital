@@ -75,10 +75,10 @@ apenas na sedação."
 al., 1985 · Niwa et al., 2000.
 
 **Slide 3 (peça 2):** "O limite começa pelo sal anestésico." 1º teto: mg/kg do
-sal × peso; 2º teto: adrenalina; vale o menor. Tabela para adulto de 70 kg
-(tubete de 1,8 mL): lidocaína 2% 1:100.000 = 13,6 pelo sal · 11 / 2,2 pela
-adrenalina (saudável / cardiopata); articaína 4% 1:100.000 = 6,8 · 11 / 2,2;
-articaína 4% 1:200.000 = 6,8 · 22 / 4,4. Rodapé: Cannell, 1996 · Ucer et al.,
+sal × peso (reduzido e individualizado no ASA II); 2º teto: adrenalina; vale o
+menor. Tabela ASA II, doença cardiovascular controlada (tubete de 1,8 mL), teto
+pela adrenalina de 0,04 mg: lidocaína 2% 1:100.000 ≈ 2,2 tubetes · articaína 4%
+1:100.000 ≈ 2,2 · articaína 4% 1:200.000 ≈ 4,4. Sem valores de paciente ASA I. Rodapé: Cannell, 1996 · Ucer et al.,
 2026 · Maeda et al., 2025 · Hashemi et al., 2016 · Seminario-Amez et al., 2021.
 
 **Slide 2b (slide 4):** o cenário. "Implante · ASA II, hipertenso controlado · 2
@@ -107,14 +107,16 @@ quantidade de adrenalina do volume injetado — Cannell, 1996. Para a lidocaína
 com adrenalina e para a articaína, a dose máxima recomendada é de 7 miligramas
 por quilo — Ucer e colaboradores, 2026; Maeda e colaboradores, 2025.
 
-Então o raciocínio tem dois tetos. Primeiro, o sal: miligramas por quilo
-multiplicados pelo peso. Num adulto de 70 quilos, isso dá cerca de 13 tubetes
-de lidocaína 2%, mas menos de 7 de articaína 4%, porque cada tubete de
-articaína carrega o dobro de sal. Segundo, a adrenalina: no paciente com doença
-cardiovascular, o teto é de 0,04 miligrama, cerca de 2,2 tubetes de solução
-1:100.000 — Hashemi e colaboradores, 2016; e uma revisão sistemática confirma
-um a dois tubetes nos hipertensos e coronariopatas controlados —
-Seminario-Amez e colaboradores, 2021. Vale sempre o menor dos dois tetos.
+Então, no paciente ASA II, o raciocínio tem dois tetos. Primeiro, o sal:
+miligramas por quilo multiplicados pelo peso, e, neste paciente, esse teto é
+reduzido e individualizado, porque fatores do próprio paciente diminuem o
+limiar tóxico efetivo — Ucer e colaboradores, 2026. E lembre que a articaína 4%
+carrega o dobro de sal por tubete. Segundo, a adrenalina: na doença
+cardiovascular controlada, o teto é de 0,04 miligrama, cerca de 2,2 tubetes de
+solução 1:100.000, ou 4,4 de 1:200.000 — Hashemi e colaboradores, 2016; e uma
+revisão sistemática confirma um a dois tubetes nos hipertensos e coronariopatas
+controlados — Seminario-Amez e colaboradores, 2021. Vale sempre o menor dos dois
+tetos.
 
 E retirar o vasoconstritor não resolve: num ensaio no InCor, sem vasoconstritor,
 os pacientes tiveram mais dor e receberam mais anestésico — Laragnoit e
