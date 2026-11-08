@@ -16,9 +16,9 @@ link está na descrição.
 Hoje eu começo por uma cena de ontem.
 
 Sedei um paciente para a manutenção das próteses protocolo sobre implante.
-Na indicação, o nosso olhar estava voltado para quatro variáveis: a
-complexidade do procedimento, o tempo de duração, o comprometimento sistêmico
-e o grau de ansiedade.
+Na indicação, o nosso olhar estava voltado para o comprometimento
+sistêmico do paciente, dentro daquela tríade: a complexidade do procedimento,
+o tempo de duração e o grau de ansiedade.
 
 O procedimento era simples, com cerca de quarenta minutos. Mas o paciente era
 ASA III e extremamente ansioso. Simples para o procedimento, não para o
