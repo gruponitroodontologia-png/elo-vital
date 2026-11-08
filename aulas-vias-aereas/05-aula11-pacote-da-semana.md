@@ -364,7 +364,7 @@ são exame de cabeça e pescoço, território do cirurgião-dentista.
 
 E, para quem já tem a sedação na rotina: a avaliação de vias aéreas, a
 monitorização, o SBV e o SAVO estão dentro da Trilha 295, que lançamos na
-quinta passada. A condição de Black Friday vai até o próximo domingo, 16/11.
+quinta passada. A condição de Black Friday vai até segunda-feira, 16/11.
 A turma presencial acontece de 5 a 9 de dezembro, no Rio de Janeiro, e a
 Trilha 295 Online reúne 104 horas ao vivo, de qualquer lugar do Brasil. Para
 conhecer os percursos, envie TRILHA no WhatsApp, ou acesse o link na
