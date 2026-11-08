@@ -70,7 +70,10 @@ Cada peça tem a sua evidência.
 **Conclusão das peças 1 e 2: o cenário que todo colega reconhece**
 
 > Implante num paciente ASA II, hipertenso controlado. Já foram administrados
-> dois tubetes, o limite de adrenalina para esse paciente [61, 62]. Acabo de
+> dois tubetes, o limite de adrenalina para esse paciente [61, 62]. E, no
+> paciente sistemicamente comprometido, o limite pelo sal também é menor:
+> fatores do paciente reduzem o limiar tóxico efetivo [80], e em alguns
+> comprometidos recomendam-se doses mínimas [79]. Acabo de
 > passar a primeira fresa, e ele informa dor.
 
 **Pergunta para a audiência (logo após a cena, com pausa):** *"Se isso

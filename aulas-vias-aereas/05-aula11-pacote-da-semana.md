@@ -81,8 +81,9 @@ adrenalina (saudável / cardiopata); articaína 4% 1:100.000 = 6,8 · 11 / 2,2;
 articaína 4% 1:200.000 = 6,8 · 22 / 4,4. Rodapé: Cannell, 1996 · Ucer et al.,
 2026 · Maeda et al., 2025 · Hashemi et al., 2016 · Seminario-Amez et al., 2021.
 
-**Slide 2b:** o cenário. "Implante · ASA II, hipertenso controlado · 2 tubetes
-· primeira fresa · dor." Três setas: mais anestésico além do limite? Seguir com
+**Slide 2b (slide 4):** o cenário. "Implante · ASA II, hipertenso controlado · 2
+tubetes · primeira fresa · dor." Linha: no paciente sistemicamente comprometido,
+o limite pelo sal também é menor (Ucer et al., 2026; Cannell, 1996). Três setas: mais anestésico além do limite? Seguir com
 dor? Interromper? Embaixo: **"Qual é a sua alternativa?"** Rodapé: Cioffi et
 al., 1985 · Dionne et al., 1984.
 
@@ -120,8 +121,12 @@ os pacientes tiveram mais dor e receberam mais anestésico — Laragnoit e
 colaboradores, 2009.
 
 Agora, imagine a cena. Um implante, num paciente ASA II, hipertenso
-controlado. Você já administrou dois tubetes: o limite. Acabou de passar a
-primeira fresa, e ele diz: 'estou sentindo dor'.
+controlado. Você já administrou dois tubetes. E, neste paciente, o teto não é
+dado só pela adrenalina: no paciente sistemicamente comprometido, o limite pelo
+sal anestésico também é menor, porque fatores do próprio paciente reduzem o
+limiar tóxico efetivo — Ucer e colaboradores, 2026. Para alguns pacientes
+comprometidos, a recomendação é de doses mínimas — Cannell, 1996. Acabou de
+passar a primeira fresa, e ele diz: 'estou sentindo dor'.
 
 *(pausa)*
 
