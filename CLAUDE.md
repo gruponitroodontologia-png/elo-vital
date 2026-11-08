@@ -157,6 +157,11 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Pacote completo da #11 (roteiro, newsletter, reels, stories) em
   `aulas-vias-aereas/05-aula11-pacote-da-semana.md`.
 - SARI = Simplified Airway Risk Index (El-Ganzouri 1996).
+- **Docs editáveis da #11 (Claude Docs):** teleprompter https://claude.ai/artifact/FRwXLA99vDpjVVGW2LZbjV ·
+  campanha da semana (newsletter, e-mails, 5 reels, stories; vende **SAVO** para toda a Odontologia e
+  **Trilha 295** para quem já tem a sedação na rotina) https://claude.ai/artifact/ChHhFHyL4GZ1EqRagrNmvU
+- Apresentação final da #11: 15 slides (slide 2 = Apresentadora, padrão das aulas), sem marca d'água,
+  PDF e PPTX sem notas (as notas aparecem no Zoom).
 
 ## Pendências / próximos passos
 - Confirmar a **data-limite exata + artigo** do prazo da CFO (hoje usamos
