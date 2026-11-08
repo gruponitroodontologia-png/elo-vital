@@ -74,10 +74,10 @@ apenas na sedação."
 **Slide 2:** "O estresse também é adrenalina." Taggart et al., 1976 · Cioffi et
 al., 1985 · Niwa et al., 2000.
 
-**Slide 3 (peça 2):** "O limite começa pelo sal anestésico." 1º teto: mg/kg do
-sal × peso (reduzido e individualizado no ASA II); 2º teto: adrenalina; vale o
-menor. Tabela ASA II, doença cardiovascular controlada (tubete de 1,8 mL), teto
-pela adrenalina de 0,04 mg: lidocaína 2% 1:100.000 ≈ 2,2 tubetes · articaína 4%
+**Slide 3 (peça 2):** "A dose máxima é determinada pelo sal anestésico." 1º limite: dose
+máxima do sal em mg/kg (reduzida e individualizada no ASA II); 2º limite: dose
+máxima de adrenalina; prevalece o mais restritivo. Tabela ASA II, cardiopatia
+controlada (tubete de 1,8 mL), dose máxima de adrenalina de 0,04 mg: lidocaína 2% 1:100.000 ≈ 2,2 tubetes · articaína 4%
 1:100.000 ≈ 2,2 · articaína 4% 1:200.000 ≈ 4,4. Sem valores de paciente ASA I. Rodapé: Cannell, 1996 · Ucer et al.,
 2026 · Maeda et al., 2025 · Hashemi et al., 2016 · Seminario-Amez et al., 2021.
 
@@ -107,30 +107,30 @@ quantidade de adrenalina do volume injetado — Cannell, 1996. Para a lidocaína
 com adrenalina e para a articaína, a dose máxima recomendada é de 7 miligramas
 por quilo — Ucer e colaboradores, 2026; Maeda e colaboradores, 2025.
 
-Então, no paciente ASA II, o raciocínio tem dois tetos. Primeiro, o sal:
-miligramas por quilo multiplicados pelo peso, e, neste paciente, esse teto é
-reduzido e individualizado, porque fatores do próprio paciente diminuem o
-limiar tóxico efetivo — Ucer e colaboradores, 2026. E lembre que a articaína 4%
-carrega o dobro de sal por tubete. Segundo, a adrenalina: na doença
-cardiovascular controlada, o teto é de 0,04 miligrama, cerca de 2,2 tubetes de
-solução 1:100.000, ou 4,4 de 1:200.000 — Hashemi e colaboradores, 2016; e uma
-revisão sistemática confirma um a dois tubetes nos hipertensos e coronariopatas
-controlados — Seminario-Amez e colaboradores, 2021. Vale sempre o menor dos dois
-tetos.
+No paciente ASA II, coexistem dois limites. O primeiro é a dose máxima do sal
+anestésico, em miligramas por quilo, que neste paciente deve ser reduzida e
+individualizada, porque fatores do próprio paciente diminuem o limiar tóxico
+efetivo — Ucer e colaboradores, 2026. E a articaína 4% contém o dobro de sal por
+tubete. O segundo é a dose máxima de adrenalina: na cardiopatia controlada, 0,04
+miligrama, o equivalente a cerca de 2,2 tubetes de solução 1:100.000, ou 4,4 de
+1:200.000 — Hashemi e colaboradores, 2016; e uma revisão sistemática confirma
+um a dois tubetes nos hipertensos e coronariopatas controlados — Seminario-Amez
+e colaboradores, 2021. Prevalece sempre o limite mais restritivo.
 
-E atenção: retirar o vasoconstritor não amplia o limite. Sem ele, o teto passa
-a ser apenas o do sal, e ele é alcançado mais cedo. A literatura diz: em
-cardiopatas, os grupos sem vasoconstritor tiveram mais dor e mais sangramento —
-Guimaraes e colaboradores, 2021, numa metanálise de ensaios randomizados; no
-InCor, sem vasoconstritor, os pacientes tiveram mais dor e receberam mais
-anestésico — Laragnoit e colaboradores, 2009; e a mepivacaína 3% é cerca de 1,5
-vez mais tóxica por volume — Chin e colaboradores, 2003. Mais dor significa
-mais volume, e mais adrenalina endógena.
+E um alerta: a ausência de vasoconstritor não amplia a dose máxima. O limite
+passa a depender exclusivamente do sal e tende a ser atingido precocemente. A
+literatura diz: em cardiopatas, os grupos sem vasoconstritor apresentaram mais
+dor e mais sangramento — Guimaraes e colaboradores, 2021, em metanálise de
+ensaios randomizados; no InCor, os pacientes sem vasoconstritor relataram mais
+dor e receberam maior volume anestésico — Laragnoit e colaboradores, 2009; e a
+mepivacaína 3% apresenta toxicidade por volume cerca de 1,5 vez superior — Chin
+e colaboradores, 2003. Menor eficácia anestésica implica maior volume e maior
+liberação de adrenalina endógena.
 
 Agora, imagine a cena. Um implante, num paciente ASA II, hipertenso
-controlado. Você já administrou dois tubetes. E, neste paciente, o teto não é
-dado só pela adrenalina: no paciente sistemicamente comprometido, o limite pelo
-sal anestésico também é menor, porque fatores do próprio paciente reduzem o
+controlado. Você já administrou dois tubetes. E, neste paciente, o limite não é
+determinado apenas pela adrenalina: no paciente sistemicamente comprometido, a
+dose máxima do sal anestésico também é reduzida, porque fatores do próprio paciente reduzem o
 limiar tóxico efetivo — Ucer e colaboradores, 2026. Para alguns pacientes
 comprometidos, a recomendação é de doses mínimas — Cannell, 1996. Acabou de
 passar a primeira fresa, e ele diz: 'estou sentindo dor'.
