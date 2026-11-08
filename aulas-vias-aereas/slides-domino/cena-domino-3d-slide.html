@@ -1,0 +1,106 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:#FBFAFB;overflow:hidden}canvas{display:block}</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js"}}</script>
+</head><body>
+<script type="module">
+import * as THREE from 'three';
+const params = new URLSearchParams(location.search);
+const K = parseInt(params.get('k') || '0');       // quantas peças já caíram
+const W = 1200, H = 1080;
+const WINE = 0x690D0E, GOLD = '#E0A93B', PAPER = 0xFBFAFB;
+
+const renderer = new THREE.WebGLRenderer({antialias:true, preserveDrawingBuffer:true});
+renderer.setPixelRatio(1); renderer.setSize(W,H);
+renderer.shadowMap.enabled = true; renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+renderer.toneMapping = THREE.ACESFilmicToneMapping; renderer.toneMappingExposure = 1.05;
+document.body.appendChild(renderer.domElement);
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(PAPER);
+scene.fog = new THREE.Fog(PAPER, 18, 34);
+
+const camera = new THREE.PerspectiveCamera(40, W/H, 0.1, 100);
+camera.position.set(-3.4, 4.0, 10.6);
+camera.lookAt(4.0, 1.7, 0.2);
+
+scene.add(new THREE.HemisphereLight(0xffffff, 0xd9d2cc, 0.9));
+const sun = new THREE.DirectionalLight(0xffffff, 2.4);
+sun.position.set(-6, 12, 9); sun.castShadow = true;
+sun.shadow.mapSize.set(4096,4096);
+Object.assign(sun.shadow.camera,{left:-6,right:14,top:10,bottom:-10,near:1,far:40});
+sun.shadow.radius = 6; sun.shadow.bias = -0.0004;
+scene.add(sun);
+const fill = new THREE.DirectionalLight(0xfff3e8, 0.6); fill.position.set(10,6,-4); scene.add(fill);
+
+const floor = new THREE.Mesh(new THREE.PlaneGeometry(80,80), new THREE.MeshStandardMaterial({color:0xF1ECE6, roughness:0.95}));
+floor.rotation.x = -Math.PI/2; floor.receiveShadow = true; scene.add(floor);
+
+const labels = [
+  ['1','Sinais vitais','e estresse'],
+  ['2','Anestésico','local'],
+  ['3','SNC e','hemodinâmica'],
+  ['4','Via aérea','obstruída'],
+  ['5','Deterioração','clínica'],
+];
+const w = 1.5, h = 2.7, d = 0.38, s = 2.05;
+
+function faceTexture(i, highlight){
+  const c = document.createElement('canvas'); c.width = 512; c.height = 922;
+  const g = c.getContext('2d');
+  g.fillStyle = '#690D0E'; g.fillRect(0,0,c.width,c.height);
+  g.strokeStyle = highlight ? GOLD : 'rgba(251,237,237,0.35)'; g.lineWidth = highlight ? 22 : 8;
+  g.strokeRect(26,26,c.width-52,c.height-52);
+  g.beginPath(); g.moveTo(70,470); g.lineTo(c.width-70,470); g.strokeStyle='rgba(251,237,237,0.45)'; g.lineWidth=5; g.stroke();
+  g.fillStyle = highlight ? GOLD : '#FBEDED';
+  g.textAlign='center'; g.textBaseline='middle';
+  g.font = '700 260px Georgia, "DejaVu Serif", serif'; g.fillText(labels[i][0], c.width/2, 250);
+  g.font = '600 58px "DejaVu Sans", Arial, sans-serif'; g.fillStyle = '#FBEDED';
+  g.fillText(labels[i][1], c.width/2, 610); g.fillText(labels[i][2], c.width/2, 690);
+  const t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = 8; return t;
+}
+
+const body = new THREE.MeshStandardMaterial({color:WINE, roughness:0.38, metalness:0.05});
+function domino(i){
+  const geo = new THREE.BoxGeometry(d, h, w);   // espessura ao longo de x (direção da queda)
+  const front = new THREE.MeshStandardMaterial({map:faceTexture(i, i===K-1 || (K===0 && false)), roughness:0.42});
+  // faces: +x, -x, +y, -y, +z, -z  → rótulo na face -x (voltada para a câmera, à esquerda)
+  const mats = [body, front, body, body, body, body];
+  const m = new THREE.Mesh(geo, mats); m.castShadow = true; m.receiveShadow = true;
+  m.position.set(-d/2, h/2, 0);          // pivô na aresta inferior do lado +x
+  const pivot = new THREE.Group(); pivot.add(m);
+  pivot.position.set(i*s + d/2, 0, 0);
+  return pivot;
+}
+// rótulo na face -x precisa estar legível: girar a textura para a orientação da face
+const pieces = labels.map((_,i)=>{ const p = domino(i); scene.add(p); return p; });
+
+// ângulos de queda resolvidos geometricamente: cada peça caída apoia o canto superior na face da seguinte
+function solve(b, xi, xn){
+  // peça i: pivô (xi+d,0); peça n: pivô (xn+d,0) girada b (horário)
+  const Bx = xn + d - d*Math.cos(b), By = d*Math.sin(b), ux = Math.sin(b), uy = Math.cos(b);
+  let lo = 0, hi = Math.PI/2;
+  for(let it=0; it<60; it++){
+    const a = (lo+hi)/2;
+    const Tx = xi + d + h*Math.sin(a), Ty = h*Math.cos(a);
+    const cr = (Tx-Bx)*uy - (Ty-By)*ux;   // >0: canto à direita da face (penetra)
+    if(cr > 0) hi = a; else lo = a;
+  }
+  return lo;
+}
+const ang = [0,0,0,0,0];
+if(K > 0){
+  let nextAngle = 0;
+  if(K === 5){ ang[4] = Math.PI/2 - 0.001; nextAngle = ang[4]; }
+  const startIdx = (K === 5) ? 3 : K-1;
+  if(K < 5) nextAngle = 0;
+  for(let i=startIdx; i>=0; i--){
+    ang[i] = solve(nextAngle, i*s, (i+1)*s);
+    nextAngle = ang[i];
+  }
+}
+for(let i=0;i<5;i++) pieces[i].rotation.z = -ang[i];
+renderer.render(scene, camera);
+window.done = true;
+</script></body></html>

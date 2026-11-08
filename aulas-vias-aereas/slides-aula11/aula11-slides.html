@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<title>Aula 11 · Slides</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+<style>
+:root{--wine:#690D0E;--wine-800:#5C0A0B;--wine-50:#FBF0F0;--wine-100:#F6DCDC;--gold:#E0A93B;--ink:#2A2526;--fg2:#5E5A5B;--fg3:#6B6667;--paper:#FBFAFB;--paper2:#ECE7E1;--lav:#A5A5D3;--lav-700:#6F7299;--dark:#17112c;--onw:#FBEDED}
+@page{size:1920px 1080px;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#ddd}
+body{font-family:'Poppins',sans-serif;color:var(--ink)}
+.slide{width:1920px;height:1080px;position:relative;overflow:hidden;background:var(--paper);page-break-after:always;break-after:page}
+.slide.dark{background:var(--wine);color:var(--onw)}
+.top{position:absolute;top:56px;left:96px;right:96px;display:flex;justify-content:space-between;font-size:22px;letter-spacing:.14em;text-transform:uppercase;color:var(--lav-700);font-weight:500}
+.dark .top{color:rgba(251,237,237,.7)}
+.num{position:absolute;bottom:52px;right:96px;font-size:22px;color:var(--fg3);font-weight:500}
+.dark .num{color:rgba(251,237,237,.6)}
+.foot{position:absolute;bottom:52px;left:96px;right:200px;font-size:21px;line-height:1.45;color:var(--fg3)}
+.dark .foot{color:rgba(251,237,237,.75)}
+.eyebrow{font-size:26px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:22px}
+h1{font-size:78px;line-height:1.06;font-weight:700;color:var(--wine);letter-spacing:-.01em}
+.dark h1{color:#fff}
+h2{font-size:60px;line-height:1.1;font-weight:700;color:var(--wine);letter-spacing:-.01em}
+.dark h2{color:#fff}
+.lead{font-size:32px;line-height:1.45;color:var(--fg2);font-weight:400}
+.dark .lead{color:var(--onw)}
+.content{position:absolute;top:160px;left:96px;right:96px;bottom:150px}
+ul.pts{list-style:none;margin-top:40px}
+ul.pts li{font-size:31px;line-height:1.42;margin-bottom:26px;padding-left:42px;position:relative;color:var(--ink)}
+ul.pts li:before{content:"";position:absolute;left:0;top:17px;width:16px;height:16px;border-radius:50%;background:var(--gold)}
+ul.pts li b{color:var(--wine)}
+.ref{color:var(--fg3);font-size:23px;font-style:italic;white-space:nowrap}
+/* slides com imagem do dominó ao fundo: texto no terço direito */
+.domino{background:#F4F1EE}.domino .bg{position:absolute;left:0;top:0;width:1200px;height:1080px;-webkit-mask-image:linear-gradient(90deg,#000 80%,transparent 100%);mask-image:linear-gradient(90deg,#000 80%,transparent 100%)}
+.domino .panel{position:absolute;top:140px;left:1190px;right:90px;bottom:170px;display:flex;flex-direction:column;justify-content:center}
+.domino .panel ul.pts li{font-size:27px;margin-bottom:18px}
+.domino .panel h2{font-size:52px}
+.big{font-size:150px;font-weight:800;color:var(--wine);line-height:1}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:56px;margin-top:70px}
+.card{background:#fff;border:1px solid #E6E4E5;border-radius:28px;padding:48px 44px;box-shadow:0 14px 40px rgba(105,13,14,.06)}
+.card .big{font-size:112px}
+.card p{font-size:28px;line-height:1.4;margin-top:18px;color:var(--ink)}
+.card .ref{display:block;margin-top:18px;white-space:normal}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-top:56px}
+.box{border-radius:28px;padding:44px 48px;background:#fff;border:1px solid #E6E4E5}
+.box h3{font-size:36px;color:var(--wine);margin-bottom:16px;font-weight:700}
+.box p{font-size:28px;line-height:1.45}
+.center-q{font-size:84px;font-weight:700;color:var(--gold);line-height:1.1}
+table.dose{border-collapse:collapse;margin-top:30px;font-size:30px}
+table.dose td,table.dose th{padding:16px 26px;border-bottom:1px solid #E6E4E5;text-align:left}
+table.dose th{font-size:22px;text-transform:uppercase;letter-spacing:.1em;color:var(--lav-700);font-weight:600}
+table.dose td b{color:var(--wine)}
+.arrow{display:flex;gap:28px;align-items:stretch;margin-top:46px}
+.arrow .step{flex:1;background:#fff;border:1px solid #E6E4E5;border-radius:24px;padding:34px 30px}
+.arrow .step .n{font-size:24px;font-weight:700;color:var(--gold);letter-spacing:.12em}
+.arrow .step p{font-size:30px;font-weight:600;color:var(--wine);margin-top:10px;line-height:1.25}
+.pill{display:inline-block;padding:12px 26px;border-radius:999px;background:var(--wine-50);color:var(--wine);font-weight:600;font-size:26px;margin-right:14px}
+.dark .pill{background:rgba(255,255,255,.12);color:#fff}
+.cover-line{width:140px;height:6px;background:var(--gold);margin:46px 0}
+</style></head><body>
+
+<!-- 0 · CAPA -->
+<section class="slide dark">
+  <div class="top"><span>Projeto Cultura de Segurança</span><span>Grupo Nitro</span></div>
+  <div class="content" style="display:flex;flex-direction:column;justify-content:center">
+    <div class="eyebrow">Aula #11</div>
+    <h1 style="font-size:96px;max-width:1500px">A via aérea não é da sedação.<br>É da Odontologia.</h1>
+    <div class="cover-line"></div>
+    <p class="lead" style="font-size:36px">O efeito dominó: o risco que nós mesmos provocamos</p>
+    <p class="lead" style="margin-top:60px;font-size:30px;opacity:.85">Profa. Dra. Carla Gamba</p>
+  </div>
+</section>
+
+<!-- 1 · O EFEITO DOMINÓ -->
+<section class="slide domino">
+  <img class="bg" src="../slides-domino/slide-domino-0-todas-em-pe.png" alt="">
+  <div class="top"><span>Aula #11 · O efeito dominó</span><span></span></div>
+  <div class="panel">
+    <div class="eyebrow">O efeito dominó</div>
+    <h2>Nenhuma dessas peças é sedação.</h2>
+    <ul class="pts">
+      <li><b>1</b> · Sinais vitais não aferidos e estresse invisível</li>
+      <li><b>2</b> · Anestésico local além do limite</li>
+      <li><b>3</b> · SNC e variação hemodinâmica</li>
+      <li><b>4</b> · Via aérea: engasgo e corpo estranho</li>
+      <li><b>5</b> · Deterioração clínica imediata</li>
+    </ul>
+  </div>
+  <div class="foot">Atherton et al., Br Dent J, 1999 · Fukayama &amp; Yagiela, Int Dent J, 2006</div>
+  <div class="num">1</div>
+</section>
+
+<!-- 2 · PEÇA 1 -->
+<section class="slide domino">
+  <img class="bg" src="../slides-domino/slide-domino-1-sinais-vitais-estresse.png" alt="">
+  <div class="top"><span>Aula #11 · Peça 1</span><span></span></div>
+  <div class="panel">
+    <div class="eyebrow">Peça 1 · Sinais vitais e estresse</div>
+    <h2>O estresse também é adrenalina.</h2>
+    <ul class="pts">
+      <li>A adrenalina plasmática sobe <b>durante o procedimento</b>, pela carga emocional</li>
+      <li>Com anestesia eficaz, a resposta simpática é <b>mínima</b></li>
+      <li>Dois tubetes: efeito hemodinâmico <b>menor que uma caminhada leve</b></li>
+    </ul>
+  </div>
+  <div class="foot">Taggart et al., BMJ, 1976 · Cioffi et al., JADA, 1985 · Niwa et al., Oral Surg Oral Med Oral Pathol, 2000</div>
+  <div class="num">2</div>
+</section>
+
+<!-- 3 · PEÇA 2 -->
+<section class="slide domino">
+  <img class="bg" src="../slides-domino/slide-domino-2-anestesico-local.png" alt="">
+  <div class="top"><span>Aula #11 · Peça 2</span><span></span></div>
+  <div class="panel">
+    <div class="eyebrow">Peça 2 · Anestésico local</div>
+    <h2>A dose tem limite.</h2>
+    <p class="lead" style="font-size:28px;margin-top:22px">Paciente com doença cardiovascular: <b style="color:var(--wine)">0,04 mg de adrenalina</b></p>
+    <table class="dose">
+      <tr><th>Adrenalina</th><th>Tubetes de 1,8 mL</th></tr>
+      <tr><td>1:80.000</td><td><b>≈ 1,8</b></td></tr>
+      <tr><td>1:100.000</td><td><b>≈ 2,2</b></td></tr>
+      <tr><td>1:200.000</td><td><b>≈ 4,4</b></td></tr>
+    </table>
+    <p class="lead" style="font-size:25px;margin-top:22px">Sem vasoconstritor: mais dor e mais anestésico.</p>
+  </div>
+  <div class="foot">Hashemi et al., Glob J Health Sci, 2016 · Seminario-Amez et al., J Evid Based Dent Pract, 2021 (revisão sistemática) · Laragnoit et al., Clinics, 2009</div>
+  <div class="num">3</div>
+</section>
+
+<!-- 4 · QUAL É A SUA ALTERNATIVA -->
+<section class="slide">
+  <div class="top"><span>Aula #11 · Peças 1 e 2</span><span></span></div>
+  <div class="content">
+    <div class="eyebrow">O cenário</div>
+    <h2 style="max-width:1600px">Implante · ASA II, hipertenso controlado · 2 tubetes · primeira fresa · <span style="color:var(--gold)">dor</span>.</h2>
+    <div class="arrow">
+      <div class="step"><div class="n">1</div><p>Mais anestésico, além do limite?</p></div>
+      <div class="step"><div class="n">2</div><p>Seguir com dor e adrenalina endógena?</p></div>
+      <div class="step"><div class="n">3</div><p>Interromper, com o leito aberto?</p></div>
+    </div>
+    <p class="center-q" style="margin-top:70px">Qual é a sua alternativa?</p>
+  </div>
+  <div class="foot">Cioffi et al., JADA, 1985 · Dionne et al., Anesth Analg, 1984</div>
+  <div class="num">4</div>
+</section>
+
+<!-- 5 · PEÇA 3 -->
+<section class="slide domino">
+  <img class="bg" src="../slides-domino/slide-domino-3-snc-hemodinamica.png" alt="">
+  <div class="top"><span>Aula #11 · Peça 3</span><span></span></div>
+  <div class="panel">
+    <div class="eyebrow">Peça 3 · SNC e hemodinâmica</div>
+    <h2>Qual peça caiu?</h2>
+    <p class="lead" style="font-size:28px;margin-top:20px">Palidez · inconsciência · bradicardia · hipotensão</p>
+    <ul class="pts" style="margin-top:28px">
+      <li><b>Reflexo vasovagal e síncope:</b> a emergência mais frequente na cadeira</li>
+      <li><b>Sobredosagem de anestésico local:</b> da tontura à inconsciência, das arritmias à parada</li>
+      <li>Só <b>40,5%</b> aferem a pressão · até <b>87%</b> não calculam a dose</li>
+    </ul>
+  </div>
+  <div class="foot">Yamashita et al., Front Physiol, 2025 · Rhee et al., J Dent Anesth Pain Med, 2019 · Otero et al., J Clin Exp Dent, 2025 · Christensen &amp; Shipp, J Dent Anesth Pain Med, 2026</div>
+  <div class="num">5</div>
+</section>
+
+<!-- 6 · ONDE A OBSTRUÇÃO ACONTECE -->
+<section class="slide">
+  <div class="top"><span>Aula #11 · Peça 4</span><span></span></div>
+  <div class="content">
+    <div class="eyebrow">Peça 4 · Via aérea</div>
+    <h2>A obstrução acontece em toda a Odontologia.</h2>
+    <div class="grid3">
+      <div class="card"><div class="big" style="font-size:64px">Prótese</div><p>Cimentação de coroas unitárias: maior chance de aspiração</p><span class="ref">Tiwana et al., JADA, 2004</span></div>
+      <div class="card"><div class="big" style="font-size:64px">Endodontia</div><p>44 aspirações em 11 anos; aspirados exigem mais hospitalização</p><span class="ref">Susini et al., Int Endod J, 2007</span></div>
+      <div class="card"><div class="big" style="font-size:64px">Implante</div><p>Aspiração da chave do implante, Brasil</p><span class="ref">Araujo et al., J Stomatol Oral Maxillofac Surg, 2021</span></div>
+    </div>
+    <p class="lead" style="margin-top:56px">Mais frequente entre profissionais de <b style="color:var(--wine)">1 a 7 anos de formados</b>.</p>
+  </div>
+  <div class="foot">Hisanaga et al., Bull Tokyo Dent Coll, 2014 · Hou et al., Head Face Med, 2016</div>
+  <div class="num">6</div>
+</section>
+
+<!-- 7 · ORTODONTIA -->
+<section class="slide">
+  <div class="top"><span>Aula #11 · Peça 4</span><span></span></div>
+  <div class="content" style="display:flex;align-items:center;gap:90px">
+    <div class="big" style="font-size:300px;white-space:nowrap">1 <span style="font-size:120px;font-weight:600">em</span> 5</div>
+    <div>
+      <div class="eyebrow">Ortodontia</div>
+      <h2 style="font-size:54px">ortodontistas já teve um paciente que inalou ou engoliu parte do aparelho.</h2>
+      <p class="lead" style="margin-top:30px">Bandas, segmentos de fio e chaves de expansor.</p>
+    </div>
+  </div>
+  <div class="foot">Varho et al., Acta Odontol Scand, 2015 · Karamani et al., J Orthod Sci, 2022</div>
+  <div class="num">7</div>
+</section>
+
+<!-- 8 · ENGOLIU OU ASPIROU -->
+<section class="slide domino">
+  <img class="bg" src="../slides-domino/slide-domino-4-via-aerea.png" alt="">
+  <div class="top"><span>Aula #11 · Peça 4</span><span></span></div>
+  <div class="panel">
+    <div class="eyebrow">Peça 4 · Via aérea</div>
+    <h2>Engoliu ou aspirou?</h2>
+    <ul class="pts">
+      <li>Mais aspirados: <b>próteses 29%</b>, <b>coroas 22%</b>, <b>chaves de implante 17%</b></li>
+      <li>Componente perdido: <b>primeiro descartar a via aérea</b></li>
+      <li>O silêncio não indica resolução: pode ser <b>ausência de fluxo aéreo</b></li>
+    </ul>
+  </div>
+  <div class="foot">Velapati et al., J Bronchology Interv Pulmonol, 2026 · Xie et al., Medicine, 2026 · Grabie et al., HCA Healthc J Med, 2025</div>
+  <div class="num">8</div>
+</section>
+
+<!-- 9 · O QUE SABEMOS -->
+<section class="slide">
+  <div class="top"><span>Aula #11 · O que sabemos</span><span></span></div>
+  <div class="content">
+    <div class="eyebrow">O que sabemos, de verdade</div>
+    <h2>Saber não é o mesmo que conseguir fazer.</h2>
+    <div class="grid3">
+      <div class="card"><div class="big">36%</div><p>acertam a conduta na aspiração de corpo estranho</p><span class="ref">Shaath et al., Eur J Dent, 2023</span></div>
+      <div class="card"><div class="big">82%</div><p>dos acadêmicos brasileiros não se sentem preparados para emergências</p><span class="ref">de Aquino et al., Eur J Dent Educ, 2026</span></div>
+      <div class="card"><div class="big" style="font-size:96px">87 × 43</div><p>87% treinados em SBV; 43% aptos a executar as manobras</p><span class="ref">Stafuzza et al., Braz Oral Res, 2014</span></div>
+    </div>
+  </div>
+  <div class="foot">Sem treino, o tempo até a ventilação de resgate sobe de ~57 para ~90 s em 4 meses · McCaw et al., Adv Simul, 2023</div>
+  <div class="num">9</div>
+</section>
+
+<!-- 10 · PEÇA 5 -->
+<section class="slide domino">
+  <img class="bg" src="../slides-domino/slide-domino-5-deterioracao-clinica.png" alt="">
+  <div class="top"><span>Aula #11 · Peça 5</span><span></span></div>
+  <div class="panel">
+    <div class="eyebrow">Peça 5 · Deterioração clínica</div>
+    <h2>A última peça.</h2>
+    <ul class="pts">
+      <li><b>42 eventos graves</b> com risco de vida em ~1,28 milhão de atendimentos em 1 ano</li>
+      <li>Eventos adversos em <b>1,4%</b> dos pacientes; <b>2/3 evitáveis</b>; 8% procuraram só o médico</li>
+      <li>Causa mais comum: <b>falta de protocolo</b> · só 44,5% têm protocolo de emergência</li>
+    </ul>
+  </div>
+  <div class="foot">Müller et al., Emerg Med J, 2008 · Tokede et al., J Patient Saf, 2024 · Lo et al., JADA, 2025 · Khattak et al., PeerJ, 2026</div>
+  <div class="num">10</div>
+</section>
+
+<!-- 11 · RED FLAG -->
+<section class="slide dark">
+  <div class="top"><span>Aula #11 · Peça 5</span><span></span></div>
+  <div class="content" style="display:flex;flex-direction:column;justify-content:center">
+    <div class="eyebrow">Red flag</div>
+    <h1 style="font-size:84px">RDC 1002/2025 · ANVISA</h1>
+    <p class="lead" style="font-size:40px;margin-top:20px">Plano de Segurança do Paciente no consultório</p>
+    <div class="cover-line"></div>
+    <p class="lead" style="font-size:38px;font-style:italic;max-width:1500px">"O cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar."</p>
+    <p class="lead" style="font-size:26px;margin-top:18px;opacity:.8">Resolução CFO 295/2026, art. 11, §1º</p>
+  </div>
+  <div class="num">11</div>
+</section>
+
+<!-- 12 · PRÓXIMA CONSULTA -->
+<section class="slide">
+  <div class="top"><span>Aula #11 · Próximos passos</span><span></span></div>
+  <div class="content">
+    <div class="eyebrow">Na sua próxima consulta</div>
+    <h2>Quatro gestos.</h2>
+    <div class="arrow" style="margin-top:70px">
+      <div class="step"><div class="n">01</div><p>Aferir a pressão</p></div>
+      <div class="step"><div class="n">02</div><p>Perguntar sobre ronco</p></div>
+      <div class="step"><div class="n">03</div><p>Olhar a orofaringe</p></div>
+      <div class="step"><div class="n">04</div><p>Deixar a aspiração pronta</p></div>
+    </div>
+  </div>
+  <div class="num">12</div>
+</section>
+
+<!-- 13 · ARCO DAS AULAS -->
+<section class="slide">
+  <div class="top"><span>Aula #11 · Próximas aulas</span><span></span></div>
+  <div class="content">
+    <div class="eyebrow">Vias aéreas para toda a Odontologia</div>
+    <h2>Três aulas, quatro verbos.</h2>
+    <div class="grid3">
+      <div class="card"><div class="big" style="font-size:72px">#11</div><p><b style="color:var(--wine)">Reconhecer o risco</b><br>O efeito dominó</p><span class="ref">12/11</span></div>
+      <div class="card"><div class="big" style="font-size:72px">#12</div><p><b style="color:var(--wine)">Prevenir</b><br>Avaliar em 2 minutos: STOP-Bang, Mallampati, SARI</p><span class="ref">19/11</span></div>
+      <div class="card"><div class="big" style="font-size:72px">#13</div><p><b style="color:var(--wine)">Reconhecer, manejar, resgatar</b><br>e o PSP como trilha</p><span class="ref">26/11</span></div>
+    </div>
+  </div>
+  <div class="num">13</div>
+</section>
+
+<!-- 14 · TRILHA 295 -->
+<section class="slide dark">
+  <div class="top"><span>Aula #11 · Trilha 295</span><span></span></div>
+  <div class="content" style="display:flex;flex-direction:column;justify-content:center">
+    <div class="eyebrow">Para quem já tem a sedação na rotina</div>
+    <h1 style="font-size:90px">Trilha 295</h1>
+    <p class="lead" style="font-size:34px;margin-top:20px;max-width:1500px">Avaliação de vias aéreas, monitorização, SBV e SAVO no mesmo percurso, rumo à Habilitação Básica em Sedação.</p>
+    <div style="margin-top:50px">
+      <span class="pill">Black Friday até 16/11</span>
+      <span class="pill">Presencial · 5 a 9/12 · Rio</span>
+      <span class="pill">Online · 104 h ao vivo</span>
+    </div>
+    <p class="lead" style="font-size:34px;margin-top:56px">Envie <b style="color:var(--gold)">TRILHA</b> no WhatsApp · link na descrição</p>
+    <p class="lead" style="font-size:24px;margin-top:30px;opacity:.75">Nenhum curso habilita, inclusive o nosso. Quem habilita é o Conselho.</p>
+  </div>
+  <div class="num">14</div>
+</section>
+
+<!-- 15 · ENCERRAMENTO -->
+<section class="slide">
+  <div class="content" style="display:flex;flex-direction:column;justify-content:center">
+    <h1 style="font-size:88px;max-width:1500px">A via aérea não pertence à sedação.</h1>
+    <h1 style="font-size:88px;max-width:1500px;color:var(--gold)">Pertence a quem abre uma boca todos os dias.</h1>
+    <div class="cover-line"></div>
+    <p class="lead">Todas as referências estão na descrição desta aula.</p>
+  </div>
+  <div class="num">15</div>
+</section>
+
+</body></html>
