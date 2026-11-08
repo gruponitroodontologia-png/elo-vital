@@ -118,9 +118,14 @@ revisão sistemática confirma um a dois tubetes nos hipertensos e coronariopata
 controlados — Seminario-Amez e colaboradores, 2021. Vale sempre o menor dos dois
 tetos.
 
-E retirar o vasoconstritor não resolve: num ensaio no InCor, sem vasoconstritor,
-os pacientes tiveram mais dor e receberam mais anestésico — Laragnoit e
-colaboradores, 2009.
+E atenção: retirar o vasoconstritor não amplia o limite. Sem ele, o teto passa
+a ser apenas o do sal, e ele é alcançado mais cedo. A literatura diz: em
+cardiopatas, os grupos sem vasoconstritor tiveram mais dor e mais sangramento —
+Guimaraes e colaboradores, 2021, numa metanálise de ensaios randomizados; no
+InCor, sem vasoconstritor, os pacientes tiveram mais dor e receberam mais
+anestésico — Laragnoit e colaboradores, 2009; e a mepivacaína 3% é cerca de 1,5
+vez mais tóxica por volume — Chin e colaboradores, 2003. Mais dor significa
+mais volume, e mais adrenalina endógena.
 
 Agora, imagine a cena. Um implante, num paciente ASA II, hipertenso
 controlado. Você já administrou dois tubetes. E, neste paciente, o teto não é

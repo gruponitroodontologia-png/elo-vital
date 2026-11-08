@@ -62,6 +62,7 @@ Cada peça tem a sua evidência.
 - **Como comparar com o tubete:** um tubete de lidocaína 2% com adrenalina 1:100.000 (18 µg) dobra a adrenalina plasmática [57]. Mesmo assim, o efeito hemodinâmico de dois tubetes (3,6 mL de lidocaína 1:80.000) foi **menor que o de um exercício leve**, como caminhar a 4,8 km/h [58]. Em pacientes com doença cardiovascular, um tubete teve pouca ou nenhuma consequência hemodinâmica [59].
 
 **Peça 2. O estresse e a dor levam a mais anestésico, e a dose tem limite.**
+- **Sem vasoconstritor não se amplia o limite:** em cardiopatas, mais dor e mais sangramento sem vasoconstritor, e menor pressão sistólica com ele [83]; no hipertenso, a pressão sistólica subiu mais após a extração com mepivacaína 3% sem vaso [84]; a mepivacaína 3% controla melhor a frequência cardíaca, mas tem menor sucesso e pior controle da dor [85].
 - **Sem vasoconstritor, mais dor e mais anestésico:** num ensaio randomizado em cardiopatas valvares no InCor-USP, o grupo da lidocaína sem adrenalina teve **mais queixas de dor e recebeu mais anestésico local** [60].
 - **O limite fundamental é o do sal anestésico.** O limite de segurança deve se basear no nível circulante do anestésico, e não na quantidade de adrenalina injetada [79]. A dose máxima recomendada da lidocaína com adrenalina é de 7 mg/kg (máximo de 500 mg), segundo o BNF e a FDA. Na prática, o teto de adrenalina limita a 6–7 tubetes [80]. Para a articaína, também 7 mg/kg [81]. A mepivacaína 3% é cerca de 1,5 vez mais tóxica por volume, e em crianças recomenda-se não ultrapassar 5 mg/kg [82]. **Regra integrada: 1º teto pelo sal (mg/kg × peso), 2º teto pela adrenalina; vale o menor.** No paciente ASA II, o teto pelo sal é reduzido e individualizado [80].
 - **O segundo teto, da adrenalina, nos pacientes com doença cardiovascular, é de 0,04 mg.** Isso equivale a cerca de **2 tubetes de 1,8 mL** de solução 1:100.000 (18 µg cada) [61]. Uma revisão sistemática de ensaios randomizados concluiu que **1 a 2 tubetes** com adrenalina 1:80.000, 1:100.000 ou 1:200.000 são seguros em hipertensos e coronariopatas **controlados** [62]. *Na conta (ASA II, doença cardiovascular controlada): 0,04 mg ÷ 0,018 mg ≈ 2,2 tubetes (1:100.000). Com 1:200.000, cerca de 4,4. Com 1:80.000, cerca de 1,8.*
@@ -366,6 +367,9 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 80. Ucer C et al. Dent J (Basel) 2026. doi:10.3390/dj14070457
 81. Maeda S et al. Acta Med Okayama 2025. doi:10.18926/AMO/68356
 82. Chin KL et al. J Calif Dent Assoc 2003. PMID 14626871
+83. Guimaraes CC et al. BMJ Open 2021. doi:10.1136/bmjopen-2020-044357
+84. Abu-Mostafa N, Aldawssary A. J Clin Exp Dent 2015. doi:10.4317/jced.51534
+85. Su N et al. Int Dent J 2014. doi:10.1111/idj.12087
 
 **Antes de usar em slide:**
 - os autores estão sem iniciais (o PubMed retornou só o sobrenome); completar ao montar a descrição do YouTube;
