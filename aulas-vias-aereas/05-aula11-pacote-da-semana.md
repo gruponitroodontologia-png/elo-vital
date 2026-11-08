@@ -66,7 +66,8 @@ instale.
 
 [pausa de 1 a 2 segundos]
 
-Repare: nenhuma dessas peças é sedação. Todas são Odontologia do dia a dia."
+Repare: este efeito dominó está na rotina clínica de toda a Odontologia, e não
+apenas na sedação."
 
 ### Bloco 3 · Estresse, adrenalina e o limite de tubetes · 5:30–8:30 · Slides 2 e 2b
 
