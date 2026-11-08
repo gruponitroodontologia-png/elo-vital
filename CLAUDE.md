@@ -75,6 +75,7 @@
 - **Sempre ancorar afirmações clínicas em literatura real** (PubMed,
   conferida na fonte; nada de "(a verificar)"). Citar autor/ano; em vídeo
   falado a Carla gosta de dizer "a literatura diz: … — e cita os autores".
+- **Proibido "é da …"** como posse ("não é da sedação", "é da Odontologia"): usar "competência de", "domínio exclusivo de". "Pertencer" é aceitável.
 - **Proibido o verbo "virar"** ("virar reflexo" etc.). Usar **transformar,
   consolidar, elevar, automatizar** (automaticidade).
 - **A norma entra como confirmação, nunca como ameaça.** Não usar "cobrar".
@@ -151,7 +152,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 ## Aulas gratuitas de vias aéreas (11, 12 e 13)
 - Material em `aulas-vias-aereas/` (dossiês 01–02 com DOIs, tradução do reel
   da Sedation Academy, roteiro das 3 aulas, texto "Olho no olho" da Aula 11).
-- Tese: "a via aérea não pertence à sedação; pertence a toda a odontologia".
+- Tese: "a via aérea não é domínio exclusivo da sedação: é competência de toda a Odontologia". (Regra de linguagem: **nunca "é da …"** — ex.: "não é da sedação", "é da Odontologia"; "pertencer" é aceitável, mas preferir "competência de", "domínio exclusivo de".)
 - **Aula #11: quinta, 12/11/2026, 11h11** · #12 em 19/11 · #13 em 26/11.
 - Pacote completo da #11 (roteiro, newsletter, reels, stories) em
   `aulas-vias-aereas/05-aula11-pacote-da-semana.md`.

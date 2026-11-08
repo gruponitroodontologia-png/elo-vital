@@ -13,7 +13,7 @@ acadêmicos e cirurgiões-dentistas sabem sobre isso**
 
 ## A tese das aulas
 
-**A via aérea não pertence à sedação. Ela está presente em toda cadeira odontológica.**
+**A via aérea não é domínio exclusivo da sedação: é competência de toda a Odontologia, presente em todo atendimento.**
 Todo procedimento acontece *dentro* da entrada da via aérea, com o paciente
 deitado ou reclinado, usando objetos pequenos, lisos e radiopacos, além de água,
 sangue e secreções. A sedação aumenta o risco, mas não é ela que o cria. O risco
@@ -215,7 +215,7 @@ estudo da via aérea precisa ser **contínuo**.
 **Frase-síntese sugerida para a aula:**
 > *"A sedação aumenta o risco, mas não é ela que cria a via aérea. A via aérea
 > está presente em toda boca aberta, em toda cadeira reclinada e em todo fio
-> ortodôntico que se solta. Por isso esse conhecimento pertence a toda a
+> ortodôntico que se solta. Por isso esse conhecimento é competência de toda a
 > odontologia."*
 
 E a norma entra como **confirmação**: a CFO 295/2026 estabelece que o

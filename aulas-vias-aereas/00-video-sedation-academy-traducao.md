@@ -60,5 +60,5 @@ expor:
 **Frase-ponte sugerida para abrir a aula:**
 > *"Esse vídeo fala de sedação. Mas troque 'sedação' por 'cimentação de uma
 > coroa', 'troca de fio ortodôntico' ou 'irrigação endodôntica' e cada palavra
-> continua verdadeira. A via aérea não é assunto da sedação. É assunto de toda
-> boca aberta."*
+> continua verdadeira. A via aérea não é domínio exclusivo da sedação. É competência de todo
+> atendimento odontológico."*

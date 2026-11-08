@@ -233,7 +233,7 @@ de oxigenação e ventilação fora da sedação está em:
 
 **Frase-ponte para a venda (sem preço, fim de aula):**
 > *"Monitorização, suporte de vida e o Plano de Segurança do Paciente não são
-> conteúdos da sedação. São conteúdos da Odontologia. A Trilha 295 reúne os
+> domínio exclusivo da sedação. São competências de toda a Odontologia. A Trilha 295 reúne os
 > três para quem já tem a sedação na rotina e busca a Habilitação Básica."*
 
 ---

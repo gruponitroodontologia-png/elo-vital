@@ -1,7 +1,7 @@
 # Aula #11 — Roteiro, newsletter, reels e stories da semana
 
 **Projeto Cultura de Segurança · YouTube**
-**Título:** *A via aérea não é da sedação. É da Odontologia.*
+**Título:** *Via aérea: competência de toda a Odontologia*
 **Estreia:** quinta, 12/11, às 11h11 · cerca de 19 minutos · abertura olho no olho
 (cerca de 1 min 30 s), depois roteiro com slides, como as outras aulas.
 **Rascunho para validação da Profa. Dra. Carla Gamba.**
@@ -11,7 +11,7 @@
 ## Decisões desta aula
 
 - **Papel da aula:** abrir o arco das vias aéreas (#11, #12, #13) e mostrar que
-  a via aérea pertence a toda a Odontologia, não só à sedação. Em segundo
+  a via aérea é competência de toda a Odontologia, e não domínio exclusivo da sedação. Em segundo
   plano, a aula sustenta a Trilha 295 neste mês de lançamento: avaliação de
   vias aéreas, monitorização, SBV e SAVO estão dentro do percurso.
 - **Formato:** igual ao da #10. Olho no olho curto, depois 10 slides no
@@ -412,8 +412,8 @@ deterioração clínica. **Nenhuma dessas peças é sedação.** A literatura mo
 que, na clínica geral, as duas emergências mais frequentes foram a convulsão e o
 corpo estranho deglutido (Atherton e colaboradores, 1999).
 
-**Nesta quinta-feira, 12/11, às 11h11, no YouTube: Aula #11 — A via aérea não é
-da sedação. É da Odontologia.**
+**Nesta quinta-feira, 12/11, às 11h11, no YouTube: Aula #11 — Via aérea:
+competência de toda a Odontologia.**
 
 Nesta aula:
 - por que o limite no paciente com doença cardiovascular fica em torno de **2,2

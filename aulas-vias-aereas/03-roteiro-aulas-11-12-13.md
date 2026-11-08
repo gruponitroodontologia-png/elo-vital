@@ -1,8 +1,8 @@
 # Roteiro das 3 etapas — Aulas #11, #12 e #13
 
 **Projeto Cultura de Segurança · YouTube · quintas, 11h11 · até 20 min cada**
-**Fio condutor:** *a via aérea, a monitorização e o suporte de vida não pertencem
-à sedação. Pertencem a toda a Odontologia. O PSP é a trilha que organiza esse
+**Fio condutor:** *a via aérea, a monitorização e o suporte de vida não são domínio
+exclusivo da sedação: constituem competências de toda a Odontologia. O PSP é a trilha que organiza esse
 percurso, ainda novo na Odontologia brasileira.*
 
 | Etapa | Aula | Data | Tema | Verbos da CFO 295/2026 |
