@@ -4,7 +4,7 @@
 **Formato:** talking-head, sem slide e **sem legenda na tela**. As referências são
 **faladas** e todas vão para a descrição da aula.
 **Duração estimada:** 2 min 30 s a 3 min.
-**Como citar falando:** "a literatura diz: … — Fulano e colaboradores, ano".
+**Como citar falando:** a citação entra na narrativa ("Boriosi e colaboradores, em 2019, mostraram…"), sem fórmula repetida; cada dado responde a um momento da cena.
 
 ---
 
@@ -16,32 +16,31 @@ link está na descrição.
 Hoje eu começo por uma cena de ontem.
 
 Sedei um paciente ASA III para uma manutenção simples das próteses protocolo
-sobre implante. Simples para o procedimento, não para o paciente. A literatura
-diz: com o envelhecimento da população, cresce o número de pacientes com
-hipertensão e diabetes que desenvolvem emergências durante o tratamento
-odontológico — Kishimoto e colaboradores, 2023.
+sobre implante. Simples para o procedimento, não para o paciente. E esse
+paciente é cada vez mais o nosso paciente: Kishimoto e colaboradores, em 2023,
+mostraram que, com o envelhecimento da população, cresce o número de
+hipertensos e diabéticos que desenvolvem emergências na cadeira odontológica.
 
-Eu revisava o nosso checklist, item por item, para gravar e entregar a vocês.
-E o checklist não é burocracia: numa revisão sobre checklists na Odontologia,
-cinco dos seis estudos que mediram resultado mostraram redução de incidentes —
-Zouaidi e colaboradores, 2024.
+Eu revisava o checklist, item por item, para gravar e entregar a vocês. Um
+checklist não é burocracia. Zouaidi e colaboradores revisaram, em 2024, o seu
+uso na Odontologia: em cinco de seis estudos, os incidentes diminuíram.
 
-Posicionei no paciente o estetoscópio pré-traqueal. Ele fez uma pausa na
+Posicionei o estetoscópio pré-traqueal. O paciente fez uma pausa na
 respiração. Muito breve. E, antes de qualquer pensamento, as minhas mãos já
 estavam aspirando, revisando secreção, protegendo a via aérea.
 
-A literatura diz: o estetoscópio pré-traqueal foi o primeiro monitor a perceber
-o evento adverso em 64% dos casos, contra 15% do oxímetro — Boriosi e
-colaboradores, 2019.
+Não foi por acaso que o estetoscópio me avisou primeiro. Boriosi e
+colaboradores, em 2019, mostraram que ele é o primeiro monitor a perceber o
+evento adverso em 64% dos casos. O oxímetro, em apenas 15%.
 
 *(pausa)*
 
 Eu não decidi fazer aquilo. Eu simplesmente fiz.
-E me perguntei: em que momento isso se tornou automático em mim?
+E me perguntei: em que momento esse gesto se tornou automático em mim?
 
-A resposta está no treino. Profissionais treinados com simulação de
-emergências foram todos aprovados num exame prático. Entre os que tiveram
-apenas aulas expositivas, nenhum foi aprovado — Manton e colaboradores, 2021.
+A resposta tem nome: treino. No estudo de Manton e colaboradores, de 2021,
+todos os profissionais treinados com simulação foram aprovados no exame
+prático. Entre os que tiveram apenas aulas expositivas, nenhum.
 
 *(pausa)*
 
@@ -52,15 +51,17 @@ Foi ali que me fiz a pergunta mais desconfortável da minha carreira:
 *como eu nunca tinha percebido os riscos que nós mesmos provocamos na nossa
 rotina?*
 
-Não era só comigo. Num hospital da USP, 87% dos dentistas tinham treinamento
-em Suporte Básico de Vida, mas só 43% se sentiam capazes de executar as
-manobras — Stafuzza e colaboradores, 2014. E apenas 41% dos dentistas
-brasileiros se julgam capazes de diagnosticar a causa de uma emergência —
-Arsati e colaboradores, 2010.
+E eu não estava sozinha. Em 2014, Stafuzza e colaboradores encontraram, num
+hospital da USP, 87% dos dentistas treinados em Suporte Básico de Vida, mas só
+43% seguros para executar as manobras. Quatro anos antes, Arsati e
+colaboradores já mostravam que apenas 41% dos dentistas brasileiros se julgam
+capazes de diagnosticar a causa de uma emergência.
+
+Treinados, mas não preparados.
 
 *(pausa)*
 
-É dessa pergunta que trata a aula de hoje.
+É dessa distância que trata a aula de hoje.
 
 Tudo o que eu trouxer está ancorado na literatura, e todas as referências
 estão na descrição desta aula.
@@ -81,5 +82,6 @@ estão na descrição desta aula.
 ## Notas de direção
 
 - A força está na **confissão** ("mais de quinze anos"). Fale mais devagar nessa parte.
-- Cite os autores no seu ritmo natural, olhando para a lente, sem ler.
+- Cite os autores no seu ritmo natural, olhando para a lente, sem ler. Autor e ano vêm antes do dado; o número é o que fica.
+- "Treinados, mas não preparados." é a frase-síntese: dita devagar, seguida de pausa.
 - Se o bloco passar de 3 minutos, corte primeiro a citação de Kishimoto, depois a de Zouaidi. Boriosi, Manton e Stafuzza sustentam o arco principal.

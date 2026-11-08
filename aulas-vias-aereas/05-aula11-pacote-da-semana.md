@@ -34,8 +34,8 @@
 ### Bloco 1 · Abertura · 0:00–3:00 · olho no olho
 
 **Texto completo no arquivo 04** (teleprompter). Sem slide e sem legenda. As
-referências são **faladas** ("a literatura diz: … — Fulano e colaboradores,
-ano"): Kishimoto 2023 · Zouaidi 2024 · Boriosi 2019 · Manton 2021 · Stafuzza
+referências são **faladas** e entram na narrativa ("Boriosi e colaboradores,
+em 2019, mostraram…"): Kishimoto 2023 · Zouaidi 2024 · Boriosi 2019 · Manton 2021 · Stafuzza
 2014 · Arsati 2010. Fecha com: "Tudo o que eu trouxer está ancorado na
 literatura, e todas as referências estão na descrição desta aula."
 
