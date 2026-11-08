@@ -161,8 +161,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 ## Pendências / próximos passos
 - Confirmar a **data-limite exata + artigo** do prazo da CFO (hoje usamos
   "janeiro de 2027" como informado pela Carla).
-- Alinhar **títulos do corpo docente** da página com o Guia (ex.: Profª Dra.
-  Carla Gamba + Board/Loyola; Luiz Alberto — Mestre em Saúde Coletiva; etc.).
+- Alinhar **títulos do corpo docente** da página com o Guia (Carla: **"Profa. Carla Gamba" (MSc), nunca "Dra."**, confirmado em 08/11/2026; Luiz Alberto — Mestre em Saúde Coletiva; etc.).
 - Checar discrepância do checkout: página anuncia 12× R$ 307; Kiwify calculava
   R$ 307,17 (17 centavos).
 - (Opcional) Liberar Supabase na rede do ambiente + guardar `SUPABASE_SERVICE_KEY`
