@@ -453,7 +453,7 @@ Nesta aula:
 
 [Botão: Ativar o lembrete da Aula #11]
 
-**Trilha 295: a condição de Black Friday vai até domingo, 16/11.**
+**Trilha 295: a condição de Black Friday vai até segunda-feira, 16/11.**
 
 Avaliação de vias aéreas, monitorização, SBV e SAVO fazem parte da Trilha 295, a
 complementação de carga horária para quem já tem certificado de habilitação em
@@ -482,7 +482,7 @@ Grupo Nitro
 Dr(a). [Nome], hoje às 11h11 vai ao ar a Aula #11: o efeito dominó que começa num
 sinal vital não aferido e termina na via aérea. [Botão: Assistir à Aula #11]
 
-A condição de Black Friday da Trilha 295 vai até domingo, 16/11. Envie TRILHA no
+A condição de Black Friday da Trilha 295 vai até segunda-feira, 16/11. Envie TRILHA no
 WhatsApp. [Botão: Quero conhecer a Trilha 295]
 
 Profa. Dra. Carla Gamba
@@ -543,12 +543,12 @@ ausência de fluxo aéreo."
 *Legenda do post:* Referências: Velapati S et al., J Bronchology Interv
 Pulmonol, 2026 · Xie F et al., Medicine, 2026.
 
-### Reel 4 · "Trilha 295: até domingo" (cerca de 30 s) · sábado, 14/11
+### Reel 4 · "Trilha 295: até segunda-feira" (cerca de 30 s) · sábado, 14/11
 
 "Avaliação de vias aéreas, monitorização, Suporte Básico e Suporte Avançado de
 Vida. Tudo isso faz parte da Trilha 295, para quem já tem habilitação em sedação
 ou analgesia inalatória e busca a Habilitação Básica. A condição de Black Friday
-vai até domingo. Turma presencial de 5 a 9 de dezembro, no Rio, ou 104 horas ao
+vai até segunda-feira. Turma presencial de 5 a 9 de dezembro, no Rio, ou 104 horas ao
 vivo, online. Envie TRILHA no WhatsApp. E lembre: nenhum curso habilita,
 inclusive o nosso."
 
@@ -564,7 +564,7 @@ inclusive o nosso."
 | **Qui, 12/11** | "Hoje, 11h11: Aula #11" · depois: "Paciente perdeu a consciência, bradicárdico e hipotenso: síncope vasovagal ou sobredosagem de anestésico local?" | Lembrete + teste com 2 opções |
 | **Qui, 12/11 (noite)** | Reel 2: "Qual é a sua alternativa?" | Caixa de perguntas |
 | **Sex, 13/11** | Resultado da enquete de terça + Reel 3 | Link da aula |
-| **Sáb, 14/11** | Reel 4 + "Black Friday da Trilha 295 até domingo" | Link: WhatsApp TRILHA |
+| **Sáb, 14/11** | Reel 4 + "Black Friday da Trilha 295 até segunda-feira" | Link: WhatsApp TRILHA |
 | **Dom, 15/11 e 16/11** | "Último dia da condição de Black Friday" | Link: WhatsApp TRILHA |
 
 *Confirmar se a condição termina no dia 16 às 23h59, para escrever o story
