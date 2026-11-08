@@ -114,7 +114,7 @@ Qual é a sua alternativa?
 
 Mais anestésico, além do limite? Seguir com dor, e deixar que a adrenalina do
 próprio paciente faça o que o limite de tubetes queria evitar? Ou interromper,
-com o leito aberto e a confiança abalada?
+com o leito cirúrgico exposto e a relação de confiança comprometida?
 
 Sem um protocolo de redução de estresse, com técnica anestésica planejada,
 controle da ansiedade e as vias de sedação previstas na habilitação, você está
@@ -192,19 +192,19 @@ ainda não procurou uma formação em sedação."
 #### Bloco 4 (cont.) · Ortodontia · cerca de 40 s · Slide 5
 
 **Slide 5:** "1 em cada 5." Varho et al., Acta Odontol Scand, 2015: 20% dos
-ortodontistas finlandeses tiveram um paciente que inalou ou engoliu parte do
+ortodontistas finlandeses tiveram um paciente que aspirou ou ingeriu parte do
 aparelho. Bandas, fios e chaves de expansor (Karamani, J Orthod Sci, 2022).
 
 **Fala:**
 "Agora, a especialidade que menos se associa à via aérea. Num levantamento
 nacional na Finlândia, um em cada cinco ortodontistas teve um paciente que
-inalou ou engoliu parte do aparelho. Os itens mais comuns são bandas, fios e
+aspirou ou ingeriu parte do aparelho. Os itens mais comuns são bandas, fios e
 chaves de expansor. A ortodontia trabalha com peças pequenas, soltas, na
 entrada da via aérea, muitas vezes com uma criança reclinada na cadeira. Na
 Aula #12, voltaremos à ortodontia por outra porta: o sono."
 
-**Conclusão do Bloco 4 · Peça 4 (cerca de 1 min, Slide 4b):** "Engoliu ou
-aspirou?" Objetos mais aspirados: próteses 29%, coroas 22%, chaves de implante
+**Conclusão do Bloco 4 · Peça 4 (cerca de 1 min, Slide 4b):** "Ingestão ou
+aspiração?" Objetos mais aspirados: próteses 29%, coroas 22%, chaves de implante
 17% (Velapati et al., 2026) · "primeiro descartar a via aérea" (Xie et al.,
 2026).
 
@@ -215,17 +215,18 @@ sangue e objetos pequenos. A literatura diz: entre os adultos que aspiraram
 objetos odontológicos, os mais comuns foram próteses, coroas e chaves de
 implante — Velapati e colaboradores, 2026.
 
-Imagine: a coroa sobre implante escapa e desaparece. O paciente tosse com
-força. Depois, para de tossir.
+Considere o cenário: durante a instalação, a coroa sobre implante se desprende
+e não é mais visualizada na cavidade oral. O paciente apresenta tosse súbita e
+vigorosa. Em seguida, a tosse cessa.
 
 *(pausa)*
 
-Ele engoliu ou aspirou? E, se parou de tossir, é porque resolveu, ou porque a
-obstrução ficou completa?
+Houve ingestão ou aspiração? E a cessação da tosse indica resolução, ou
+progressão para obstrução completa?
 
 A tosse vigorosa indica que ainda há fluxo aéreo. A sua interrupção, sem
 expulsão do corpo estranho, pode indicar o contrário. A recomendação é clara: quando um componente se perde, primeiro
-descartar a via aérea, antes de presumir que foi engolido — Xie e
+descartar a aspiração para a via aérea, antes de presumir a ingestão — Xie e
 colaboradores, 2026. Porque a aspiração pode ficar silenciosa por horas, ou por
 meses.
 
@@ -408,7 +409,7 @@ Nesta aula:
   primeira fresa;
 - como diferenciar uma síncope vasovagal de uma sobredosagem de anestésico local
   quando o paciente perde a consciência;
-- a pergunta que ninguém quer responder no escuro: **engoliu ou aspirou?**
+- o diagnóstico que não admite presunção: **ingestão ou aspiração de corpo estranho?**
 - a red flag que a RDC 1002/2025 da ANVISA confirma, e a literatura já mostrava.
 
 [Botão: Ativar o lembrete da Aula #11]
@@ -475,7 +476,7 @@ cerca de 2,2 tubetes de 1:100.000 — Hashemi e colaboradores, 2016. Primeira
 fresa. E ele diz: 'estou sentindo dor'.
 
 Qual é a sua alternativa? Mais anestésico, além do limite? Seguir com dor? Ou
-interromper, com o leito aberto?
+interromper, com o leito cirúrgico exposto?
 
 Sem um protocolo de redução de estresse, você está sem alternativas. O que muda
 essa equação é o planejamento, não o improviso. A aula completa está no YouTube."
@@ -484,17 +485,18 @@ essa equação é o planejamento, não o improviso. A aula completa está no You
 Seminario-Amez M et al., J Evid Based Dent Pract, 2021 · Cioffi GA et al., JADA,
 1985.
 
-### Reel 3 · "Engoliu ou aspirou?" (cerca de 40 s) · sexta, 13/11
+### Reel 3 · "Ingestão ou aspiração?" (cerca de 40 s) · sexta, 13/11
 
-"A coroa sobre implante escapa da pinça e desaparece. O paciente tosse com
-força. Depois, para de tossir.
+"Durante a instalação, a coroa sobre implante se desprende e não é mais
+visualizada na cavidade oral. Tosse súbita e vigorosa. Em seguida, a tosse
+cessa.
 
-Ele engoliu ou aspirou?
+Houve ingestão ou aspiração?
 
 A literatura diz: entre os adultos que aspiraram objetos odontológicos, os mais
 comuns foram próteses, coroas e chaves de implante — Velapati e colaboradores,
-2026. E a recomendação é primeiro descartar a via aérea, antes de presumir que
-foi engolido — Xie e colaboradores, 2026.
+2026. E a recomendação é primeiro descartar a aspiração para a via aérea, antes de
+presumir a ingestão — Xie e colaboradores, 2026.
 
 Na obstrução da via aérea, o silêncio não indica resolução. Pode significar
 ausência de fluxo aéreo."

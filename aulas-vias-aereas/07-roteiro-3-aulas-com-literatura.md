@@ -78,7 +78,7 @@ acontecer amanhã no seu consultório, qual é a sua alternativa?"*
 Sem um protocolo de redução de estresse, restam três caminhos, e nenhum é bom:
 1. **Mais anestésico além do limite.** Isso ultrapassa a dose de 0,04 mg de adrenalina definida para o paciente com doença cardiovascular [61].
 2. **Seguir com dor.** A dor e a ansiedade elevam a adrenalina endógena [53] e a pressão [17], que é exatamente o que o limite de tubetes queria evitar.
-3. **Interromper o procedimento.** O paciente sai com o leito aberto, a confiança abalada e uma nova consulta pela frente.
+3. **Interromper o procedimento.** O paciente sai com o leito cirúrgico exposto, a relação de confiança comprometida e um novo procedimento a reagendar.
 
 **A resposta:** o que muda a equação é o planejamento, não o improviso. A resposta
 simpática é mínima quando a anestesia é eficaz [55], e a sedação atenua a
@@ -135,17 +135,18 @@ a disfagia [69].
 - **A aspiração pode ser silenciosa:** um paciente que aspirou uma broca estava estável e, em uma hora, apresentou tosse e hemoptise [68]. Outro aspirou uma coroa sem sintomas imediatos e só procurou atendimento **9 meses depois**, com empiema e pneumonia obstrutiva [73].
 - E só **36%** dos dentistas acertaram a conduta na aspiração de corpo estranho [24].
 
-**Conclusão da peça 4: a pergunta que ninguém quer responder no escuro**
+**Conclusão da peça 4: o diagnóstico que não admite presunção**
 
-> O parafuso, a coroa ou a chave do implante escapa da pinça e desaparece. O
-> paciente tosse com força. Depois, para de tossir.
+> Durante o procedimento, o parafuso, a coroa ou a chave do implante se desprende
+> e não é mais visualizado na cavidade oral. O paciente apresenta tosse súbita e
+> vigorosa. Em seguida, a tosse cessa.
 
-**Pergunta para a audiência (com pausa):** *"Ele engoliu ou aspirou? E, se parou
-de tossir, é porque resolveu, ou porque a obstrução ficou completa?"*
+**Pergunta para a audiência (com pausa):** *"Houve ingestão ou aspiração? E a
+cessação da tosse indica resolução, ou progressão para obstrução completa?"*
 
 A tosse vigorosa indica que ainda há fluxo aéreo. A sua interrupção, sem
 expulsão do corpo estranho, pode indicar o contrário. Sem saber reconhecer a diferença e sem um protocolo, o colega
-oscila entre o pânico e a falsa tranquilidade: "deve ter engolido". A
+oscila entre o pânico e a falsa tranquilidade de presumir a ingestão. A
 literatura recomenda o caminho oposto: **primeiro descartar a via aérea** [72],
 porque a aspiração pode não dar sinais por horas ou meses [68, 73].
 
@@ -214,7 +215,7 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 **Evidência:**
 - emergências sem sedação: convulsão e corpo estranho são as duas mais frequentes [22], com 42 eventos graves em um ano [25];
 - perfusão alterada na rotina: o estresse libera adrenalina endógena [53, 54], a anestesia eficaz reduz essa resposta [55], e a dose tem limite: 0,04 mg, cerca de 2,2 tubetes 1:100.000 [61, 62];
-- obstrução em todas as especialidades: prótese [32], endodontia [33], implante [34], **ortodontia, com 1 em cada 5 ortodontistas** já tendo um paciente que inalou ou engoliu parte do aparelho [35], e mais eventos entre profissionais de 1 a 7 anos de formados [36];
+- obstrução em todas as especialidades: prótese [32], endodontia [33], implante [34], **ortodontia, com 1 em cada 5 ortodontistas** já tendo um paciente que aspirou ou ingeriu parte do aparelho [35], e mais eventos entre profissionais de 1 a 7 anos de formados [36];
 - conhecimento insuficiente [13, 14, 15, 24].
 
 **Conclusão:** "A via aérea não é tema exclusivo de uma academia de sedação."
