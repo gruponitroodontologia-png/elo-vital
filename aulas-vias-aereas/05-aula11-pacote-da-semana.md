@@ -369,48 +369,57 @@ Braz Oral Res 2014 · McCaw et al. Adv Simul 2023.
 
 ## Newsletter
 
-**Envio:** terça, 10/11, às 18h, para toda a base.
+**Envio:** terça, 10/11, às 18h, para toda a base (disparo: Fabrício).
 
-**Assunto:** O risco que nós mesmos provocamos
+**Assunto:** O efeito dominó que começa num sinal vital
 
-**Pré-cabeçalho:** Por que a via aérea pertence a toda a Odontologia, e não só à
-sedação.
+**Pré-cabeçalho:** Cinco peças, nenhuma delas é sedação. Quinta, 11h11, Aula #11.
 
 **Links para o Fabrício inserir:**
-- Botão "Ativar o lembrete da Aula #11": estreia agendada no YouTube (12/11,
-  11h11).
-- Botão "Quero conhecer a Trilha 295": WhatsApp com TRILHA preenchida.
+- Botão "Ativar o lembrete da Aula #11": estreia agendada no YouTube (12/11, 11h11).
+- Botão "Quero conhecer a Trilha 295": WhatsApp com a mensagem TRILHA já preenchida.
 
 ---
 
 Olá, Dr(a). [Nome],
 
-Em 2000, depois de uma certificação em Suporte Básico de Vida, eu já tinha mais
-de quinze anos de Odontologia. E me fiz uma pergunta desconfortável: como eu
-nunca tinha percebido os riscos que nós mesmos provocamos na nossa rotina?
+Na semana passada, sedei um paciente ASA III para uma manutenção simples de
+próteses protocolo sobre implante. Com o estetoscópio pré-traqueal posicionado,
+percebi uma pausa respiratória, muito breve. E, antes de qualquer pensamento,
+minhas mãos já estavam aspirando e protegendo a via aérea.
 
-Num levantamento com 1.500 clínicos gerais britânicos, as duas emergências mais
-frequentes foram a convulsão e o corpo estranho deglutido. Nenhuma delas
-depende de sedação. Ambas fazem parte da Odontologia de todos os dias.
+Em que momento isso se tornou automático em mim? Voltei ao ano 2000: uma
+certificação em Suporte Básico de Vida, depois de mais de quinze anos de
+Odontologia. E a pergunta mais desconfortável da minha carreira: como eu nunca
+tinha percebido os riscos que nós mesmos provocamos na nossa rotina?
+
+O risco na cadeira funciona como um efeito dominó. O estresse que não aferimos,
+o anestésico além do limite, a variação hemodinâmica, a via aérea, a
+deterioração clínica. **Nenhuma dessas peças é sedação.** A literatura mostra
+que, na clínica geral, as duas emergências mais frequentes foram a convulsão e o
+corpo estranho deglutido (Atherton e colaboradores, 1999).
 
 **Nesta quinta-feira, 12/11, às 11h11, no YouTube: Aula #11 — A via aérea não é
 da sedação. É da Odontologia.**
 
 Nesta aula:
-- o efeito dominó que começa num sinal vital não aferido e termina na via aérea;
-- onde a obstrução acontece: prótese, endodontia, implante e ortodontia;
-- o que sabemos, de verdade, e o que muda a partir da próxima consulta.
+- por que o limite no paciente com doença cardiovascular fica em torno de **2,2
+  tubetes** de adrenalina 1:100.000, e o que fazer quando a dor aparece na
+  primeira fresa;
+- como diferenciar uma síncope vasovagal de uma sobredosagem de anestésico local
+  quando o paciente perde a consciência;
+- a pergunta que ninguém quer responder no escuro: **engoliu ou aspirou?**
+- a red flag que a RDC 1002/2025 da ANVISA confirma, e a literatura já mostrava.
 
 [Botão: Ativar o lembrete da Aula #11]
 
-**Trilha 295: a Black Friday vai até domingo, 16/11.**
+**Trilha 295: a condição de Black Friday vai até domingo, 16/11.**
 
-Avaliação de vias aéreas, monitorização, SBV e SAVO fazem parte da Trilha 295,
-a complementação de carga horária para quem já tem certificado de habilitação
-em sedação ou analgesia inalatória e busca a Habilitação Básica em Sedação. A
-etapa presencial acontece de 5 a 9 de dezembro, no Rio de Janeiro, em uma única
-viagem. Para quem não pode viajar, há a Trilha 295 Online, com 104 horas ao
-vivo.
+Avaliação de vias aéreas, monitorização, SBV e SAVO fazem parte da Trilha 295, a
+complementação de carga horária para quem já tem certificado de habilitação em
+sedação ou analgesia inalatória e busca a Habilitação Básica em Sedação. A etapa
+presencial acontece de 5 a 9 de dezembro, no Rio de Janeiro, em uma única
+viagem. Para quem não pode viajar, há a Trilha 295 Online, com 104 horas ao vivo.
 
 [Botão: Quero conhecer a Trilha 295]
 
@@ -428,10 +437,10 @@ Grupo Nitro
 ### E-mail curto de lembrete
 
 **Envio:** quinta, 12/11, às 7h.
-**Assunto:** Hoje, 11h11: a via aérea é da Odontologia
+**Assunto:** Hoje, 11h11: qual peça do dominó caiu?
 
-Dr(a). [Nome], hoje às 11h11 vai ao ar a Aula #11, sobre o efeito dominó que
-começa num sinal vital e termina na via aérea. [Botão: Assistir à Aula #11]
+Dr(a). [Nome], hoje às 11h11 vai ao ar a Aula #11: o efeito dominó que começa num
+sinal vital não aferido e termina na via aérea. [Botão: Assistir à Aula #11]
 
 A condição de Black Friday da Trilha 295 vai até domingo, 16/11. Envie TRILHA no
 WhatsApp. [Botão: Quero conhecer a Trilha 295]
@@ -440,38 +449,67 @@ Profa. Dra. Carla Gamba
 
 ---
 
-## Reels (talking-head, citações como legenda)
+## Reels (talking-head, referências faladas, todas na legenda do post)
 
-### Reel 1 · "Nenhuma dessas peças é sedação" (cerca de 45 s) · publicar quarta, 11/11
+### Reel 1 · "Nenhuma dessas peças é sedação" (cerca de 45 s) · quarta, 11/11
 
-"Se eu não afiro a pressão, não vejo a ansiedade do meu paciente. A ansiedade
-me leva a mais anestésico. Mais anestésico pode excitar ou deprimir o sistema
-nervoso central. Daí vêm a convulsão, a crise hipertensiva, a bradicardia. E um
-paciente em crise pode engasgar ou aspirar um corpo estranho. Repare: nenhuma
-dessas peças é sedação. Todas são Odontologia do dia a dia. Amanhã, às 11h11,
-no YouTube."
+"Se eu não afiro a pressão, não enxergo o estresse do meu paciente. O estresse
+pede mais anestésico. Mais anestésico pode excitar ou deprimir o sistema nervoso
+central. Daí vêm a síncope, a convulsão, a bradicardia. E um paciente em crise,
+reclinado, de boca aberta, pode aspirar um corpo estranho.
 
-*Legenda:* "As duas emergências mais frequentes na clínica geral britânica:
-convulsão e corpo estranho deglutido." Atherton et al., Br Dent J, 1999.
+A literatura diz: na clínica geral, as duas emergências mais frequentes foram a
+convulsão e o corpo estranho deglutido — Atherton e colaboradores, 1999.
 
-### Reel 2 · "1 em cada 5 ortodontistas" (cerca de 30 s) · publicar sexta, 13/11
+Repare: nenhuma dessas peças é sedação. Todas são Odontologia do dia a dia.
+Amanhã, às 11h11, no YouTube."
 
-"Você acha que a via aérea é assunto de quem faz sedação? Na Finlândia, um em
-cada cinco ortodontistas já teve um paciente que inalou ou engoliu parte do
-aparelho. Bandas, fios, chaves de expansor, na entrada da via aérea de uma
-criança reclinada. A via aérea não pertence à sedação. Pertence a toda a
-Odontologia. A aula completa está no YouTube."
+*Legenda do post:* O efeito dominó que começa num sinal vital. Aula #11, quinta,
+11h11, no YouTube. Referência: Atherton GJ et al., Br Dent J, 1999.
 
-*Legenda:* Varho et al., Acta Odontol Scand, 2015.
+### Reel 2 · "Qual é a sua alternativa?" (cerca de 45 s) · quinta, 12/11, após a aula
 
-### Reel 3 · "Trilha 295: até domingo" (cerca de 30 s) · publicar sábado, 14/11
+"Implante. Paciente ASA II, hipertenso controlado. Você já administrou dois
+tubetes, o limite: no paciente com doença cardiovascular, 0,04 mg de adrenalina,
+cerca de 2,2 tubetes de 1:100.000 — Hashemi e colaboradores, 2016. Primeira
+fresa. E ele diz: 'estou sentindo dor'.
+
+Qual é a sua alternativa? Mais anestésico, além do limite? Seguir com dor? Ou
+interromper, com o leito aberto?
+
+Sem um protocolo de redução de estresse, você está sem alternativas. O que muda
+essa equação é o planejamento, não o improviso. A aula completa está no YouTube."
+
+*Legenda do post:* Referências: Hashemi SH et al., Glob J Health Sci, 2016 ·
+Seminario-Amez M et al., J Evid Based Dent Pract, 2021 · Cioffi GA et al., JADA,
+1985.
+
+### Reel 3 · "Engoliu ou aspirou?" (cerca de 40 s) · sexta, 13/11
+
+"A coroa sobre implante escapa da pinça e desaparece. O paciente tosse com
+força. Depois, para de tossir.
+
+Ele engoliu ou aspirou?
+
+A literatura diz: entre os adultos que aspiraram objetos odontológicos, os mais
+comuns foram próteses, coroas e chaves de implante — Velapati e colaboradores,
+2026. E a recomendação é primeiro descartar a via aérea, antes de presumir que
+foi engolido — Xie e colaboradores, 2026.
+
+Na obstrução da via aérea, o silêncio não indica resolução. Pode significar
+ausência de fluxo aéreo."
+
+*Legenda do post:* Referências: Velapati S et al., J Bronchology Interv
+Pulmonol, 2026 · Xie F et al., Medicine, 2026.
+
+### Reel 4 · "Trilha 295: até domingo" (cerca de 30 s) · sábado, 14/11
 
 "Avaliação de vias aéreas, monitorização, Suporte Básico e Suporte Avançado de
-Vida. Tudo isso faz parte da Trilha 295, para quem já tem habilitação em
-sedação ou analgesia inalatória e busca a Habilitação Básica. A condição de
-Black Friday vai até domingo. Turma presencial de 5 a 9 de dezembro, no Rio, ou
-104 horas ao vivo, online. Envie TRILHA no WhatsApp. E lembre: nenhum curso
-habilita, inclusive o nosso."
+Vida. Tudo isso faz parte da Trilha 295, para quem já tem habilitação em sedação
+ou analgesia inalatória e busca a Habilitação Básica. A condição de Black Friday
+vai até domingo. Turma presencial de 5 a 9 de dezembro, no Rio, ou 104 horas ao
+vivo, online. Envie TRILHA no WhatsApp. E lembre: nenhum curso habilita,
+inclusive o nosso."
 
 ---
 
@@ -481,11 +519,12 @@ habilita, inclusive o nosso."
 |---|---|---|
 | **Seg, 09/11** | Foto do estetoscópio pré-traqueal: "Você sabe para que serve?" | Caixa de perguntas |
 | **Ter, 10/11** | "Na sua última consulta, você aferiu a pressão do paciente?" | Enquete: Sim / Não |
-| **Qua, 11/11** | Reel 1 + "Amanhã, 11h11" | Figurinha de lembrete |
-| **Qui, 12/11** | "Hoje, 11h11: Aula #11" · depois: "Paciente dessaturando: você avalia primeiro a ventilação, a perfusão ou a oxigenação?" | Lembrete + teste com 3 opções |
-| **Sex, 13/11** | Resultado da enquete de terça + Reel 2 | Link da aula |
-| **Sáb, 14/11** | Reel 3 + "Black Friday da Trilha 295 até domingo" | Link: WhatsApp TRILHA |
+| **Qua, 11/11** | Reel 1 + imagem do dominó em pé: "Amanhã, 11h11" | Figurinha de lembrete |
+| **Qui, 12/11** | "Hoje, 11h11: Aula #11" · depois: "Paciente perdeu a consciência, bradicárdico e hipotenso: síncope vasovagal ou sobredosagem de anestésico local?" | Lembrete + teste com 2 opções |
+| **Qui, 12/11 (noite)** | Reel 2: "Qual é a sua alternativa?" | Caixa de perguntas |
+| **Sex, 13/11** | Resultado da enquete de terça + Reel 3 | Link da aula |
+| **Sáb, 14/11** | Reel 4 + "Black Friday da Trilha 295 até domingo" | Link: WhatsApp TRILHA |
 | **Dom, 15/11 e 16/11** | "Último dia da condição de Black Friday" | Link: WhatsApp TRILHA |
 
-*Sobre o domingo, 16/11: confirmar se a condição termina no dia 16 às 23h59 ou
-antes disso, para escrever o story final com a hora exata.*
+*Confirmar se a condição termina no dia 16 às 23h59, para escrever o story
+final com a hora exata.*
