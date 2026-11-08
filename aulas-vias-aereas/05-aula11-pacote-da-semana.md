@@ -291,9 +291,10 @@ precisa ser estudada e apreciada. Ainda assim, grande parte da Odontologia
 segue como se não ouvisse e não enxergasse esse alerta.
 
 Será, então, a via aérea um tema exclusivo de uma academia de sedação? Não. A
-sedação aumenta o risco, mas não é ela que cria a via aérea. A via aérea está
-presente em toda boca aberta, em toda cadeira reclinada e em todo fio que se
-solta. A Resolução CFO 295/2026 estabelece que o cirurgião-dentista deverá estar
+sedação aumenta o risco, mas não é ela que cria a via aérea. Na Odontologia, a
+cavidade oral é o nosso campo de trabalho, mas a via aérea é a nossa
+responsabilidade: dominar sua anatomia e fisiologia é o que transforma o risco
+iminente em segurança clínica. A Resolução CFO 295/2026 estabelece que o cirurgião-dentista deverá estar
 apto a prevenir, reconhecer, manejar e resgatar.
 
 Toda grande mudança na segurança começa questionando aquilo que, durante anos,
@@ -340,8 +341,9 @@ Conselho.
 
 [pausa]
 
-A via aérea não é domínio exclusivo da sedação. É competência clínica de todo
-cirurgião-dentista. Até a próxima quinta."
+A obstrução não escolhe especialidade. Dominar a via aérea e o SAVO não é
+diferencial da sedação ou da cirurgia bucomaxilofacial; é o alicerce de
+segurança de toda a Odontologia. Até a próxima quinta."
 
 **Referências para a descrição do YouTube:** Atherton GJ et al. Br Dent J
 1999;186:72-79 · Fukayama H, Yagiela JA. Int Dent J 2006;56:102-108 · Boriosi JP
