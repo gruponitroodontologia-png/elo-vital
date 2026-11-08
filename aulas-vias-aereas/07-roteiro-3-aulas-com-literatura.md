@@ -63,7 +63,8 @@ Cada peça tem a sua evidência.
 
 **Peça 2. O estresse e a dor levam a mais anestésico, e a dose tem limite.**
 - **Sem vasoconstritor, mais dor e mais anestésico:** num ensaio randomizado em cardiopatas valvares no InCor-USP, o grupo da lidocaína sem adrenalina teve **mais queixas de dor e recebeu mais anestésico local** [60].
-- **O limite nos pacientes com doença cardiovascular é de 0,04 mg de adrenalina.** Isso equivale a cerca de **2 tubetes de 1,8 mL** de solução 1:100.000 (18 µg cada) [61]. Uma revisão sistemática de ensaios randomizados concluiu que **1 a 2 tubetes** com adrenalina 1:80.000, 1:100.000 ou 1:200.000 são seguros em hipertensos e coronariopatas **controlados** [62]. *Na conta: 0,04 mg ÷ 0,018 mg ≈ 2,2 tubetes (1:100.000). Com 1:200.000, cerca de 4,4. Com 1:80.000, cerca de 1,8.*
+- **O limite fundamental é o do sal anestésico.** O limite de segurança deve se basear no nível circulante do anestésico, e não na quantidade de adrenalina injetada [79]. A dose máxima recomendada da lidocaína com adrenalina é de 7 mg/kg (máximo de 500 mg), segundo o BNF e a FDA. Na prática, o teto de adrenalina limita a 6–7 tubetes [80]. Para a articaína, também 7 mg/kg [81]. A mepivacaína 3% é cerca de 1,5 vez mais tóxica por volume, e em crianças recomenda-se não ultrapassar 5 mg/kg [82]. **Regra integrada: 1º teto pelo sal (mg/kg × peso), 2º teto pela adrenalina; vale o menor.** Num adulto de 70 kg: lidocaína 2% ≈ 13,6 tubetes pelo sal; articaína 4% ≈ 6,8.
+- **O segundo teto, da adrenalina, nos pacientes com doença cardiovascular, é de 0,04 mg.** Isso equivale a cerca de **2 tubetes de 1,8 mL** de solução 1:100.000 (18 µg cada) [61]. Uma revisão sistemática de ensaios randomizados concluiu que **1 a 2 tubetes** com adrenalina 1:80.000, 1:100.000 ou 1:200.000 são seguros em hipertensos e coronariopatas **controlados** [62]. *Na conta: 0,04 mg ÷ 0,018 mg ≈ 2,2 tubetes (1:100.000). Com 1:200.000, cerca de 4,4. Com 1:80.000, cerca de 1,8.*
 - Entre 369 dentistas, só **2,7%** tinham conhecimento detalhado da toxicidade sistêmica por anestésico local e só **3,3%** tinham um plano de resposta. Apenas 40% calculavam a dose pelo peso [21].
 
 **Conclusão das peças 1 e 2: o cenário que todo colega reconhece**
@@ -358,6 +359,10 @@ Cada etapa parte de uma premissa, apresenta a evidência e chega a uma conclusã
 76. Holliday R et al. J Dent 2021. doi:10.1016/j.jdent.2020.103565
 77. Graetz C et al. Clin Oral Investig 2022. doi:10.1007/s00784-022-04525-7
 78. Koch M, Graetz C. PLoS One 2021. doi:10.1371/journal.pone.0257137
+79. Cannell H. Br Dent J 1996. doi:10.1038/sj.bdj.4809223
+80. Ucer C et al. Dent J (Basel) 2026. doi:10.3390/dj14070457
+81. Maeda S et al. Acta Med Okayama 2025. doi:10.18926/AMO/68356
+82. Chin KL et al. J Calif Dent Assoc 2003. PMID 14626871
 
 **Antes de usar em slide:**
 - os autores estão sem iniciais (o PubMed retornou só o sobrenome); completar ao montar a descrição do YouTube;

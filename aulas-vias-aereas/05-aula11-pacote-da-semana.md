@@ -71,13 +71,15 @@ apenas na sedação."
 
 ### Bloco 3 · Estresse, adrenalina e o limite de tubetes · 5:30–8:30 · Slides 2 e 2b
 
-**Slide 2:** "O estresse também é adrenalina." Adrenalina plasmática muito
-mais alta durante o procedimento pela carga emocional (Taggart et al., 1976) ·
-com anestesia eficaz, a resposta simpática é mínima (Cioffi et al., 1985) ·
-dois tubetes têm efeito hemodinâmico menor que uma caminhada leve (Niwa et
-al., 2000) · limite em pacientes com doença cardiovascular: **0,04 mg de
-adrenalina ≈ 2,2 tubetes 1:100.000** (Hashemi et al., 2016; Seminario-Amez et
-al., 2021).
+**Slide 2:** "O estresse também é adrenalina." Taggart et al., 1976 · Cioffi et
+al., 1985 · Niwa et al., 2000.
+
+**Slide 3 (peça 2):** "O limite começa pelo sal anestésico." 1º teto: mg/kg do
+sal × peso; 2º teto: adrenalina; vale o menor. Tabela para adulto de 70 kg
+(tubete de 1,8 mL): lidocaína 2% 1:100.000 = 13,6 pelo sal · 11 / 2,2 pela
+adrenalina (saudável / cardiopata); articaína 4% 1:100.000 = 6,8 · 11 / 2,2;
+articaína 4% 1:200.000 = 6,8 · 22 / 4,4. Rodapé: Cannell, 1996 · Ucer et al.,
+2026 · Maeda et al., 2025 · Hashemi et al., 2016 · Seminario-Amez et al., 2021.
 
 **Slide 2b:** o cenário. "Implante · ASA II, hipertenso controlado · 2 tubetes
 · primeira fresa · dor." Três setas: mais anestésico além do limite? Seguir com
@@ -97,13 +99,25 @@ mínima — Cioffi e colaboradores, 1985. Para comparar: dois tubetes com
 adrenalina produziram um efeito hemodinâmico menor que o de uma caminhada leve
 — Niwa e colaboradores, 2000.
 
-Mas a dose tem limite. Num ensaio no InCor, sem vasoconstritor, os pacientes
-tiveram mais dor e receberam mais anestésico — Laragnoit e colaboradores,
-2009. E, no paciente com doença cardiovascular, o limite é de 0,04 mg de
-adrenalina: cerca de dois tubetes, 2,2 tubetes de solução 1:100.000 — Hashemi
-e colaboradores, 2016. Uma revisão sistemática confirma: um a dois tubetes são
-seguros nos hipertensos e coronariopatas controlados — Seminario-Amez e
-colaboradores, 2021.
+E aqui entra a segunda peça: o uso irracional de anestésico local. O limite
+fundamental é o do sal anestésico, e não o da adrenalina. A literatura diz: o
+limite de segurança deve se basear no nível circulante do anestésico, e não na
+quantidade de adrenalina do volume injetado — Cannell, 1996. Para a lidocaína
+com adrenalina e para a articaína, a dose máxima recomendada é de 7 miligramas
+por quilo — Ucer e colaboradores, 2026; Maeda e colaboradores, 2025.
+
+Então o raciocínio tem dois tetos. Primeiro, o sal: miligramas por quilo
+multiplicados pelo peso. Num adulto de 70 quilos, isso dá cerca de 13 tubetes
+de lidocaína 2%, mas menos de 7 de articaína 4%, porque cada tubete de
+articaína carrega o dobro de sal. Segundo, a adrenalina: no paciente com doença
+cardiovascular, o teto é de 0,04 miligrama, cerca de 2,2 tubetes de solução
+1:100.000 — Hashemi e colaboradores, 2016; e uma revisão sistemática confirma
+um a dois tubetes nos hipertensos e coronariopatas controlados —
+Seminario-Amez e colaboradores, 2021. Vale sempre o menor dos dois tetos.
+
+E retirar o vasoconstritor não resolve: num ensaio no InCor, sem vasoconstritor,
+os pacientes tiveram mais dor e receberam mais anestésico — Laragnoit e
+colaboradores, 2009.
 
 Agora, imagine a cena. Um implante, num paciente ASA II, hipertenso
 controlado. Você já administrou dois tubetes: o limite. Acabou de passar a
