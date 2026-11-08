@@ -30,7 +30,7 @@ ul.pts li:before{content:"";position:absolute;left:0;top:20px;width:16px;height:
 ul.pts li b{color:var(--wine)}
 .ref{color:var(--fg3);font-size:26px;font-style:italic;white-space:nowrap}
 /* slides com imagem do dominó ao fundo: texto no terço direito */
-.domino{background:#F4F1EE}.domino .bg{position:absolute;left:0;top:0;width:1200px;height:1080px;-webkit-mask-image:linear-gradient(90deg,#000 80%,transparent 100%);mask-image:linear-gradient(90deg,#000 80%,transparent 100%)}
+.domino .bg{position:absolute;left:0;top:0;width:1200px;height:1080px;-webkit-mask-image:linear-gradient(90deg,#000 80%,transparent 100%);mask-image:linear-gradient(90deg,#000 80%,transparent 100%)}
 .domino .panel{position:absolute;top:120px;left:1150px;right:80px;bottom:150px;display:flex;flex-direction:column;justify-content:center}
 .domino .panel ul.pts li{font-size:33px;margin-bottom:20px}
 .domino .panel h2{font-size:60px}
@@ -56,14 +56,22 @@ table.dose td b{color:var(--wine)}
 .pill{display:inline-block;padding:14px 30px;border-radius:999px;background:var(--wine-50);color:var(--wine);font-weight:600;font-size:30px;margin-right:14px}
 .dark .pill{background:rgba(255,255,255,.12);color:#fff}
 .cover-line{width:140px;height:6px;background:var(--gold);margin:46px 0}
+
+.t-lilas{background:#E9E9F5}.t-cinza{background:#E4E1E2}
+.bg-r{position:absolute;right:-60px;top:0;width:1150px;height:1080px;object-fit:cover;-webkit-mask-image:linear-gradient(270deg,#000 78%,transparent 100%);mask-image:linear-gradient(270deg,#000 78%,transparent 100%)}
+.dark .card,.dark .step,.dark .box{background:rgba(255,255,255,.07);border-color:rgba(255,255,255,.18);box-shadow:none}
+.dark .card p,.dark .step p{color:#fff}.dark .big{color:#fff}
+.dark ul.pts li{color:var(--onw)}.dark ul.pts li b{color:#fff}.dark .ref{color:rgba(251,237,237,.7)}
+.t-lilas .card,.t-cinza .card,.t-lilas .step,.t-cinza .step{background:rgba(255,255,255,.75)}
 </style></head><body>
 
 <!-- 0 · CAPA -->
 <section class="slide dark">
+  <img class="bg-r" src="img/dom0-vinho.png" alt="">
   <div class="top"><span>Projeto Cultura de Segurança</span><span>Grupo Nitro</span></div>
-  <div class="content" style="display:flex;flex-direction:column;justify-content:center">
+  <div class="content" style="display:flex;flex-direction:column;justify-content:center;right:1060px">
     <div class="eyebrow">Aula #11</div>
-    <h1 style="font-size:96px;max-width:1500px">A via aérea não é da sedação.<br>É da Odontologia.</h1>
+    <h1 style="font-size:80px;max-width:820px">A via aérea não é da sedação.<br>É da Odontologia.</h1>
     <div class="cover-line"></div>
     <p class="lead" style="font-size:36px">O efeito dominó: o risco que nós mesmos provocamos</p>
     <p class="lead" style="margin-top:60px;font-size:30px;opacity:.85">Profa. Dra. Carla Gamba</p>
@@ -71,8 +79,8 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 1 · O EFEITO DOMINÓ -->
-<section class="slide domino">
-  <img class="bg" src="../slides-domino/slide-domino-0-todas-em-pe.png" alt="">
+<section class="slide domino t-lilas">
+  <img class="bg" src="img/dom0-lilas.png" alt="">
   <div class="top"><span>Aula #11 · O efeito dominó</span><span></span></div>
   <div class="panel">
     <div class="eyebrow">O efeito dominó</div>
@@ -90,8 +98,8 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 2 · PEÇA 1 -->
-<section class="slide domino">
-  <img class="bg" src="../slides-domino/slide-domino-1-sinais-vitais-estresse.png" alt="">
+<section class="slide domino t-cinza">
+  <img class="bg" src="img/dom1-cinza.png" alt="">
   <div class="top"><span>Aula #11 · Peça 1</span><span></span></div>
   <div class="panel">
     <div class="eyebrow">Peça 1 · Sinais vitais e estresse</div>
@@ -107,8 +115,8 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 3 · PEÇA 2 -->
-<section class="slide domino">
-  <img class="bg" src="../slides-domino/slide-domino-2-anestesico-local.png" alt="">
+<section class="slide domino t-lilas">
+  <img class="bg" src="img/dom2-lilas.png" alt="">
   <div class="top"><span>Aula #11 · Peça 2</span><span></span></div>
   <div class="panel">
     <div class="eyebrow">Peça 2 · Anestésico local</div>
@@ -127,7 +135,7 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 4 · QUAL É A SUA ALTERNATIVA -->
-<section class="slide">
+<section class="slide dark">
   <div class="top"><span>Aula #11 · Peças 1 e 2</span><span></span></div>
   <div class="content">
     <div class="eyebrow">O cenário</div>
@@ -144,8 +152,8 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 5 · PEÇA 3 -->
-<section class="slide domino">
-  <img class="bg" src="../slides-domino/slide-domino-3-snc-hemodinamica.png" alt="">
+<section class="slide domino t-cinza">
+  <img class="bg" src="img/dom3-cinza.png" alt="">
   <div class="top"><span>Aula #11 · Peça 3</span><span></span></div>
   <div class="panel">
     <div class="eyebrow">Peça 3 · SNC e hemodinâmica</div>
@@ -162,7 +170,7 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 6 · ONDE A OBSTRUÇÃO ACONTECE -->
-<section class="slide">
+<section class="slide t-lilas">
   <div class="top"><span>Aula #11 · Peça 4</span><span></span></div>
   <div class="content">
     <div class="eyebrow">Peça 4 · Via aérea</div>
@@ -179,23 +187,22 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 7 · ORTODONTIA -->
-<section class="slide">
+<section class="slide domino dark">
+  <img class="bg" style="width:1100px" src="img/pawns-vinho.png" alt="">
   <div class="top"><span>Aula #11 · Peça 4</span><span></span></div>
-  <div class="content" style="display:flex;align-items:center;gap:90px">
-    <div class="big" style="font-size:300px;white-space:nowrap">1 <span style="font-size:120px;font-weight:600">em</span> 5</div>
-    <div>
-      <div class="eyebrow">Ortodontia</div>
-      <h2 style="font-size:54px">ortodontistas já teve um paciente que aspirou ou ingeriu parte do aparelho.</h2>
-      <p class="lead" style="margin-top:30px">Bandas, segmentos de fio e chaves de expansor.</p>
-    </div>
+  <div class="panel" style="left:1080px">
+    <div class="eyebrow">Ortodontia</div>
+    <div class="big" style="font-size:190px;color:#fff">1 <span style="font-size:90px;font-weight:600">em</span> 5</div>
+    <h2 style="font-size:50px;margin-top:20px">ortodontistas já teve um paciente que aspirou ou ingeriu parte do aparelho.</h2>
+    <p class="lead" style="margin-top:26px;font-size:32px">Bandas, segmentos de fio e chaves de expansor.</p>
   </div>
   <div class="foot">Varho et al., Acta Odontol Scand, 2015 · Karamani et al., J Orthod Sci, 2022</div>
   <div class="num">7</div>
 </section>
 
 <!-- 8 · INGESTÃO OU ASPIRAÇÃO -->
-<section class="slide domino">
-  <img class="bg" src="../slides-domino/slide-domino-4-via-aerea.png" alt="">
+<section class="slide domino t-cinza">
+  <img class="bg" src="img/dom4-cinza.png" alt="">
   <div class="top"><span>Aula #11 · Peça 4</span><span></span></div>
   <div class="panel">
     <div class="eyebrow">Peça 4 · Via aérea</div>
@@ -211,24 +218,25 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 9 · O QUE SABEMOS -->
-<section class="slide">
+<section class="slide domino t-lilas">
+  <img class="bg" style="width:1100px" src="img/bars-lilas.png" alt="">
   <div class="top"><span>Aula #11 · O que sabemos</span><span></span></div>
-  <div class="content">
+  <div class="panel" style="left:1080px">
     <div class="eyebrow">O que sabemos, de verdade</div>
     <h2>Saber não é o mesmo que conseguir fazer.</h2>
-    <div class="grid3">
-      <div class="card"><div class="big">36%</div><p>acertam a conduta na aspiração de corpo estranho</p><span class="ref">Shaath et al., Eur J Dent, 2023</span></div>
-      <div class="card"><div class="big">82%</div><p>dos acadêmicos brasileiros não se sentem preparados para emergências</p><span class="ref">de Aquino et al., Eur J Dent Educ, 2026</span></div>
-      <div class="card"><div class="big" style="font-size:96px">87 × 43</div><p>87% treinados em SBV; 43% aptos a executar as manobras</p><span class="ref">Stafuzza et al., Braz Oral Res, 2014</span></div>
-    </div>
+    <ul class="pts">
+      <li><b>36%</b> acertam a conduta na aspiração de corpo estranho</li>
+      <li><b>82%</b> dos acadêmicos brasileiros não se sentem preparados para emergências</li>
+      <li><b>87%</b> treinados em SBV, mas só <b>43%</b> aptos a executar as manobras</li>
+    </ul>
   </div>
-  <div class="foot">Sem treino, o tempo até a ventilação de resgate sobe de ~57 para ~90 s em 4 meses · McCaw et al., Adv Simul, 2023</div>
+  <div class="foot">Shaath et al., Eur J Dent, 2023 · de Aquino et al., Eur J Dent Educ, 2026 · Stafuzza et al., Braz Oral Res, 2014 · McCaw et al., Adv Simul, 2023</div>
   <div class="num">9</div>
 </section>
 
 <!-- 10 · PEÇA 5 -->
-<section class="slide domino">
-  <img class="bg" src="../slides-domino/slide-domino-5-deterioracao-clinica.png" alt="">
+<section class="slide domino t-cinza">
+  <img class="bg" src="img/dom5-cinza.png" alt="">
   <div class="top"><span>Aula #11 · Peça 5</span><span></span></div>
   <div class="panel">
     <div class="eyebrow">Peça 5 · Deterioração clínica</div>
@@ -244,40 +252,41 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 11 · RED FLAG -->
-<section class="slide dark">
+<section class="slide domino dark">
+  <img class="bg" style="width:1100px" src="img/flag-vinho.png" alt="">
   <div class="top"><span>Aula #11 · Peça 5</span><span></span></div>
-  <div class="content" style="display:flex;flex-direction:column;justify-content:center">
+  <div class="panel" style="left:1080px">
     <div class="eyebrow">Red flag</div>
-    <h1 style="font-size:84px">RDC 1002/2025 · ANVISA</h1>
-    <p class="lead" style="font-size:40px;margin-top:20px">Plano de Segurança do Paciente no consultório</p>
+    <h2 style="font-size:64px">RDC 1002/2025 · ANVISA</h2>
+    <p class="lead" style="font-size:36px;margin-top:18px">Plano de Segurança do Paciente no consultório</p>
     <div class="cover-line"></div>
-    <p class="lead" style="font-size:38px;font-style:italic;max-width:1500px">"O cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar."</p>
-    <p class="lead" style="font-size:26px;margin-top:18px;opacity:.8">Resolução CFO 295/2026, art. 11, §1º</p>
+    <p class="lead" style="font-size:36px;font-style:italic">"O cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar."</p>
+    <p class="lead" style="font-size:26px;margin-top:16px;opacity:.8">Resolução CFO 295/2026, art. 11, §1º</p>
   </div>
   <div class="num">11</div>
 </section>
 
 <!-- 12 · PRÓXIMA CONSULTA -->
-<section class="slide">
+<section class="slide domino t-lilas">
+  <img class="bg" style="width:1100px" src="img/steps-lilas.png" alt="">
   <div class="top"><span>Aula #11 · Próximos passos</span><span></span></div>
-  <div class="content">
+  <div class="panel" style="left:1080px">
     <div class="eyebrow">Na sua próxima consulta</div>
     <h2>Quatro atitudes.</h2>
-    <div class="arrow" style="margin-top:70px">
-      <div class="step"><div class="n">01</div><p>Aferir a pressão arterial</p></div>
-      <div class="step"><div class="n">02</div><p>Investigar ronco e apneia<br><span style="color:var(--gold)">STOP-Bang</span></p></div>
-      <div class="step"><div class="n">03</div><p>Examinar a orofaringe<br><span style="color:var(--gold)">SARI</span></p></div>
-      <div class="step"><div class="n">04</div><p>Aspiração eficaz<br><span style="color:var(--gold)">150 a 300 L/min</span></p></div>
-    </div>
-    <p class="lead" style="margin-top:50px;font-size:34px">Aspiração: fluxo contínuo de sangue, saliva e secreção para proteger a via aérea.</p>
-    <p class="lead" style="margin-top:14px;font-size:30px">Baixo volume ≈ 40 L/min (bomba portátil) · médio ≈ 150–160 L/min · alto ≥ 250–300 L/min</p>
+    <ul class="pts">
+      <li><b>1</b> · Aferir a pressão arterial</li>
+      <li><b>2</b> · Investigar ronco e apneia: <b>STOP-Bang</b></li>
+      <li><b>3</b> · Examinar a orofaringe: <b>SARI</b></li>
+      <li><b>4</b> · Aspiração eficaz: <b>150 a 300 L/min</b>, fluxo contínuo de sangue, saliva e secreção</li>
+    </ul>
+    <p class="lead" style="font-size:26px;margin-top:6px">Baixo volume ≈ 40 L/min (bomba portátil) · médio ≈ 150–160 · alto ≥ 250–300 L/min</p>
   </div>
   <div class="foot">Holliday et al., J Dent, 2021 · Graetz et al., Clin Oral Investig, 2022 · Koch &amp; Graetz, PLoS One, 2021</div>
   <div class="num">12</div>
 </section>
 
 <!-- 13 · ARCO DAS AULAS -->
-<section class="slide">
+<section class="slide t-cinza">
   <div class="top"><span>Aula #11 · Próximas aulas</span><span></span></div>
   <div class="content">
     <div class="eyebrow">Vias aéreas para toda a Odontologia</div>
@@ -310,7 +319,7 @@ table.dose td b{color:var(--wine)}
 </section>
 
 <!-- 15 · ENCERRAMENTO -->
-<section class="slide">
+<section class="slide t-lilas">
   <div class="content" style="display:flex;flex-direction:column;justify-content:center">
     <h1 style="font-size:76px;max-width:1700px;line-height:1.15">Na Odontologia, a cavidade oral é o nosso campo de trabalho, mas a via aérea é a nossa responsabilidade:</h1>
     <h2 style="font-size:60px;max-width:1700px;color:var(--gold);margin-top:34px;line-height:1.2">dominar sua anatomia e fisiologia é o que transforma o risco iminente em segurança clínica.</h2>
