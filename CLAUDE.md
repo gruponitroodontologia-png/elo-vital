@@ -136,7 +136,8 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Formato: abertura **olho no olho (~1–2 min, sem slide)** → roteiro com
   ~10–12 slides no visual da página, **sem preço**.
 - Toda semana: **roteiro + newsletter (terça 18h + lembrete quinta 7h, disparo
-  Fabrício) + reels + stories**. Referências na descrição do YouTube.
+  Fabrício) + 1 reel + 2 stories** (formato confirmado pela Carla em 09/11/2026);
+  há **depoimentos** de alunos para usar nos stories e na newsletter. Referências na descrição do YouTube.
 - Regras da #10: nenhum curso habilita, inclusive o nosso; urgência só real
   (vagas, prazos de condição), nunca o prazo do Conselho.
 - **RDC 1002/2025 = ANVISA** (PSP do consultório; adequação até dez/2026).
