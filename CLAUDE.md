@@ -173,6 +173,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   **há prazo e há razão** para a qualificação (Tokede 2024, Lo 2025). **Sobre prazos, basta citar
   que as resoluções (RDC 1002/2025 e CFO 295/2026) devem ser cumpridas — sem datas.** As regras
   não mudaram: norma como confirmação, nunca como ameaça.
+- **Reel em tela dividida com o vídeo da Sedation Academy** (pedido de autorização em inglês + roteiro, sem dizer que o vídeo está "errado": o Projeto **amplia o olhar**): https://claude.ai/artifact/PXKnSGaXKguqNSmURqkF9V
 - Apresentação final da #11: 15 slides (slide 2 = Apresentadora, padrão das aulas), sem marca d'água,
   PDF e PPTX sem notas (as notas aparecem no Zoom).
 
