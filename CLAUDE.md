@@ -47,8 +47,9 @@
   Resposta à Emergência (Carla Gamba) · Etapa Presencial.
 - **Preço:** 1º lote R$ 2.970 à vista · **12× R$ 307** · lotes R$ 2.970 /
   3.170 / 3.370, mudam a cada 20 dias.
-- **Oferta SBV + SAVO:** quem adquirir os dois tem **40% de desconto no SBV até 16/11/2026**
-  (texto de venda no doc da campanha da #11, seção 2b).
+- **Oferta SBV + SAVO:** o CD que adquirir os dois tem **40% de desconto no SBV até 23h59 de
+  16/11/2026**. Sem oferta para equipe neste momento. A prática do SBV acontece junto com a
+  etapa presencial do SAVO (5 e 6/12, Rio). Texto de venda no doc da campanha da #11, seção 2b.
 - **Checkout (Kiwify):** https://pay.kiwify.com.br/sttjYOY
 - **WhatsApp:** (21) 93500-3307 (botão flutuante "Fale conosco" + FAQ).
 - **Prazo da CFO** usado no lançamento: **janeiro de 2027** (habilitação em
