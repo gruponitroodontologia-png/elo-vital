@@ -120,6 +120,19 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   Becker Anesth Prog 2014; NAEMSP 2022; de Carvalho CC Anesth Analg 2025;
   Weba 2025; Rasheed 2024; etc.).
 
+## CFO 295/2026 — SBV e SAVO (conferido no texto da resolução, 09/11/2026)
+- **Art. 15, § 2º** — *"Para todos os níveis de sedação, é necessário ter o protocolo
+  operacional de emergência disponível no ambiente, assim como formação e atualização
+  periódica do cirurgião-dentista em Suporte Avançado de Vida para a Odontologia ou
+  equivalentes, e em Suporte Básico de Vida (SBV) para a equipe."*
+- **Art. 34, VI, a** — conteúdo obrigatório do curso de Habilitação Básica: treinamento em
+  SBV e SAVO ou equivalente, e manejo de vias aéreas com dispositivos supraglóticos.
+- **Art. 39, II** (registro por experiência, Básica) e **Art. 55, II** (Avançada) —
+  certificação atualizada, obtida nos últimos 2 anos, em SBV e SAVO ou equivalente.
+- **Art. 48** — habilitado na Avançada: certificação em SBV e SAVO atualizada pelo menos a
+  cada 2 anos. **Art. 49** — equipe da Avançada: SBV a cada 2 anos.
+- Atenção: a obrigação vale para quem realiza sedação; não é exigência para todo CD.
+
 ## Lançamento (playbook)
 - **Hoje (avant-première):** vídeo talking-head da Carla (teleprompter) para a
   **comunidade**, com o link de compra. Exclusivo, "vocês primeiro".
