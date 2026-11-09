@@ -170,9 +170,9 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   **estetoscópio pré-traqueal** (Boriosi 2019; Somri 2017), apresentar o que cada uma das 3
   aulas pretende, conectar à **alfabetização em cultura de segurança** (Magda Soares:
   alfabetização → letramento em camadas; a sedação é uma das camadas) e deixar claro que
-  **há prazo e há razão** para a qualificação (RDC 1002/2025, publicada em 15/12/2025, com
-  prazo de adequação a confirmar; habilitação em sedação até jan/2027; Tokede 2024, Lo 2025).
-  As regras não mudaram: o prazo é informado como fato e confirmação, nunca como ameaça.
+  **há prazo e há razão** para a qualificação (Tokede 2024, Lo 2025). **Sobre prazos, basta citar
+  que as resoluções (RDC 1002/2025 e CFO 295/2026) devem ser cumpridas — sem datas.** As regras
+  não mudaram: norma como confirmação, nunca como ameaça.
 - Apresentação final da #11: 15 slides (slide 2 = Apresentadora, padrão das aulas), sem marca d'água,
   PDF e PPTX sem notas (as notas aparecem no Zoom).
 
