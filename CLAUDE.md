@@ -80,6 +80,11 @@
   consolidar, elevar, automatizar** (automaticidade).
 - **A norma entra como confirmação, nunca como ameaça.** Não usar "cobrar".
   Preferir "a CFO 295/2026 estabelece…".
+- **Títulos, assuntos de e-mail, títulos de reels e chamadas também em registro
+  científico** (pedido da Carla, 09/11/2026): nada de ganchos coloquiais ou de
+  efeito ("qual peça caiu?", "até amanhã", "o silêncio não é alívio"). Padrão:
+  enunciado técnico, substantivo, com o conceito clínico explícito (ex.: "Via
+  aérea, monitorização e suporte de vida: competências de toda a Odontologia").
 - Termo da casa: **"sedação em odontologia"** (nunca "sedação odontológica").
 - Sem promessa de faturamento; escassez só real (turma até 20, prazo CFO);
   títulos exatos; sedação profunda **não** como prática autorizada (suspensão
