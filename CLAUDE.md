@@ -11,7 +11,8 @@
 
 ## Quem é quem
 - **Carla Gamba** — CD, Mestre; cofundadora e coordenadora de cursos do Grupo
-  Nitro. É a interlocutora principal e a **autoridade clínica**: conteúdo de
+  Nitro; **membro fundadora da SOBRASO** (sociedade afiliada à IFDAS — International
+  Federation of Dental Anesthesiology Societies). É a interlocutora principal e a **autoridade clínica**: conteúdo de
   saúde só vai ao ar com validação dela. Fala-se com ela em **português**.
 - **Grupo Nitro** — formação em segurança e sedação em odontologia.
 
