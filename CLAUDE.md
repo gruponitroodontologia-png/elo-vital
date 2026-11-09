@@ -177,6 +177,9 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   PDF e PPTX sem notas (as notas aparecem no Zoom).
 
 ## Pendências / próximos passos
+- **SBV NÃO é pré-requisito do SAVO** (Carla, 09/11/2026): é um produto que pode ser
+  oferecido. A página de vendas (`index.html`) ainda diz que é pré-requisito (seção de
+  pré-requisitos, ficha da turma e 2 perguntas do FAQ) — corrigir quando a Carla autorizar.
 - Confirmar a **data-limite exata + artigo** do prazo da CFO (hoje usamos
   "janeiro de 2027" como informado pela Carla).
 - Alinhar **títulos do corpo docente** da página com o Guia (Carla: **"Profa. Carla Gamba" (MSc), nunca "Dra."**, confirmado em 08/11/2026; Luiz Alberto — Mestre em Saúde Coletiva; etc.).
