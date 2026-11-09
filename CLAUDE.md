@@ -165,6 +165,13 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - **Docs editáveis da #11 (Claude Docs):** teleprompter https://claude.ai/artifact/FRwXLA99vDpjVVGW2LZbjV ·
   campanha da semana (newsletter, e-mails, 5 reels, stories; vende **SAVO** para toda a Odontologia e
   **Trilha 295** para quem já tem a sedação na rotina) https://claude.ai/artifact/ChHhFHyL4GZ1EqRagrNmvU
+- **Fio das peças de divulgação da série (#11–#13), pedido da Carla em 09/11:** partir do
+  **estetoscópio pré-traqueal** (Boriosi 2019; Somri 2017), apresentar o que cada uma das 3
+  aulas pretende, conectar à **alfabetização em cultura de segurança** (Magda Soares:
+  alfabetização → letramento em camadas; a sedação é uma das camadas) e deixar claro que
+  **há prazo e há razão** para a qualificação (RDC 1002/2025 até dez/2026; habilitação em
+  sedação até jan/2027; Tokede 2024, Lo 2025). Isto atualiza a regra da #10 sobre não usar o
+  prazo do Conselho: o prazo entra como confirmação, nunca como ameaça.
 - Apresentação final da #11: 15 slides (slide 2 = Apresentadora, padrão das aulas), sem marca d'água,
   PDF e PPTX sem notas (as notas aparecem no Zoom).
 
