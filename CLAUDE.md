@@ -140,7 +140,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   há **depoimentos** de alunos para usar nos stories e na newsletter. Referências na descrição do YouTube.
 - Regras da #10: nenhum curso habilita, inclusive o nosso; urgência só real
   (vagas, prazos de condição), nunca o prazo do Conselho.
-- **RDC 1002/2025 = ANVISA** (PSP do consultório; adequação até dez/2026).
+- **RDC 1002/2025 = ANVISA**, publicada em 15/12/2025 (PSP do consultório; prazo de adequação a confirmar com a Carla).
 - Novembro: aulas sustentam a venda da **Trilha 295**.
 
 ## Trilha 295 (Programa de Complementação para a Habilitação Básica)
@@ -170,9 +170,9 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   **estetoscópio pré-traqueal** (Boriosi 2019; Somri 2017), apresentar o que cada uma das 3
   aulas pretende, conectar à **alfabetização em cultura de segurança** (Magda Soares:
   alfabetização → letramento em camadas; a sedação é uma das camadas) e deixar claro que
-  **há prazo e há razão** para a qualificação (RDC 1002/2025 até dez/2026; habilitação em
-  sedação até jan/2027; Tokede 2024, Lo 2025). Isto atualiza a regra da #10 sobre não usar o
-  prazo do Conselho: o prazo entra como confirmação, nunca como ameaça.
+  **há prazo e há razão** para a qualificação (RDC 1002/2025, publicada em 15/12/2025, com
+  prazo de adequação a confirmar; habilitação em sedação até jan/2027; Tokede 2024, Lo 2025).
+  As regras não mudaram: o prazo é informado como fato e confirmação, nunca como ameaça.
 - Apresentação final da #11: 15 slides (slide 2 = Apresentadora, padrão das aulas), sem marca d'água,
   PDF e PPTX sem notas (as notas aparecem no Zoom).
 
