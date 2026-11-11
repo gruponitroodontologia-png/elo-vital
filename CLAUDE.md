@@ -55,6 +55,22 @@
   supraglóticos** (resgate ventilatório).
 - **Open Graph:** `assets/og-savo.jpg` (1200×630), URL absoluta no domínio.
 
+## Produto: Fundamentos da Estratégia Multimodal na Sedação (online)
+- Curso 100% online gravado, 46h, 12 meses de acesso. Artifact (prévia):
+  https://claude.ai/artifact/46ToVGfgvDErju9tTR8dYt · cópia da fonte em
+  `multimodal/index.html` (atualizar a cópia a cada republicação).
+- Black Friday até 07/12: **12× R$ 197 ou R$ 1.970** à vista (regular R$ 2.970)
+  + bônus Emergências Médicas 8h (teórico) + mentoria 1h para os 5 primeiros.
+- Posicionamento: *"Não é mais um curso de sedação. É o raciocínio
+  farmacológico que decide a sedação."* Seção "Critério, não receita".
+- **Concorrência (11/11/2026):** Dra. Adriana Correia (IBRAS, @odontologiasemmedo)
+  — "Black Sedação 2026": combo dos cursos online *Sedando Sem Medo* +
+  *Emergências no Consultório*; página de captura, preço revelado em live
+  **13/11 às 19h30**. Oferta quase espelho da nossa (sedação + emergências) →
+  emergências não diferencia; diferencial é método multimodal, URM/cálculo de
+  doses, evidência e transparência (não habilita). Também existe
+  "Sedação Multimodal Personalizada" (Dr. Luciano Augusto de Jesus, Hotmart).
+
 ## Formulário de captura de leads → Supabase
 - Seção após o FAQ: "Ficou interessado? Deixe seu contato." Campos: **Nome e
   WhatsApp obrigatórios, e-mail opcional**. Fallback para WhatsApp se a rede

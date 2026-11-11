@@ -1,0 +1,433 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Fundamentos da Estratégia Multimodal na Sedação</title>
+<meta name="description" content="Curso online gravado, 46 horas de conteúdo, exclusivo para cirurgiões-dentistas: fundamentos científicos da estratégia multimodal na sedação em odontologia.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Ruda:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --red:#690D0E; --red-dk:#4A0809; --gray:#A39E9E; --lilac:#A5A5D3;
+  --ink:#16181B; --ink-2:#22262B; --paper:#F6F4F3; --white:#fff;
+  --text:#1E1E1E; --muted:#5E5A5A;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Poppins,system-ui,sans-serif;color:var(--text);background:var(--paper);line-height:1.6;font-size:17px}
+h1,h2,h3{font-family:Ruda,Poppins,sans-serif;line-height:1.2}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+section{padding:80px 0}
+.eyebrow{font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;font-weight:600;color:var(--red)}
+.dark{background:var(--ink);color:#EDEBEA}
+.dark .eyebrow{color:var(--lilac)}
+.wine{background:linear-gradient(135deg,var(--red-dk),var(--red));color:#fff}
+.wine .eyebrow{color:#D6D6F0}
+h2{font-size:clamp(1.7rem,3.6vw,2.5rem);margin:.4em 0 .6em}
+.lead{font-size:1.1rem;max-width:760px}
+.muted{color:var(--muted)} .dark .muted{color:#B9B4B4}
+.btn{display:inline-block;background:var(--red);color:#fff;text-decoration:none;font-weight:700;letter-spacing:.04em;padding:18px 34px;border-radius:6px;text-transform:uppercase;font-size:.95rem;transition:transform .15s,background .15s}
+.btn:hover{background:#8A1314;transform:translateY(-2px)}
+.wine .btn{background:#fff;color:var(--red)}
+.ph{background:#FFF1A8;color:#5a4a00;padding:0 4px;border-radius:3px;font-weight:600}
+.dark .ph,.wine .ph{background:#FFE36A;color:#3a2f00}
+
+/* hero */
+.hero{background:radial-gradient(ellipse at 80% 20%,#3A0B14 0%,var(--ink) 60%);color:#fff;padding:90px 0 100px;position:relative;overflow:hidden}
+.hero .eyebrow{color:var(--lilac)}
+.hero h1{font-size:clamp(2.1rem,5vw,3.6rem);font-weight:800;max-width:860px;margin:.35em 0 .5em}
+.hero h1 em{font-style:normal;color:var(--lilac)}
+.hero p{font-size:1.15rem;max-width:700px;color:#D9D5D5}
+.hero .manifesto{font-family:Ruda,Poppins,sans-serif;font-weight:800;font-size:clamp(1.2rem,2.6vw,1.6rem);color:#fff;max-width:760px;margin:0 0 .9em;padding-left:16px;border-left:4px solid var(--lilac);line-height:1.3}
+.tags{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 36px}
+.tags span{border:1px solid rgba(165,165,211,.5);padding:6px 14px;border-radius:30px;font-size:.85rem}
+.ecg{position:absolute;left:0;right:0;bottom:18px;opacity:.35;width:100%;height:80px}
+
+/* grids */
+.grid{display:grid;gap:22px}
+.g2{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+.g4{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.card{background:#fff;border-radius:10px;padding:28px;border-top:4px solid var(--red);box-shadow:0 2px 14px rgba(0,0,0,.05)}
+.card h3{font-size:1.15rem;margin-bottom:.5em}
+.dark .card{background:var(--ink-2);box-shadow:none}
+.stat{text-align:center;padding:26px 10px}
+.stat b{display:block;font-family:Ruda;font-size:2.6rem;color:var(--red);line-height:1}
+.dark .stat b{color:var(--lilac)}
+.stat span{font-size:.9rem}
+
+/* criterio */
+.diff .card{border-top:0;border-left:4px solid var(--red);padding:26px 26px 24px}
+.diff .card .k{display:block;font-family:Ruda;font-weight:800;font-size:.8rem;letter-spacing:.16em;text-transform:uppercase;color:var(--red);margin-bottom:.5em}
+.diff-foot{margin-top:30px;font-weight:600;max-width:760px}
+
+/* levels */
+.level{display:grid;grid-template-columns:110px 1fr;gap:24px;padding:30px 0;border-bottom:1px solid rgba(255,255,255,.12)}
+.level:last-child{border:0}
+.level .n{font-family:Ruda;font-size:3.2rem;font-weight:800;color:var(--lilac);line-height:1}
+.level ul{margin:.6em 0 0 1.1em}
+.level li{margin:.25em 0}
+
+/* scope */
+.scope{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:22px}
+.scope .box{padding:28px;border-radius:10px}
+.yes{background:#fff;border-left:5px solid #2E7D4F}
+.no{background:#fff;border-left:5px solid var(--red)}
+.scope li{margin:.45em 0 .45em 1.1em}
+
+/* teacher */
+.teacher{display:grid;grid-template-columns:170px 1fr;gap:30px;align-items:center}
+.avatar{width:170px;height:170px;border-radius:50%;background:var(--gray);display:flex;align-items:center;justify-content:center;font-family:Ruda;font-size:3rem;color:#fff;font-weight:800}
+
+/* price */
+.price{max-width:620px;margin:0 auto;background:#fff;color:var(--text);border-radius:14px;padding:44px 36px;text-align:center;box-shadow:0 20px 50px rgba(0,0,0,.25)}
+.bf{display:inline-block;background:var(--lilac);color:var(--red-dk)!important;color:#fff;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;font-weight:700;padding:7px 16px;border-radius:30px;margin-bottom:8px}
+.bfbar{background:var(--red);color:#fff;text-align:center;font-size:.9rem;font-weight:600;padding:10px 16px}
+.bfbar a{color:#fff}
+.stack{max-width:760px;margin:0 auto;background:#fff;border-radius:14px;padding:30px clamp(18px,4vw,40px);box-shadow:0 10px 36px rgba(0,0,0,.08)}
+.stack .row{display:flex;justify-content:space-between;gap:18px;padding:14px 0;border-bottom:1px dashed #ddd}
+.stack .row span{min-width:0}
+.stack .row b{white-space:nowrap;color:var(--red);font-variant-numeric:tabular-nums}
+.stack .row.bonus{background:#F1F1FA;margin:0 -12px;padding:14px 12px;border-radius:6px;border-bottom:0;margin-top:6px}
+.stack .total{text-align:center;margin-top:30px;padding-top:24px;border-top:3px solid var(--red)}
+.stack .total span{display:block;font-family:Ruda;font-weight:800;text-transform:uppercase;letter-spacing:.08em;font-size:1rem}
+.stack .total s{display:block;font-family:Ruda;font-weight:800;font-size:1.8rem;color:var(--gray);line-height:1.2;text-decoration-color:var(--red);text-decoration-thickness:3px}
+.stack .today{text-align:center;margin-top:18px}
+.stack .today .lbl{display:block;font-family:Ruda;font-weight:800;text-transform:uppercase;letter-spacing:.08em;font-size:1rem}
+.stack .today .bigp{display:block;font-family:Ruda;font-weight:800;font-size:clamp(3rem,9vw,4.8rem);color:var(--red);line-height:1.1}
+.stack .today .sub{display:block;font-size:1.15rem}
+.price .from{color:var(--muted);text-decoration:line-through}
+.price .big{font-family:Ruda;font-size:3.2rem;font-weight:800;color:var(--red);margin:.1em 0}
+.price ul{text-align:left;margin:26px 0;list-style:none}
+.price li{padding:8px 0 8px 30px;position:relative;border-bottom:1px solid #eee}
+.price li:before{content:"✓";position:absolute;left:4px;color:var(--red);font-weight:800}
+
+/* guarantee */
+.guarantee{display:flex;gap:28px;align-items:center;flex-wrap:wrap}
+.seal{flex:0 0 130px;height:130px;border-radius:50%;border:4px solid var(--red);display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:Ruda;color:var(--red);font-weight:800;text-align:center;line-height:1.1}
+.seal b{font-size:2.4rem}
+
+/* faq */
+details{background:#fff;border-radius:8px;margin:12px 0;padding:20px 24px;box-shadow:0 1px 6px rgba(0,0,0,.05)}
+summary{cursor:pointer;font-weight:600;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary:after{content:"+";float:right;color:var(--red);font-weight:800}
+details[open] summary:after{content:"–"}
+details p{margin-top:12px;color:var(--muted)}
+
+.center{text-align:center}
+.mt{margin-top:36px}
+.quote{font-family:Ruda;font-size:clamp(1.4rem,3vw,2rem);font-weight:800;text-align:center}
+footer{background:#0E0F11;color:#8F8A8A;font-size:.85rem;padding:36px 0;text-align:center}
+footer a{color:#D9D5D5}
+.refs{font-size:.78rem;color:var(--muted);margin-top:22px}
+@media(max-width:640px){
+  section{padding:60px 0}
+  .level{grid-template-columns:1fr;gap:6px}
+  .teacher{grid-template-columns:1fr;text-align:center}
+  .avatar{margin:0 auto}
+  .price{padding:34px 22px}
+}
+</style>
+<div class="bfbar">BLACK FRIDAY · 12x de R$ 197 ou R$ 1.970 à vista + 8h de Emergências Médicas de bônus · 5 primeiros ganham 1h de mentoria · até 07/12 ·<a href="#inscricao">ver condição</a></div>
+
+<!-- 1. HERO -->
+<header class="hero">
+  <div class="wrap">
+    <div class="eyebrow">Grupo Nitro · Curso online · Exclusivo para cirurgiões-dentistas</div>
+    <h1>Fundamentos da <em>Estratégia Multimodal</em> na Sedação</h1>
+    <p class="manifesto">Não é mais um curso de sedação. É o raciocínio farmacológico que decide a sedação.</p>
+    <p>A base farmacológica e clínica para compreender por que a associação racional de técnicas e fármacos amplia a previsibilidade e a segurança do manejo da ansiedade no consultório: o quê, quanto, por qual via e em qual paciente.</p>
+    <div class="tags">
+      <span>46 horas de conteúdo</span><span>12 meses de acesso</span><span>100% online · aulas gravadas</span><span>Estude no seu ritmo</span><span>5 workshops: Comunicação · Segurança · Planejamento · Prescrição (URM) · Cálculo de doses</span><span>+8h de Emergências Médicas (bônus Black Friday)</span><span>Certificado Grupo Nitro · 46h</span>
+    </div>
+    <a class="btn" href="#inscricao">Quero me inscrever</a>
+  </div>
+  <svg class="ecg" viewBox="0 0 1200 80" preserveAspectRatio="none" aria-hidden="true">
+    <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#690D0E"/><stop offset="1" stop-color="#A5A5D3"/></linearGradient></defs>
+    <polyline fill="none" stroke="url(#g)" stroke-width="2.5" points="0,50 300,50 330,50 345,20 360,70 375,10 392,50 650,50 680,50 695,20 710,70 725,10 742,50 1200,50"/>
+  </svg>
+</header>
+
+<!-- 1b. CRITÉRIO, NÃO RECEITA -->
+<section class="diff">
+  <div class="wrap">
+    <div class="eyebrow">O que distingue esta formação</div>
+    <h2>Critério, não receita</h2>
+    <p class="lead muted">Protocolos prontos envelhecem; o raciocínio permanece. Esta formação foi desenhada para consolidar o julgamento clínico que antecede qualquer prescrição.</p>
+    <div class="grid g2 mt">
+      <div class="card"><span class="k">01 · Raciocínio multimodal</span><h3>Associar não é somar</h3><p class="muted">Mecanismos de ação complementares, menores doses individuais e menor incidência de eventos adversos. Você compreende por que cada fármaco entra no plano — e por que outro fica de fora.</p></div>
+      <div class="card"><span class="k">02 · Prescrição com método</span><h3>Uso Racional de Medicamentos e cálculo de doses</h3><p class="muted">Dois workshops dedicados: a prescrição fundamentada nos critérios da OMS e o cálculo por peso e superfície corporal, com doses máximas e ajustes em populações especiais.</p></div>
+      <div class="card"><span class="k">03 · Ancoragem científica</span><h3>Cada afirmação, com a sua fonte</h3><p class="muted">Farmacocinética, farmacodinâmica e interações apresentadas a partir da literatura, para que a decisão clínica se sustente diante do paciente, da equipe e da norma.</p></div>
+      <div class="card"><span class="k">04 · A norma como confirmação</span><h3>Segurança que o regulador reconhece</h3><p class="muted">A RDC 1.002/2025 comentada artigo a artigo e o enquadramento da Resolução CFO 295/2026: o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar.</p></div>
+    </div>
+    <p class="diff-foot">E com transparência: esta é uma formação de fundamentos. Ela não confere habilitação — e dizemos isso com todas as letras, porque só prometemos o que entregamos.</p>
+  </div>
+</section>
+
+<!-- 2. PARA QUEM -->
+<section style="padding-top:0">
+  <div class="wrap">
+    <div class="eyebrow">Para quem é este curso</div>
+    <h2>Para o cirurgião-dentista que atende pacientes que não respondem ao manejo convencional</h2>
+    <p class="lead muted">O medo odontológico acomete parcela expressiva da população adulta <span class="ph">[estimativa agrupada de ~15% — Silveira et al., J Dent 2021; conferir antes de publicar]</span> e constitui causa reconhecida de evasão do tratamento. Quatro perfis clínicos exigem planejamento farmacológico específico:</p>
+    <div class="grid g4 mt">
+      <div class="card"><h3>Ansiedade e fobia odontológica</h3><p class="muted">Pacientes que postergam o tratamento e chegam ao consultório com necessidades acumuladas.</p></div>
+      <div class="card"><h3>Pacientes com comorbidades</h3><p class="muted">Indivíduos com condições sistêmicas, polifarmácia e reserva fisiológica reduzida, nos quais a escolha e a dose do fármaco são determinantes.</p></div>
+      <div class="card"><h3>Pacientes neurodivergentes</h3><p class="muted">Pessoas com TEA e outras condições que demandam abordagem individualizada de manejo comportamental e farmacológico.</p></div>
+      <div class="card"><h3>Procedimentos extensos</h3><p class="muted">Reabilitações, cirurgias e sessões prolongadas, em que o conforto do paciente condiciona a viabilidade do procedimento.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 3. O QUE É -->
+<section class="dark">
+  <div class="wrap">
+    <div class="eyebrow">O conceito</div>
+    <h2>O que é a estratégia multimodal</h2>
+    <p class="lead">Consiste na associação planejada de técnicas não farmacológicas, fármacos e vias de administração com mecanismos de ação complementares, de modo a obter o efeito clínico desejado com menores doses individuais e menor incidência de eventos adversos. Não se trata de somar medicamentos, e sim de compreender farmacocinética, farmacodinâmica e interações para decidir <strong>o quê, quanto, por qual via e em qual paciente</strong>.</p>
+    <p class="lead muted mt">Este curso entrega os <strong>fundamentos</strong> dessa tomada de decisão: o alicerce teórico que antecede qualquer formação prática.</p>
+  </div>
+</section>
+
+<!-- 4. NÚMEROS -->
+<section>
+  <div class="wrap">
+    <div class="grid g4">
+      <div class="stat"><b>46h</b><span>de conteúdo gravado</span></div>
+      <div class="stat"><b>3</b><span>níveis progressivos</span></div>
+      <div class="stat"><b>12</b><span>meses de acesso</span></div>
+      <div class="stat"><b>5</b><span>workshops aplicados</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- 4b. DIFERENCIAIS -->
+<section class="wine">
+  <div class="wrap">
+    <div class="eyebrow">Também na formação</div>
+    <h2>Além da farmacologia, o que sustenta a prática segura</h2>
+    <p class="lead">Dois conteúdos que raramente acompanham um curso de sedação online, e que aqui fazem parte da formação:</p>
+    <div class="grid g2 mt">
+      <div class="card" style="color:var(--text)"><h3>N2O: o fármaco titulável · 4h</h3><p class="muted">O agente de referência para a sedação mínima, tratado em módulo próprio: farmacologia, titulação e segurança da técnica inalatória.</p></div>
+      <div class="card" style="color:var(--text)"><h3>Emergências Médicas · 8h online</h3><p class="muted">Conteúdo teórico sobre reconhecimento e conduta inicial nas intercorrências do consultório. Bônus para inscrições na Black Friday.</p></div>
+    </div>
+    <p class="mt" style="font-weight:600">Certificado de 46h emitido pelo Grupo Nitro, utilizável como complementação de carga horária teórica.</p>
+  </div>
+</section>
+
+<!-- 5. PROGRAMA -->
+<section class="dark" id="programa">
+  <div class="wrap">
+    <div class="eyebrow">Conteúdo programático</div>
+    <h2>Uma progressão em três níveis</h2>
+    <p class="muted">Carga horária por nível: <span class="ph">[informar]</span>.</p>
+
+    <div class="level">
+      <div class="n">01</div>
+      <div><h3>Fundamentos</h3>
+        <ul>
+          <li><strong>Aula Magna:</strong> sistema nervoso simpático e parassimpático</li>
+          <li>Níveis de sedação e o <em>continuum</em> sedação–anestesia</li>
+          <li>Avaliação pré-sedação: anamnese, classificação ASA, via aérea</li>
+          <li>Enquadramento normativo: Resolução CFO <span class="ph">295/2026</span> e limites de atuação</li>
+        </ul></div>
+    </div>
+    <div class="level">
+      <div class="n">02</div>
+      <div><h3>Farmacologia aplicada</h3>
+        <ul>
+          <li>Farmacocinética e farmacodinâmica dos agentes de uso odontológico</li>
+          <li>Benzodiazepínicos, óxido nitroso, anti-histamínicos e antipsicóticos</li>
+          <li>Vias de administração: oral, sublingual, intranasal, inalatória</li>
+          <li>Sinergismo, interações medicamentosas e titulação</li>
+        </ul></div>
+    </div>
+    <div class="level">
+      <div class="n">03</div>
+      <div><h3>Estratégia e segurança</h3>
+        <ul>
+          <li>Cinco workshops: Comunicação, Segurança, Planejamento, Prescrição e URM, Cálculo de doses (detalhados abaixo)</li>
+        </ul></div>
+    </div>
+  </div>
+</section>
+
+<!-- 5b. WORKSHOPS -->
+<section>
+  <div class="wrap">
+    <div class="eyebrow">Além da estratégia multimodal</div>
+    <h2>Cinco workshops: onde o fundamento se transforma em conduta</h2>
+    <p class="lead muted">A segurança da sedação não depende apenas da escolha farmacológica. Cinco workshops complementam o programa <span class="ph">[carga de cada?]</span>:</p>
+    <div class="grid g4 mt" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr))">
+      <div class="card"><h3>Prescrição e URM</h3><p class="muted">Prescrição fundamentada no Uso Racional de Medicamentos (OMS): fármaco apropriado à necessidade clínica, em dose e por período adequados. Requisitos legais da receita odontológica. <span class="ph">[validar]</span></p></div>
+      <div class="card"><h3>Cálculo de doses</h3><p class="muted">Cálculo por peso e por superfície corporal, doses máximas, ajustes em populações especiais e conversão de concentrações. <span class="ph">[validar]</span></p></div>
+      <div class="card"><h3>Comunicação</h3><p class="muted">Comunicação com o paciente e a família na indicação da sedação, no consentimento informado e nas orientações pré e pós-operatórias; comunicação com a equipe. <span class="ph">[validar]</span></p></div>
+      <div class="card"><h3>Segurança</h3><p class="muted">Cultura de segurança aplicada ao consultório: protocolos, checklists, preparo para intercorrências e registro. <span class="ph">[validar]</span></p></div>
+      <div class="card"><h3>Planejamento</h3><p class="muted">Do diagnóstico ao plano de sedação: seleção do paciente, organização da sessão, estrutura física, equipe e documentação. <span class="ph">[validar]</span></p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 6. ESCOPO -->
+<section>
+  <div class="wrap">
+    <div class="eyebrow">Transparência</div>
+    <h2>O que este curso é — e o que não é</h2>
+    <div class="scope mt">
+      <div class="box yes"><h3>É</h3>
+        <ul>
+          <li>Formação teórica de atualização, 100% online</li>
+          <li>Base científica para indicar, planejar e discutir a sedação com segurança</li>
+          <li>Preparação conceitual para quem pretende cursar a habilitação</li>
+          <li>Pode ser utilizado como complementação de carga horária teórica, nos termos da Resolução CFO 295/2026 <span class="ph">[confirmar artigo]</span></li>
+        </ul></div>
+      <div class="box no"><h3>Não é</h3>
+        <ul>
+          <li><strong>Não confere habilitação em sedação</strong> perante o CFO</li>
+          <li>Não substitui a formação prática supervisionada</li>
+          <li>Não autoriza a administração de fármacos fora do escopo legal do cirurgião-dentista</li>
+        </ul></div>
+    </div>
+  </div>
+</section>
+
+<!-- 7. COORDENAÇÃO / DOCENTES -->
+<section class="dark">
+  <div class="wrap">
+    <div class="eyebrow">Corpo docente</div>
+    <h2>Quem conduz</h2>
+    <p class="lead muted">O Grupo Nitro reúne uma equipe multiprofissional com vivência em sedação, emergências e terapia intensiva. Quem ensina é quem pratica o resgate.</p>
+    <div class="teacher mt">
+      <div class="avatar">CG</div>
+      <div>
+        <h3>Profa. Carla Gamba</h3>
+        <p class="muted">Coordenação · <span class="ph">[titulação · CRO · mini-currículo em 2–3 linhas]</span></p>
+      </div>
+    </div>
+    <div class="teacher mt">
+      <div class="avatar">LC</div>
+      <div>
+        <h3>Prof. Luiz Alberto F. de Caldas</h3>
+        <p class="muted"><span class="ph">[titulação · CRO · mini-currículo em 2–3 linhas]</span></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 8. COMO FUNCIONA -->
+<section>
+  <div class="wrap">
+    <div class="eyebrow">Formato</div>
+    <h2>Como funciona</h2>
+    <div class="grid g2 mt">
+      <div class="card"><h3>Aulas gravadas</h3><p class="muted">Aulas segmentadas por tema, para estudo sequencial e consulta pontual posterior.</p></div>
+      <div class="card"><h3>No seu ritmo</h3><p class="muted">Liberação progressiva: cada etapa é liberada à medida que você conclui a anterior, preservando a sequência lógica do aprendizado. Assista de qualquer dispositivo.</p></div>
+      <div class="card"><h3>12 meses de acesso</h3><p class="muted">Tempo para assistir, rever e consultar as aulas sempre que precisar.</p></div>
+      <div class="card"><h3>Certificado</h3><p class="muted">Certificado de 46h, emitido pelo Grupo Nitro, mediante a conclusão de, no mínimo, 70% do conteúdo.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 9. BÔNUS -->
+<section class="dark">
+  <div class="wrap">
+    <div class="eyebrow">Incluso</div>
+    <h2>Materiais e bônus</h2>
+    <div class="grid g2 mt">
+      <div class="card"><h3>Emergências Médicas no Consultório Odontológico · 8h online</h3><p class="muted">Exclusivo para inscrições na Black Friday (até 07/12). Conteúdo teórico, online: reconhecimento e conduta inicial nas intercorrências médicas mais prevalentes no atendimento odontológico. Não corresponde à certificação em SBV nem ao SAVO, que são formações à parte, com prática presencial.</p></div>
+      <div class="card"><h3>Mentoria com a Profa. Carla Gamba · 1h</h3><p class="muted">Para os 5 primeiros inscritos: uma hora de mentoria individual para esclarecimento de dúvidas. <span class="ph">[online? prazo para agendar?]</span></p></div>
+      <div class="card"><h3>RDC 1.002/2025 comentada</h3><p class="muted">A norma sanitária aplicada ao consultório, comentada artigo a artigo.</p></div>
+      <div class="card"><h3>N2O: o fármaco titulável · 4h</h3><p class="muted">Óxido nitroso e oxigênio: farmacologia, titulação e por que é o agente de referência para a sedação mínima no consultório.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 9b. EMPILHAMENTO DE VALOR -->
+<section>
+  <div class="wrap">
+    <div class="center"><div class="eyebrow">Tudo o que você recebe</div><h2>O valor de cada entrega</h2></div>
+    <div class="stack mt">
+      <div class="row"><span>Fundamentos da Estratégia Multimodal na Sedação · 3 níveis</span><b>R$ 2.200</b></div>
+      <div class="row"><span>Aula Magna: sistema nervoso simpático e parassimpático</span><b>R$ 450</b></div>
+      <div class="row"><span>N2O: o fármaco titulável · 4h</span><b>R$ 970</b></div>
+      <div class="row"><span>Prescrição (URM) e cálculo de doses</span><b>R$ 970</b></div>
+      <div class="row"><span>Workshops: Comunicação, Segurança e Planejamento</span><b>R$ 550</b></div>
+      <div class="row"><span>RDC 1.002/2025 comentada</span><b>R$ 280</b></div>
+      <div class="row"><span>12 meses de acesso + certificado de 46h</span><b>Incluso</b></div>
+      <div class="row bonus"><span><strong>Bônus Black Friday:</strong> Emergências Médicas · 8h · teórico, online</span><b>R$ 480</b></div>
+      <div class="row bonus"><span><strong>5 primeiros inscritos:</strong> 1h de mentoria com a Profa. Carla Gamba</span><b>Inestimável</b></div>
+      <div class="total"><span>No total, tudo deveria custar</span><s>R$ 5.900</s></div>
+      <div class="today"><span class="lbl">Na Black Friday, até 07/12</span><span class="bigp">12x de R$ 197</span><span class="sub">ou <strong>R$ 1.970 à vista</strong></span></div>
+      <div class="center mt"><a class="btn" href="#inscricao">Quero garantir esta condição</a></div>
+    </div>
+  </div>
+</section>
+
+<!-- 10. INVESTIMENTO -->
+<section class="wine" id="inscricao">
+  <div class="wrap">
+    <div class="center"><div class="eyebrow">Investimento</div><h2>Garanta sua vaga</h2></div>
+    <div class="price mt">
+      <div class="bf">Black Friday · condição válida até 07/12</div>
+      <ul>
+        <li>46 horas de conteúdo gravado</li>
+        <li>Fundamentos da Estratégia Multimodal em 3 níveis</li>
+        <li>Workshops de Comunicação, Segurança, Planejamento, Prescrição (URM) e Cálculo de doses</li>
+        <li><strong>Bônus Black Friday:</strong> +8 horas de Emergências Médicas (online)</li>
+        <li>RDC 1.002/2025 comentada</li>
+        <li>N2O: o fármaco titulável (4h)</li>
+        <li>12 meses de acesso</li>
+        <li><strong>5 primeiros inscritos:</strong> 1h de mentoria com a Profa. Carla Gamba</li>
+        <li>Certificado de 46h emitido pelo Grupo Nitro</li>
+      </ul>
+      <p class="muted">Valor total do que você recebe:</p>
+      <p class="from" style="font-family:Ruda;font-weight:800;font-size:1.5rem;line-height:1.1;text-decoration-color:var(--red);text-decoration-thickness:2px">R$ 5.900</p>
+      <p class="muted" style="margin-top:6px">Valor regular a partir de 08/12: <strong>R$ 2.970</strong></p>
+      <p style="margin-top:18px;font-weight:600">Na Black Friday, por</p>
+      <div class="big">12x de R$ 197</div>
+      <p class="muted">ou R$ 1.970 à vista</p>
+      <p class="muted" style="font-size:.8rem;margin-top:4px">Parcelado no cartão: total de R$ 2.364</p>
+      <a class="btn mt" style="background:var(--red);color:#fff" href="#" data-todo="link de checkout">Garantir o valor de Black Friday</a>
+    </div>
+  </div>
+</section>
+
+<!-- 11. GARANTIA -->
+<section>
+  <div class="wrap guarantee">
+    <div class="seal"><b class="ph">7</b>dias</div>
+    <div style="flex:1;min-width:260px">
+      <h2 style="margin-top:0">Garantia</h2>
+      <p class="muted">Você tem <span class="ph">[7 dias — mínimo legal, art. 49 do CDC; ampliar?]</span> a partir da compra para solicitar o cancelamento com reembolso integral.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 12. FAQ -->
+<section style="padding-top:0">
+  <div class="wrap">
+    <div class="eyebrow">Dúvidas frequentes</div>
+    <h2>Perguntas frequentes</h2>
+    <details><summary>Este curso me habilita a realizar sedação?</summary><p>Não. Trata-se de formação teórica de atualização. A habilitação em sedação segue os requisitos da Resolução CFO 295/2026. O curso pode ser utilizado como complementação de carga horária teórica <span class="ph">[confirmar artigo]</span>.</p></details>
+    <details><summary>Em que este curso difere de outros cursos de sedação online?</summary><p>Ele não entrega um protocolo pronto: entrega o raciocínio farmacológico que sustenta a escolha de cada técnica, fármaco, dose e via em cada perfil de paciente. Prescrição pelo Uso Racional de Medicamentos e cálculo de doses têm workshops próprios, e o escopo é declarado com clareza — fundamentos, sem promessa de habilitação.</p></details>
+    <details><summary>Preciso ter experiência prévia em sedação?</summary><p>Não. O Nível 1 parte dos fundamentos. <span class="ph">[confirmar pré-requisitos]</span></p></details>
+    <details><summary>O curso tem aulas ao vivo?</summary><p>Não. Todo o conteúdo é gravado. <span class="ph">[há canal de dúvidas?]</span></p></details>
+    <details><summary>Por quanto tempo terei acesso?</summary><p>12 meses, contados a partir da <span class="ph">[compra / liberação do acesso]</span>.</p></details>
+    <details><summary>Auxiliares e técnicos podem se inscrever?</summary><p><span class="ph">[exclusivo para CDs? confirmar]</span></p></details>
+    <p class="refs">Referência: <span class="ph">Silveira ER, Cademartori MG, Schuch HS, Armfield JM, Demarco FF. Estimated prevalence of dental fear in adults: a systematic review and meta-analysis. J Dent. 2021;108:103632 — conferir.</span></p>
+  </div>
+</section>
+
+<!-- 13. FECHAMENTO -->
+<section class="dark">
+  <div class="wrap center">
+    <p class="quote">Não existe atalho para resultados extraordinários.</p>
+    <p class="muted mt">Comece pelos fundamentos.</p>
+    <a class="btn mt" href="#inscricao">Quero me inscrever</a>
+    <p class="muted mt">Dúvidas? <a href="https://wa.me/5521935003307" style="color:#fff">Fale conosco pelo WhatsApp</a></p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">Grupo Nitro · Educação em Sedação em Odontologia · © 2026</div>
+</footer>
+
+</body></html>
