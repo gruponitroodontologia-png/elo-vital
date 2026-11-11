@@ -70,6 +70,10 @@
   emergências não diferencia; diferencial é método multimodal, URM/cálculo de
   doses, evidência e transparência (não habilita). Também existe
   "Sedação Multimodal Personalizada" (Dr. Luciano Augusto de Jesus, Hotmart).
+- **Autoridade do Grupo Nitro (dito pela Carla, 11/11/2026):** *"habilitamos a
+  primeira turma no Brasil"* e **26 anos ensinando sedação inclusiva**. Usado
+  no hero, nos números e no corpo docente da página multimodal; é o contra-
+  argumento aos ~20 anos da concorrente.
 
 ## Formulário de captura de leads → Supabase
 - Seção após o FAQ: "Ficou interessado? Deixe seu contato." Campos: **Nome e
