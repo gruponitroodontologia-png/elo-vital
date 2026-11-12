@@ -104,7 +104,7 @@
 - **Decisão da Carla (12/11/2026):** na página multimodal entra **só o depoimento
   escrito** (Dra. Juliana); sem vídeos. Seção "Depoimento" com um único cartão em
   destaque. Pendentes: sobrenome/cidade da Juliana e autorização de uso.
-- **Depoimentos na página (12/11/2026, 3 cartões de texto):** Dra. Juliana
+- **Depoimentos na página (12/11/2026, 3 cartões de texto):** Dra. Juliana Girardi
   (Estratégia Multimodal); **Leandro** (aluno do Guia Clínico do N₂O, online; print de
   conversa de WhatsApp — **cortada a frase "sem risco"**, afirmação absoluta que a
   Carla precisa validar antes de qualquer uso); **Odontovolp Cursos** (story do
