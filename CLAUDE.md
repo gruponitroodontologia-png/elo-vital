@@ -112,12 +112,17 @@
   Alberto e Carla Gamba). **Não usados:** mensagem com foto do SAVO (presencial) e a
   repetição do story. Pendentes: **autorização** de Leandro (conversa privada) e da
   Odontovolp; sobrenomes.
-- **Depoimentos recebidos em print, fora da página multimodal (12/11/2026):**
-  **Dra. Rosane Sartori (Caxias do Sul/RS)** — fala de "minha ida ao Resort"
-  (presencial) e **Alessandra** — fala da "imersão em sedoanalgesia" com prática
-  clínica (presencial); mais uma mensagem de agradecimento genérica (dez/2024).
-  Regra da Carla: só online → **reservar para a página da Trilha 295 / Imersão**.
-  Exigem autorização de uso como os demais.
+- **Depoimentos na página multimodal, versão final (12/11/2026, 5 cartões de texto):**
+  Dra. Juliana Giraldi · Leandro (Guia Clínico do N₂O) · Odontovolp Cursos ·
+  **Dra. Rosane Sartori** (Caxias do Sul/RS; trecho "não somente sobre o que fazer,
+  mas também sobre o que não fazer", com "[…]" no início porque a frase original
+  começava com "Desde a minha ida ao Resort") · **Alessandra Rech** (professora de
+  sedação inalatória e odontopediatria; trecho "não só de aprendizado científico,
+  mas aprendizado humano"). A Carla informou que **Rosane e Alessandra também
+  fizeram o curso online**. **Não usado:** o texto da Alessandra sobre a Imersão
+  (prática clínica = presencial) — reservar para a página da Trilha 295.
+  Pendentes: **autorização** de cada pessoa (conversas privadas de WhatsApp) e da
+  Odontovolp; sobrenome do Leandro.
 - **Depoimentos para a página multimodal:** a Carla decidiu que **valem
   depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
   Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e

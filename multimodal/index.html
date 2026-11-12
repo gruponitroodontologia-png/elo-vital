@@ -196,6 +196,10 @@ footer a{color:#D9D5D5}
 .depo figcaption span{font-size:.85rem;color:#B9B4B4}
 .depo-one{max-width:820px}
 .depo-one blockquote{font-size:clamp(1.1rem,2.2vw,1.35rem);line-height:1.6}
+.depo-grid{grid-template-columns:repeat(6,minmax(0,1fr))}
+.depo-grid .depo:nth-child(-n+3){grid-column:span 2}
+.depo-grid .depo:nth-child(n+4){grid-column:span 3}
+@media(max-width:860px){.depo-grid{grid-template-columns:1fr}.depo-grid .depo:nth-child(n){grid-column:auto}}
 .scope-h{margin-top:clamp(40px,6vw,56px)}
 .diff .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:640px){.diff .grid{grid-template-columns:1fr}}
@@ -274,7 +278,7 @@ footer a{color:#D9D5D5}
   <div class="wrap">
     <div class="eyebrow">Depoimentos</div>
     <h2>O que dizem sobre as nossas aulas</h2>
-    <div class="grid mt" style="grid-template-columns:repeat(auto-fit,minmax(280px,1fr))">
+    <div class="grid mt depo-grid">
       <figure class="card depo">
         <blockquote>“Por meses pude estar em contato com os maiores nomes da sedação em odontologia. Quanto conhecimento em farmacologia, quanto aprendi com a estratégia multimodal em sedação! Sigo cada dia mais feliz por poder trazer aos meus pacientes tratamentos com conforto e segurança.”</blockquote>
         <figcaption><b>Dra. Juliana Giraldi</b><span>Odontopediatra · aluna da Estratégia Multimodal</span></figcaption>
@@ -286,6 +290,14 @@ footer a{color:#D9D5D5}
       <figure class="card depo">
         <blockquote>“Quem não assistiu perdeu o espetáculo!”</blockquote>
         <figcaption><b>Odontovolp Cursos</b><span>Instagram, sobre a aula dos Profs. Luiz Alberto e Carla Gamba</span></figcaption>
+      </figure>
+      <figure class="card depo">
+        <blockquote>“[…] a caminhada na Odontologia se transformou. Não somente sobre o que fazer, mas também sobre o que não fazer. A entrega do grupo é total e, a partir dela, você busca se construir, estudar incansavelmente e saber em que lugar queres estar. Sem dúvida, uma das minhas maiores transformações profissionais e, ouso dizer, pessoal também.”</blockquote>
+        <figcaption><b>Dra. Rosane Sartori</b><span>Caxias do Sul/RS · aluna do Grupo Nitro</span></figcaption>
+      </figure>
+      <figure class="card depo">
+        <blockquote>“[…] por ter encontrado vocês nesta minha caminhada, não só de aprendizado científico, mas aprendizado humano!”</blockquote>
+        <figcaption><b>Alessandra Rech</b><span>Professora de sedação inalatória e odontopediatria · aluna do Grupo Nitro</span></figcaption>
       </figure>
     </div>
   </div>
