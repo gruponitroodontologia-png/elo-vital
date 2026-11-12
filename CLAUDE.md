@@ -137,6 +137,10 @@
   caminhos), sem abrir documento. Depois, 2ª enquete: o que pesa mais
   (Recursos, Atratividade, Confiança, Coerência). Enquete: "Permitir várias
   respostas" desligado (como na Enquete 1 do roteiro do time).
+- **Descrição oficial do grupo da Comunidade (12/11/2026)** salva no Drive,
+  pasta ADMINISTRATIVO: "Comunidade Oficial do Grupo Nitro: descrição do grupo
+  (versão oficial)". Sem "habilitação" como produto; "26 anos"; itálico no
+  WhatsApp com _sublinhados_.
 - Divergência a resolver: previsão do curso de 200 h ("abril/maio 2027" na live
   vs "ainda não há como antecipar datas" no roteiro de vendas).
 
