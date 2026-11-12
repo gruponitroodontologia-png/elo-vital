@@ -123,6 +123,14 @@
   (prática clínica = presencial) — reservar para a página da Trilha 295.
   Pendentes: **autorização** de cada pessoa (conversas privadas de WhatsApp) e da
   Odontovolp; sobrenome do Leandro.
+- **Página multimodal (12/11/2026, rodada final):** "Quem conduz" agora usa os
+  **mini-currículos da página do SAVO** (Carla e Luiz Alberto, com foto de cada um);
+  **omitido** o trecho "participou da construção da Resolução CFO 51/2004" que o SAVO
+  traz para a Carla, por contrariar a regra do time (sem citar participação em
+  comissões) — **a Carla decide** se restitui. **"Carga horária por nível" removida**
+  (decisão da Carla). **CFO 295/2026 confirmada** pela Carla; sem citar artigo
+  específico. Pendentes de página: checkout, garantia (texto), 4 itens de FAQ e a
+  validação dos workshops/mentoria.
 - **Depoimentos para a página multimodal:** a Carla decidiu que **valem
   depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
   Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e
