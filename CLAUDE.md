@@ -83,6 +83,16 @@
   com título e "+" alinhados. A Carla lembra de uma skill de tipografia/interface
   que "começa com ok": **não existe na conta** (21 skills ativas conferidas);
   usadas `artifact-design` (sessão) e, se preciso, `theme-factory`.
+- **Números com movimento (12/11/2026):** faixa logo abaixo do topo da página
+  multimodal com 4 números **verdadeiros** que contam de 0 até o valor ao entrar
+  na tela (26 anos · 46 h · 5 workshops · 12 meses). Números finais já no HTML
+  (sem JS e com "movimento reduzido" nada anima). Referência da Carla: página
+  lp.ciclosaude.com.br/curso-sme (GreatPages; números "+800 Alunos, 35h, 23Gb";
+  o script de animação é externo e não foi lido). **Nunca inventar números de
+  prova social**; pedir à Carla dados reais (alunos formados, turmas, horas).
+- **Removido** da seção "Para quem" o trecho com a estimativa de Silveira et al.
+  (J Dent 2021) e a referência no fim (decisão da Carla); a frase inicial "O medo
+  odontológico acomete parcela expressiva da população adulta" ficou **sem fonte**.
 - **Depoimentos para a página multimodal:** a Carla decidiu que **valem
   depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
   Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e

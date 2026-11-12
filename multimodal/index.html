@@ -184,6 +184,12 @@ footer a{color:#D9D5D5}
 .stack .seal{flex:0 0 84px;height:84px;font-size:.8rem}
 .stack .seal b{font-size:1.6rem}
 .stack .fine{text-align:center;color:var(--muted);font-size:.85rem;margin-top:10px}
+.nums{background:#fff;padding:clamp(28px,5vw,44px) 0}
+.nums .grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:clamp(8px,2vw,24px)}
+.nums .stat{padding:6px 4px}
+.nums .stat b{font-variant-numeric:tabular-nums}
+.stat b .count{font-size:inherit}
+@media(max-width:640px){.nums .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 8px}}
 .scope-h{margin-top:clamp(40px,6vw,56px)}
 .diff .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:640px){.diff .grid{grid-template-columns:1fr}}
@@ -212,12 +218,25 @@ footer a{color:#D9D5D5}
   </svg>
 </header>
 
+<!-- NÚMEROS -->
+<section class="nums" aria-label="O curso em números">
+  <div class="wrap">
+    <div class="grid">
+      <div class="stat"><b><span class="count" data-to="26">26</span></b><span>anos ensinando sedação inclusiva</span></div>
+      <div class="stat"><b><span class="count" data-to="46">46</span>h</b><span>de conteúdo gravado</span></div>
+      <div class="stat"><b><span class="count" data-to="5">5</span></b><span>workshops aplicados</span></div>
+      <div class="stat"><b><span class="count" data-to="12">12</span></b><span>meses de acesso</span></div>
+    </div>
+  </div>
+</section>
+
+
 <!-- 1. PARA QUEM -->
 <section>
   <div class="wrap">
     <div class="eyebrow">Para quem é este curso</div>
     <h2>Para o cirurgião-dentista que atende pacientes que não respondem ao manejo convencional</h2>
-    <p class="lead muted">O medo odontológico acomete parcela expressiva da população adulta <span class="ph">[estimativa agrupada de ~15% — Silveira et al., J Dent 2021; conferir antes de publicar]</span> e constitui causa reconhecida de evasão do tratamento. Quatro perfis clínicos exigem planejamento farmacológico específico:</p>
+    <p class="lead muted">O medo odontológico acomete parcela expressiva da população adulta. Quatro perfis clínicos exigem planejamento farmacológico específico:</p>
     <div class="grid g4 mt">
       <div class="card"><h3>Ansiedade e fobia odontológica</h3><p class="muted">Pacientes que postergam o tratamento e chegam ao consultório com necessidades acumuladas.</p></div>
       <div class="card"><h3>Pacientes com comorbidades</h3><p class="muted">Indivíduos com condições sistêmicas, polifarmácia e reserva fisiológica reduzida, nos quais a escolha e a dose do fármaco são determinantes.</p></div>
@@ -384,7 +403,6 @@ footer a{color:#D9D5D5}
     <details><summary>O curso tem aulas ao vivo?</summary><p>Não. Todo o conteúdo é gravado. <span class="ph">[há canal de dúvidas?]</span></p></details>
     <details><summary>Por quanto tempo terei acesso?</summary><p>12 meses, contados a partir da <span class="ph">[compra / liberação do acesso]</span>.</p></details>
     <details><summary>Auxiliares e técnicos podem se inscrever?</summary><p><span class="ph">[exclusivo para CDs? confirmar]</span></p></details>
-    <p class="refs">Referência: <span class="ph">Silveira ER, Cademartori MG, Schuch HS, Armfield JM, Demarco FF. Estimated prevalence of dental fear in adults: a systematic review and meta-analysis. J Dent. 2021;108:103632 — conferir.</span></p>
   </div>
 </section>
 
@@ -415,6 +433,30 @@ footer a{color:#D9D5D5}
       if(e.target===heroBtn){ seen.hero=e.intersectionRatio>=0.98; } else { seen.buy=e.isIntersecting; }
     }); update();},{threshold:[0,0.98]});
     io.observe(heroBtn); io.observe(buy);
+  }catch(err){}
+})();
+</script>
+<script>
+(function(){
+  try{
+    var els=document.querySelectorAll('.count');
+    if(!els.length||!('IntersectionObserver' in window)) return;
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    function run(el){
+      var to=Number(el.getAttribute('data-to')), t0=null, dur=1400;
+      function step(ts){
+        if(t0===null) t0=ts;
+        var p=Math.min((ts-t0)/dur,1), e=1-Math.pow(1-p,3);
+        el.textContent=String(Math.round(to*e));
+        if(p<1){ requestAnimationFrame(step); } else { el.textContent=String(to); }
+      }
+      el.textContent='0';
+      requestAnimationFrame(step);
+    }
+    var io=new IntersectionObserver(function(es){
+      es.forEach(function(e){ if(e.isIntersecting){ io.unobserve(e.target); run(e.target); } });
+    },{threshold:0,rootMargin:'0px 0px -12% 0px'});
+    els.forEach(function(el){ io.observe(el); });
   }catch(err){}
 })();
 </script>
