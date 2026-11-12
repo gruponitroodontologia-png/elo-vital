@@ -113,6 +113,27 @@
 - Mensagem fixa do grupo de WhatsApp (320) e vídeos de 20 s para os 40: ver
   rascunhos desta sessão; **conteúdo clínico só vai ao ar com validação da Carla**.
 
+## Regras de ouro do time (Roteiro de Atendimento WhatsApp v3, Drive)
+- **Nunca citar CFO, CRO ou SOBRASO como chancela dos cursos, nem a participação
+  da Profa. Carla em comissões.** **Nenhum curso habilita** (quem decide é o
+  Conselho). Sempre **"Emergências Clínicas"**, nunca "médicas" (a página
+  multimodal ainda diz "Emergências Médicas": conferir com a Carla).
+- Mensagens saem **em nome da equipe**, individuais, **uma por vez**, máx. **25
+  novas conversas/dia**, horários 11:30–12:30 e 18–19h (não sexta), resposta em
+  até 1 h; checar CRM coluna Q (**NÃO OFERTAR** / **PAUSA**) antes de escrever.
+- **Res. CFO 51/2004 está revogada** (a própria Carla diz na live de 05/11); só
+  valem cursos com portaria SERESP até a publicação da 295. Na página multimodal
+  foi **removida** a frase "participamos da construção da 51/2004" (violava a
+  regra) e "habilitamos" virou "formamos a primeira turma de habilitação em
+  sedação do Brasil, em 2000" (**a confirmar com a Carla**).
+- **Lista VIP da Trilha 295 (os "40")**: live 05/11 20h; condição VIP até
+  **16/11**; bônus até 27/11; matrícula até 30/11; vagas: 12 mentoria / 8
+  imersão / 20 SAVO. Enquadramento do valor: **"Os três caminhos"** + **Plano
+  Odisseia** (Recursos, Atratividade, Confiança, Coerência). **Não misturar**
+  com a oferta do curso multimodal (até 07/12).
+- Divergência a resolver: previsão do curso de 200 h ("abril/maio 2027" na live
+  vs "ainda não há como antecipar datas" no roteiro de vendas).
+
 ## Formulário de captura de leads → Supabase
 - Seção após o FAQ: "Ficou interessado? Deixe seu contato." Campos: **Nome e
   WhatsApp obrigatórios, e-mail opcional**. Fallback para WhatsApp se a rede
