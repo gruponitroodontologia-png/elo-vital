@@ -93,6 +93,14 @@
 - **Removido** da seção "Para quem" o trecho com a estimativa de Silveira et al.
   (J Dent 2021) e a referência no fim (decisão da Carla); a frase inicial "O medo
   odontológico acomete parcela expressiva da população adulta" ficou **sem fonte**.
+- **Depoimentos colocados (12/11/2026):** pasta "Depoimentos Estratégia Multimodal"
+  (Drive): **Dra. Juliana** (odontopediatra; texto de postagem dela, lido por OCR do
+  print "Depoimento Juliana.jpeg") já na página; **Ana Paula** (vídeo mp4 15,5 MB,
+  dono estudiofnoleto@gmail.com) **não cabe**: o conector baixa só até 10 MB e a página
+  não toca vídeo de Drive/YouTube → precisa de **link** (YouTube "não listado" ou Drive
+  "qualquer pessoa com o link") para um botão "Assistir". Faltam sobrenome/profissão/
+  cidade e **autorização de imagem/texto** de cada pessoa. **Não colocar vídeos de
+  alunos no repositório (é público).**
 - **Depoimentos para a página multimodal:** a Carla decidiu que **valem
   depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
   Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e

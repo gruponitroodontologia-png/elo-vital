@@ -190,6 +190,10 @@ footer a{color:#D9D5D5}
 .nums .stat b{font-variant-numeric:tabular-nums}
 .stat b .count{font-size:inherit}
 @media(max-width:640px){.nums .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 8px}}
+.depo{margin:0;display:flex;flex-direction:column;gap:14px}
+.depo blockquote{margin:0;flex:1;font-size:1.02rem;line-height:1.65;color:#EDEBEA}
+.depo figcaption b{display:block;font-family:Ruda,Poppins,sans-serif;font-size:1.05rem;color:#fff}
+.depo figcaption span{font-size:.85rem;color:#B9B4B4}
 .scope-h{margin-top:clamp(40px,6vw,56px)}
 .diff .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:640px){.diff .grid{grid-template-columns:1fr}}
@@ -268,10 +272,19 @@ footer a{color:#D9D5D5}
   <div class="wrap">
     <div class="eyebrow">Quem já estudou com o Grupo Nitro</div>
     <h2>O que dizem alunos dos nossos cursos online</h2>
-    <div class="grid mt" style="grid-template-columns:repeat(auto-fit,minmax(260px,1fr))">
-      <div class="card"><div class="video-slot"><span class="ph">[vídeo do depoimento 1]</span></div><p class="muted" style="margin-top:12px"><span class="ph">[nome · profissão · cidade · curso online de origem]</span></p></div>
-      <div class="card"><div class="video-slot"><span class="ph">[vídeo do depoimento 2]</span></div><p class="muted" style="margin-top:12px"><span class="ph">[nome · profissão · cidade · curso online de origem]</span></p></div>
-      <div class="card"><div class="video-slot"><span class="ph">[vídeo do depoimento 3]</span></div><p class="muted" style="margin-top:12px"><span class="ph">[nome · profissão · cidade · curso online de origem]</span></p></div>
+    <div class="grid mt" style="grid-template-columns:repeat(auto-fit,minmax(280px,1fr))">
+      <figure class="card depo">
+        <blockquote>“Por meses pude estar em contato com os maiores nomes da sedação em odontologia. Quanto conhecimento em farmacologia, quanto aprendi com a estratégia multimodal em sedação! Sigo cada dia mais feliz por poder trazer aos meus pacientes tratamentos com conforto e segurança.”</blockquote>
+        <figcaption><b>Dra. Juliana</b><span>Odontopediatra · aluna da Estratégia Multimodal</span></figcaption>
+      </figure>
+      <figure class="card depo">
+        <div class="video-slot"><span>Depoimento em vídeo<br><b>Ana Paula</b></span></div>
+        <figcaption><span class="ph">[link do vídeo · profissão · cidade]</span></figcaption>
+      </figure>
+      <figure class="card depo">
+        <div class="video-slot"><span class="ph">[terceiro depoimento]</span></div>
+        <figcaption><span class="ph">[nome · profissão · cidade · curso online de origem]</span></figcaption>
+      </figure>
     </div>
   </div>
 </section>
