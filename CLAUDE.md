@@ -131,6 +131,12 @@
   imersão / 20 SAVO. Enquadramento do valor: **"Os três caminhos"** + **Plano
   Odisseia** (Recursos, Atratividade, Confiança, Coerência). **Não misturar**
   com a oferta do curso multimodal (até 07/12).
+- **Toque 1 para os 40 (decidido com a Carla, 12/11/2026):** vídeo de 30 s que
+  abre com *"Dr(a). [Nome], aqui é a professora Carla Gamba. Você está na Lista
+  VIP da Trilha 295"* + **enquete de um toque no próprio WhatsApp** (os três
+  caminhos), sem abrir documento. Depois, 2ª enquete: o que pesa mais
+  (Recursos, Atratividade, Confiança, Coerência). Enquete: "Permitir várias
+  respostas" desligado (como na Enquete 1 do roteiro do time).
 - Divergência a resolver: previsão do curso de 200 h ("abril/maio 2027" na live
   vs "ainda não há como antecipar datas" no roteiro de vendas).
 
