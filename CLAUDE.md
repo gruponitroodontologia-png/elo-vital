@@ -101,6 +101,9 @@
   "qualquer pessoa com o link") para um botão "Assistir". Faltam sobrenome/profissão/
   cidade e **autorização de imagem/texto** de cada pessoa. **Não colocar vídeos de
   alunos no repositório (é público).**
+- **Decisão da Carla (12/11/2026):** na página multimodal entra **só o depoimento
+  escrito** (Dra. Juliana); sem vídeos. Seção "Depoimento" com um único cartão em
+  destaque. Pendentes: sobrenome/cidade da Juliana e autorização de uso.
 - **Depoimentos para a página multimodal:** a Carla decidiu que **valem
   depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
   Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e
