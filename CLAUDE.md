@@ -104,6 +104,14 @@
 - **Decisão da Carla (12/11/2026):** na página multimodal entra **só o depoimento
   escrito** (Dra. Juliana); sem vídeos. Seção "Depoimento" com um único cartão em
   destaque. Pendentes: sobrenome/cidade da Juliana e autorização de uso.
+- **Depoimentos na página (12/11/2026, 3 cartões de texto):** Dra. Juliana
+  (Estratégia Multimodal); **Leandro** (aluno do Guia Clínico do N₂O, online; print de
+  conversa de WhatsApp — **cortada a frase "sem risco"**, afirmação absoluta que a
+  Carla precisa validar antes de qualquer uso); **Odontovolp Cursos** (story do
+  Instagram: "Quem não assistiu perdeu o espetáculo!", sobre a aula dos Profs. Luiz
+  Alberto e Carla Gamba). **Não usados:** mensagem com foto do SAVO (presencial) e a
+  repetição do story. Pendentes: **autorização** de Leandro (conversa privada) e da
+  Odontovolp; sobrenomes.
 - **Depoimentos para a página multimodal:** a Carla decidiu que **valem
   depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
   Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e
