@@ -89,6 +89,16 @@
   processos indissociáveis): enquadramento para a Aula #11 (3 aulas de via
   aérea) e para a conversa com os 40 da Lista VIP. Definições conferidas em
   fontes secundárias, não nos livros originais.
+- **"Receita de bolo" (Carla, 12/11/2026):** *"Não vendemos receita de bolo
+  para sedação."* — substitui "certeza de vitrine". Crítica é à **categoria**
+  (dose sem paciente); **não acusar concorrente nominalmente** sem prova.
+  Evidência conferida no PubMed: **Coté et al., Pediatrics 2000**
+  (DOI 10.1542/peds.106.4.633): 95 incidentes; eventos adversos mesmo com doses
+  dentro dos limites; 3+ sedativos 18/20 vs 7/70; relatos de casos, sem
+  denominador. **Bailey et al., Anesthesiology 1990** (DOI
+  10.1097/00000542-199011000-00005): midazolam+fentanil, hipoxemia 11/12.
+  Cuidado: no mesmo estudo, N2O + outra classe teve 9/10 desfechos adversos —
+  o curso multimodal precisa ensinar *quando parar de associar*.
 - Mensagem fixa do grupo de WhatsApp (320) e vídeos de 20 s para os 40: ver
   rascunhos desta sessão; **conteúdo clínico só vai ao ar com validação da Carla**.
 
