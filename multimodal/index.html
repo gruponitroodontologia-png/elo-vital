@@ -31,15 +31,30 @@ h2{font-size:clamp(1.7rem,3.6vw,2.5rem);margin:.4em 0 .6em}
 .dark .ph,.wine .ph{background:#FFE36A;color:#3a2f00}
 
 /* hero */
-.hero{background:radial-gradient(ellipse at 80% 20%,#3A0B14 0%,var(--ink) 60%);color:#fff;padding:90px 0 100px;position:relative;overflow:hidden}
+.hero{background:radial-gradient(ellipse at 80% 20%,#3A0B14 0%,var(--ink) 60%);color:#fff;padding:52px 0 88px;position:relative;overflow:hidden}
 .hero .eyebrow{color:var(--lilac)}
-.hero h1{font-size:clamp(2.1rem,5vw,3.6rem);font-weight:800;max-width:860px;margin:.35em 0 .5em}
+.hero h1{font-size:clamp(1.9rem,5.4vw,3.4rem);font-weight:800;max-width:860px;margin:.3em 0 .45em}
 .hero h1 em{font-style:normal;color:var(--lilac)}
 .hero p{font-size:1.15rem;max-width:700px;color:#D9D5D5}
-.hero .manifesto{font-family:Ruda,Poppins,sans-serif;font-weight:800;font-size:clamp(1.2rem,2.6vw,1.6rem);color:#fff;max-width:760px;margin:0 0 .9em;padding-left:16px;border-left:4px solid var(--lilac);line-height:1.3}
-.tags{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 36px}
+.hero .manifesto{font-family:Ruda,Poppins,sans-serif;font-weight:800;font-size:clamp(1.05rem,2.4vw,1.45rem);color:#fff;max-width:760px;margin:0 0 .6em;padding-left:14px;border-left:4px solid var(--lilac);line-height:1.3}
+.tags{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 0}
 .tags span{border:1px solid rgba(165,165,211,.5);padding:6px 14px;border-radius:30px;font-size:.85rem}
 .ecg{position:absolute;left:0;right:0;bottom:18px;opacity:.35;width:100%;height:80px}
+.hero .hero-sub{font-size:1rem;max-width:640px;margin:0 0 16px}
+.facts{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 22px}
+.facts span{border:1px solid rgba(165,165,211,.5);padding:5px 12px;border-radius:30px;font-size:.82rem}
+.cta-row{display:flex;flex-wrap:wrap;align-items:center;gap:14px 28px}
+.hero .btn{background:#fff;color:var(--red);padding:18px 40px;font-size:1.05rem;box-shadow:0 8px 24px rgba(0,0,0,.35)}
+.hero .btn:hover{background:var(--lilac);color:var(--red-dk)}
+.cta-price{line-height:1.15}
+.cta-price small{display:block;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--lilac);font-weight:600}
+.cta-price b{display:block;font-family:Ruda,Poppins,sans-serif;font-size:1.7rem;color:#fff}
+.cta-price span{font-size:.9rem;color:#D9D5D5}
+.sticky-cta{display:none;position:fixed;left:0;right:0;bottom:0;z-index:60;align-items:center;justify-content:space-between;gap:12px;background:#fff;padding:10px 14px calc(10px + env(safe-area-inset-bottom,0px));box-shadow:0 -6px 20px rgba(0,0,0,.22)}
+.sticky-cta.hide{display:none!important}
+.sticky-cta .btn{padding:14px 18px;font-size:.85rem;white-space:nowrap}
+.sc-price small{display:block;font-size:.68rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.sc-price b{font-family:Ruda,Poppins,sans-serif;font-size:1.25rem;color:var(--red)}
 
 /* grids */
 .grid{display:grid;gap:22px}
@@ -79,7 +94,7 @@ h2{font-size:clamp(1.7rem,3.6vw,2.5rem);margin:.4em 0 .6em}
 /* price */
 .price{max-width:620px;margin:0 auto;background:#fff;color:var(--text);border-radius:14px;padding:44px 36px;text-align:center;box-shadow:0 20px 50px rgba(0,0,0,.25)}
 .bf{display:inline-block;background:var(--lilac);color:var(--red-dk)!important;color:#fff;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;font-weight:700;padding:7px 16px;border-radius:30px;margin-bottom:8px}
-.bfbar{background:var(--red);color:#fff;text-align:center;font-size:.9rem;font-weight:600;padding:10px 16px}
+.bfbar{background:var(--red);color:#fff;text-align:center;font-size:.85rem;font-weight:600;padding:9px 14px;line-height:1.35}
 .bfbar a{color:#fff}
 .stack{max-width:760px;margin:0 auto;background:#fff;border-radius:14px;padding:30px clamp(18px,4vw,40px);box-shadow:0 10px 36px rgba(0,0,0,.08)}
 .stack .row{display:flex;justify-content:space-between;gap:18px;padding:14px 0;border-bottom:1px dashed #ddd}
@@ -124,21 +139,42 @@ footer a{color:#D9D5D5}
   .teacher{grid-template-columns:1fr;text-align:center}
   .avatar{margin:0 auto}
   .price{padding:34px 22px}
+  .bfbar{font-size:.74rem;padding:7px 12px}
+  .hero{padding:24px 0 36px}
+  .hero .eyebrow{font-size:.68rem;letter-spacing:.12em}
+  .hero .hero-sub{font-size:.95rem;margin-bottom:14px}
+  .facts{gap:6px;margin-bottom:16px}
+  .facts span{font-size:.76rem;padding:4px 10px}
+  .cta-row{gap:10px}
+  .hero .btn{width:100%;text-align:center;padding:17px 20px}
+  .cta-price{width:100%;text-align:center}
+  .cta-price b{display:inline;font-size:1.3rem}
+  .cta-price span{display:inline;margin-left:6px}
+  .tags{margin-top:20px}
+  .ecg{display:none}
+}
+@media(max-width:760px){
+  .sticky-cta{display:flex}
+  body{padding-bottom:76px}
 }
 </style>
-<div class="bfbar">BLACK FRIDAY · 12x de R$ 197 ou R$ 1.970 à vista + 8h de Emergências Médicas de bônus · 5 primeiros ganham 1h de mentoria · até 07/12 ·<a href="#inscricao">ver condição</a></div>
+<div class="bfbar">BLACK FRIDAY até 07/12 · 12x de R$ 197 ou R$ 1.970 à vista · <a href="#inscricao">ver condição</a></div>
 
 <!-- 1. HERO -->
 <header class="hero">
   <div class="wrap">
-    <div class="eyebrow">Grupo Nitro · Curso online · Exclusivo para cirurgiões-dentistas</div>
+    <div class="eyebrow">Grupo Nitro · Curso 100% online · Para cirurgiões-dentistas</div>
     <h1>Fundamentos da <em>Estratégia Multimodal</em> na Sedação</h1>
     <p class="manifesto">Não é mais um curso de sedação. É o raciocínio farmacológico que decide a sedação.</p>
-    <p>A base farmacológica e clínica para compreender por que a associação racional de técnicas e fármacos amplia a previsibilidade e a segurança do manejo da ansiedade no consultório: o quê, quanto, por qual via e em qual paciente.</p>
-    <div class="tags">
-      <span>26 anos ensinando sedação inclusiva</span><span>46 horas de conteúdo</span><span>12 meses de acesso</span><span>100% online · aulas gravadas</span><span>Estude no seu ritmo</span><span>5 workshops: Comunicação · Segurança · Planejamento · Prescrição (URM) · Cálculo de doses</span><span>+8h de Emergências Médicas (bônus Black Friday)</span><span>Certificado Grupo Nitro · 46h</span>
+    <p class="hero-sub">O quê, quanto, por qual via e em qual paciente: a base farmacológica e clínica para planejar a sedação com previsibilidade e segurança.</p>
+    <div class="facts"><span>46 horas</span><span>12 meses de acesso</span><span>Aulas gravadas, no seu ritmo</span><span>Certificado Grupo Nitro</span></div>
+    <div class="cta-row">
+      <a class="btn" href="#inscricao">Quero me inscrever</a>
+      <div class="cta-price"><small>Black Friday até 07/12</small><b>12x de R$ 197</b><span>ou R$ 1.970 à vista</span></div>
     </div>
-    <a class="btn" href="#inscricao">Quero me inscrever</a>
+    <div class="tags">
+      <span>26 anos ensinando sedação inclusiva</span><span>5 workshops: Comunicação · Segurança · Planejamento · Prescrição (URM) · Cálculo de doses</span><span>+8h de Emergências Médicas (bônus Black Friday)</span>
+    </div>
   </div>
   <svg class="ecg" viewBox="0 0 1200 80" preserveAspectRatio="none" aria-hidden="true">
     <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#690D0E"/><stop offset="1" stop-color="#A5A5D3"/></linearGradient></defs>
@@ -431,5 +467,22 @@ footer a{color:#D9D5D5}
 <footer>
   <div class="wrap">Grupo Nitro · Educação em Sedação em Odontologia · © 2026</div>
 </footer>
+
+<div class="sticky-cta" id="stickyCta"><div class="sc-price"><small>Black Friday até 07/12</small><b>12x de R$ 197</b></div><a class="btn" href="#inscricao">Quero me inscrever</a></div>
+<script>
+(function(){
+  try{
+    var bar=document.getElementById('stickyCta');
+    var heroBtn=document.querySelector('.hero .btn'), buy=document.getElementById('inscricao');
+    if(!bar||!heroBtn||!buy||!('IntersectionObserver' in window)) return;
+    var seen={hero:false,buy:false};
+    function update(){ if(seen.hero||seen.buy){bar.classList.add('hide');}else{bar.classList.remove('hide');} }
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){
+      if(e.target===heroBtn){ seen.hero=e.intersectionRatio>=0.98; } else { seen.buy=e.isIntersecting; }
+    }); update();},{threshold:[0,0.98]});
+    io.observe(heroBtn); io.observe(buy);
+  }catch(err){}
+})();
+</script>
 
 </body></html>

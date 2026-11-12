@@ -63,6 +63,13 @@
   + bônus Emergências Médicas 8h (teórico) + mentoria 1h para os 5 primeiros.
 - Posicionamento: *"Não é mais um curso de sedação. É o raciocínio
   farmacológico que decide a sedação."* Seção "Critério, não receita".
+- **Hero da página multimodal (12/11/2026):** o botão de compra e o preço
+  (12x de R$ 197 · R$ 1.970 à vista) ficam **na primeira tela**, no celular e no
+  desktop (medido com Playwright: antes o botão caía a ~340 px abaixo da dobra no
+  celular). Barra fixa no rodapé do celular ("Quero me inscrever") aparece quando
+  o botão do topo sai da tela e some na área de compra. O botão do hero leva a
+  `#inscricao`; **o link de checkout do curso multimodal ainda não existe**
+  (`data-todo="link de checkout"`).
 - **Concorrência (11/11/2026):** Dra. Adriana Correia (IBRAS, @odontologiasemmedo)
   — "Black Sedação 2026": combo dos cursos online *Sedando Sem Medo* +
   *Emergências no Consultório*; página de captura, preço revelado em live
