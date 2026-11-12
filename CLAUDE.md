@@ -99,6 +99,17 @@
   10.1097/00000542-199011000-00005): midazolam+fentanil, hipoxemia 11/12.
   Cuidado: no mesmo estudo, N2O + outra classe teve 9/10 desfechos adversos —
   o curso multimodal precisa ensinar *quando parar de associar*.
+- **Projeto Cultura de Segurança** (aulas gratuitas semanais no YouTube): série
+  de 3 aulas sobre via aérea (#11, #12, #13); #11 estreia quinta 12/11 às 11h11,
+  com abertura do Dr. Jason Brady (Sedation Academy). Enquadramento do Grupo:
+  **alfabetização em cultura de segurança** para toda a Odontologia (Magda
+  Soares); o **letramento** vem em camadas: SAVO (toda a Odontologia) e Trilha
+  295 (quem já tem sedação na rotina). Fonte: "Aula #11 · Campanha da semana",
+  no Drive. A Lista VIP da Trilha 295 (live de 05/11) provavelmente é a origem
+  dos "40" — a Black Friday da Trilha vai até 16/11; a do curso multimodal, até
+  07/12 (não mandar duas ofertas concorrentes à mesma pessoa).
+- Mensagem fixa do grupo de WhatsApp (320): trocar "decisão clínica por semana"
+  por "conteúdos selecionados" + aulas gratuitas do Projeto Cultura de Segurança.
 - Mensagem fixa do grupo de WhatsApp (320) e vídeos de 20 s para os 40: ver
   rascunhos desta sessão; **conteúdo clínico só vai ao ar com validação da Carla**.
 
