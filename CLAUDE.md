@@ -70,6 +70,19 @@
   o botão do topo sai da tela e some na área de compra. O botão do hero leva a
   `#inscricao`; **o link de checkout do curso multimodal ainda não existe**
   (`data-todo="link de checkout"`).
+- **Página multimodal enxuta (12/11/2026):** de 16 para **9 blocos** (Para quem ·
+  Critério, não receita + conceito · Depoimentos · Programa em acordeão ·
+  Quem conduz · Como funciona + é/não é · Investimento único com garantia · FAQ ·
+  Fechamento); texto −20%; **um só texto de botão** ("Quero me inscrever");
+  **foto da Profa. Carla** (assets/carla-gamba.jpg, embutida) no hero e em Quem
+  conduz. Cópia de segurança do estado anterior fora do repositório.
+- **Depoimentos para a página multimodal:** a Carla decidiu que **valem
+  depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
+  Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e
+  "Depoimentos turma 1" (09 vídeos, ago/2026, formação não identificada). Lista
+  para escolha no Drive (ADMINISTRATIVO): "Depoimentos para escolher: página
+  Fundamentos da Estratégia Multimodal". Embutir só os que ela marcar, com
+  autorização de imagem, em endereço que abra sem login.
 - **Concorrência (11/11/2026):** Dra. Adriana Correia (IBRAS, @odontologiasemmedo)
   — "Black Sedação 2026": combo dos cursos online *Sedando Sem Medo* +
   *Emergências no Consultório*; página de captura, preço revelado em live
