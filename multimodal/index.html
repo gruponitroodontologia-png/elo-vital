@@ -15,14 +15,16 @@ html{scroll-behavior:smooth}
 body{font-family:Poppins,system-ui,sans-serif;color:var(--text);background:var(--paper);line-height:1.6;font-size:17px}
 h1,h2,h3{font-family:Ruda,Poppins,sans-serif;line-height:1.2}
 .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
-section{padding:80px 0}
+section{padding:clamp(56px,8vw,88px) 0}
 .eyebrow{font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;font-weight:600;color:var(--red)}
 .dark{background:var(--ink);color:#EDEBEA}
 .dark .eyebrow{color:var(--lilac)}
 .wine{background:linear-gradient(135deg,var(--red-dk),var(--red));color:#fff}
 .wine .eyebrow{color:#D6D6F0}
-h2{font-size:clamp(1.7rem,3.6vw,2.5rem);margin:.4em 0 .6em}
-.lead{font-size:1.1rem;max-width:760px}
+h2{font-size:clamp(1.45rem,3.6vw,2.5rem);margin:.4em 0 .6em}
+h1,h2,h3{text-wrap:balance}
+p{text-wrap:pretty}
+.lead{font-size:1.1rem;max-width:68ch}
 .muted{color:var(--muted)} .dark .muted{color:#B9B4B4}
 .btn{display:inline-block;background:var(--red);color:#fff;text-decoration:none;font-weight:700;letter-spacing:.04em;padding:18px 34px;border-radius:6px;text-transform:uppercase;font-size:.95rem;transition:transform .15s,background .15s}
 .btn:hover{background:#8A1314;transform:translateY(-2px)}
@@ -57,10 +59,10 @@ h2{font-size:clamp(1.7rem,3.6vw,2.5rem);margin:.4em 0 .6em}
 .sc-price b{font-family:Ruda,Poppins,sans-serif;font-size:1.25rem;color:var(--red)}
 
 /* grids */
-.grid{display:grid;gap:22px}
+.grid{display:grid;gap:clamp(16px,2.2vw,24px)}
 .g2{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
 .g4{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
-.card{background:#fff;border-radius:10px;padding:28px;border-top:4px solid var(--red);box-shadow:0 2px 14px rgba(0,0,0,.05)}
+.card{background:#fff;border-radius:10px;padding:clamp(20px,3vw,28px);border-top:4px solid var(--red);box-shadow:0 2px 14px rgba(0,0,0,.05)}
 .card h3{font-size:1.15rem;margin-bottom:.5em}
 .dark .card{background:var(--ink-2);box-shadow:none}
 .stat{text-align:center;padding:26px 10px}
@@ -69,9 +71,8 @@ h2{font-size:clamp(1.7rem,3.6vw,2.5rem);margin:.4em 0 .6em}
 .stat span{font-size:.9rem}
 
 /* criterio */
-.diff .card{border-top:0;border-left:4px solid var(--red);padding:26px 26px 24px}
 .diff .card .k{display:block;font-family:Ruda;font-weight:800;font-size:.8rem;letter-spacing:.16em;text-transform:uppercase;color:var(--red);margin-bottom:.5em}
-.diff-foot{margin-top:30px;font-weight:600;max-width:760px}
+.diff-foot{margin-top:clamp(24px,4vw,36px);font-weight:600;max-width:68ch}
 
 /* levels */
 .level{display:grid;grid-template-columns:110px 1fr;gap:24px;padding:30px 0;border-bottom:1px solid rgba(255,255,255,.12)}
@@ -128,7 +129,7 @@ details[open] summary:after{content:"–"}
 details p{margin-top:12px;color:var(--muted)}
 
 .center{text-align:center}
-.mt{margin-top:36px}
+.mt{margin-top:clamp(24px,4vw,40px)}
 .quote{font-family:Ruda;font-size:clamp(1.4rem,3vw,2rem);font-weight:800;text-align:center}
 footer{background:#0E0F11;color:#8F8A8A;font-size:.85rem;padding:36px 0;text-align:center}
 footer a{color:#D9D5D5}
@@ -168,8 +169,9 @@ footer a{color:#D9D5D5}
 .hero-top{display:flex;align-items:center;gap:12px}
 .hero-top .avatar-sm{display:none;flex:0 0 46px;width:46px;height:46px;border-radius:50%;border:2px solid var(--lilac)}
 @media(max-width:860px){.hero-grid{grid-template-columns:1fr}.hero-photo{display:none}.hero-top .avatar-sm{display:block}}
-.acc{background:#fff;border-radius:10px;margin:12px 0;padding:0;box-shadow:0 2px 14px rgba(0,0,0,.05)}
-.acc summary{padding:20px 24px;font-family:Ruda,Poppins,sans-serif;font-size:1.1rem;font-weight:800}
+.acc{background:#fff;border-radius:10px;margin:12px 0;padding:0;max-width:860px;box-shadow:0 2px 14px rgba(0,0,0,.05)}
+.acc summary{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:20px 24px;font-family:Ruda,Poppins,sans-serif;font-size:1.1rem;font-weight:800}
+.acc .acc-t{flex:1;min-width:0}
 .acc .acc-body{padding:0 24px 22px}
 .acc ul{margin:.4em 0 0 1.1em}
 .acc li{margin:.35em 0}
@@ -182,7 +184,9 @@ footer a{color:#D9D5D5}
 .stack .seal{flex:0 0 84px;height:84px;font-size:.8rem}
 .stack .seal b{font-size:1.6rem}
 .stack .fine{text-align:center;color:var(--muted);font-size:.85rem;margin-top:10px}
-.scope-h{margin-top:56px}
+.scope-h{margin-top:clamp(40px,6vw,56px)}
+.diff .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(max-width:640px){.diff .grid{grid-template-columns:1fr}}
 </style>
 <div class="bfbar">BLACK FRIDAY até 07/12 · 12x de R$ 197 ou R$ 1.970 à vista · <a href="#inscricao">ver condição</a></div>
 
@@ -262,26 +266,26 @@ footer a{color:#D9D5D5}
     <div class="eyebrow">Conteúdo programático</div>
     <h2>Uma progressão em três níveis</h2>
     <p class="muted">Carga horária por nível: <span class="ph">[informar]</span></p>
-    <details class="acc"><summary>01 · Fundamentos</summary><div class="acc-body"><ul>
+    <details class="acc"><summary><span class="acc-t">01 · Fundamentos</span></summary><div class="acc-body"><ul>
       <li><strong>Aula Magna:</strong> sistema nervoso simpático e parassimpático</li>
       <li>Níveis de sedação e o <em>continuum</em> sedação–anestesia</li>
       <li>Avaliação pré-sedação: anamnese, classificação ASA, via aérea</li>
       <li>Enquadramento normativo: Resolução CFO <span class="ph">295/2026</span> e limites de atuação</li>
     </ul></div></details>
-    <details class="acc"><summary>02 · Farmacologia aplicada</summary><div class="acc-body"><ul>
+    <details class="acc"><summary><span class="acc-t">02 · Farmacologia aplicada</span></summary><div class="acc-body"><ul>
       <li>Farmacocinética e farmacodinâmica dos agentes de uso em odontologia</li>
       <li>Benzodiazepínicos, óxido nitroso, anti-histamínicos e antipsicóticos</li>
       <li>Vias de administração: oral, sublingual, intranasal, inalatória</li>
       <li>Sinergismo, interações medicamentosas e titulação</li>
     </ul></div></details>
-    <details class="acc"><summary>03 · Estratégia e segurança <span class="sub">Cinco workshops: onde o fundamento se transforma em conduta</span></summary><div class="acc-body"><ul>
+    <details class="acc"><summary><span class="acc-t">03 · Estratégia e segurança<span class="sub">Cinco workshops: onde o fundamento se transforma em conduta</span></span></summary><div class="acc-body"><ul>
       <li><strong>Prescrição e URM:</strong> fármaco apropriado à necessidade clínica, em dose e por período adequados; requisitos legais da receita odontológica.</li>
       <li><strong>Cálculo de doses:</strong> por peso e por superfície corporal, doses máximas, ajustes em populações especiais e conversão de concentrações.</li>
       <li><strong>Comunicação:</strong> com o paciente e a família na indicação da sedação, no consentimento informado e nas orientações pré e pós-operatórias; com a equipe.</li>
       <li><strong>Segurança:</strong> cultura de segurança aplicada ao consultório: protocolos, checklists, preparo para intercorrências e registro.</li>
       <li><strong>Planejamento:</strong> do diagnóstico ao plano de sedação: seleção do paciente, organização da sessão, estrutura física, equipe e documentação.</li>
     </ul><p class="muted" style="margin-top:10px"><span class="ph">[validar o conteúdo e a carga horária de cada workshop]</span></p></div></details>
-    <details class="acc"><summary>Incluso <span class="sub">Materiais e bônus</span></summary><div class="acc-body"><ul>
+    <details class="acc"><summary><span class="acc-t">Incluso<span class="sub">Materiais e bônus</span></span></summary><div class="acc-body"><ul>
       <li><strong>N2O: o fármaco titulável · 4h.</strong> Óxido nitroso e oxigênio: farmacologia, titulação e segurança da técnica inalatória.</li>
       <li><strong>RDC 1.002/2025 comentada.</strong> A norma sanitária aplicada ao consultório, artigo a artigo.</li>
       <li><strong>Bônus Black Friday, até 07/12: Emergências Médicas · 8h online.</strong> Conteúdo teórico de reconhecimento e conduta inicial nas intercorrências mais prevalentes no atendimento odontológico. Não corresponde à certificação em SBV nem ao SAVO, que são formações à parte, com prática presencial.</li>

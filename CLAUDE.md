@@ -76,6 +76,13 @@
   Fechamento); texto −20%; **um só texto de botão** ("Quero me inscrever");
   **foto da Profa. Carla** (assets/carla-gamba.jpg, embutida) no hero e em Quem
   conduz. Cópia de segurança do estado anterior fora do repositório.
+- **Espaçamento da página multimodal (12/11/2026, skill artifact-design):**
+  ritmo único (seções `clamp(56px,8vw,88px)`, grades e cartões com `clamp`),
+  medida de leitura 68ch, `text-wrap: balance/pretty`, bloco "Critério" em 2×2
+  com o mesmo estilo de cartão das demais seções (sem barra lateral), acordeão
+  com título e "+" alinhados. A Carla lembra de uma skill de tipografia/interface
+  que "começa com ok": **não existe na conta** (21 skills ativas conferidas);
+  usadas `artifact-design` (sessão) e, se preciso, `theme-factory`.
 - **Depoimentos para a página multimodal:** a Carla decidiu que **valem
   depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
   Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e
