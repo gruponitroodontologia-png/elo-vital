@@ -131,6 +131,10 @@
   (decisão da Carla). **CFO 295/2026 confirmada** pela Carla; sem citar artigo
   específico. Pendentes de página: checkout, garantia (texto), 4 itens de FAQ e a
   validação dos workshops/mentoria.
+- **Garantia (12/11/2026):** 7 dias a partir da compra, sem justificar, reembolso
+  integral (mínimo legal do art. 49 do CDC; a Carla achou longo, mas **não pode ser
+  menor**). Proteção legítima: liberação progressiva das etapas e liberar o acesso
+  logo após a compra (a contagem começa na liberação).
 - **Depoimentos para a página multimodal:** a Carla decidiu que **valem
   depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
   Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e
