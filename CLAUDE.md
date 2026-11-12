@@ -74,6 +74,23 @@
   primeira turma no Brasil"* e **26 anos ensinando sedação inclusiva**. Usado
   no hero, nos números e no corpo docente da página multimodal; é o contra-
   argumento aos ~20 anos da concorrente.
+- **Fatos confirmados pela Carla (12/11/2026):** habilitou a **primeira turma
+  do Brasil em 2000**; em **2004** o Grupo participou da construção da
+  **Resolução CFO 51/2004** (sedação por via inalatória/N2O; publicada em
+  30/04/2004 — conferida em fonte; um site de legislação indica revogação
+  pela CFO 295/2026, **não confirmado**, não afirmar vigência).
+- **Tese de marca (anti-marketing sem anti-ciência):** *"Quem não faz ciência
+  vende certeza; nós vendemos dúvida calibrada"* — palestra do 6º EBSO
+  ("Sedação é Inclusão"): filosofia provoca, ciência sustenta com o limite à
+  vista; *"A dúvida não paralisa: ela define a dimensão do caminhar."*
+  Slides e roteiro estão no Drive (Roteiro da Palestra; PDF dos slides).
+- **Alfabetização × letramento em sedação** (Magda Soares, 1932–2023;
+  alfabetização = domínio do sistema; letramento = uso nas práticas sociais;
+  processos indissociáveis): enquadramento para a Aula #11 (3 aulas de via
+  aérea) e para a conversa com os 40 da Lista VIP. Definições conferidas em
+  fontes secundárias, não nos livros originais.
+- Mensagem fixa do grupo de WhatsApp (320) e vídeos de 20 s para os 40: ver
+  rascunhos desta sessão; **conteúdo clínico só vai ao ar com validação da Carla**.
 
 ## Formulário de captura de leads → Supabase
 - Seção após o FAQ: "Ficou interessado? Deixe seu contato." Campos: **Nome e
