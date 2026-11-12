@@ -5,30 +5,31 @@ DESCRIÇÃO (copiar tudo abaixo desta linha)
 ----------------------------------------------------------------
 Via aérea só na sedação? Não. Nesta aula, a Profa. Carla Gamba parte de um atendimento clínico real para mostrar o efeito dominó que começa num sinal vital não aferido e chega à via aérea: estresse, uso irracional de anestésico local, variação hemodinâmica, obstrução por corpo estranho e deterioração clínica. Nenhuma dessas peças é sedação. Todas estão na rotina clínica de toda a Odontologia.
 
-Esta é a primeira aula da série Via aérea na rotina de toda a Odontologia, a alfabetização em cultura de segurança do Projeto Cultura de Segurança.
+Primeira aula da série Via aérea na rotina de toda a Odontologia.
 
 MATERIAL E PRÓXIMOS PASSOS
 ▶ SAVO · Suporte Avançado de Vida para a Odontologia: https://savo.gruponitro.com.br
 ▶ Trilha 295 · complementação para a Habilitação Básica em Sedação: https://gruponitrosedacao.com.br/trilha295
-▶ Fale com a nossa equipe no WhatsApp: (21) 93500-3307
+▶ WhatsApp: (21) 93500-3307
 Nenhum curso habilita, inclusive o nosso. O curso entrega o certificado com a carga horária; quem avalia e decide é o Conselho.
 
 SÉRIE VIA AÉREA NA ROTINA DE TODA A ODONTOLOGIA
-#11 · 12/11 · Reconhecer o risco
+#11 · 12/11 · Reconhecer o risco (esta aula)
 #12 · 19/11 · Prevenir: avaliar e monitorizar ventilação, oxigenação e perfusão
 #13 · 26/11 · Reconhecer, manejar e resgatar
 Quintas-feiras, às 11h11, aqui no canal.
+▶ Aula anterior · #10 · Sedação em 2027: critérios e custo-benefício: [ LINK DA AULA 10 ]
 
-CAPÍTULOS DA AULA (conferir os tempos depois da edição)
-00:00 - Olho no olho: um atendimento, o estetoscópio pré-traqueal e a alfabetização em cultura de segurança
+CAPÍTULOS DA AULA
+00:00 - Olho no olho: o estetoscópio pré-traqueal e a alfabetização em segurança
 03:00 - Apresentação
 03:40 - O efeito dominó
 05:00 - Peça 1: sinais vitais e estresse
-06:15 - Peça 2: uso irracional de anestésico local e a dose máxima do sal anestésico
-08:15 - O cenário clínico: qual é a sua alternativa?
-09:30 - Peça 3: síncope vasovagal ou sobredosagem de anestésico local?
-11:00 - Peça 4: a obstrução da via aérea em toda a Odontologia
-12:15 - Ortodontia, e ingestão ou aspiração?
+06:15 - Peça 2: anestésico local e dose máxima
+08:15 - O cenário clínico
+09:30 - Peça 3: síncope vasovagal ou sobredosagem?
+11:00 - Peça 4: obstrução da via aérea
+12:15 - Ortodontia: ingestão ou aspiração?
 14:15 - Peça 5: deterioração clínica
 15:30 - O que sabemos, de verdade
 16:30 - Red flag: a norma confirma a literatura
@@ -37,66 +38,62 @@ CAPÍTULOS DA AULA (conferir os tempos depois da edição)
 19:25 - A nova premissa clínica
 
 SOBRE O GRUPO NITRO E O PROJETO CULTURA DE SEGURANÇA
-O Grupo Nitro ensina há 26 anos sedação e inclusão, com segurança e conforto. O Projeto Cultura de Segurança amplia esse olhar para toda a Odontologia, com aulas gratuitas e abertas sobre gerenciamento de risco e segurança do paciente, à luz da RDC 1002/2025 e da Resolução CFO 295/2026.
-Aulas novas toda quinta-feira, às 11h11.
+O Grupo Nitro ensina há 26 anos sedação e inclusão, com segurança e conforto. O Projeto Cultura de Segurança amplia esse olhar para toda a Odontologia: aulas gratuitas sobre gerenciamento de risco e segurança do paciente, à luz da RDC 1002/2025 e da Resolução CFO 295/2026.
 ▶ Inscreva-se para não perder nenhuma aula: [ LINK DO CANAL ]?sub_confirmation=1
 
 NOSSOS CANAIS
 Instagram: @gruponitro.sedacao
 Site oficial: gruponitrosedacao.com.br
 
-SOBRE ESTE VÍDEO
-Nesta aula do Projeto Cultura de Segurança, a Profa. Carla Gamba, MSc, discute a via aérea como competência de toda a Odontologia. A aula percorre a avaliação dos sinais vitais e do estresse, a dose máxima de anestésico local no paciente ASA II (sal anestésico e adrenalina), o diagnóstico diferencial entre síncope vasovagal e sobredosagem de anestésico local, a aspiração e a ingestão de corpo estranho na prótese, na endodontia, na implantodontia e na ortodontia, a deterioração clínica e a ausência de protocolos de emergência nos consultórios. A Resolução CFO 295/2026 estabelece que o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar.
-
 REFERÊNCIAS
-Kishimoto et al. Jpn Dent Sci Rev. 2023. doi:10.1016/j.jdsr.2023.02.004
-Zouaidi et al. Clin Oral Investig. 2024. doi:10.1007/s00784-024-05996-6
-Boriosi JP et al. Paediatr Anaesth. 2019;29(6):604-610. doi:10.1111/pan.13616
-Somri M et al. J Clin Pediatr Dent. 2017. doi:10.17796/1053-4628-41.2.154
-Manton et al. Anesth Prog. 2021. doi:10.2344/anpr-67-04-04
-Stafuzza TC et al. Braz Oral Res. 2014. doi:10.1590/1807-3107bor-2014.vol28.0029
-Arsati et al. J Dent Educ. 2010. PMID 20516306
-Soares M. Letramento: um tema em três gêneros. Belo Horizonte: Autêntica; 1998.
-Atherton GJ et al. Br Dent J. 1999. doi:10.1038/sj.bdj.4800023
-Fukayama H, Yagiela JA. Int Dent J. 2006. doi:10.1111/j.1875-595x.2006.tb00081.x
-Taggart P et al. Br Med J. 1976. doi:10.1136/bmj.2.6039.787
-Cioffi GA et al. J Am Dent Assoc. 1985. doi:10.14219/jada.archive.1985.0038
-Niwa H et al. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2000. doi:10.1067/moe.2000.107534
-Cannell H. Br Dent J. 1996. doi:10.1038/sj.bdj.4809223
-Ucer C et al. Dent J (Basel). 2026. doi:10.3390/dj14070457
-Hashemi SH et al. Glob J Health Sci. 2016. doi:10.5539/gjhs.v8n10p227
-Seminario-Amez M et al. J Evid Based Dent Pract. 2021. doi:10.1016/j.jebdp.2021.101569
-Guimaraes CC et al. BMJ Open. 2021. doi:10.1136/bmjopen-2020-044357
-Laragnoit AB et al. Clinics (São Paulo). 2009. doi:10.1590/s1807-59322009000300005
-Chin KL et al. J Calif Dent Assoc. 2003. PMID 14626871
-Su N et al. Int Dent J. 2014. doi:10.1111/idj.12087
-Dionne RA et al. Anesth Analg. 1984. PMID 6731889
-Otero J et al. J Clin Exp Dent. 2025. doi:10.4317/jced.62888
-Christensen SA, Shipp EM. J Dent Anesth Pain Med. 2026. doi:10.17245/jdapm.2026.26.031
-Yamashita et al. Front Physiol. 2025. doi:10.3389/fphys.2025.1607816
-Rhee SH et al. J Dent Anesth Pain Med. 2019. doi:10.17245/jdapm.2019.19.4.181
-Tiwana KK et al. J Am Dent Assoc. 2004. doi:10.14219/jada.archive.2004.0404
-Susini G et al. Int Endod J. 2007. doi:10.1111/j.1365-2591.2007.01249.x
-Araujo SCS et al. J Stomatol Oral Maxillofac Surg. 2021. doi:10.1016/j.jormas.2021.10.009
-Hisanaga R et al. Bull Tokyo Dent Coll. 2014. doi:10.2209/tdcpublication.55.55
-Hou R et al. Head Face Med. 2016;12:23.
-Varho R et al. Acta Odontol Scand. 2015. doi:10.3109/00016357.2014.971867
-Karamani I et al. J Orthod Sci. 2022.
-Velapati S et al. J Bronchology Interv Pulmonol. 2026. doi:10.1097/LBR.0000000000001072
-Xie F et al. Medicine (Baltimore). 2026. doi:10.1097/MD.0000000000047237
-Grabie Y et al. HCA Healthc J Med. 2025. doi:10.36518/2689-0216.1876
-Müller MP et al. Emerg Med J. 2008. doi:10.1136/emj.2007.052936
-Tokede et al. J Patient Saf. 2024. doi:10.1097/PTS.0000000000001255
-Lo et al. J Am Dent Assoc. 2025. doi:10.1016/j.adaj.2025.07.017
-Khattak O et al. PeerJ. 2026. doi:10.7717/peerj.21098
-Shaath H et al. Eur J Dent. 2023. doi:10.1055/s-0042-1755628
-de Aquino et al. Eur J Dent Educ. 2026. doi:10.1111/eje.70151
-El-Ganzouri AR et al. Anesth Analg. 1996. doi:10.1097/00000539-199606000-00017
-Chung F, Abdullah HR, Liao P. Chest. 2016;149(3):631-638.
-Holliday R et al. J Dent. 2021. doi:10.1016/j.jdent.2020.103565
-Graetz C et al. Clin Oral Investig. 2022. doi:10.1007/s00784-022-04525-7
-Koch M, Graetz C. PLoS One. 2021. doi:10.1371/journal.pone.0257137
-ANVISA. Resolução da Diretoria Colegiada RDC nº 1.002, de 15 de dezembro de 2025.
-Conselho Federal de Odontologia. Resolução CFO nº 295/2026: website.cfo.org.br
+Kishimoto et al, 2023. doi:10.1016/j.jdsr.2023.02.004
+Zouaidi et al, 2024. doi:10.1007/s00784-024-05996-6
+Boriosi JP et al, 2019. doi:10.1111/pan.13616
+Somri M et al, 2017. doi:10.17796/1053-4628-41.2.154
+Manton et al, 2021. doi:10.2344/anpr-67-04-04
+Stafuzza TC et al, 2014. doi:10.1590/1807-3107bor-2014.vol28.0029
+Arsati et al, 2010. PMID 20516306
+Soares M. Letramento: um tema em três gêneros. Autêntica, 1998.
+Atherton GJ et al, 1999. doi:10.1038/sj.bdj.4800023
+Fukayama H, Yagiela JA, 2006. doi:10.1111/j.1875-595x.2006.tb00081.x
+Taggart P et al, 1976. doi:10.1136/bmj.2.6039.787
+Cioffi GA et al, 1985. doi:10.14219/jada.archive.1985.0038
+Niwa H et al, 2000. doi:10.1067/moe.2000.107534
+Cannell H, 1996. doi:10.1038/sj.bdj.4809223
+Ucer C et al, 2026. doi:10.3390/dj14070457
+Hashemi SH et al, 2016. doi:10.5539/gjhs.v8n10p227
+Seminario-Amez M et al, 2021. doi:10.1016/j.jebdp.2021.101569
+Guimaraes CC et al, 2021. doi:10.1136/bmjopen-2020-044357
+Laragnoit AB et al, 2009. doi:10.1590/s1807-59322009000300005
+Chin KL et al, 2003. PMID 14626871
+Su N et al, 2014. doi:10.1111/idj.12087
+Dionne RA et al, 1984. PMID 6731889
+Otero J et al, 2025. doi:10.4317/jced.62888
+Christensen SA, Shipp EM, 2026. doi:10.17245/jdapm.2026.26.031
+Yamashita et al, 2025. doi:10.3389/fphys.2025.1607816
+Rhee SH et al, 2019. doi:10.17245/jdapm.2019.19.4.181
+Tiwana KK et al, 2004. doi:10.14219/jada.archive.2004.0404
+Susini G et al, 2007. doi:10.1111/j.1365-2591.2007.01249.x
+Araujo SCS et al, 2021. doi:10.1016/j.jormas.2021.10.009
+Hisanaga R et al, 2014. doi:10.2209/tdcpublication.55.55
+Hou R et al, 2016. Head Face Med 12:23
+Varho R et al, 2015. doi:10.3109/00016357.2014.971867
+Karamani I et al, 2022. J Orthod Sci
+Velapati S et al, 2026. doi:10.1097/LBR.0000000000001072
+Xie F et al, 2026. doi:10.1097/MD.0000000000047237
+Grabie Y et al, 2025. doi:10.36518/2689-0216.1876
+Müller MP et al, 2008. doi:10.1136/emj.2007.052936
+Tokede et al, 2024. doi:10.1097/PTS.0000000000001255
+Lo et al, 2025. doi:10.1016/j.adaj.2025.07.017
+Khattak O et al, 2026. doi:10.7717/peerj.21098
+Shaath H et al, 2023. doi:10.1055/s-0042-1755628
+de Aquino et al, 2026. doi:10.1111/eje.70151
+El-Ganzouri AR et al, 1996. doi:10.1097/00000539-199606000-00017
+Chung F et al, 2016. Chest 149:631
+Holliday R et al, 2021. doi:10.1016/j.jdent.2020.103565
+Graetz C et al, 2022. doi:10.1007/s00784-022-04525-7
+Koch M, Graetz C, 2021. doi:10.1371/journal.pone.0257137
+ANVISA. RDC nº 1.002/2025.
+CFO. Resolução nº 295/2026.
 
 #CulturaDeSegurança #ViaAérea #Odontologia #SegurançaDoPaciente #SAVO #SBV #SedaçãoEmOdontologia
