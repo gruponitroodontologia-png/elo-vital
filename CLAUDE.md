@@ -135,6 +135,12 @@
   integral (mínimo legal do art. 49 do CDC; a Carla achou longo, mas **não pode ser
   menor**). Proteção legítima: liberação progressiva das etapas e liberar o acesso
   logo após a compra (a contagem começa na liberação).
+- **Decisões da Carla, FAQ e programa (12/11/2026):** sem checar carga horária
+  detalhada dos workshops (aviso removido); mentoria de 1h **online, agendamento em
+  até 6 meses**; **sem pré-requisitos**; dúvidas pelo **WhatsApp do Grupo Nitro**
+  ((21) 93500-3307); acesso de 12 meses **contado da compra**; **auxiliares e
+  técnicos não podem se inscrever** (exclusivo para cirurgiões-dentistas). Página
+  sem nenhum trecho amarelo; falta só o **link de checkout** (`data-todo`).
 - **Depoimentos para a página multimodal:** a Carla decidiu que **valem
   depoimentos de cursos online; presenciais não**. Existe a pasta "Depoimentos
   Estratégia Multimodal" (só 1 vídeo, Ana Paula, 2022), Lab Nitro, e
