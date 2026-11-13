@@ -59,7 +59,7 @@
 - Curso 100% online gravado, 46h, 12 meses de acesso. Artifact (prévia):
   https://claude.ai/artifact/46ToVGfgvDErju9tTR8dYt · cópia da fonte em
   `multimodal/index.html` (atualizar a cópia a cada republicação).
-- Black Friday até 10/12: **12× R$ 197 ou R$ 1.970** à vista (regular R$ 2.970)
+- Black Friday até 07/12: **12× R$ 197 ou R$ 1.970** à vista (regular R$ 2.970)
   + bônus Emergências Médicas 8h (teórico) + mentoria 1h para os 5 primeiros.
 - Posicionamento: *"Não é mais um curso de sedação. É o raciocínio
   farmacológico que decide a sedação."* Seção "Critério, não receita".
@@ -192,7 +192,7 @@
   295 (quem já tem sedação na rotina). Fonte: "Aula #11 · Campanha da semana",
   no Drive. A Lista VIP da Trilha 295 (live de 05/11) provavelmente é a origem
   dos "40" — a Black Friday da Trilha vai até 16/11; a do curso multimodal, até
-  10/12 (não mandar duas ofertas concorrentes à mesma pessoa).
+  07/12 (não mandar duas ofertas concorrentes à mesma pessoa).
 - Mensagem fixa do grupo de WhatsApp (320): trocar "decisão clínica por semana"
   por "conteúdos selecionados" + aulas gratuitas do Projeto Cultura de Segurança.
 - Mensagem fixa do grupo de WhatsApp (320) e vídeos de 20 s para os 40: ver
@@ -215,7 +215,7 @@
   **16/11**; bônus até 27/11; matrícula até 30/11; vagas: 12 mentoria / 8
   imersão / 20 SAVO. Enquadramento do valor: **"Os três caminhos"** + **Plano
   Odisseia** (Recursos, Atratividade, Confiança, Coerência). **Não misturar**
-  com a oferta do curso multimodal (até 10/12).
+  com a oferta do curso multimodal (até 07/12).
 - **Toque 1 para os 40 (decidido com a Carla, 12/11/2026):** vídeo de 30 s que
   abre com *"Dr(a). [Nome], aqui é a professora Carla Gamba. Você está na Lista
   VIP da Trilha 295"* + **enquete de um toque no próprio WhatsApp** (os três
