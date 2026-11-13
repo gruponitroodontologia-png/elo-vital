@@ -193,6 +193,11 @@
   no Drive. A Lista VIP da Trilha 295 (live de 05/11) provavelmente é a origem
   dos "40" — a Black Friday da Trilha vai até 16/11; a do curso multimodal, até
   07/12 (não mandar duas ofertas concorrentes à mesma pessoa).
+- **Reels Fundamentos + Trilha 295 (13/11/2026):** roteiro de ~80 s (talking-head) no Drive,
+  pasta TRILHA 295: "Reels: Fundamentos e Trilha 295 (prompt de leitura)". Gancho: criança de
+  8 anos que não aceita nem a máscara; "o óxido nitroso continua precioso, só precisa deixar
+  de estar sozinho"; fecho "Apto no papel. Apto no mocho." Dois prazos separados: Trilha até
+  16/11; Fundamentos até 07/12. Sem preço, sem condição VIP, sem prazo da CFO.
 - Mensagem fixa do grupo de WhatsApp (320): trocar "decisão clínica por semana"
   por "conteúdos selecionados" + aulas gratuitas do Projeto Cultura de Segurança.
 - Mensagem fixa do grupo de WhatsApp (320) e vídeos de 20 s para os 40: ver
