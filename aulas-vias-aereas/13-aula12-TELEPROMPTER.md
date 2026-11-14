@@ -1,189 +1,189 @@
 # TELEPROMPTER · Aula #12 — Prevenir: avaliar e monitorizar ventilação, oxigenação e perfusão
 
 Projeto Cultura de Segurança · quinta, 19/11/2026, 11h11 · duração-alvo: até 20 min
-Rascunho para validação da Profa. Carla Gamba · literatura do Dossiê 02 (conferida no PubMed)
+Versão em registro técnico-científico (14/11/2026) · para validação da Profa. Carla Gamba · literatura conferida no PubMed
 
 ## 0 · Olho no olho — câmera aberta, sem slide (00:00–01:30)
 
-Bom dia. Na Aula #11, montamos juntos um dominó de cinco peças e chegamos a uma premissa: a via aérea é competência de toda a Odontologia. O link está na descrição.
+Bom dia. Na Aula #11, demonstramos que a cadeia de eventos que compromete a via aérea se inicia muito antes de qualquer sedação: na aferição dos sinais vitais, na resposta ao estresse, na dose do anestésico local. Concluímos que a via aérea é competência de toda a Odontologia. O link está na descrição.
 
-E eu terminei aquela aula com uma pergunta: se o risco existe em toda consulta, o que você avalia antes de abrir a boca do paciente?
+E encerramos com uma questão: se o risco está presente em todo atendimento, qual avaliação precede a abertura da boca do paciente?
 
 (pausa)
 
-Pense no seu último paciente. Você sabe se ele ronca? Se alguém já o viu parar de respirar durante o sono? Se, deitado na cadeira reclinada, a língua dele cai sobre a orofaringe?
+Considere o seu último paciente. Você conhece o padrão respiratório dele durante o sono? Há relato de ronco, de apneia testemunhada? Em decúbito, na cadeira reclinada, a base da língua se desloca posteriormente sobre a orofaringe?
 
-Lonia e colaboradores, em 2020, deram um nome ao cirurgião-dentista que faz essas perguntas: sentinela epidemiológica.
+Lonia e colaboradores, em 2020, atribuíram ao cirurgião-dentista que formula essas perguntas uma função precisa: sentinela epidemiológica.
 
-Na semana passada, falamos de alfabetização: verificar sinais vitais, reconhecer uma pausa. Esse é o alfabeto da Odontologia. Hoje, damos o passo seguinte do letramento: ler o paciente antes que o risco se instale.
+Na aula anterior, tratamos da alfabetização: aferir sinais vitais, reconhecer uma pausa respiratória. Hoje avançamos uma camada do letramento: a avaliação sistematizada do paciente antes que o risco se estabeleça.
 
-Prevenir começa na anamnese. E leva dois minutos.
+A prevenção começa na anamnese. E demanda cerca de dois minutos.
 
 ## 1 · Capa (01:30–01:45)
 
 [Slide 1 — Capa]
 
-Esta é a Aula #12 do Projeto Cultura de Segurança: prevenir. Avaliar e monitorizar ventilação, oxigenação e perfusão.
+Aula #12 do Projeto Cultura de Segurança: prevenir. Avaliação e monitorização da ventilação, da oxigenação e da perfusão.
 
 ## 2 · Apresentadora (01:45–02:00)
 
 [Slide 2 — Apresentadora]
 
-Eu sou a Profa. Carla Gamba, cirurgiã-dentista, mestre, cofundadora do Grupo Nitro e membro fundadora da SOBRASO.
+Sou a Profa. Carla Gamba, cirurgiã-dentista, mestre, cofundadora do Grupo Nitro e membro fundadora da SOBRASO.
 
 ## 3 · Ventilação, oxigenação e perfusão (02:00–04:30)
 
 [Slide 3 — Ventilação, oxigenação e perfusão]
 
-Três palavras sustentam a vida de qualquer paciente na cadeira, sob sedação ou não.
+Três processos fisiológicos sustentam a homeostase de qualquer paciente na cadeira, sob sedação ou sob anestesia local exclusiva.
 
-Ventilação é o ar que entra e sai. Oxigenação é o oxigênio que chega ao sangue. Perfusão é o sangue que leva esse oxigênio aos tecidos.
+Ventilação é a mobilização de gás entre a atmosfera e os alvéolos. Oxigenação é a transferência do oxigênio alveolar para o sangue arterial. Perfusão é o aporte desse sangue oxigenado aos tecidos.
 
-E elas falham em sequência. Primeiro a via aérea se estreita: um ronco. Depois o ar deixa de passar: uma pausa, um silêncio. Só então a saturação cai. Por isso o oxímetro é um monitor tardio para a ventilação.
-
-(pausa)
-
-Fukayama e Yagiela, em 2006, organizaram os recursos de monitorização no consultório por ordem de importância. O primeiro não é um aparelho. É o profissional responsável. Depois vêm a pressão arterial, a oximetria, o eletrocardiograma e o estetoscópio pré-traqueal ou a capnografia.
-
-E os autores explicam por quê: a monitorização revela tendências deletérias graduais, reversíveis antes da emergência.
-
-O primeiro monitor é a equipe. E uma equipe atenta começa antes do procedimento.
-
-## 4 · Os ruídos que precisamos conhecer (04:30–07:00)
-
-[Slide 4 — Os ruídos da respiração]
-
-Antes de qualquer número no monitor, a via aérea fala. E cada ruído aponta um nível e uma causa.
-
-Bohadana e colaboradores, no New England Journal of Medicine, em 2014, e a força-tarefa da Sociedade Europeia de Respiração, com Pasterkamp e colaboradores, em 2016, organizaram essa linguagem. Vamos a ela, de cima para baixo.
-
-O ronco. Grave, áspero. É a obstrução parcial acima da laringe: língua e palato mole relaxados sobre a orofaringe. A conduta é reposicionar: elevar o mento, anteriorizar a mandíbula.
-
-O gorgolejo. Um ruído borbulhante, úmido. É líquido na faringe: saliva, sangue, a água do spray. A conduta é aspirar.
-
-O estridor. Agudo, durante a inspiração. É o ar passando por uma laringe estreitada: um laringoespasmo parcial, um corpo estranho, um edema. Sibert e colaboradores, em 2020, revisaram as causas da obstrução aguda da via aérea superior, e o laringoespasmo está entre elas.
-
-O sibilo. Musical, mais longo na expiração. Já não está na via aérea superior: são os brônquios se fechando. Broncoespasmo, no paciente asmático ou na reação alérgica.
+A falência obedece a uma sequência. Primeiro, o estreitamento da via aérea superior, que se manifesta como ruído. Em seguida, a redução ou a interrupção do fluxo aéreo: hipoventilação, apneia. Só então se instala a dessaturação. Por isso, a oximetria de pulso é um indicador tardio da falência ventilatória, sobretudo no paciente que recebe oxigênio suplementar.
 
 (pausa)
 
-E o último. O mais grave de todos.
+Fukayama e Yagiela, em 2006, hierarquizaram os recursos de monitorização no consultório. O primeiro não é um equipamento: é o profissional responsável. Seguem-se a pressão arterial, a oximetria de pulso, o eletrocardiograma e o estetoscópio pré-traqueal ou a capnografia.
+
+E justificam: a monitorização revela tendências deletérias graduais, ainda reversíveis, antes que se configure a emergência.
+
+O primeiro monitor é a equipe. E a monitorização começa antes do procedimento.
+
+## 4 · Os ruídos respiratórios que precisamos reconhecer (04:30–07:00)
+
+[Slide 4 — Os ruídos respiratórios]
+
+Antes de qualquer parâmetro numérico, a via aérea se expressa acusticamente. Cada ruído indica um nível anatômico e um mecanismo.
+
+Bohadana e colaboradores, no New England Journal of Medicine, em 2014, e a força-tarefa da European Respiratory Society, com Pasterkamp e colaboradores, em 2016, sistematizaram essa nomenclatura. Percorramos a via aérea em sentido craniocaudal.
+
+O ronco: ruído de baixa frequência, de timbre áspero. Traduz obstrução parcial supraglótica, por colapso de tecidos moles, sobretudo base da língua e palato mole, sobre a orofaringe. A conduta é o reposicionamento: elevação do mento e anteriorização da mandíbula.
+
+O gorgolejo: ruído borbulhante, de caráter úmido. Indica conteúdo líquido na faringe: saliva, sangue, água de refrigeração. A conduta é a aspiração.
+
+O estridor: ruído agudo, de alta frequência, predominantemente inspiratório. Corresponde ao fluxo turbulento através de uma laringe estreitada: laringoespasmo parcial, corpo estranho, edema. Sibert e colaboradores, em 2020, revisaram as causas da obstrução aguda da via aérea superior, e o laringoespasmo figura entre elas.
+
+O sibilo: ruído contínuo, de timbre musical, predominantemente expiratório. A obstrução já não é supraglótica: é a redução do calibre brônquico. Broncoespasmo, no paciente asmático ou na reação anafilática.
+
+(pausa)
+
+E, por fim, o sinal de maior gravidade.
 
 O silêncio.
 
-Se o tórax afunda enquanto o abdome sobe, há esforço sem passagem de ar: a obstrução é total. Um laringoespasmo completo, que Rasheed e colaboradores, em 2024, descrevem como potencialmente fatal. Ou um corpo estranho. Se não há esforço algum, é depressão respiratória.
+Se há retração torácica com expansão abdominal, a chamada respiração paradoxal, existe esforço sem fluxo: a obstrução é completa. Um laringoespasmo total, que Rasheed e colaboradores, em 2024, definem como fechamento sustentado da via aérea, potencialmente fatal. Ou um corpo estranho. Se não há esforço respiratório, trata-se de depressão respiratória central.
 
-Por isso o estetoscópio pré-traqueal percebe o evento antes do oxímetro. E por isso conhecer esses ruídos é parte do alfabeto da Odontologia.
+Por isso o estetoscópio pré-traqueal detecta o evento antes do oxímetro. Boriosi e colaboradores, em 2019, demonstraram que ele foi o primeiro monitor a identificar o evento adverso em 64% dos casos.
 
 ## 5 · O sono como sinal clínico: STOP-Bang (07:00–09:30)
 
 [Slide 5 — STOP-Bang]
 
-O STOP-Bang são oito perguntas de sim ou não, e cabem na anamnese.
+O STOP-Bang é um instrumento de triagem com oito itens dicotômicos, integrável à anamnese.
 
-Ronco alto. Cansaço durante o dia. Alguém observou o paciente parar de respirar. Pressão alta. Índice de massa corporal acima de 35. Idade acima de 50 anos. Pescoço com circunferência acima de 40 centímetros. Sexo masculino.
+Ronco intenso. Sonolência diurna. Apneia testemunhada. Hipertensão arterial. Índice de massa corporal superior a 35. Idade acima de 50 anos. Circunferência cervical superior a 40 centímetros. Sexo masculino.
 
-Cada sim vale um ponto. De zero a dois, baixo risco. De três a quatro, risco intermediário. De cinco a oito, alto risco de apneia moderada a grave. Chung e colaboradores, em 2016, mostraram que, a partir de três pontos, o questionário identifica 93% das apneias moderadas a graves e 100% das graves.
-
-(pausa)
-
-E esse paciente está na nossa cadeira. Lonia e colaboradores avaliaram mil pacientes em clínicas odontológicas na Itália: 48% tinham escore de três ou mais. Entre os que fizeram o exame do sono, 79% confirmaram a apneia.
-
-Agora, o dado que mais me incomoda. Guess e colaboradores, em 2021, analisaram mais de 21 mil pacientes numa clínica-escola americana. Encontraram 398 pacientes de alto risco, sem nenhum diagnóstico prévio.
-
-Nenhum desses 398 foi encaminhado.
+Cada resposta afirmativa soma um ponto. Zero a dois: baixo risco. Três a quatro: risco intermediário. Cinco a oito: alto risco de apneia obstrutiva moderada a grave. Chung e colaboradores, em 2016, demonstraram que, a partir de três pontos, a sensibilidade é de 93% para apneia moderada a grave e de 100% para apneia grave.
 
 (pausa)
 
-O questionário estava na ficha. O que faltou foi o conhecimento para agir.
+E essa população está na cadeira odontológica. Lonia e colaboradores avaliaram mil pacientes em clínicas odontológicas italianas: 48% apresentaram escore igual ou superior a três. Entre os submetidos à poligrafia, 79% tiveram o diagnóstico confirmado.
 
-E é importante dizer qual é o nosso papel. A diretriz da Academia Americana de Medicina do Sono, de Kapur e colaboradores, 2017, é clara: questionário não diagnostica apneia. Quem diagnostica é a polissonografia. O cirurgião-dentista tria, ajusta a conduta e encaminha.
+Guess e colaboradores, em 2021, analisaram mais de 21 mil pacientes de uma clínica-escola nos Estados Unidos. Identificaram 398 pacientes de alto risco sem diagnóstico prévio.
 
-## 6 · Olhar a via aérea: Mallampati e SARI (09:30–12:30)
+Nenhum dos 398 foi encaminhado.
+
+(pausa)
+
+O instrumento constava da ficha clínica. Faltou o conhecimento para converter o escore em conduta.
+
+E o escopo deve ser preciso. A diretriz da American Academy of Sleep Medicine, de Kapur e colaboradores, em 2017, estabelece que questionários não substituem o diagnóstico: o padrão-ouro é a polissonografia. Ao cirurgião-dentista compete triar, ajustar a conduta e encaminhar.
+
+## 6 · Avaliação anatômica da via aérea: Mallampati e SARI (09:30–12:30)
 
 [Slide 6 — Mallampati]
 
-Agora, o exame que o cirurgião-dentista faz melhor que ninguém, porque olha para a orofaringe todos os dias.
+Agora, o exame que o cirurgião-dentista executa com familiaridade singular, porque examina a orofaringe diariamente.
 
-Mallampati, em 1985: paciente sentado, boca aberta ao máximo, língua protruída, sem fonação. Classe um, vejo pilares, úvula inteira e palato mole. Classe quatro, vejo apenas o palato duro.
+A classificação de Mallampati, de 1985, modificada por Samsoon e Young em 1987: paciente sentado, abertura bucal máxima, protrusão lingual, sem fonação. Classe I, visualizam-se palato mole, fauces, úvula e pilares. Classe IV, apenas o palato duro.
 
-Nuckton e colaboradores, em 2006, mostraram que cada classe a mais no Mallampati mais que dobra a chance de apneia do sono, de forma independente de mais de trinta variáveis.
+Nuckton e colaboradores, em 2006, demonstraram que cada classe adicional de Mallampati mais que duplica a chance de apneia obstrutiva do sono, de forma independente de mais de trinta variáveis.
 
-E, para quem atende com a cadeira reclinada: Vo e colaboradores, em 2026, reuniram vinte estudos e mostraram que o Mallampati em decúbito dorsal tem acurácia semelhante à do paciente sentado.
+E, para o atendimento em cadeira reclinada: a metanálise de Vo e colaboradores, de 2026, com vinte estudos, demonstrou acurácia semelhante do Mallampati em decúbito dorsal e na posição sentada.
 
 (pausa)
 
 [Slide 7 — SARI]
 
-Mas a literatura é honesta: nenhum teste isolado basta. Lee e colaboradores, numa metanálise com mais de 34 mil pacientes, concluíram que o Mallampati, usado isoladamente, tem acurácia limitada.
+Contudo, nenhum preditor isolado é suficiente. Na metanálise de Lee e colaboradores, com mais de 34 mil pacientes, o Mallampati, utilizado isoladamente, apresentou acurácia limitada.
 
-A resposta é a avaliação multimodal. Em 1996, El-Ganzouri e colaboradores avaliaram 10.507 pacientes consecutivos e chegaram a sete critérios independentes: abertura bucal, distância tireomentoniana, Mallampati, mobilidade cervical, protrusão da mandíbula, peso corporal e história de intubação difícil.
+A resposta é a avaliação multimodal. El-Ganzouri e colaboradores, em 1996, avaliaram prospectivamente 10.507 pacientes consecutivos e identificaram sete preditores independentes: abertura bucal, distância tireomentoniana, classificação de Mallampati, mobilidade cervical, protrusão mandibular, massa corporal e história de intubação difícil.
 
 É o SARI, o Simplified Airway Risk Index.
 
-Repare: seis dos sete critérios são exame físico de cabeça e pescoço. Território do cirurgião-dentista. Medimos a abertura bucal, avaliamos a protrusão mandibular, conhecemos a ATM. Só a história de intubação difícil sai da anamnese.
+Seis dos sete critérios são exame físico de cabeça e pescoço: território do cirurgião-dentista. Apenas a história de intubação difícil provém da anamnese.
 
-## 7 · IMC e o paciente pediátrico (12:30–14:00)
+## 7 · Índice de massa corporal e o paciente pediátrico (12:30–14:00)
 
-[Slide 8 — IMC]
+[Slide 8 — Índice de massa corporal]
 
-O índice de massa corporal aparece duas vezes: é um dos oito itens do STOP-Bang e um dos sete do SARI. É o fator de risco que se vê já na porta do consultório.
+O índice de massa corporal integra os dois instrumentos: é item do STOP-Bang e do SARI.
 
-Sevgili e Değirmencioğlu, em 2026, acompanharam 512 crianças sedadas para tratamento odontológico. As crianças com sobrepeso ou obesidade tiveram 3,4 vezes mais chance de hipoxemia. E procedimentos mais longos também aumentaram o risco.
+Sevgili e Değirmencioğlu, em 2026, acompanharam 512 crianças sob sedação para tratamento odontológico. Sobrepeso e obesidade associaram-se a chance 3,4 vezes maior de hipoxemia. A maior duração do procedimento também elevou o risco.
 
-Em adultos, a metanálise de Ceban e colaboradores, de 2024, com quase 28 mil pacientes, mostrou que pacientes com apneia submetidos a sedação ambulatorial precisaram 3,3 vezes mais de manobras de via aérea.
+Em adultos, a metanálise de Ceban e colaboradores, de 2024, com quase 28 mil pacientes, demonstrou que portadores de apneia obstrutiva submetidos a sedação ambulatorial necessitaram 3,3 vezes mais de manobras de via aérea.
 
 (pausa)
 
-O peso não contraindica o atendimento. Ele orienta o planejamento.
+O índice de massa corporal não contraindica o atendimento. Orienta o planejamento.
 
-## 8 · Ortodontia e sono (14:00–15:00)
+## 8 · Ortodontia e distúrbios respiratórios do sono (14:00–15:00)
 
 [Slide 9 — Ortodontia e sono]
 
-E esta avaliação não é exclusiva de quem seda. A Associação Americana de Ortodontistas já publicou documentos sobre o papel do ortodontista na apneia obstrutiva do sono.
+Essa avaliação não é exclusiva de quem realiza sedação. A American Association of Orthodontists publicou documentos de posicionamento sobre o papel do ortodontista nos distúrbios respiratórios do sono.
 
-Mas, na prática, Triggs e colaboradores, em 2022, encontraram 38% dos ortodontistas sem nenhuma triagem. E o fator que mais levou o ortodontista a triar não foi a idade nem o tempo de clínica.
+Na prática, contudo, Triggs e colaboradores, em 2022, constataram que 38% dos ortodontistas não realizavam nenhuma triagem. E o principal fator associado à triagem não foi a idade nem o tempo de prática clínica.
 
 Foram as horas de educação continuada.
 
-Estudar via aérea transforma a conduta.
+O conhecimento sobre via aérea transforma a conduta clínica.
 
-## 9 · O roteiro de 2 minutos (15:00–17:00)
+## 9 · O protocolo de dois minutos (15:00–17:00)
 
-[Slide 10 — O roteiro de 2 minutos]
+[Slide 10 — O protocolo de dois minutos]
 
-Então, na sua próxima primeira consulta, cinco verbos.
+Na próxima primeira consulta, cinco etapas.
 
-Pergunte: ronco, cansaço, apneia observada, pressão arterial. É o STOP.
+Investigar: ronco, sonolência diurna, apneia testemunhada, hipertensão arterial.
 
-Meça: peso e altura para o índice de massa corporal, circunferência cervical. Some idade e sexo, e o Bang está completo.
+Mensurar: massa corporal e estatura para o índice de massa corporal, circunferência cervical. Somadas idade e sexo, o STOP-Bang está completo.
 
-Olhe: Mallampati, abertura bucal, protrusão mandibular, distância tireomentoniana. Com isso, você já tem quase todo o SARI.
+Examinar: classificação de Mallampati, abertura bucal, protrusão mandibular, distância tireomentoniana. Assim se obtém a quase totalidade do SARI.
 
-Decida: STOP-Bang alto leva ao encaminhamento para avaliação do sono. SARI alto leva a um plano de via aérea antes de qualquer procedimento longo, em posição supina ou sob sedação.
+Decidir: STOP-Bang elevado indica encaminhamento para avaliação do sono. SARI elevado indica um plano de manejo da via aérea antes de procedimentos prolongados, em decúbito dorsal ou sob sedação.
 
-Registre: o prontuário documenta que a prevenção foi feita.
+Registrar: o prontuário documenta que a prevenção foi realizada.
 
 (pausa)
 
-O exame da via aérea leva dois minutos e usa instrumentos que o cirurgião-dentista já domina: o olhar, a régua e a pergunta certa.
+A avaliação da via aérea demanda cerca de dois minutos e emprega recursos que o cirurgião-dentista já domina: a inspeção, a mensuração e a anamnese dirigida.
 
-E a Resolução CFO 295/2026 confirma esse caminho: o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar. Prevenir começa aqui.
+E a Resolução CFO 295/2026 confirma esse percurso: o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar. A prevenção começa aqui.
 
 ## 10 · Próxima aula e convite (17:00–19:00)
 
 [Slide 11 — Próxima aula e caminhos]
 
-Na próxima quinta, Aula #13, damos o último passo: reconhecer, manejar e resgatar. O minuto em que, mesmo com toda a prevenção, o risco se instala.
+Na próxima quinta, Aula #13, completamos a sequência: reconhecer, manejar e resgatar. O intervalo em que, apesar da prevenção, o evento adverso se instala.
 
-E, para quem quer aprofundar:
+Para quem deseja aprofundar:
 
-O SAVO, Suporte Avançado de Vida para a Odontologia, aprofunda a monitorização, a avaliação clínica, a farmacologia e a resposta à emergência, com etapa presencial no Rio de Janeiro.
+O SAVO, Suporte Avançado de Vida para a Odontologia, aprofunda monitorização, avaliação clínica, farmacologia e resposta à emergência, com etapa presencial no Rio de Janeiro.
 
-E, para quem já tem a sedação na rotina, a complementação de carga horária da Trilha 295 reúne as horas e as certificações para a Habilitação Básica em Sedação.
+E, para quem já incorporou a sedação à rotina clínica, a complementação de carga horária da Trilha 295 reúne as horas e as certificações para a Habilitação Básica em Sedação.
 
-Um lembrete importante: nenhum curso habilita, inclusive o nosso. O curso entrega o certificado e a carga horária; quem avalia e decide é o Conselho.
+Uma observação necessária: nenhum curso habilita, inclusive o nosso. O curso confere o certificado e a carga horária; a avaliação e a decisão competem ao Conselho.
 
 Os links estão na descrição.
 
@@ -191,7 +191,7 @@ Os links estão na descrição.
 
 [Slide 12 — A nova premissa]
 
-Antes da sedação, antes do anestésico, antes do primeiro instrumento, existe uma avaliação.
+Antes da sedação, antes do anestésico local, antes do primeiro instrumento, há uma avaliação.
 
 Prevenir não é desconfiar do paciente. É conhecê-lo.
 
