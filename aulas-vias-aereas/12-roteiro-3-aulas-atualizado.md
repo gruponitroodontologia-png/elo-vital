@@ -24,16 +24,17 @@ Via aérea: competência de toda a Odontologia. Efeito dominó em cinco peças: 
 
 | # | Bloco | Tempo | Conteúdo e literatura |
 |---|---|---|---|
-| 1 | Olho no olho | 0:00–1:30 | Retoma a pergunta da #11 e a escuta da via aérea: "um ronco, uma pausa, um silêncio se anunciam antes de qualquer monitor". O alfabeto da Odontologia: verificar sinais vitais, reconhecer uma pausa. |
-| 2 | Apresentadora | 1:30–2:00 | Slide 2, padrão das aulas. |
-| 3 | Ventilação, oxigenação e perfusão | 2:00–4:30 | O que cada uma significa na cadeira; "o primeiro monitor é a equipe". Monitorizar detecta tendências antes da emergência [8]; monitorizar mais detecta mais [3]. |
-| 4 | O sono como sinal vital: STOP-Bang | 4:30–7:30 | 48% dos pacientes em clínicas odontológicas em risco de apneia [37]; numa clínica-escola, 398 pacientes de alto risco e nenhum encaminhado [38]. A polissonografia diagnostica; o cirurgião-dentista tria e encaminha [39]. |
-| 5 | Olhar a via aérea: Mallampati e SARI | 7:30–11:00 | Cada ponto a mais no Mallampati mais que dobra a chance de apneia [40]. SARI (El-Ganzouri, 1996): 7 critérios, 6 de exame de cabeça e pescoço [41]. |
-| 6 | IMC e o paciente pediátrico | 11:00–13:00 | Crianças com sobrepeso: 3,4 vezes mais hipoxemia na sedação [42]; pacientes com apneia: 3,3 vezes mais manobras de via aérea [43]. |
-| 7 | Ortodontia e sono | 13:00–14:30 | Horas de educação continuada foram o principal fator associado à triagem de apneia [44]. |
-| 8 | O roteiro de 2 minutos | 14:30–17:00 | Pergunte, meça, olhe, decida, registre. Cartão para imprimir e deixar no consultório. |
-| 9 | Próxima aula e convite | 17:00–19:00 | **SAVO** e a **complementação de carga horária** (Trilha 295). Sem condição de Black Friday (terminou em 16/11). "Nenhum curso habilita, inclusive o nosso." |
-| 10 | A nova premissa | 19:00–20:00 | Frase de fechamento + ponte para a #13. |
+| 1 | Olho no olho | 0:00–1:30 | Retoma a pergunta da #11; "sentinela epidemiológica" (Lonia 2020); do alfabeto ao letramento. |
+| 2 | Capa e Apresentadora | 1:30–2:00 | Slides 1 e 2. |
+| 3 | Ventilação, oxigenação e perfusão | 2:00–4:30 | Falham em sequência; o oxímetro é tardio para a ventilação. O primeiro monitor é a equipe [8]. |
+| 4 | **Os ruídos que precisamos conhecer** | 4:30–7:00 | Ronco (obstrução parcial supraglótica → reposicionar), gorgolejo (líquido → aspirar), estridor (laringe estreitada), sibilo (broncoespasmo), silêncio (obstrução total com esforço paradoxal, ou depressão respiratória sem esforço). Bohadana 2014; Pasterkamp 2016; Sibert 2020; Rasheed 2024; Boriosi 2019. |
+| 5 | STOP-Bang | 7:00–9:30 | 48% em risco [37]; 398 de alto risco e nenhum encaminhado [38]; a polissonografia diagnostica [39]. |
+| 6 | Mallampati e SARI | 9:30–12:30 | [40, 41]; Mallampati em decúbito (Vo 2026); isolado tem acurácia limitada (Lee 2006). |
+| 7 | IMC e o paciente pediátrico | 12:30–14:00 | [42, 43]. |
+| 8 | Ortodontia e sono | 14:00–15:00 | [44]. |
+| 9 | O roteiro de 2 minutos | 15:00–17:00 | Pergunte, meça, olhe, decida, registre. CFO 295/2026 como confirmação. |
+| 10 | Próxima aula e convite | 17:00–19:00 | **SAVO** e a **complementação de carga horária** (Trilha 295). "Nenhum curso habilita, inclusive o nosso." |
+| 11 | A nova premissa | 19:00–20:00 | "Prevenir não é desconfiar do paciente. É conhecê-lo." |
 
 ---
 
@@ -47,7 +48,7 @@ Via aérea: competência de toda a Odontologia. Efeito dominó em cinco peças: 
 |---|---|---|---|
 | 1 | Olho no olho | 0:00–1:30 | "Hoje, o minuto em que o risco se instala." |
 | 2 | Apresentadora | 1:30–2:00 | Slide 2. |
-| 3 | Reconhecer: a obstrução em sons | 2:00–4:00 | Ronco, esforço paradoxal, pouca movimentação de ar, silêncio, descritos pela própria Carla. **Sem trecho do vídeo da Sedation Academy** (decisão da Carla, 14/11: não pedir nova autorização). |
+| 3 | Reconhecer na cena | 2:00–4:00 | Os ruídos apresentados na #12 (ronco, gorgolejo, estridor, sibilo, silêncio) aplicados a cenas clínicas: o que você ouve, o que faz. Sem trecho do vídeo da Sedation Academy (decisão da Carla, 14/11). |
 | 4 | Ouvir a via aérea | 4:00–5:30 | O estetoscópio pré-traqueal [6, 7], retomando a cena da #11. |
 | 5 | Manejar | 5:30–8:00 | Aspiração e secreções, posicionamento, laringoespasmo, obstrução por corpo estranho (dossiê de vias aéreas já entregue: Rosenberg/Becker 2014, NAEMSP 2022, de Carvalho 2025). |
 | 6 | Resgatar | 8:00–10:00 | Dentistas ventilaram com dispositivo supraglótico sem insuflação gástrica após treino [45]; máscara laríngea bem posicionada após 5 treinos [46]. Sem treino, o tempo até a ventilação de resgate sobe de ~57 para ~90 s em 4 meses (McCaw 2023). |

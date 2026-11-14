@@ -49,9 +49,35 @@ E os autores explicam por quê: a monitorização revela tendências deletérias
 
 O primeiro monitor é a equipe. E uma equipe atenta começa antes do procedimento.
 
-## 4 · O sono como sinal clínico: STOP-Bang (04:30–07:30)
+## 4 · Os ruídos que precisamos conhecer (04:30–07:00)
 
-[Slide 4 — STOP-Bang]
+[Slide 4 — Os ruídos da respiração]
+
+Antes de qualquer número no monitor, a via aérea fala. E cada ruído aponta um nível e uma causa.
+
+Bohadana e colaboradores, no New England Journal of Medicine, em 2014, e a força-tarefa da Sociedade Europeia de Respiração, com Pasterkamp e colaboradores, em 2016, organizaram essa linguagem. Vamos a ela, de cima para baixo.
+
+O ronco. Grave, áspero. É a obstrução parcial acima da laringe: língua e palato mole relaxados sobre a orofaringe. A conduta é reposicionar: elevar o mento, anteriorizar a mandíbula.
+
+O gorgolejo. Um ruído borbulhante, úmido. É líquido na faringe: saliva, sangue, a água do spray. A conduta é aspirar.
+
+O estridor. Agudo, durante a inspiração. É o ar passando por uma laringe estreitada: um laringoespasmo parcial, um corpo estranho, um edema. Sibert e colaboradores, em 2020, revisaram as causas da obstrução aguda da via aérea superior, e o laringoespasmo está entre elas.
+
+O sibilo. Musical, mais longo na expiração. Já não está na via aérea superior: são os brônquios se fechando. Broncoespasmo, no paciente asmático ou na reação alérgica.
+
+(pausa)
+
+E o último. O mais grave de todos.
+
+O silêncio.
+
+Se o tórax afunda enquanto o abdome sobe, há esforço sem passagem de ar: a obstrução é total. Um laringoespasmo completo, que Rasheed e colaboradores, em 2024, descrevem como potencialmente fatal. Ou um corpo estranho. Se não há esforço algum, é depressão respiratória.
+
+Por isso o estetoscópio pré-traqueal percebe o evento antes do oxímetro. E por isso conhecer esses ruídos é parte do alfabeto da Odontologia.
+
+## 5 · O sono como sinal clínico: STOP-Bang (07:00–09:30)
+
+[Slide 5 — STOP-Bang]
 
 O STOP-Bang são oito perguntas de sim ou não, e cabem na anamnese.
 
@@ -73,9 +99,9 @@ O questionário estava na ficha. O que faltou foi o conhecimento para agir.
 
 E é importante dizer qual é o nosso papel. A diretriz da Academia Americana de Medicina do Sono, de Kapur e colaboradores, 2017, é clara: questionário não diagnostica apneia. Quem diagnostica é a polissonografia. O cirurgião-dentista tria, ajusta a conduta e encaminha.
 
-## 5 · Olhar a via aérea: Mallampati e SARI (07:30–11:00)
+## 6 · Olhar a via aérea: Mallampati e SARI (09:30–12:30)
 
-[Slide 5 — Mallampati]
+[Slide 6 — Mallampati]
 
 Agora, o exame que o cirurgião-dentista faz melhor que ninguém, porque olha para a orofaringe todos os dias.
 
@@ -87,7 +113,7 @@ E, para quem atende com a cadeira reclinada: Vo e colaboradores, em 2026, reunir
 
 (pausa)
 
-[Slide 6 — SARI]
+[Slide 7 — SARI]
 
 Mas a literatura é honesta: nenhum teste isolado basta. Lee e colaboradores, numa metanálise com mais de 34 mil pacientes, concluíram que o Mallampati, usado isoladamente, tem acurácia limitada.
 
@@ -97,9 +123,9 @@ A resposta é a avaliação multimodal. Em 1996, El-Ganzouri e colaboradores ava
 
 Repare: seis dos sete critérios são exame físico de cabeça e pescoço. Território do cirurgião-dentista. Medimos a abertura bucal, avaliamos a protrusão mandibular, conhecemos a ATM. Só a história de intubação difícil sai da anamnese.
 
-## 6 · IMC e o paciente pediátrico (11:00–13:00)
+## 7 · IMC e o paciente pediátrico (12:30–14:00)
 
-[Slide 7 — IMC]
+[Slide 8 — IMC]
 
 O índice de massa corporal aparece duas vezes: é um dos oito itens do STOP-Bang e um dos sete do SARI. É o fator de risco que se vê já na porta do consultório.
 
@@ -111,9 +137,9 @@ Em adultos, a metanálise de Ceban e colaboradores, de 2024, com quase 28 mil pa
 
 O peso não contraindica o atendimento. Ele orienta o planejamento.
 
-## 7 · Ortodontia e sono (13:00–14:30)
+## 8 · Ortodontia e sono (14:00–15:00)
 
-[Slide 8 — Ortodontia e sono]
+[Slide 9 — Ortodontia e sono]
 
 E esta avaliação não é exclusiva de quem seda. A Associação Americana de Ortodontistas já publicou documentos sobre o papel do ortodontista na apneia obstrutiva do sono.
 
@@ -123,9 +149,9 @@ Foram as horas de educação continuada.
 
 Estudar via aérea transforma a conduta.
 
-## 8 · O roteiro de 2 minutos (14:30–17:00)
+## 9 · O roteiro de 2 minutos (15:00–17:00)
 
-[Slide 9 — O roteiro de 2 minutos]
+[Slide 10 — O roteiro de 2 minutos]
 
 Então, na sua próxima primeira consulta, cinco verbos.
 
@@ -145,9 +171,9 @@ O exame da via aérea leva dois minutos e usa instrumentos que o cirurgião-dent
 
 E a Resolução CFO 295/2026 confirma esse caminho: o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar. Prevenir começa aqui.
 
-## 9 · Próxima aula e convite (17:00–19:00)
+## 10 · Próxima aula e convite (17:00–19:00)
 
-[Slide 10 — Próxima aula e caminhos]
+[Slide 11 — Próxima aula e caminhos]
 
 Na próxima quinta, Aula #13, damos o último passo: reconhecer, manejar e resgatar. O minuto em que, mesmo com toda a prevenção, o risco se instala.
 
@@ -161,9 +187,9 @@ Um lembrete importante: nenhum curso habilita, inclusive o nosso. O curso entreg
 
 Os links estão na descrição.
 
-## 10 · A nova premissa (19:00–20:00)
+## 11 · A nova premissa (19:00–20:00)
 
-[Slide 11 — A nova premissa]
+[Slide 12 — A nova premissa]
 
 Antes da sedação, antes do anestésico, antes do primeiro instrumento, existe uma avaliação.
 
@@ -177,6 +203,11 @@ Até a próxima quinta, às 11h11.
 
 Lonia et al. Medicina (Kaunas) 2020. doi:10.3390/medicina56070324
 Fukayama H, Yagiela JA. Int Dent J 2006. doi:10.1111/j.1875-595x.2006.tb00081.x
+Bohadana A, Izbicki G, Kraman SS. N Engl J Med 2014. doi:10.1056/NEJMra1302901
+Pasterkamp H et al. Eur Respir J 2016. doi:10.1183/13993003.01132-2015
+Sibert KS, Long JL, Haddy SM. Cureus 2020. doi:10.7759/cureus.8196
+Rasheed MA et al. Anaesth Crit Care Pain Med 2024. doi:10.1016/j.accpm.2024.101413
+Boriosi JP et al. Paediatr Anaesth 2019. doi:10.1111/pan.13616
 Chung F et al. Chest 2016. doi:10.1378/chest.15-0903
 Chung F et al. Anesthesiology 2008. doi:10.1097/ALN.0b013e31816d83e4
 Guess et al. J Dent Educ 2021. doi:10.1002/jdd.12831
