@@ -59,19 +59,19 @@ Bohadana e colaboradores, no New England Journal of Medicine, em 2014, e a forç
 
 O ronco: ruído de baixa frequência, de timbre áspero. Traduz obstrução parcial supraglótica, por colapso de tecidos moles, sobretudo base da língua e palato mole, sobre a orofaringe. A conduta é o reposicionamento: elevação do mento e anteriorização da mandíbula.
 
-[ÁUDIO 1 — ronco · 5 s · silêncio na fala enquanto toca]
+[ÁUDIO 1 — ronco · 7 s · arquivo 01-ronco.mp3 · silêncio na fala enquanto toca]
 
 O gorgolejo: ruído borbulhante, de caráter úmido. Indica conteúdo líquido na faringe: saliva, sangue, água de refrigeração. A conduta é a aspiração.
 
-[ÁUDIO 2 — gorgolejo · 5 s]
+[ÁUDIO 2 — gorgolejo · pendente: gravar em simulador ou omitir]
 
 O estridor: ruído agudo, de alta frequência, predominantemente inspiratório. Corresponde ao fluxo turbulento através de uma laringe estreitada: laringoespasmo parcial, corpo estranho, edema. Sibert e colaboradores, em 2020, revisaram as causas da obstrução aguda da via aérea superior, e o laringoespasmo figura entre elas.
 
-[ÁUDIO 3 — estridor inspiratório · 5 s]
+[ÁUDIO 3 — estridor · 6 s · arquivo 03-estridor.mp3]
 
 O sibilo: ruído contínuo, de timbre musical, predominantemente expiratório. A obstrução já não é supraglótica: é a redução do calibre brônquico. Broncoespasmo, no paciente asmático ou na reação anafilática.
 
-[ÁUDIO 4 — sibilos expiratórios · 5 s]
+[ÁUDIO 4 — sibilos · 6 s · arquivo 04-sibilos.mp3]
 
 (pausa)
 
@@ -79,7 +79,7 @@ E, por fim, o sinal de maior gravidade.
 
 O silêncio.
 
-[ÁUDIO 5 — respiração normal que se interrompe: 3 s de som, 4 s de silêncio]
+[ÁUDIO 5 — ronco que cessa: 7 s de ronco, 5 s de silêncio · arquivo 05-ronco-seguido-de-silencio.mp3]
 
 Se há retração torácica com expansão abdominal, a chamada respiração paradoxal, existe esforço sem fluxo: a obstrução é completa. Um laringoespasmo total, que Rasheed e colaboradores, em 2024, definem como fechamento sustentado da via aérea, potencialmente fatal. Ou um corpo estranho. Se não há esforço respiratório, trata-se de depressão respiratória central.
 
@@ -233,3 +233,4 @@ Ceban et al. Sleep Med Rev 2024. doi:10.1016/j.smrv.2024.102029
 Behrents et al. Am J Orthod Dentofacial Orthop 2019. doi:10.1016/j.ajodo.2019.04.009
 Triggs et al. J Clin Exp Dent 2022. doi:10.4317/jced.59708
 Conselho Federal de Odontologia. Resolução CFO nº 295/2026.
+Áudios: Wikimedia Commons — TONY LU (CC BY-SA 4.0); James Heilman, MD (CC BY-SA 3.0).

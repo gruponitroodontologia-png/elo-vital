@@ -196,7 +196,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   PDF e PPTX sem notas (as notas aparecem no Zoom).
 
 ## Pendências / próximos passos
-- **Áudios dos ruídos respiratórios da Aula #12** (ronco, gorgolejo, estridor, sibilo, silêncio; marcados no teleprompter `aulas-vias-aereas/13-aula12-TELEPROMPTER.md`): a Carla vai aprovar, do computador, a liberação de `commons.wikimedia.org` e `upload.wikimedia.org` na rede do ambiente. Quando ela avisar, pedir a liberação (get_environment → create/update_environment), baixar só arquivos CC BY/CC BY-SA/CC0, cortar 5 s, nivelar e dar crédito na descrição.
+- **Áudios da Aula #12** em `aulas-vias-aereas/audios-aula12/` (ronco, estridor, sibilos, ronco seguido de silêncio; créditos em CREDITOS.txt, Wikimedia Commons CC BY-SA). Wikimedia liberado na rede (14/11/2026), mas limita downloads (erro 429): usar as versões "transcoded" do upload.wikimedia.org. **Gorgolejo pendente** (sem gravação clínica aberta).
 - **SBV NÃO é pré-requisito do SAVO** (Carla, 09/11/2026): é um produto que pode ser
   oferecido. A página de vendas (`index.html`) ainda diz que é pré-requisito (seção de
   pré-requisitos, ficha da turma e 2 perguntas do FAQ) — corrigir quando a Carla autorizar.
