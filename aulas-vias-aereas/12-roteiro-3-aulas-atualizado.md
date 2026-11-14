@@ -32,7 +32,7 @@ Via aérea: competência de toda a Odontologia. Efeito dominó em cinco peças: 
 | 6 | IMC e o paciente pediátrico | 11:00–13:00 | Crianças com sobrepeso: 3,4 vezes mais hipoxemia na sedação [42]; pacientes com apneia: 3,3 vezes mais manobras de via aérea [43]. |
 | 7 | Ortodontia e sono | 13:00–14:30 | Horas de educação continuada foram o principal fator associado à triagem de apneia [44]. |
 | 8 | O roteiro de 2 minutos | 14:30–17:00 | Pergunte, meça, olhe, decida, registre. Cartão para imprimir e deixar no consultório. |
-| 9 | Próxima aula e convite | 17:00–19:00 | SAVO para toda a Odontologia; Trilha 295 para quem já tem a sedação na rotina. "Nenhum curso habilita, inclusive o nosso." |
+| 9 | Próxima aula e convite | 17:00–19:00 | **SAVO** e a **complementação de carga horária** (Trilha 295). Sem condição de Black Friday (terminou em 16/11). "Nenhum curso habilita, inclusive o nosso." |
 | 10 | A nova premissa | 19:00–20:00 | Frase de fechamento + ponte para a #13. |
 
 ---
@@ -47,21 +47,22 @@ Via aérea: competência de toda a Odontologia. Efeito dominó em cinco peças: 
 |---|---|---|---|
 | 1 | Olho no olho | 0:00–1:30 | "Hoje, o minuto em que o risco se instala." |
 | 2 | Apresentadora | 1:30–2:00 | Slide 2. |
-| 3 | Reconhecer: a obstrução em sons | 2:00–4:00 | Ronco, esforço paradoxal, pouca movimentação de ar, silêncio. Trecho do vídeo do Dr. Jason Brady (Sedation Academy), lido para toda a Odontologia: o Projeto amplia o olhar. |
+| 3 | Reconhecer: a obstrução em sons | 2:00–4:00 | Ronco, esforço paradoxal, pouca movimentação de ar, silêncio, descritos pela própria Carla. **Sem trecho do vídeo da Sedation Academy** (decisão da Carla, 14/11: não pedir nova autorização). |
 | 4 | Ouvir a via aérea | 4:00–5:30 | O estetoscópio pré-traqueal [6, 7], retomando a cena da #11. |
 | 5 | Manejar | 5:30–8:00 | Aspiração e secreções, posicionamento, laringoespasmo, obstrução por corpo estranho (dossiê de vias aéreas já entregue: Rosenberg/Becker 2014, NAEMSP 2022, de Carvalho 2025). |
 | 6 | Resgatar | 8:00–10:00 | Dentistas ventilaram com dispositivo supraglótico sem insuflação gástrica após treino [45]; máscara laríngea bem posicionada após 5 treinos [46]. Sem treino, o tempo até a ventilação de resgate sobe de ~57 para ~90 s em 4 meses (McCaw 2023). |
 | 7 | Suporte de vida: competência de toda a Odontologia | 10:00–12:00 | FDI sobre SBV na prática odontológica [47]; Resuscitation Council UK [48]; Dental Advanced Life Support na Coreia do Sul [49]; simulação: 100% × 0% de aprovação [9] e estabilidade em 11 meses [10]. |
 | 8 | Quando a segurança deixa de ser uma escolha e se torna uma norma | 12:00–15:00 | Lei Seca, EPI, Festinger, Reason (texto pronto no arquivo 08) [30, 51, 52]. |
 | 9 | O PSP como trilha | 15:00–17:00 | A falta de protocolo é a causa mais comum dos eventos [5]; checklists reduzem incidentes [4]; oito estratégias de cultura de segurança [29]; da evidência à prática [50]. |
-| 10 | Convite e nova premissa | 17:00–20:00 | SAVO (presencial 5 e 6/12, Rio, turma até 20) e Trilha 295. "Nenhum curso habilita, inclusive o nosso." |
+| 10 | Convite e nova premissa | 17:00–20:00 | **SAVO** (presencial 5 e 6/12, Rio, turma até 20) e **Imersão** (adiada para janeiro de 2027). "Nenhum curso habilita, inclusive o nosso." |
 
 ---
 
-## Para a Profa. Carla decidir antes da #12
+## Decisões da Profa. Carla (14/11/2026)
 
-1. **Oferta da #12 e da #13.** A Black Friday termina em 16/11. O rascunho antigo dizia "bônus até 27/11", condição que não está confirmada. Qual condição anunciar em 19/11 e em 26/11?
-2. **"Turma de 5 a 9/12"** no rascunho antigo da #13: é a turma da Trilha 295? O presencial do SAVO é 5 e 6/12.
-3. **Duração: no máximo 20 min por aula** (decisão da Carla, 14/11). Teleprompter com até ~2.400 palavras (cerca de 120 palavras por minuto falado), contando o olho no olho.
-4. **Vídeo da Sedation Academy na #13.** A autorização recebida foi para o reel. Confirmar com eles o uso de um trecho dentro da aula.
-5. **Antes de usar em slide:** ler o texto completo de [47] (FDI) e [49] (Coreia do Sul).
+1. **Convite da #12:** SAVO e a complementação de carga horária (Trilha 295).
+2. **Convite da #13:** SAVO e Imersão. A Imersão foi adiada para janeiro de 2027 (data a confirmar).
+3. **Vídeo da Sedation Academy:** não entra na #13; não pedir nova autorização.
+4. **Duração:** no máximo 20 min por aula (até ~1.700 palavras de teleprompter).
+
+Pendente antes de usar em slide: ler o texto completo de [47] (FDI) e [49] (Coreia do Sul).
