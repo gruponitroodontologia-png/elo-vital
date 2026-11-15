@@ -129,6 +129,14 @@ Esquemas prontos em `esquemas-crianca/` (E1 sagital, E2 laringe e Poiseuille, E3
   - AuraGain × ProSeal: vedação de 23,3 × 20,6 cmH₂O; inserção e passagem da sonda mais fáceis com a AuraGain. Joshi et al., Indian J Anaesth 2018 · [doi:10.4103/ija.IJA_86_18](https://doi.org/10.4103/ija.IJA_86_18)
   - Supreme × i-gel, tamanho 2: vedação de 25,2 × 22,1 cmH₂O. Aggarwal et al., Turk J Anaesthesiol Reanim 2021 · [doi:10.5152/TJAR.2021.614](https://doi.org/10.5152/TJAR.2021.614)
   - i-gel × Air-Q: sucesso total de 97,3% × 94,7%; inserção mais rápida com o i-gel. Wahba et al., Anesth Essays Res 2021 · [doi:10.4103/aer.AER_107_20](https://doi.org/10.4103/aer.AER_107_20)
+- **Escolha para a maleta, considerando uso infrequente (esquema E10):** priorizar um dispositivo de 2ª geração, com muitos acertos nas mãos de inexperientes, de preferência sem manguito para inflar, e o mesmo modelo nas faixas pediátrica e adulta.
+  - Operadores inexperientes, 505 pacientes: sucesso na 1ª tentativa de 96% com a Supreme, 87,9% com o i-gel, 85,9% com a ProSeal, 80,6% com o LTS-D e 69,4% com o SLIPA; as inserções mais rápidas foram com a Supreme e o i-gel. Henlin et al., Biomed Res Int 2015 · [doi:10.1155/2015/201898](https://doi.org/10.1155/2015/201898)
+  - Em manequim, novatos ventilaram com o i-gel em 14 s × 38 s com a máscara clássica. Kuwahara et al., Masui 2013 (PMID 23772535)
+  - Retenção em 3 meses: 100% de sucesso com a maioria dos supraglóticos (exceto a ProSeal) × 58% na intubação. Ruetzler et al., Resuscitation 2011 · [doi:10.1016/j.resuscitation.2011.01.008](https://doi.org/10.1016/j.resuscitation.2011.01.008)
+  - Dentistas com tubo laríngeo × bolsa-válvula-máscara: sem insuflação gástrica com o tubo laríngeo; usar só após treinamento e iniciar as compressões antes da inserção. Keilholz e Mutzbauer, Br Dent J 2015 · [doi:10.1038/sj.bdj.2015.385](https://doi.org/10.1038/sj.bdj.2015.385)
+  - Profundidade do i-gel pediátrico variável com o tamanho da criança. Abukawa et al., J Anesth 2015 · [doi:10.1007/s00540-015-2108-7](https://doi.org/10.1007/s00540-015-2108-7)
+  - Faixas de peso do i-gel (fabricante; conferir na embalagem): 1 de 2 a 5 kg · 1,5 de 5 a 12 · 2 de 10 a 25 · 2,5 de 25 a 35 · 3 de 30 a 60 · 4 de 50 a 90 · 5 acima de 90.
+  - *Decisão clínica da Carla sobre o modelo da maleta.*
   - *Mensagem para o SAVO:* as diferenças entre os dispositivos são pequenas; o decisivo é o treino da equipe com o dispositivo disponível (McCaw 2023).
 - **Decaimento da habilidade:**
   - o tempo até a ventilação de resgate sobe de ~57 para ~90 s em 4 meses. McCaw et al., Adv Simul 2023 · [doi:10.1186/s41077-023-00244-5](https://doi.org/10.1186/s41077-023-00244-5)
