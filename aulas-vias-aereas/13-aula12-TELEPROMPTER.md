@@ -1,6 +1,6 @@
 # TELEPROMPTER · Aula #12 — Prevenir: avaliar e monitorizar ventilação, oxigenação e perfusão
 
-Projeto Cultura de Segurança · quinta, 19/11/2026, 11h11 · duração-alvo: até 20 min
+Projeto Cultura de Segurança · quinta, 19/11/2026, 11h11 · duração estimada: ~23 min (admitida até ~25 min, Carla, 15/11/2026)
 Versão revisada (15/11/2026) · 17 slides · para validação da Profa. Carla Gamba · literatura conferida no PubMed
 
 ## 0 · Olho no olho — câmera aberta, sem slide (00:00–02:49)
