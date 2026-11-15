@@ -3,7 +3,7 @@
 Projeto Cultura de Segurança · quinta, 19/11/2026, 11h11 · duração-alvo: até 20 min
 Versão revisada (15/11/2026) · 17 slides · para validação da Profa. Carla Gamba · literatura conferida no PubMed
 
-## 0 · Olho no olho — câmera aberta, sem slide (00:00–02:02)
+## 0 · Olho no olho — câmera aberta, sem slide (00:00–02:49)
 
 Bom dia. Na Aula #11, demonstramos que a cadeia de eventos que compromete a via aérea se inicia muito antes de qualquer sedação: na aferição dos sinais vitais, na resposta ao estresse, na dose do anestésico local, na obstrução por corpo estranho. Concluímos que a via aérea é competência de toda a Odontologia. O link está na descrição.
 
@@ -19,19 +19,19 @@ Na aula anterior, tratamos da alfabetização: aferir sinais vitais, reconhecer 
 
 A prevenção começa na anamnese. E demanda cerca de dois minutos.
 
-## 1 · Capa (02:02–02:15)
+## 1 · Capa (02:49–03:02)
 
 [Slide 1 — Capa]
 
 Aula #12 do Projeto Cultura de Segurança: prevenir. Avaliação e monitorização da ventilação, da oxigenação e da perfusão.
 
-## 2 · Apresentadora (02:15–02:26)
+## 2 · Apresentadora (03:02–03:13)
 
 [Slide 2 — Apresentadora]
 
 Sou a Profa. Carla Gamba, cirurgiã-dentista, mestre, cofundadora do Grupo Nitro e membro fundadora da SOBRASO.
 
-## 3 · Ventilação, oxigenação e perfusão (02:26–04:20)
+## 3 · Ventilação, oxigenação e perfusão (03:13–05:12)
 
 [Slide 3 — Ventilação, oxigenação e perfusão]
 
@@ -47,7 +47,7 @@ Fukayama e Yagiela, em 2006, hierarquizaram os recursos de monitorização no co
 
 O primeiro monitor é a escuta sensível da equipe e o estetoscópio pré-traqueal. E a monitorização começa antes do procedimento.
 
-## 4 · Os ruídos respiratórios que precisamos reconhecer (04:20–07:58)
+## 4 · Os ruídos respiratórios que precisamos reconhecer (05:12–08:50)
 
 [Slide 4 — Os ruídos respiratórios]
 
@@ -83,7 +83,7 @@ Se há retração torácica com expansão abdominal, a chamada respiração para
 
 Por isso o estetoscópio pré-traqueal detecta o evento antes do oxímetro. Boriosi e colaboradores, em 2019, demonstraram que ele foi o primeiro monitor a identificar o evento adverso em 64% dos casos.
 
-## 5 · O sono como sinal clínico: STOP-Bang (07:58–10:07)
+## 5 · O sono como sinal clínico: STOP-Bang (08:50–11:25)
 
 [Slide 5 — STOP-Bang]
 
@@ -105,9 +105,9 @@ Nenhum dos 398 foi encaminhado.
 
 O instrumento constava da ficha clínica. Faltou o conhecimento para converter o escore em conduta.
 
-A diretriz da American Academy of Sleep Medicine, de Kapur e colaboradores, em 2017, estabelece que questionários não substituem o diagnóstico: o padrão-ouro é a polissonografia. Ao cirurgião-dentista compete triar, ajustar a conduta e encaminhar.
+A diretriz da American Academy of Sleep Medicine, de Kapur e colaboradores, em 2017, estabelece que questionários não substituem o diagnóstico: o padrão-ouro é a polissonografia. No adulto sem comorbidades significativas e com alta probabilidade de apneia moderada a grave, a mesma diretriz admite o teste domiciliar do sono, a poligrafia respiratória, realizada em ambiente ambulatorial, fora do laboratório: foi esse o exame utilizado no estudo de Lonia. Ao cirurgião-dentista compete triar, ajustar a conduta e encaminhar.
 
-## 6 · Avaliação anatômica da via aérea: Mallampati e SARI (10:07–11:30)
+## 6 · Avaliação anatômica da via aérea: Mallampati e SARI (11:25–12:47)
 
 [Slide 6 — Mallampati]
 
@@ -125,7 +125,7 @@ Contudo, nenhum preditor isolado é suficiente. A resposta é a avaliação mult
 
 Seis dos sete critérios são exame físico de cabeça e pescoço: território do cirurgião-dentista. Apenas a história de intubação difícil provém da anamnese.
 
-## 7 · A criança hígida: anatomia (11:30–13:33)
+## 7 · A criança hígida: anatomia (12:47–15:10)
 
 [Slide 8 — Esquema E1: corte sagital, criança × adulto]
 
@@ -135,13 +135,13 @@ Harless, Ramaiah e Bhananker, em 2014, sistematizaram as diferenças. O occipíc
 
 [Slide 9 — Esquema E3: posicionamento]
 
-Por isso, na criança pequena, o posicionamento neutro requer um coxim sob os ombros, e não sob a cabeça.
+Por isso, na criança pequena, o posicionamento neutro requer um coxim sob os ombros, e não sob a cabeça. Ao estudar a via aérea, observe as posições preconizadas para a intubação: esse manejo e esses cuidados devem integrar a rotina de atendimento do paciente na Odontologia.
 
 [Slide 10 — Esquema E2: laringe e lei de Poiseuille]
 
 A laringe pediátrica tem configuração em funil, e o anel cricoide, único anel cartilaginoso completo e não distensível, é o ponto funcionalmente mais estreito, segundo Holzki e colaboradores, em 2018. E a lei de Poiseuille explica a gravidade: a resistência ao fluxo varia com a quarta potência do raio. Um milímetro de edema circunferencial eleva a resistência cerca de dezesseis vezes na via aérea de quatro milímetros da criança, e pouco mais de três vezes na do adulto.
 
-## 8 · A criança hígida: fisiologia e sedação (13:33–17:41)
+## 8 · A criança hígida: fisiologia e sedação (15:10–19:40)
 
 [Slide 11 — Esquema E4: fisiologia e etiologia da parada]
 
@@ -149,11 +149,11 @@ Some-se a fisiologia. A atividade metabólica é maior: o lactente consome cerca
 
 Patel e colaboradores, em 1994, demonstraram que, mesmo após pré-oxigenação, o lactente atinge 90% de saturação em cerca de 96 segundos de apneia; o adolescente, em 382.
 
-E o desfecho é coerente: Kitamura e colaboradores, em 2010, analisaram 5.170 paradas extra-hospitalares em crianças, e 71% tiveram causa não cardíaca. Na criança, a parada cardíaca é, com maior frequência, o desfecho de uma falência respiratória.
+E o desfecho é coerente: Kitamura e colaboradores, em 2010, analisaram 5.170 paradas extra-hospitalares em crianças, e 71% tiveram causa não cardíaca. Na criança, a parada cardíaca é, com maior frequência, o desfecho de uma falência respiratória. Talvez seja esta a assertiva que conduz toda a Odontologia, e não apenas quem tem a sedação na rotina clínica, ao treinamento em Suporte Avançado de Vida.
 
 [Slide 12 — Esquema E5: reserva pulmonar e ventilação alveolar]
 
-Por quê? A capacidade residual funcional é o ar que permanece nos pulmões ao final de uma expiração normal: a reserva. A ventilação alveolar traduz a demanda. Na criança, a relação entre ventilação alveolar e capacidade residual funcional é de cerca de 5 para 1; no adulto, de 2 para 1. Na apneia, a reserva é consumida muito mais rapidamente. E, na sedação, raramente conseguimos pré-oxigenar adequadamente a criança.
+Por quê? A capacidade residual funcional é o ar que permanece nos pulmões ao final de uma expiração normal: a reserva. A ventilação alveolar traduz a demanda. Na criança, a relação entre ventilação alveolar e capacidade residual funcional é de cerca de 5 para 1; no adulto, de 2 para 1. Na apneia, a reserva é consumida muito mais rapidamente. Vale ressaltar que, na sedação em odontopediatria, raramente conseguimos pré-oxigenar adequadamente este paciente.
 
 [Slide 13 — Esquema E6: da depressão ventilatória à bradicardia]
 
@@ -169,7 +169,7 @@ As particularidades anatômicas e o raciocínio fisiológico completo, nós apro
 
 O índice de massa corporal integra o STOP-Bang e o SARI. Na criança, Sevgili e Değirmencioğlu, em 2026, acompanharam 512 crianças sob sedação para tratamento odontológico: sobrepeso e obesidade associaram-se a chance 3,4 vezes maior de hipoxemia.
 
-## 9 · O protocolo de dois minutos (17:41–18:41)
+## 9 · O protocolo de dois minutos (19:40–20:54)
 
 [Slide 15 — O protocolo de dois minutos]
 
@@ -187,9 +187,9 @@ Registrar: o prontuário documenta que a prevenção foi realizada.
 
 (pausa)
 
-E a Resolução CFO 295/2026 confirma esse percurso: o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar. A prevenção começa aqui.
+E a Resolução CFO 295/2026 confirma esse percurso: o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar. A prevenção começa aqui, na medida em que a Odontologia se apropria dessa realidade e o SAVO se consolida na vivência clínica do cirurgião-dentista.
 
-## 10 · Próxima aula e convite (18:41–20:02)
+## 10 · Próxima aula e convite (20:54–22:15)
 
 [Slide 16 — Próxima aula e caminhos]
 
@@ -205,13 +205,13 @@ Uma observação necessária: nenhum curso habilita, inclusive o nosso. O curso 
 
 Os links estão na descrição.
 
-## 11 · A nova premissa (20:02–20:22)
+## 11 · A nova premissa (22:15–23:05)
 
 [Slide 17 — A nova premissa]
 
 Antes da sedação, antes do anestésico local, antes do primeiro instrumento, há uma avaliação.
 
-Prevenir não é desconfiar do paciente. É conhecê-lo.
+Prevenir é reconhecer a via aérea difícil, as particularidades da criança hígida e as diferenças que se estabelecem a cada ano, a partir dos dois anos de idade. E, sobretudo, desenvolver esse olhar em todas as especialidades, porque a possibilidade de obstrução já é uma realidade de todas elas, incluindo a ortodontia.
 
 Até a próxima quinta, às 11h11.
 
