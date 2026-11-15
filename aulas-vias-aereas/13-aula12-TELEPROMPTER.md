@@ -93,11 +93,11 @@ O STOP-Bang é um instrumento de triagem com oito itens dicotômicos, integráve
 
 Ronco intenso. Sonolência diurna. Apneia testemunhada. Hipertensão arterial. Índice de massa corporal superior a 35. Idade acima de 50 anos. Circunferência cervical superior a 40 centímetros. Sexo masculino.
 
-Cada resposta afirmativa soma um ponto. Zero a dois: baixo risco. Três a quatro: risco intermediário. Cinco a oito: alto risco de apneia obstrutiva moderada a grave. Chung e colaboradores, em 2016, demonstraram que, a partir de três pontos, a sensibilidade é de 93% para apneia moderada a grave e de 100% para apneia grave.
+Cada resposta afirmativa soma um ponto. Zero a dois: baixo risco. Três a quatro: risco intermediário. Cinco a oito: alto risco de apneia obstrutiva moderada a grave.
 
 (pausa)
 
-E essa população está na cadeira odontológica. Lonia e colaboradores avaliaram mil pacientes em clínicas odontológicas italianas: 48% apresentaram escore igual ou superior a três. Entre os submetidos à poligrafia, 79% tiveram o diagnóstico confirmado.
+E essa população está na cadeira odontológica. Lonia e colaboradores avaliaram mil pacientes em clínicas odontológicas italianas: 48% apresentaram escore igual ou superior a três.
 
 Guess e colaboradores, em 2021, analisaram mais de 21 mil pacientes de uma clínica-escola nos Estados Unidos. Identificaram 398 pacientes de alto risco sem diagnóstico prévio.
 
@@ -119,47 +119,57 @@ A classificação de Mallampati, de 1985, modificada por Samsoon e Young em 1987
 
 Nuckton e colaboradores, em 2006, demonstraram que cada classe adicional de Mallampati mais que duplica a chance de apneia obstrutiva do sono, de forma independente de mais de trinta variáveis.
 
-E, para o atendimento em cadeira reclinada: a metanálise de Vo e colaboradores, de 2026, com vinte estudos, demonstrou acurácia semelhante do Mallampati em decúbito dorsal e na posição sentada.
-
 (pausa)
 
 [Slide 7 — SARI]
 
-Contudo, nenhum preditor isolado é suficiente. Na metanálise de Lee e colaboradores, com mais de 34 mil pacientes, o Mallampati, utilizado isoladamente, apresentou acurácia limitada.
-
-A resposta é a avaliação multimodal. El-Ganzouri e colaboradores, em 1996, avaliaram prospectivamente 10.507 pacientes consecutivos e identificaram sete preditores independentes: abertura bucal, distância tireomentoniana, classificação de Mallampati, mobilidade cervical, protrusão mandibular, massa corporal e história de intubação difícil.
+Contudo, nenhum preditor isolado é suficiente. A resposta é a avaliação multimodal. El-Ganzouri e colaboradores, em 1996, avaliaram prospectivamente 10.507 pacientes consecutivos e identificaram sete preditores independentes: abertura bucal, distância tireomentoniana, classificação de Mallampati, mobilidade cervical, protrusão mandibular, massa corporal e história de intubação difícil.
 
 É o SARI, o Simplified Airway Risk Index.
 
 Seis dos sete critérios são exame físico de cabeça e pescoço: território do cirurgião-dentista. Apenas a história de intubação difícil provém da anamnese.
 
-## 7 · Índice de massa corporal e o paciente pediátrico (12:30–14:00)
+## 7 · A criança hígida: particularidades anatômicas e fisiológicas (12:30–15:00)
 
-[Slide 8 — Índice de massa corporal]
+[Esquema E1 — corte sagital: criança × adulto]
 
-O índice de massa corporal integra os dois instrumentos: é item do STOP-Bang e do SARI.
+E há um paciente que exige, por si só, uma leitura diferente: a criança, mesmo hígida.
 
-Sevgili e Değirmencioğlu, em 2026, acompanharam 512 crianças sob sedação para tratamento odontológico. Sobrepeso e obesidade associaram-se a chance 3,4 vezes maior de hipoxemia. A maior duração do procedimento também elevou o risco.
+Harless, Ramaiah e Bhananker, em 2014, sistematizaram as diferenças. O occipício proeminente flexiona o pescoço em decúbito. A língua é proporcionalmente volumosa, e a mandíbula, mais curta. A epiglote, em forma de "U", é mais longa, flácida e projetada sobre a glote. A laringe é mais alta e anterior: o anel cricoide situa-se em C4 ao nascimento e em C6 no adulto. E as cartilagens são complacentes; a calcificação ocorre apenas na adolescência.
 
-Em adultos, a metanálise de Ceban e colaboradores, de 2024, com quase 28 mil pacientes, demonstrou que portadores de apneia obstrutiva submetidos a sedação ambulatorial necessitaram 3,3 vezes mais de manobras de via aérea.
+[Esquema E3 — posicionamento]
+
+Por isso, na criança pequena, o posicionamento neutro requer um coxim sob os ombros, e não sob a cabeça.
+
+[Esquema E2 — laringe e lei de Poiseuille]
+
+A laringe pediátrica tem configuração em funil, e o anel cricoide, único anel cartilaginoso completo e não distensível, é o ponto funcionalmente mais estreito, segundo Holzki e colaboradores, em 2018. E a lei de Poiseuille explica a gravidade: a resistência ao fluxo varia com a quarta potência do raio. Um milímetro de edema circunferencial eleva a resistência cerca de dezesseis vezes na via aérea de quatro milímetros da criança, e pouco mais de três vezes na do adulto.
+
+[Esquema E4 — fisiologia e etiologia da parada]
+
+Some-se a fisiologia: o lactente consome cerca de 6 mL de oxigênio por quilo por minuto, o dobro do adulto, com menor capacidade residual funcional. Patel e colaboradores, em 1994, demonstraram que, após pré-oxigenação, o lactente atinge 90% de saturação em cerca de 96 segundos de apneia; o adolescente, em 382.
+
+E o desfecho é coerente: Kitamura e colaboradores, em 2010, analisaram 5.170 paradas extra-hospitalares em crianças, e 71% tiveram causa não cardíaca. Na criança, a parada cardíaca é, com maior frequência, o desfecho de uma falência respiratória.
 
 (pausa)
 
-O índice de massa corporal não contraindica o atendimento. Orienta o planejamento.
+No SAVO, essas particularidades são aprofundadas no módulo de avaliação clínica e populações especiais, com a resposta à emergência pediátrica.
 
-## 8 · Ortodontia e distúrbios respiratórios do sono (14:00–15:00)
+[Slide 8 — Índice de massa corporal]
+
+Em todas as idades, o índice de massa corporal integra os dois instrumentos: é item do STOP-Bang e do SARI. Sevgili e Değirmencioğlu, em 2026, acompanharam 512 crianças sob sedação para tratamento odontológico: sobrepeso e obesidade associaram-se a chance 3,4 vezes maior de hipoxemia.
+
+## 8 · Ortodontia e distúrbios respiratórios do sono (15:00–15:45)
 
 [Slide 9 — Ortodontia e sono]
 
-Essa avaliação não é exclusiva de quem realiza sedação. A American Association of Orthodontists publicou documentos de posicionamento sobre o papel do ortodontista nos distúrbios respiratórios do sono.
-
-Na prática, contudo, Triggs e colaboradores, em 2022, constataram que 38% dos ortodontistas não realizavam nenhuma triagem. E o principal fator associado à triagem não foi a idade nem o tempo de prática clínica.
+Essa avaliação não é exclusiva de quem realiza sedação. Triggs e colaboradores, em 2022, constataram que 38% dos ortodontistas não realizavam nenhuma triagem. E o principal fator associado à triagem não foi a idade nem o tempo de prática clínica.
 
 Foram as horas de educação continuada.
 
 O conhecimento sobre via aérea transforma a conduta clínica.
 
-## 9 · O protocolo de dois minutos (15:00–17:00)
+## 9 · O protocolo de dois minutos (15:45–17:30)
 
 [Slide 10 — O protocolo de dois minutos]
 
@@ -181,7 +191,7 @@ A avaliação da via aérea demanda cerca de dois minutos e emprega recursos que
 
 E a Resolução CFO 295/2026 confirma esse percurso: o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar. A prevenção começa aqui.
 
-## 10 · Próxima aula e convite (17:00–19:00)
+## 10 · Próxima aula e convite (17:30–19:00)
 
 [Slide 11 — Próxima aula e caminhos]
 
@@ -218,19 +228,22 @@ Pasterkamp H et al. Eur Respir J 2016. doi:10.1183/13993003.01132-2015
 Sibert KS, Long JL, Haddy SM. Cureus 2020. doi:10.7759/cureus.8196
 Rasheed MA et al. Anaesth Crit Care Pain Med 2024. doi:10.1016/j.accpm.2024.101413
 Boriosi JP et al. Paediatr Anaesth 2019. doi:10.1111/pan.13616
-Chung F et al. Chest 2016. doi:10.1378/chest.15-0903
 Chung F et al. Anesthesiology 2008. doi:10.1097/ALN.0b013e31816d83e4
 Guess et al. J Dent Educ 2021. doi:10.1002/jdd.12831
 Kapur VK et al. J Clin Sleep Med 2017. doi:10.5664/jcsm.6506
 Mallampati et al. Can Anaesth Soc J 1985. doi:10.1007/BF03011357
 Samsoon, Young. Anaesthesia 1987. doi:10.1111/j.1365-2044.1987.tb04039.x
 Nuckton TJ et al. Sleep 2006. doi:10.1093/sleep/29.7.903
-Vo et al. Anesth Analg 2026. doi:10.1213/ANE.0000000000008235
-Lee et al. Anesth Analg 2006. doi:10.1213/01.ane.0000217211.12232.55
 El-Ganzouri AR et al. Anesth Analg 1996. doi:10.1097/00000539-199606000-00017
+Harless J, Ramaiah R, Bhananker SM. Int J Crit Illn Inj Sci 2014. doi:10.4103/2229-5151.128015
+Holzki J et al. Paediatr Anaesth 2018. doi:10.1111/pan.13281
+Tobias JD. Paediatr Anaesth 2015. doi:10.1111/pan.12528
+Adewale L. Paediatr Anaesth 2009. doi:10.1111/j.1460-9592.2009.03012.x
+Di Cicco M et al. Pediatr Pulmonol 2020. doi:10.1002/ppul.25169
+Patel R et al. Can J Anaesth 1994. doi:10.1007/BF03011582
+Kitamura T et al. Lancet 2010. doi:10.1016/S0140-6736(10)60064-5
+Lomez et al. Arch Argent Pediatr 2024. doi:10.5546/aap.2023-10172.eng
 Sevgili, Değirmencioğlu. J Anesth 2026. doi:10.1007/s00540-026-03879-6
-Ceban et al. Sleep Med Rev 2024. doi:10.1016/j.smrv.2024.102029
-Behrents et al. Am J Orthod Dentofacial Orthop 2019. doi:10.1016/j.ajodo.2019.04.009
 Triggs et al. J Clin Exp Dent 2022. doi:10.4317/jced.59708
 Conselho Federal de Odontologia. Resolução CFO nº 295/2026.
 Áudios: Wikimedia Commons — TONY LU (CC BY-SA 4.0); James Heilman, MD (CC BY-SA 3.0).

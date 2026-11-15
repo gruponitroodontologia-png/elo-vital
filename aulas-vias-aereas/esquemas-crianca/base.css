@@ -1,0 +1,11 @@
+:root{--dark:#17112c;--gold:#E0A93B;--ink:#2A2526;--lav:#A5A5D3;--onw:#FBEDED;--paper:#FBFAFB;--wine:#690D0E;--mute:#6E6A8E}
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1920px;height:1080px;font-family:Poppins,sans-serif;color:var(--ink);background:linear-gradient(135deg,#EEEDF6 0%,#E4E3EE 100%);position:relative;overflow:hidden}
+.top{position:absolute;left:96px;top:52px;font-size:24px;letter-spacing:.22em;color:var(--mute);font-weight:500}
+.kick{font-size:28px;letter-spacing:.2em;color:var(--gold);font-weight:600;text-transform:uppercase}
+h1{font-size:60px;line-height:1.08;color:var(--wine);font-weight:800;margin:14px 0 0}
+.refs{position:absolute;left:96px;bottom:44px;font-size:22px;color:#7d7a8c;right:200px;line-height:1.4}
+.num{position:absolute;right:100px;bottom:48px;font-size:24px;color:var(--ink)}
+.lbl{font-family:Poppins;font-size:22px;fill:var(--ink)}
+.lblb{font-family:Poppins;font-size:24px;font-weight:700;fill:var(--wine)}
+.cap{font-family:Poppins;font-size:30px;font-weight:700;letter-spacing:.12em;fill:var(--mute)}

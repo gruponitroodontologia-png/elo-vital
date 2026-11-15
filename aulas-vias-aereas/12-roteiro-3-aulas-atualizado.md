@@ -30,7 +30,7 @@ Via aérea: competência de toda a Odontologia. Efeito dominó em cinco peças: 
 | 4 | **Os ruídos que precisamos conhecer** | 4:30–7:00 | Ronco (obstrução parcial supraglótica → reposicionar), gorgolejo (líquido → aspirar), estridor (laringe estreitada), sibilo (broncoespasmo), silêncio (obstrução total com esforço paradoxal, ou depressão respiratória sem esforço). Bohadana 2014; Pasterkamp 2016; Sibert 2020; Rasheed 2024; Boriosi 2019. |
 | 5 | STOP-Bang | 7:00–9:30 | 48% em risco [37]; 398 de alto risco e nenhum encaminhado [38]; a polissonografia diagnostica [39]. |
 | 6 | Mallampati e SARI | 9:30–12:30 | [40, 41]; Mallampati em decúbito (Vo 2026); isolado tem acurácia limitada (Lee 2006). |
-| 7 | IMC e o paciente pediátrico | 12:30–14:00 | [42, 43]. |
+| 7 | **A criança hígida** + IMC | 12:30–15:00 | Esquemas E1–E4 (`esquemas-crianca/`): occipício, língua, epiglote em "U", laringe alta e em funil, cricoide (Holzki 2018; Tobias 2015), Poiseuille (×16 × ×3,2), consumo de O₂ 6 × 3 mL/kg/min, dessaturação 96 × 382 s (Patel 1994), 71% de PCR extra-hospitalar não cardíaca (Kitamura 2010). Anúncio: aprofundamento no SAVO. |
 | 8 | Ortodontia e sono | 14:00–15:00 | [44]. |
 | 9 | O roteiro de 2 minutos | 15:00–17:00 | Pergunte, meça, olhe, decida, registre. CFO 295/2026 como confirmação. |
 | 10 | Próxima aula e convite | 17:00–19:00 | **SAVO** e a **complementação de carga horária** (Trilha 295). "Nenhum curso habilita, inclusive o nosso." |
