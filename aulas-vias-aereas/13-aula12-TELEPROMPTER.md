@@ -5,15 +5,15 @@ Versão revisada (15/11/2026) · 17 slides · para validação da Profa. Carla G
 
 ## 0 · Olho no olho — câmera aberta, sem slide (00:00–02:02)
 
-Bom dia. Na Aula #11, demonstramos que a cadeia de eventos que compromete a via aérea se inicia muito antes de qualquer sedação: na aferição dos sinais vitais, na resposta ao estresse, na dose do anestésico local. Concluímos que a via aérea é competência de toda a Odontologia. O link está na descrição.
+Bom dia. Na Aula #11, demonstramos que a cadeia de eventos que compromete a via aérea se inicia muito antes de qualquer sedação: na aferição dos sinais vitais, na resposta ao estresse, na dose do anestésico local, na obstrução por corpo estranho. Concluímos que a via aérea é competência de toda a Odontologia. O link está na descrição.
 
-E encerramos com uma questão: se o risco está presente em todo atendimento, qual avaliação precede a abertura da boca do paciente?
+E encerramos com uma questão: se o risco está presente em todo atendimento, quais critérios devem integrar a avaliação do paciente antes do procedimento?
 
 (pausa)
 
 Considere o seu último paciente. Você conhece o padrão respiratório dele durante o sono? Há relato de ronco, de apneia testemunhada? Em decúbito, na cadeira reclinada, a base da língua se desloca posteriormente sobre a orofaringe?
 
-Lonia e colaboradores, em 2020, atribuíram ao cirurgião-dentista que formula essas perguntas uma função precisa: sentinela epidemiológica.
+Lonia e colaboradores, em 2020, atribuíram ao cirurgião-dentista que formula essas perguntas uma função precisa: sentinela epidemiológica. O termo designa o profissional que, por atender com regularidade uma população ampla, está em posição de identificar sinais de doenças ainda não diagnosticadas e encaminhar o paciente. No estudo, quase metade dos pacientes de clínicas odontológicas apresentou risco para apneia obstrutiva do sono, e, entre os que realizaram o exame do sono, 79% tiveram o diagnóstico confirmado.
 
 Na aula anterior, tratamos da alfabetização: aferir sinais vitais, reconhecer uma pausa respiratória. Hoje avançamos uma camada do letramento: a avaliação sistematizada do paciente antes que o risco se estabeleça.
 
