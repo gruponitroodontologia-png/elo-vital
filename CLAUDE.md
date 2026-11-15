@@ -198,6 +198,12 @@
   8 anos que não aceita nem a máscara; "o óxido nitroso continua precioso, só precisa deixar
   de estar sozinho"; fecho "Apto no papel. Apto no mocho." Dois prazos separados: Trilha até
   16/11; Fundamentos até 07/12. Sem preço, sem condição VIP, sem prazo da CFO.
+- **Carga horária dos Fundamentos (15/11/2026):** a Carla **garantiu** que as 46 h
+  teóricas online contam na complementação de horas da Habilitação Básica (200 h = 96 h da
+  habilitação em N2O + 104 h a comprovar), arts. 34 e 39 da CFO 295/2026 (artigos tirados da
+  página da Trilha 295, Artifact XZuU6Xvn7YujeY32uUG5ZW; **texto da Resolução não conferido
+  por mim**). Página dos Fundamentos atualizada; novo item de FAQ liga à Trilha 295 via
+  WhatsApp. Trilha 295 Online (104 h só online) é o precedente.
 - Mensagem fixa do grupo de WhatsApp (320): trocar "decisão clínica por semana"
   por "conteúdos selecionados" + aulas gratuitas do Projeto Cultura de Segurança.
 - Mensagem fixa do grupo de WhatsApp (320) e vídeos de 20 s para os 40: ver
