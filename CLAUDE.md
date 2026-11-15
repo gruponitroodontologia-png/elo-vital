@@ -196,6 +196,8 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Apresentação final da #11: 15 slides (slide 2 = Apresentadora, padrão das aulas), sem marca d'água,
   PDF e PPTX sem notas (as notas aparecem no Zoom).
 
+- **Acervo da aula de Via Aérea do SAVO:** `aulas-vias-aereas/14-ACERVO-SAVO-via-aerea.md` (tudo o que sai das aulas gratuitas e vai para o aprofundamento no SAVO; acrescentar a cada corte).
+
 ## Pendências / próximos passos
 - **Áudios da Aula #12** em `aulas-vias-aereas/audios-aula12/` (ronco, estridor, sibilos, ronco seguido de silêncio; créditos em CREDITOS.txt, Wikimedia Commons CC BY-SA). Wikimedia liberado na rede (14/11/2026), mas limita downloads (erro 429): usar as versões "transcoded" do upload.wikimedia.org. **Gorgolejo pendente** (sem gravação clínica aberta).
 - **SBV NÃO é pré-requisito do SAVO** (Carla, 09/11/2026): é um produto que pode ser
