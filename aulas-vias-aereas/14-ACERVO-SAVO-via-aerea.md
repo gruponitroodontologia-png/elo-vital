@@ -122,6 +122,14 @@ Esquemas prontos em `esquemas-crianca/` (E1 sagital, E2 laringe e Poiseuille, E3
     - três vantagens sobre a 1ª geração: descompressão gástrica, conduto para intubação e maior pressão de vedação; caso de lactente com insuflação gástrica revertida durante a ventilação. Dodd et al., Ann Emerg Med 2016 · [doi:10.1016/j.annemergmed.2016.03.016](https://doi.org/10.1016/j.annemergmed.2016.03.016)
     - o canal gástrico reduz o volume de ar no estômago. Kim et al., Anesth Pain Med 2024 · [doi:10.17085/apm.23150](https://doi.org/10.17085/apm.23150)
     - i-gel × ProSeal em lactentes e crianças de 2 a 25 kg, ambos eficazes. Sanket et al., AANA J 2015 (PMID 26390746)
+- **Comparativo de supraglóticos em pediatria (esquema E9):**
+  - i-gel × ProSeal e Clássica (metanálise, 9 ECR): vedação 2,07 cmH₂O maior que a ProSeal e semelhante à Clássica; sucesso na 1ª tentativa, facilidade de inserção e passagem de sonda gástrica semelhantes. Maitra et al., Paediatr Anaesth 2014 · [doi:10.1111/pan.12483](https://doi.org/10.1111/pan.12483)
+  - Supreme × ProSeal e i-gel (metanálise): vedação e sucesso semelhantes; inserção ~1,9 s mais rápida que a do i-gel. Bhattacharjee et al., J Clin Anesth 2017 · [doi:10.1016/j.jclinane.2017.04.019](https://doi.org/10.1016/j.jclinane.2017.04.019)
+  - AuraGain × i-gel: vedação de 17,1 × 23,0 cmH₂O; i-gel com inserção mais rápida e menos sangramento. Mihara et al., Eur J Anaesthesiol 2019 · [doi:10.1097/EJA.0000000000000987](https://doi.org/10.1097/EJA.0000000000000987)
+  - AuraGain × ProSeal: vedação de 23,3 × 20,6 cmH₂O; inserção e passagem da sonda mais fáceis com a AuraGain. Joshi et al., Indian J Anaesth 2018 · [doi:10.4103/ija.IJA_86_18](https://doi.org/10.4103/ija.IJA_86_18)
+  - Supreme × i-gel, tamanho 2: vedação de 25,2 × 22,1 cmH₂O. Aggarwal et al., Turk J Anaesthesiol Reanim 2021 · [doi:10.5152/TJAR.2021.614](https://doi.org/10.5152/TJAR.2021.614)
+  - i-gel × Air-Q: sucesso total de 97,3% × 94,7%; inserção mais rápida com o i-gel. Wahba et al., Anesth Essays Res 2021 · [doi:10.4103/aer.AER_107_20](https://doi.org/10.4103/aer.AER_107_20)
+  - *Mensagem para o SAVO:* as diferenças entre os dispositivos são pequenas; o decisivo é o treino da equipe com o dispositivo disponível (McCaw 2023).
 - **Decaimento da habilidade:**
   - o tempo até a ventilação de resgate sobe de ~57 para ~90 s em 4 meses. McCaw et al., Adv Simul 2023 · [doi:10.1186/s41077-023-00244-5](https://doi.org/10.1186/s41077-023-00244-5)
   - decaimento em 6 meses. Chan et al., PLOS Glob Public Health 2023 · [doi:10.1371/journal.pgph.0000705](https://doi.org/10.1371/journal.pgph.0000705)
