@@ -1,9 +1,9 @@
 # TELEPROMPTER · Aula #12 — Prevenir: avaliar e monitorizar ventilação, oxigenação e perfusão
 
 Projeto Cultura de Segurança · quinta, 19/11/2026, 11h11 · duração-alvo: até 20 min
-Versão em registro técnico-científico (14/11/2026) · para validação da Profa. Carla Gamba · literatura conferida no PubMed
+Versão revisada (15/11/2026) · 17 slides · para validação da Profa. Carla Gamba · literatura conferida no PubMed
 
-## 0 · Olho no olho — câmera aberta, sem slide (00:00–01:30)
+## 0 · Olho no olho — câmera aberta, sem slide (00:00–02:02)
 
 Bom dia. Na Aula #11, demonstramos que a cadeia de eventos que compromete a via aérea se inicia muito antes de qualquer sedação: na aferição dos sinais vitais, na resposta ao estresse, na dose do anestésico local. Concluímos que a via aérea é competência de toda a Odontologia. O link está na descrição.
 
@@ -19,19 +19,19 @@ Na aula anterior, tratamos da alfabetização: aferir sinais vitais, reconhecer 
 
 A prevenção começa na anamnese. E demanda cerca de dois minutos.
 
-## 1 · Capa (01:30–01:45)
+## 1 · Capa (02:02–02:15)
 
 [Slide 1 — Capa]
 
 Aula #12 do Projeto Cultura de Segurança: prevenir. Avaliação e monitorização da ventilação, da oxigenação e da perfusão.
 
-## 2 · Apresentadora (01:45–02:00)
+## 2 · Apresentadora (02:15–02:26)
 
 [Slide 2 — Apresentadora]
 
 Sou a Profa. Carla Gamba, cirurgiã-dentista, mestre, cofundadora do Grupo Nitro e membro fundadora da SOBRASO.
 
-## 3 · Ventilação, oxigenação e perfusão (02:00–04:30)
+## 3 · Ventilação, oxigenação e perfusão (02:26–04:20)
 
 [Slide 3 — Ventilação, oxigenação e perfusão]
 
@@ -47,7 +47,7 @@ Fukayama e Yagiela, em 2006, hierarquizaram os recursos de monitorização no co
 
 O primeiro monitor é a equipe. E a monitorização começa antes do procedimento.
 
-## 4 · Os ruídos respiratórios que precisamos reconhecer (04:30–07:30)
+## 4 · Os ruídos respiratórios que precisamos reconhecer (04:20–07:58)
 
 [Slide 4 — Os ruídos respiratórios]
 
@@ -61,9 +61,9 @@ O ronco: ruído de baixa frequência, de timbre áspero. Traduz obstrução parc
 
 O gorgolejo: ruído borbulhante, de caráter úmido. Indica conteúdo líquido na faringe: saliva, sangue, água de refrigeração. A conduta é a aspiração.
 
-[ÁUDIO 2 — gorgolejo · pendente: gravar em simulador ou omitir]
+[ÁUDIO 2 — gorgolejo · sem gravação clínica aberta: apenas a descrição verbal]
 
-O estridor: ruído agudo, de alta frequência, predominantemente inspiratório. Corresponde ao fluxo turbulento através de uma laringe estreitada: laringoespasmo parcial, corpo estranho, edema. Sibert e colaboradores, em 2020, revisaram as causas da obstrução aguda da via aérea superior, e o laringoespasmo figura entre elas.
+O estridor: ruído agudo, de alta frequência, predominantemente inspiratório. Corresponde ao fluxo turbulento através de uma laringe estreitada: laringoespasmo parcial, corpo estranho, edema.
 
 [ÁUDIO 3 — estridor · 6 s · arquivo 03-estridor.mp3]
 
@@ -83,7 +83,7 @@ Se há retração torácica com expansão abdominal, a chamada respiração para
 
 Por isso o estetoscópio pré-traqueal detecta o evento antes do oxímetro. Boriosi e colaboradores, em 2019, demonstraram que ele foi o primeiro monitor a identificar o evento adverso em 64% dos casos.
 
-## 5 · O sono como sinal clínico: STOP-Bang (07:30–09:45)
+## 5 · O sono como sinal clínico: STOP-Bang (07:58–10:07)
 
 [Slide 5 — STOP-Bang]
 
@@ -107,11 +107,11 @@ O instrumento constava da ficha clínica. Faltou o conhecimento para converter o
 
 A diretriz da American Academy of Sleep Medicine, de Kapur e colaboradores, em 2017, estabelece que questionários não substituem o diagnóstico: o padrão-ouro é a polissonografia. Ao cirurgião-dentista compete triar, ajustar a conduta e encaminhar.
 
-## 6 · Avaliação anatômica da via aérea: Mallampati e SARI (09:45–12:30)
+## 6 · Avaliação anatômica da via aérea: Mallampati e SARI (10:07–11:30)
 
 [Slide 6 — Mallampati]
 
-A classificação de Mallampati, de 1985, modificada por Samsoon e Young em 1987: paciente sentado, abertura bucal máxima, protrusão lingual, sem fonação.
+A classificação de Mallampati, de 1985: paciente sentado, abertura bucal máxima, protrusão lingual, sem fonação.
 
 Nuckton e colaboradores, em 2006, demonstraram que cada classe adicional de Mallampati mais que duplica a chance de apneia obstrutiva do sono.
 
@@ -125,53 +125,53 @@ Contudo, nenhum preditor isolado é suficiente. A resposta é a avaliação mult
 
 Seis dos sete critérios são exame físico de cabeça e pescoço: território do cirurgião-dentista. Apenas a história de intubação difícil provém da anamnese.
 
-## 7 · A criança hígida: particularidades anatômicas e fisiológicas (12:30–15:45)
+## 7 · A criança hígida: anatomia (11:30–13:33)
 
-[Esquema E1 — corte sagital: criança × adulto]
+[Slide 8 — Esquema E1: corte sagital, criança × adulto]
 
 E há um paciente que exige, por si só, uma leitura diferente: a criança, mesmo hígida.
 
 Harless, Ramaiah e Bhananker, em 2014, sistematizaram as diferenças. O occipício proeminente flexiona o pescoço em decúbito. A língua é proporcionalmente volumosa, e a mandíbula, mais curta. A epiglote, em forma de "U", é mais longa, flácida e projetada sobre a glote. A laringe é mais alta e anterior: o anel cricoide situa-se em C4 ao nascimento e em C6 no adulto.
 
-[Esquema E3 — posicionamento]
+[Slide 9 — Esquema E3: posicionamento]
 
 Por isso, na criança pequena, o posicionamento neutro requer um coxim sob os ombros, e não sob a cabeça.
 
-[Esquema E2 — laringe e lei de Poiseuille]
+[Slide 10 — Esquema E2: laringe e lei de Poiseuille]
 
 A laringe pediátrica tem configuração em funil, e o anel cricoide, único anel cartilaginoso completo e não distensível, é o ponto funcionalmente mais estreito, segundo Holzki e colaboradores, em 2018. E a lei de Poiseuille explica a gravidade: a resistência ao fluxo varia com a quarta potência do raio. Um milímetro de edema circunferencial eleva a resistência cerca de dezesseis vezes na via aérea de quatro milímetros da criança, e pouco mais de três vezes na do adulto.
 
-[Esquema E4 — fisiologia e etiologia da parada]
+## 8 · A criança hígida: fisiologia e sedação (13:33–17:41)
+
+[Slide 11 — Esquema E4: fisiologia e etiologia da parada]
 
 Some-se a fisiologia. A atividade metabólica é maior: o lactente consome cerca de 6 mL de oxigênio por quilo por minuto, o dobro do adulto. O volume corrente por quilo é semelhante; a demanda é atendida pela frequência respiratória, porque o volume-minuto é o produto do volume corrente pela frequência.
 
-[Esquema E5 — reserva pulmonar e ventilação alveolar]
+Patel e colaboradores, em 1994, demonstraram que, mesmo após pré-oxigenação, o lactente atinge 90% de saturação em cerca de 96 segundos de apneia; o adolescente, em 382.
 
-A capacidade residual funcional é o ar que permanece nos pulmões ao final de uma expiração normal: a reserva. A ventilação alveolar traduz a demanda. Na criança, a relação entre ventilação alveolar e capacidade residual funcional é de cerca de 5 para 1; no adulto, de 2 para 1. Na apneia, a reserva é consumida muito mais rapidamente.
+E o desfecho é coerente: Kitamura e colaboradores, em 2010, analisaram 5.170 paradas extra-hospitalares em crianças, e 71% tiveram causa não cardíaca. Na criança, a parada cardíaca é, com maior frequência, o desfecho de uma falência respiratória.
 
-Patel e colaboradores, em 1994, demonstraram que, mesmo após pré-oxigenação, o lactente atinge 90% de saturação em cerca de 96 segundos; o adolescente, em 382. E, na sedação, raramente se obtém a pré-oxigenação adequada da criança.
+[Slide 12 — Esquema E5: reserva pulmonar e ventilação alveolar]
 
-[Esquema E6 — da depressão ventilatória à bradicardia]
+Por quê? A capacidade residual funcional é o ar que permanece nos pulmões ao final de uma expiração normal: a reserva. A ventilação alveolar traduz a demanda. Na criança, a relação entre ventilação alveolar e capacidade residual funcional é de cerca de 5 para 1; no adulto, de 2 para 1. Na apneia, a reserva é consumida muito mais rapidamente. E, na sedação, raramente conseguimos pré-oxigenar adequadamente a criança.
+
+[Slide 13 — Esquema E6: da depressão ventilatória à bradicardia]
 
 Agora se compreende por que o risco se eleva na sedação da criança com hipnóticos e opioides. A resposta ventilatória é deprimida, e a dessaturação evolui rapidamente. A primeira alteração hemodinâmica é a bradicardia. E o débito cardíaco da criança depende da frequência, porque o ventrículo imaturo tem capacidade limitada de aumentar o volume sistólico, como descrevem Veldman e colaboradores, em 2006. Bradicardia significa menor débito e menor entrega de oxigênio aos tecidos.
 
 Coté e colaboradores, em 2000, analisaram eventos adversos graves em sedação pediátrica: em cerca de 80%, o primeiro evento foi respiratório. E o uso de três ou mais fármacos sedativos associou-se fortemente a desfechos adversos.
 
-O raciocínio fisiológico completo, nós desenvolvemos no SAVO.
-
-E o desfecho é coerente: Kitamura e colaboradores, em 2010, analisaram 5.170 paradas extra-hospitalares em crianças, e 71% tiveram causa não cardíaca. Na criança, a parada cardíaca é, com maior frequência, o desfecho de uma falência respiratória.
-
 (pausa)
 
-No SAVO, essas particularidades anatômicas são aprofundadas no módulo de avaliação clínica e populações especiais.
+As particularidades anatômicas e o raciocínio fisiológico completo, nós aprofundamos no SAVO, no módulo de avaliação clínica e populações especiais.
 
-[Slide 8 — Índice de massa corporal]
+[Slide 14 — Índice de massa corporal]
 
-Em todas as idades, o índice de massa corporal integra os dois instrumentos: é item do STOP-Bang e do SARI. Sevgili e Değirmencioğlu, em 2026, acompanharam 512 crianças sob sedação para tratamento odontológico: sobrepeso e obesidade associaram-se a chance 3,4 vezes maior de hipoxemia.
+O índice de massa corporal integra o STOP-Bang e o SARI. Na criança, Sevgili e Değirmencioğlu, em 2026, acompanharam 512 crianças sob sedação para tratamento odontológico: sobrepeso e obesidade associaram-se a chance 3,4 vezes maior de hipoxemia.
 
-## 9 · O protocolo de dois minutos (15:45–17:30)
+## 9 · O protocolo de dois minutos (17:41–18:41)
 
-[Slide 10 — O protocolo de dois minutos]
+[Slide 15 — O protocolo de dois minutos]
 
 Na próxima primeira consulta, cinco etapas.
 
@@ -189,9 +189,9 @@ Registrar: o prontuário documenta que a prevenção foi realizada.
 
 E a Resolução CFO 295/2026 confirma esse percurso: o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar. A prevenção começa aqui.
 
-## 10 · Próxima aula e convite (17:30–19:00)
+## 10 · Próxima aula e convite (18:41–20:02)
 
-[Slide 11 — Próxima aula e caminhos]
+[Slide 16 — Próxima aula e caminhos]
 
 Na próxima quinta, Aula #13, completamos a sequência: reconhecer, manejar e resgatar. O intervalo em que, apesar da prevenção, o evento adverso se instala.
 
@@ -205,9 +205,9 @@ Uma observação necessária: nenhum curso habilita, inclusive o nosso. O curso 
 
 Os links estão na descrição.
 
-## 11 · A nova premissa (19:00–20:00)
+## 11 · A nova premissa (20:02–20:22)
 
-[Slide 12 — A nova premissa]
+[Slide 17 — A nova premissa]
 
 Antes da sedação, antes do anestésico local, antes do primeiro instrumento, há uma avaliação.
 
