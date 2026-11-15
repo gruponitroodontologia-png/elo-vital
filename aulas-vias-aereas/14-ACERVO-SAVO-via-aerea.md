@@ -136,6 +136,7 @@ Esquemas prontos em `esquemas-crianca/` (E1 sagital, E2 laringe e Poiseuille, E3
   - Dentistas com tubo laríngeo × bolsa-válvula-máscara: sem insuflação gástrica com o tubo laríngeo; usar só após treinamento e iniciar as compressões antes da inserção. Keilholz e Mutzbauer, Br Dent J 2015 · [doi:10.1038/sj.bdj.2015.385](https://doi.org/10.1038/sj.bdj.2015.385)
   - Profundidade do i-gel pediátrico variável com o tamanho da criança. Abukawa et al., J Anesth 2015 · [doi:10.1007/s00540-015-2108-7](https://doi.org/10.1007/s00540-015-2108-7)
   - Faixas de peso do i-gel (fabricante; conferir na embalagem): 1 de 2 a 5 kg · 1,5 de 5 a 12 · 2 de 10 a 25 · 2,5 de 25 a 35 · 3 de 30 a 60 · 4 de 50 a 90 · 5 acima de 90.
+  - **Tamanho por idade e peso (esquema E11):** 4 anos (~16 kg): i-gel 2 · 6 anos (~20–25 kg): 2 · 8 anos (~25–31 kg): 2,5 · 10 anos (~30–37 kg): 2,5 ou 3 · 12 anos (~40–43 kg): 3 · adulto de 50 kg: 3 ou 4 · 70 kg: 4 · 100 kg: 5. O peso foi estimado pelas fórmulas de suporte de vida pediátrico: (idade × 2) + 8 de 1 a 5 anos; (idade × 3) + 7 de 6 a 12 anos. **Pesar sempre.** Kit da maleta, do mesmo modelo: 2 · 2,5 · 3 · 4 · 5, mais o 1,5 se houver atendimento abaixo de 10–12 kg.
   - *Decisão clínica da Carla sobre o modelo da maleta.*
   - *Mensagem para o SAVO:* as diferenças entre os dispositivos são pequenas; o decisivo é o treino da equipe com o dispositivo disponível (McCaw 2023).
 - **Decaimento da habilidade:**
