@@ -45,8 +45,6 @@ A falência obedece a uma sequência. Primeiro, o estreitamento da via aérea su
 
 Fukayama e Yagiela, em 2006, hierarquizaram os recursos de monitorização no consultório. O primeiro não é um equipamento: é o profissional responsável. Seguem-se a pressão arterial, a oximetria de pulso, o eletrocardiograma e o estetoscópio pré-traqueal ou a capnografia.
 
-E justificam: a monitorização revela tendências deletérias graduais, ainda reversíveis, antes que se configure a emergência.
-
 O primeiro monitor é a equipe. E a monitorização começa antes do procedimento.
 
 ## 4 · Os ruídos respiratórios que precisamos reconhecer (04:30–07:30)
@@ -107,17 +105,15 @@ Nenhum dos 398 foi encaminhado.
 
 O instrumento constava da ficha clínica. Faltou o conhecimento para converter o escore em conduta.
 
-E o escopo deve ser preciso. A diretriz da American Academy of Sleep Medicine, de Kapur e colaboradores, em 2017, estabelece que questionários não substituem o diagnóstico: o padrão-ouro é a polissonografia. Ao cirurgião-dentista compete triar, ajustar a conduta e encaminhar.
+A diretriz da American Academy of Sleep Medicine, de Kapur e colaboradores, em 2017, estabelece que questionários não substituem o diagnóstico: o padrão-ouro é a polissonografia. Ao cirurgião-dentista compete triar, ajustar a conduta e encaminhar.
 
 ## 6 · Avaliação anatômica da via aérea: Mallampati e SARI (09:45–12:30)
 
 [Slide 6 — Mallampati]
 
-Agora, o exame que o cirurgião-dentista executa com familiaridade singular, porque examina a orofaringe diariamente.
+A classificação de Mallampati, de 1985, modificada por Samsoon e Young em 1987: paciente sentado, abertura bucal máxima, protrusão lingual, sem fonação.
 
-A classificação de Mallampati, de 1985, modificada por Samsoon e Young em 1987: paciente sentado, abertura bucal máxima, protrusão lingual, sem fonação. Classe I, visualizam-se palato mole, fauces, úvula e pilares. Classe IV, apenas o palato duro.
-
-Nuckton e colaboradores, em 2006, demonstraram que cada classe adicional de Mallampati mais que duplica a chance de apneia obstrutiva do sono, de forma independente de mais de trinta variáveis.
+Nuckton e colaboradores, em 2006, demonstraram que cada classe adicional de Mallampati mais que duplica a chance de apneia obstrutiva do sono.
 
 (pausa)
 
@@ -135,7 +131,7 @@ Seis dos sete critérios são exame físico de cabeça e pescoço: território d
 
 E há um paciente que exige, por si só, uma leitura diferente: a criança, mesmo hígida.
 
-Harless, Ramaiah e Bhananker, em 2014, sistematizaram as diferenças. O occipício proeminente flexiona o pescoço em decúbito. A língua é proporcionalmente volumosa, e a mandíbula, mais curta. A epiglote, em forma de "U", é mais longa, flácida e projetada sobre a glote. A laringe é mais alta e anterior: o anel cricoide situa-se em C4 ao nascimento e em C6 no adulto. E as cartilagens são complacentes; a calcificação ocorre apenas na adolescência.
+Harless, Ramaiah e Bhananker, em 2014, sistematizaram as diferenças. O occipício proeminente flexiona o pescoço em decúbito. A língua é proporcionalmente volumosa, e a mandíbula, mais curta. A epiglote, em forma de "U", é mais longa, flácida e projetada sobre a glote. A laringe é mais alta e anterior: o anel cricoide situa-se em C4 ao nascimento e em C6 no adulto.
 
 [Esquema E3 — posicionamento]
 
@@ -154,6 +150,12 @@ Some-se a fisiologia. A atividade metabólica é maior: o lactente consome cerca
 A capacidade residual funcional é o ar que permanece nos pulmões ao final de uma expiração normal: a reserva. A ventilação alveolar traduz a demanda. Na criança, a relação entre ventilação alveolar e capacidade residual funcional é de cerca de 5 para 1; no adulto, de 2 para 1. Na apneia, a reserva é consumida muito mais rapidamente.
 
 Patel e colaboradores, em 1994, demonstraram que, mesmo após pré-oxigenação, o lactente atinge 90% de saturação em cerca de 96 segundos; o adolescente, em 382. E, na sedação, raramente se obtém a pré-oxigenação adequada da criança.
+
+[Esquema E6 — da depressão ventilatória à bradicardia]
+
+Agora se compreende por que o risco se eleva na sedação da criança com hipnóticos e opioides. A resposta ventilatória é deprimida, e a dessaturação evolui rapidamente. A primeira alteração hemodinâmica é a bradicardia. E o débito cardíaco da criança depende da frequência, porque o ventrículo imaturo tem capacidade limitada de aumentar o volume sistólico, como descrevem Veldman e colaboradores, em 2006. Bradicardia significa menor débito e menor entrega de oxigênio aos tecidos.
+
+Coté e colaboradores, em 2000, analisaram eventos adversos graves em sedação pediátrica: em cerca de 80%, o primeiro evento foi respiratório. E o uso de três ou mais fármacos sedativos associou-se fortemente a desfechos adversos.
 
 O raciocínio fisiológico completo, nós desenvolvemos no SAVO.
 
@@ -175,17 +177,15 @@ Na próxima primeira consulta, cinco etapas.
 
 Investigar: ronco, sonolência diurna, apneia testemunhada, hipertensão arterial.
 
-Mensurar: massa corporal e estatura para o índice de massa corporal, circunferência cervical. Somadas idade e sexo, o STOP-Bang está completo.
+Mensurar: índice de massa corporal e circunferência cervical.
 
-Examinar: classificação de Mallampati, abertura bucal, protrusão mandibular, distância tireomentoniana. Assim se obtém a quase totalidade do SARI.
+Examinar: Mallampati, abertura bucal, protrusão mandibular, distância tireomentoniana.
 
-Decidir: STOP-Bang elevado indica encaminhamento para avaliação do sono. SARI elevado indica um plano de manejo da via aérea antes de procedimentos prolongados, em decúbito dorsal ou sob sedação.
+Decidir: STOP-Bang elevado indica encaminhamento para avaliação do sono. SARI elevado indica um plano de manejo da via aérea.
 
 Registrar: o prontuário documenta que a prevenção foi realizada.
 
 (pausa)
-
-A avaliação da via aérea demanda cerca de dois minutos e emprega recursos que o cirurgião-dentista já domina: a inspeção, a mensuração e a anamnese dirigida.
 
 E a Resolução CFO 295/2026 confirma esse percurso: o cirurgião-dentista deverá estar apto a prevenir, reconhecer, manejar e resgatar. A prevenção começa aqui.
 
@@ -241,6 +241,9 @@ Di Cicco M et al. Pediatr Pulmonol 2020. doi:10.1002/ppul.25169
 Patel R et al. Can J Anaesth 1994. doi:10.1007/BF03011582
 Kitamura T et al. Lancet 2010. doi:10.1016/S0140-6736(10)60064-5
 Lomez et al. Arch Argent Pediatr 2024. doi:10.5546/aap.2023-10172.eng
+Coté CJ et al. Pediatrics 2000;105:805. doi:10.1542/peds.105.4.805
+Coté CJ et al. Pediatrics 2000;106:633. doi:10.1542/peds.106.4.633
+Veldman A et al. Mini Rev Med Chem 2006. doi:10.2174/138955706777698598
 Sevgili, Değirmencioğlu. J Anesth 2026. doi:10.1007/s00540-026-03879-6
 Conselho Federal de Odontologia. Resolução CFO nº 295/2026.
 Áudios: Wikimedia Commons — TONY LU (CC BY-SA 4.0); James Heilman, MD (CC BY-SA 3.0).

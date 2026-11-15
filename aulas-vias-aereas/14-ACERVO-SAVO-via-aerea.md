@@ -17,6 +17,12 @@ Na #12 entrou só a superfície (esquema E5). No SAVO:
 - **Relação ventilação alveolar : CRF:** ~5:1 na criança × ~2:1 (ou 1,5:1) no adulto. *Fonte: tratados de anestesia pediátrica. Pendente: a Carla indicar o tratado e a edição.*
 - **Tempo de apneia até SpO₂ 90%, após pré-oxigenação** (ASA I): 0–6 meses, 96 s · 2–5 anos, 160 s · 11–18 anos, 382 s. Patel et al., Can J Anaesth 1994 · [doi:10.1007/BF03011582](https://doi.org/10.1007/BF03011582)
 - **Pré-oxigenação na criança sedada:** raramente é obtida de forma adequada (vivência clínica da Carla). *Buscar literatura de apoio.*
+- **Cascata da sedação pediátrica (esquema E6):** hipnóticos e opioides levam à depressão da resposta ventilatória, à dessaturação acelerada e à bradicardia. Como o débito cardíaco depende da frequência, a entrega de O₂ cai. *Desenvolver no SAVO: DC = FC × VS; DO₂ = DC × CaO₂; tônus vagal; atropina × adrenalina (NAP7).*
+  - Ventrículo imaturo: débito dependente da FC, com capacidade limitada de aumentar o volume sistólico. Veldman et al., Mini Rev Med Chem 2006 · [doi:10.2174/138955706777698598](https://doi.org/10.2174/138955706777698598)
+  - **~80% dos eventos adversos graves em sedação pediátrica começaram por evento respiratório** (dessaturação, apneia, laringoespasmo); fora do hospital, a PCR foi mais frequente como 2º e 3º evento (53,6% × 14%; 25% × 7%) e a ressuscitação inadequada pesou mais no desfecho. Coté et al., Pediatrics 2000;105:805 · [doi:10.1542/peds.105.4.805](https://doi.org/10.1542/peds.105.4.805)
+  - Três ou mais fármacos sedativos: 18/20 desfechos adversos, contra 7/70 com 1 ou 2; os desfechos graves foram frequentemente associados a sobredose. Coté et al., Pediatrics 2000;106:633 · [doi:10.1542/peds.106.4.633](https://doi.org/10.1542/peds.106.4.633)
+  - NAP7, Reino Unido: precipitantes de PCR perioperatória pediátrica em cirurgia não cardíaca foram hipoxemia grave (22%) e bradicardia (11%); destaques da revisão incluíram bradicardias ligadas à manipulação da via aérea e o uso de atropina no lugar de adrenalina. Oglesby et al., Anaesthesia 2024 · [doi:10.1111/anae.16251](https://doi.org/10.1111/anae.16251)
+  - *Pendente:* fonte para "DC por quilo cerca de 2× o do adulto", para a "taquicardia fisiológica" e para o "predomínio vagal" na criança.
 - Para desenvolver: por que a reserva se esgota mais rápido (demanda ÷ reserva); implicações para a sedação, a aspiração e o resgate.
 
 ## 2. Anatomia pediátrica: além do esquema
@@ -120,7 +126,7 @@ Esquemas prontos em `esquemas-crianca/` (E1 sagital, E2 laringe e Poiseuille, E3
 
 ## Pendências do acervo
 
-1. Fonte do "quase 80% das PCR pediátricas respiratórias".
+1. "Quase 80%": o dado conferido é o de Coté 2000 (~80% dos eventos adversos graves em sedação pediátrica começam por evento respiratório). Para a etiologia da PCR, usar Kitamura 2010 (71% não cardíacas).
 2. Tratado e edição da relação ventilação alveolar : CRF (5:1 × 2:1 ou 1,5:1).
 3. Literatura sobre a pré-oxigenação na criança sedada.
 4. Epiglotite e o edema da epiglote.
