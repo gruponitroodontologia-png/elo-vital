@@ -129,7 +129,7 @@ Contudo, nenhum preditor isolado é suficiente. A resposta é a avaliação mult
 
 Seis dos sete critérios são exame físico de cabeça e pescoço: território do cirurgião-dentista. Apenas a história de intubação difícil provém da anamnese.
 
-## 7 · A criança hígida: particularidades anatômicas e fisiológicas (12:30–15:00)
+## 7 · A criança hígida: particularidades anatômicas e fisiológicas (12:30–15:45)
 
 [Esquema E1 — corte sagital: criança × adulto]
 
@@ -147,27 +147,25 @@ A laringe pediátrica tem configuração em funil, e o anel cricoide, único ane
 
 [Esquema E4 — fisiologia e etiologia da parada]
 
-Some-se a fisiologia: o lactente consome cerca de 6 mL de oxigênio por quilo por minuto, o dobro do adulto, com menor capacidade residual funcional. Patel e colaboradores, em 1994, demonstraram que, após pré-oxigenação, o lactente atinge 90% de saturação em cerca de 96 segundos de apneia; o adolescente, em 382.
+Some-se a fisiologia. A atividade metabólica é maior: o lactente consome cerca de 6 mL de oxigênio por quilo por minuto, o dobro do adulto. O volume corrente por quilo é semelhante; a demanda é atendida pela frequência respiratória, porque o volume-minuto é o produto do volume corrente pela frequência.
+
+[Esquema E5 — reserva pulmonar e ventilação alveolar]
+
+A capacidade residual funcional é o ar que permanece nos pulmões ao final de uma expiração normal: a reserva. A ventilação alveolar traduz a demanda. Na criança, a relação entre ventilação alveolar e capacidade residual funcional é de cerca de 5 para 1; no adulto, de 2 para 1. Na apneia, a reserva é consumida muito mais rapidamente.
+
+Patel e colaboradores, em 1994, demonstraram que, mesmo após pré-oxigenação, o lactente atinge 90% de saturação em cerca de 96 segundos; o adolescente, em 382. E, na sedação, raramente se obtém a pré-oxigenação adequada da criança.
+
+O raciocínio fisiológico completo, nós desenvolvemos no SAVO.
 
 E o desfecho é coerente: Kitamura e colaboradores, em 2010, analisaram 5.170 paradas extra-hospitalares em crianças, e 71% tiveram causa não cardíaca. Na criança, a parada cardíaca é, com maior frequência, o desfecho de uma falência respiratória.
 
 (pausa)
 
-No SAVO, essas particularidades são aprofundadas no módulo de avaliação clínica e populações especiais, com a resposta à emergência pediátrica.
+No SAVO, essas particularidades anatômicas são aprofundadas no módulo de avaliação clínica e populações especiais.
 
 [Slide 8 — Índice de massa corporal]
 
 Em todas as idades, o índice de massa corporal integra os dois instrumentos: é item do STOP-Bang e do SARI. Sevgili e Değirmencioğlu, em 2026, acompanharam 512 crianças sob sedação para tratamento odontológico: sobrepeso e obesidade associaram-se a chance 3,4 vezes maior de hipoxemia.
-
-## 8 · Ortodontia e distúrbios respiratórios do sono (15:00–15:45)
-
-[Slide 9 — Ortodontia e sono]
-
-Essa avaliação não é exclusiva de quem realiza sedação. Triggs e colaboradores, em 2022, constataram que 38% dos ortodontistas não realizavam nenhuma triagem. E o principal fator associado à triagem não foi a idade nem o tempo de prática clínica.
-
-Foram as horas de educação continuada.
-
-O conhecimento sobre via aérea transforma a conduta clínica.
 
 ## 9 · O protocolo de dois minutos (15:45–17:30)
 
@@ -244,6 +242,5 @@ Patel R et al. Can J Anaesth 1994. doi:10.1007/BF03011582
 Kitamura T et al. Lancet 2010. doi:10.1016/S0140-6736(10)60064-5
 Lomez et al. Arch Argent Pediatr 2024. doi:10.5546/aap.2023-10172.eng
 Sevgili, Değirmencioğlu. J Anesth 2026. doi:10.1007/s00540-026-03879-6
-Triggs et al. J Clin Exp Dent 2022. doi:10.4317/jced.59708
 Conselho Federal de Odontologia. Resolução CFO nº 295/2026.
 Áudios: Wikimedia Commons — TONY LU (CC BY-SA 4.0); James Heilman, MD (CC BY-SA 3.0).
