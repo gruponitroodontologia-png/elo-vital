@@ -111,6 +111,17 @@ Esquemas prontos em `esquemas-crianca/` (E1 sagital, E2 laringe e Poiseuille, E3
   - máscara laríngea clássica: 95–98% de sucesso de ventilação;
   - manômetro para a pressão do balonete (Harless 2014);
   - CFO 295/2026, art. 34, VI, a: manejo de vias aéreas com dispositivos supraglóticos.
+- **Máscara laríngea na criança (esquemas E7 e E8):**
+  - **Tamanho pelo peso** (recomendação do fabricante, máscara clássica): 1 até 5 kg · 1,5 de 5 a 10 · 2 de 10 a 20 · 2,5 de 20 a 30 · 3 de 30 a 50 · 4 de 50 a 70 · 5 de 70 a 100 kg.
+    - O peso não é infalível: a escolha por distância hiomentoniana ao ultrassom acertou o tamanho em 93,3% × 70% pelo peso. Arafa et al., BMC Anesthesiol 2025 · [doi:10.1186/s12871-025-03303-8](https://doi.org/10.1186/s12871-025-03303-8)
+    - Pelo tamanho da orelha, vazamento em 11,6% × 44,1% pelo peso. Ali et al., Health Sci Rep 2026 · [doi:10.1002/hsr2.72020](https://doi.org/10.1002/hsr2.72020)
+  - **Lubrificação e reatividade da via aérea:**
+    - Gel de lidocaína × gel simples em crianças com infecção respiratória recente: 35% × 94% de complicações. Schebesta et al., Can J Anaesth 2010 · [doi:10.1007/s12630-010-9328-y](https://doi.org/10.1007/s12630-010-9328-y)
+    - Creme de lidocaína no manguito com retirada desperta: laringoespasmo de 0% × 9,5% com lubrificante hidrossolúvel. Sun et al., BMC Anesthesiol 2021 · [doi:10.1186/s12871-021-01235-7](https://doi.org/10.1186/s12871-021-01235-7)
+  - **2ª geração** (ProSeal, i-gel, Supreme, AuraGain), com canal de drenagem gástrica:
+    - três vantagens sobre a 1ª geração: descompressão gástrica, conduto para intubação e maior pressão de vedação; caso de lactente com insuflação gástrica revertida durante a ventilação. Dodd et al., Ann Emerg Med 2016 · [doi:10.1016/j.annemergmed.2016.03.016](https://doi.org/10.1016/j.annemergmed.2016.03.016)
+    - o canal gástrico reduz o volume de ar no estômago. Kim et al., Anesth Pain Med 2024 · [doi:10.17085/apm.23150](https://doi.org/10.17085/apm.23150)
+    - i-gel × ProSeal em lactentes e crianças de 2 a 25 kg, ambos eficazes. Sanket et al., AANA J 2015 (PMID 26390746)
 - **Decaimento da habilidade:**
   - o tempo até a ventilação de resgate sobe de ~57 para ~90 s em 4 meses. McCaw et al., Adv Simul 2023 · [doi:10.1186/s41077-023-00244-5](https://doi.org/10.1186/s41077-023-00244-5)
   - decaimento em 6 meses. Chan et al., PLOS Glob Public Health 2023 · [doi:10.1371/journal.pgph.0000705](https://doi.org/10.1371/journal.pgph.0000705)
