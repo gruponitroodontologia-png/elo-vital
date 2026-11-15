@@ -143,6 +143,17 @@ Esquemas prontos em `esquemas-crianca/` (E1 sagital, E2 laringe e Poiseuille, E3
   - decaimento em 6 meses. Chan et al., PLOS Glob Public Health 2023 · [doi:10.1371/journal.pgph.0000705](https://doi.org/10.1371/journal.pgph.0000705)
 - Fora do escopo do cirurgião-dentista (decisão clínica): via aérea cirúrgica e cricotireoidotomia.
 
+## 8b. Aconselhamento aos alunos: compra do supraglótico (levantamento de 15/11/2026, a confirmar)
+
+- **Regularização:** para uso em pacientes, o produto deve estar regularizado na ANVISA. A importação por pessoa física "para uso próprio" (RDC 81/2008, cap. XII) não cobre a prestação de serviços a terceiros; para essa finalidade, a importação segue o cap. XXXIX, via SISCOMEX.
+- **Preços observados nos EUA** (sites de varejo, sem impostos nem frete): de cerca de US$ 20 a 39 nos tamanhos pediátricos e até cerca de US$ 74 nos adultos, conforme o vendedor.
+- **Preço observado no Brasil:** i-gel Plus anunciado a R$ 380 em marketplace, com número de notificação a conferir na ANVISA (80102510923).
+- **Opções nacionais anunciadas:**
+  - Medtech NovaMASC, com registro informado 10299949002, incluindo uma "Dupla Via" de 2ª geração;
+  - Medaxo N1, com registro informado 10150470468.
+  - Não foram identificados estudos clínicos publicados com esses modelos.
+- *Pendente:* conferir os registros no portal da ANVISA, que fica bloqueado na rede do ambiente, e confirmar o distribuidor oficial da Intersurgical no Brasil.
+
 ## 9. Monitorização
 
 - Hierarquia de Fukayama e Yagiela, 2006: profissional, PA, oximetria, ECG, estetoscópio pré-traqueal ou capnografia · [doi:10.1111/j.1875-595x.2006.tb00081.x](https://doi.org/10.1111/j.1875-595x.2006.tb00081.x)
