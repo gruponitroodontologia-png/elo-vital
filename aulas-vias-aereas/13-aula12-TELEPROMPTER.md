@@ -13,7 +13,7 @@ E encerramos com uma questão: se o risco está presente em todo atendimento, qu
 
 Considere o seu último paciente. Você conhece o padrão respiratório dele durante o sono? Há relato de ronco, de apneia testemunhada? Em decúbito, na cadeira reclinada, a base da língua se desloca posteriormente sobre a orofaringe?
 
-Lonia e colaboradores, em 2020, atribuíram ao cirurgião-dentista que formula essas perguntas uma função precisa: sentinela epidemiológica. O termo designa o profissional que, por atender com regularidade uma população ampla, está em posição de identificar sinais de doenças ainda não diagnosticadas e encaminhar o paciente. No estudo, quase metade dos pacientes de clínicas odontológicas apresentou risco para apneia obstrutiva do sono, e, entre os que realizaram o exame do sono, 79% tiveram o diagnóstico confirmado.
+Lonia e colaboradores, em 2020, atribuíram ao cirurgião-dentista que formula essas perguntas uma função precisa: sentinela epidemiológica. O termo designa o profissional que, por atender com regularidade uma população ampla, está em posição de identificar sinais de doenças ainda não diagnosticadas e encaminhar o paciente. No estudo, com mil pacientes de clínicas odontológicas, 48% apresentaram risco para apneia obstrutiva do sono. Quase metade. E, entre os que realizaram o exame do sono, 79% tiveram o diagnóstico confirmado.
 
 Na aula anterior, tratamos da alfabetização: aferir sinais vitais, reconhecer uma pausa respiratória. Hoje avançamos uma camada do letramento: a avaliação sistematizada do paciente antes que o risco se estabeleça.
 
@@ -95,7 +95,7 @@ Cada resposta afirmativa soma um ponto. Zero a dois: baixo risco. Três a quatro
 
 (pausa)
 
-E essa população está na cadeira odontológica. Lonia e colaboradores avaliaram mil pacientes em clínicas odontológicas italianas: 48% apresentaram escore igual ou superior a três.
+E essa população está na cadeira odontológica: são os 48% de Lonia, com escore igual ou superior a três.
 
 Guess e colaboradores, em 2021, analisaram mais de 21 mil pacientes de uma clínica-escola nos Estados Unidos. Identificaram 398 pacientes de alto risco sem diagnóstico prévio.
 
