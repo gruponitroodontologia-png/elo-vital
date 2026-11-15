@@ -1,0 +1,58 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../esquemas-crianca/base.css">
+<style>
+.wrap{position:absolute;left:96px;top:110px;right:96px}
+.savo{position:absolute;right:96px;top:44px;background:var(--wine);color:#fff;font-size:20px;font-weight:600;letter-spacing:.08em;padding:10px 22px;border-radius:999px}
+.savo b{color:var(--gold)}
+svg{position:absolute;left:60px;top:290px}
+.defs{position:absolute;left:96px;top:300px;width:560px}
+.def{margin-bottom:26px}
+.def h3{font-size:26px;color:var(--wine);font-weight:700}
+.def p{font-size:22px;line-height:1.38;margin-top:4px}
+.formula{font-size:30px;font-weight:800;color:var(--wine);background:rgba(255,255,255,.6);border-left:5px solid var(--gold);padding:12px 18px;margin:6px 0 26px}
+</style></head><body>
+<div class="top">AULA #12 · A CRIANÇA HÍGIDA</div>
+<div class="savo">APROFUNDAMENTO NO <b>SAVO</b> · RACIOCÍNIO FISIOLÓGICO</div>
+<div class="wrap">
+  <div class="kick" style="margin-top:20px">Reserva pulmonar e ventilação alveolar</div>
+  <h1>Na apneia, a criança consome a reserva mais rápido.</h1>
+</div>
+<div class="defs">
+  <div class="def"><h3>Capacidade residual funcional (CRF)</h3><p>Volume de ar que permanece nos pulmões ao final de uma expiração normal: a <b>reserva</b> disponível durante a apneia.</p></div>
+  <div class="def"><h3>Ventilação alveolar</h3><p>Volume de gás que alcança os alvéolos por unidade de tempo: traduz a <b>demanda</b> imposta pelo consumo de O₂.</p></div>
+  <div class="formula">Volume-minuto = VC × FR</div>
+  <div class="def"><p>Na criança, o volume corrente por quilo é semelhante ao do adulto; a maior demanda é atendida pela <b>frequência respiratória</b>.</p></div>
+</div>
+<svg width="1800" height="640" viewBox="0 0 1800 640">
+  <!-- criança -->
+  <g transform="translate(700,20)">
+    <text x="230" y="20" text-anchor="middle" class="cap" style="font-size:24px">CRIANÇA</text>
+    <!-- reservatório pequeno -->
+    <rect x="130" y="60" width="200" height="220" rx="16" fill="#fff" stroke="#690D0E" stroke-width="3"/>
+    <rect x="133" y="150" width="194" height="127" rx="12" fill="#A5A5D3"/>
+    <text x="230" y="225" text-anchor="middle" style="font:700 24px Poppins;fill:#17112c">CRF</text>
+    <!-- saída larga -->
+    <rect x="200" y="280" width="60" height="70" fill="#690D0E"/>
+    <path d="M190,350 L270,350 L250,420 L210,420 Z" fill="#690D0E"/>
+    <text x="230" y="470" text-anchor="middle" class="lblb">ventilação alveolar alta</text>
+    <text x="230" y="540" text-anchor="middle" style="font:800 64px Poppins;fill:#690D0E">5 : 1</text>
+    <text x="230" y="574" text-anchor="middle" class="lbl">ventilação alveolar : CRF</text>
+  </g>
+  <!-- adulto -->
+  <g transform="translate(1240,20)">
+    <text x="230" y="20" text-anchor="middle" class="cap" style="font-size:24px">ADULTO</text>
+    <rect x="80" y="60" width="300" height="220" rx="16" fill="#fff" stroke="#690D0E" stroke-width="3"/>
+    <rect x="83" y="90" width="294" height="187" rx="12" fill="#A5A5D3"/>
+    <text x="230" y="195" text-anchor="middle" style="font:700 24px Poppins;fill:#17112c">CRF</text>
+    <rect x="215" y="280" width="30" height="70" fill="#6E6A8E"/>
+    <path d="M208,350 L252,350 L242,400 L218,400 Z" fill="#6E6A8E"/>
+    <text x="230" y="470" text-anchor="middle" class="lblb" style="fill:#6E6A8E">ventilação alveolar menor</text>
+    <text x="230" y="540" text-anchor="middle" style="font:800 64px Poppins;fill:#6E6A8E">2 : 1</text>
+    <text x="230" y="574" text-anchor="middle" class="lbl">ventilação alveolar : CRF</text>
+  </g>
+  <line x1="1215" y1="40" x2="1215" y2="600" stroke="#A5A5D3" stroke-width="2" stroke-dasharray="6 8"/>
+</svg>
+<div class="refs">Esquema ilustrativo · Harless, Ramaiah, Bhananker, 2014 (consumo de O₂, CRF, volume corrente e FR) · Patel et al., 1994 · relação ventilação alveolar : CRF conforme tratados de anestesia pediátrica</div>
+<div class="num">12</div>
+</body></html>

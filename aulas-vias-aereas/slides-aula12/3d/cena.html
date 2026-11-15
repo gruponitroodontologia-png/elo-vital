@@ -1,0 +1,104 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:transparent;overflow:hidden}canvas{display:block}</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+</head><body>
+<script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { RoundedBoxGeometry } from 'three/addons/geometries/RoundedBoxGeometry.js';
+const P = new URLSearchParams(location.search);
+const KIND = P.get('k')||'via';
+const W = parseInt(P.get('w')||'1200'), H = parseInt(P.get('h')||'1080');
+const TONE = P.get('tone')||'wine'; // wine | light
+const WINE=0x690D0E, GOLD=0xE0A93B, LAV=0xA5A5D3, ROSE=0xF4D9D9;
+
+const renderer = new THREE.WebGLRenderer({antialias:true, alpha:true, preserveDrawingBuffer:true});
+renderer.setPixelRatio(1); renderer.setSize(W,H); renderer.setClearColor(0x000000,0);
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+renderer.toneMapping = THREE.ACESFilmicToneMapping; renderer.toneMappingExposure = 1.1;
+document.body.appendChild(renderer.domElement);
+const scene = new THREE.Scene();
+const pmrem = new THREE.PMREMGenerator(renderer);
+scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
+scene.add(new THREE.HemisphereLight(0xffffff, 0xe8dede, 0.8));
+const key = new THREE.DirectionalLight(0xffffff, 2.2); key.position.set(-4,8,6); scene.add(key);
+const rim = new THREE.DirectionalLight(0xffe7c2, 1.4); rim.position.set(6,2,-5); scene.add(rim);
+
+const camera = new THREE.PerspectiveCamera(30, W/H, 0.1, 100);
+
+const glass = (color, op=0.55, rough=0.18) => new THREE.MeshPhysicalMaterial({
+  color, transparent:true, opacity:op, roughness:rough, metalness:0.0, clearcoat:1, clearcoatRoughness:0.1,
+  transmission:0.35, thickness:0.6, ior:1.35, side:THREE.DoubleSide, depthWrite:false});
+const solid = (color, rough=0.35, metal=0.2) => new THREE.MeshPhysicalMaterial({color, roughness:rough, metalness:metal, clearcoat:0.6});
+
+function tube(points, r, mat, seg=120){
+  const curve = new THREE.CatmullRomCurve3(points.map(p=>new THREE.Vector3(...p)));
+  const m = new THREE.Mesh(new THREE.TubeGeometry(curve, seg, r, 48, false), mat); scene.add(m); return {m,curve};
+}
+function rings(curve, r, n, mat, t0=0.04, t1=0.96){
+  for(let i=0;i<n;i++){
+    const t = t0+(t1-t0)*i/(n-1);
+    const p = curve.getPointAt(t), tg = curve.getTangentAt(t);
+    const ring = new THREE.Mesh(new THREE.TorusGeometry(r, r*0.18, 16, 64, Math.PI*1.65), mat);
+    ring.position.copy(p);
+    ring.quaternion.setFromUnitVectors(new THREE.Vector3(0,0,1), tg);
+    ring.rotateZ(Math.PI*0.68);
+    scene.add(ring);
+  }
+}
+
+if (KIND==='via'){
+  // árvore traqueobrônquica translúcida
+  const trq = tube([[0,4.2,0],[0,2.6,0],[0,1.0,0],[0,0,0]], 0.55, glass(WINE,0.42));
+  rings(trq.curve, 0.6, 11, glass(GOLD,0.85,0.25), 0.05, 0.95);
+  const bR = tube([[0,0,0],[0.5,-0.6,0.05],[1.4,-1.4,0.1],[2.2,-2.6,0.2]], 0.38, glass(WINE,0.42));
+  const bL = tube([[0,0,0],[-0.6,-0.5,0],[-1.6,-1.0,-0.1],[-2.5,-1.9,-0.2]], 0.36, glass(WINE,0.42));
+  rings(bR.curve,0.42,4,glass(GOLD,0.8,0.25),0.25,0.8); rings(bL.curve,0.4,4,glass(GOLD,0.8,0.25),0.25,0.8);
+  const twig=(o,dirs,r)=>dirs.forEach(d=>tube([o,[o[0]+d[0]*0.5,o[1]+d[1]*0.5,o[2]+d[2]*0.5],[o[0]+d[0],o[1]+d[1],o[2]+d[2]]], r, glass(WINE,0.32)));
+  twig([2.2,-2.6,0.2],[[0.9,-0.6,0.2],[0.2,-1.1,-0.1],[1.0,0.1,-0.2]],0.2);
+  twig([-2.5,-1.9,-0.2],[[-0.9,-0.7,0.1],[-0.2,-1.1,0.2],[-1.0,0.1,0.1]],0.2);
+  // laringe estilizada
+  const lar = new THREE.Mesh(new THREE.CylinderGeometry(0.62,0.85,0.9,48,1,true), glass(ROSE,0.5)); lar.position.set(0,4.6,0); scene.add(lar);
+  camera.position.set(3.6,1.4,17); camera.lookAt(0,0.9,0);
+}
+if (KIND==='som'){
+  const trq = tube([[0,3.6,0],[0,1.2,0],[0,-1.2,0],[0,-3.6,0]], 0.75, glass(WINE,0.42));
+  rings(trq.curve, 0.82, 10, glass(GOLD,0.85,0.25));
+  for(let i=0;i<5;i++){
+    const r=1.6+i*0.85;
+    const w = new THREE.Mesh(new THREE.TorusGeometry(r, 0.05+0.02*(4-i), 16, 160), glass(i%2?LAV:GOLD, 0.75-i*0.12, 0.2));
+    w.rotation.x = Math.PI/2; w.position.y = 0.6; scene.add(w);
+  }
+  camera.position.set(0,6.5,12.5); camera.lookAt(0,0,0);
+}
+if (KIND==='esteto'){
+  // campânula (diafragma) do estetoscópio
+  const bell = new THREE.Mesh(new THREE.CylinderGeometry(1.6,1.75,0.5,96), glass(LAV,0.55,0.12)); scene.add(bell);
+  const rimm = new THREE.Mesh(new THREE.TorusGeometry(1.72,0.16,24,120), solid(GOLD,0.25,0.8)); rimm.rotation.x=Math.PI/2; rimm.position.y=-0.15; scene.add(rimm);
+  const disc = new THREE.Mesh(new THREE.CylinderGeometry(1.45,1.45,0.06,96), glass(0xffffff,0.35,0.05)); disc.position.y=-0.28; scene.add(disc);
+  const stem = new THREE.Mesh(new THREE.CylinderGeometry(0.22,0.28,1.0,32), solid(GOLD,0.25,0.8)); stem.position.set(0,0.7,0); scene.add(stem);
+  tube([[0,1.1,0],[0.2,2.2,0.2],[1.2,3.4,0.4],[2.8,3.9,0.2],[4.2,3.2,-0.2],[5.2,2.0,-0.4]], 0.17, glass(WINE,0.7,0.3));
+  camera.position.set(-1.5,5.8,9.5); camera.lookAt(1.4,1.1,0);
+}
+if (KIND==='lua'){
+  // crescente translúcido (sono)
+  const s = new THREE.Shape(); s.absarc(0,0,2.4,Math.PI*0.25,Math.PI*1.75,false);
+  const hole = new THREE.Path(); hole.absarc(1.0,0,2.0,Math.PI*1.75,Math.PI*0.25,true); s.holes=[];
+  const crescent = new THREE.Shape(); crescent.absarc(0,0,2.4,0.973,5.310,false); crescent.absarc(1.1,0,2.0,4.838,1.445,true);
+  const g = new THREE.ExtrudeGeometry(crescent,{depth:0.6,bevelEnabled:true,bevelThickness:0.18,bevelSize:0.14,bevelSegments:8,curveSegments:96});
+  g.center(); const moon=new THREE.Mesh(g, glass(GOLD,0.7,0.15)); moon.rotation.set(-0.25,0.5,0.15); scene.add(moon);
+  [[2.6,1.8,-0.5,0.22],[3.3,0.4,0.2,0.14],[2.2,-1.6,0.3,0.18]].forEach(([x,y,z,r])=>{const st=new THREE.Mesh(new THREE.IcosahedronGeometry(r,1), glass(LAV,0.8,0.1)); st.position.set(x,y,z); scene.add(st);});
+  camera.position.set(0,0.5,14); camera.lookAt(0.6,0,0);
+}
+if (KIND==='escudo'){
+  const sh = new THREE.Shape(); sh.moveTo(0,2.6); sh.bezierCurveTo(1.4,2.2,2.2,2.3,2.4,2.0); sh.lineTo(2.2,0.0); sh.bezierCurveTo(1.9,-1.6,0.9,-2.4,0,-2.9); sh.bezierCurveTo(-0.9,-2.4,-1.9,-1.6,-2.2,0.0); sh.lineTo(-2.4,2.0); sh.bezierCurveTo(-2.2,2.3,-1.4,2.2,0,2.6);
+  const g=new THREE.ExtrudeGeometry(sh,{depth:0.5,bevelEnabled:true,bevelThickness:0.2,bevelSize:0.16,bevelSegments:10,curveSegments:96}); g.center();
+  const m=new THREE.Mesh(g, glass(WINE,0.55,0.12)); m.rotation.set(-0.15,0.45,0); scene.add(m);
+  const cross1=new THREE.Mesh(new RoundedBoxGeometry(0.5,2.0,0.5,4,0.12), solid(GOLD,0.25,0.7)); cross1.position.z=0.5; cross1.rotation.set(-0.15,0.45,0); scene.add(cross1);
+  const cross2=new THREE.Mesh(new RoundedBoxGeometry(2.0,0.5,0.5,4,0.12), solid(GOLD,0.25,0.7)); cross2.position.z=0.5; cross2.rotation.set(-0.15,0.45,0); scene.add(cross2);
+  camera.position.set(0,0.4,13); camera.lookAt(0,0,0);
+}
+renderer.render(scene,camera);
+document.title='ok';
+</script></body></html>
