@@ -105,15 +105,39 @@ if (KIND==='perfil' || KIND==='pretraq'){
   const g=new THREE.ExtrudeGeometry(sh,{depth:1.6,bevelEnabled:true,bevelThickness:0.35,bevelSize:0.2,bevelSegments:10,curveSegments:120}); g.translate(0,0,-0.8);
   const head=new THREE.Mesh(g, glass(LAV,0.22,0.12)); scene.add(head);
   const grp=new THREE.Group(); scene.add(grp);
-  // via aérea superior
-  tube([[2.3,-0.28,0],[1.6,-0.15,0],[0.6,-0.1,0],[-0.25,-0.3,0],[-0.45,-0.9,0],[-0.45,-1.5,0],[-0.3,-2.0,0],[0.1,-2.35,0],[0.25,-2.9,0],[0.25,-4.25,0]],0.2,glass(WINE,0.7,0.2));
+  // via aérea SUPRAGLÓTICA (cavidade nasal, nasofaringe, orofaringe, laringofaringe) — tom rosé
+  const SUPRA=0xE27C80, INFRA=0x6E0A0D;
+  tube([[2.3,-0.28,0],[1.6,-0.15,0],[0.6,-0.1,0],[-0.25,-0.3,0],[-0.45,-0.9,0],[-0.45,-1.5,0],[-0.32,-1.95,0],[-0.05,-2.25,0],[0.12,-2.42,0]],0.2,glass(SUPRA,0.72,0.2));
+  // via aérea INFRAGLÓTICA (subglote e traqueia) — vinho profundo
+  const inf=tube([[0.12,-2.42,0],[0.22,-2.75,0],[0.25,-3.2,0],[0.25,-4.25,0]],0.19,glass(INFRA,0.97,0.28));
+  rings(inf.curve,0.215,6,glass(GOLD,0.9,0.25),0.42,0.96);
+  // glote: plano das pregas vocais (limite supra × infraglótico)
+  const gp=inf.curve.getPointAt(0.0), gt=inf.curve.getTangentAt(0.0);
+  const glote=new THREE.Mesh(new THREE.TorusGeometry(0.21,0.035,16,64), solid(0xFFFFFF,0.25,0.1));
+  glote.position.copy(gp); glote.quaternion.setFromUnitVectors(new THREE.Vector3(0,0,1),gt); scene.add(glote);
+  const dsc=new THREE.Mesh(new THREE.CircleGeometry(0.2,48), new THREE.MeshPhysicalMaterial({color:0xFFFFFF,transparent:true,opacity:0.35,side:THREE.DoubleSide,depthWrite:false}));
+  dsc.position.copy(gp); dsc.quaternion.copy(glote.quaternion); scene.add(dsc);
+  // cartilagem tireóidea (escudo anterior, translúcido) e anel cricoide
+  const tir=new THREE.Mesh(new THREE.SphereGeometry(1,40,24,0,Math.PI*2,0,Math.PI*0.5), glass(0xD9D7E8,0.22,0.2));
+  tir.scale.set(0.42,0.36,0.38); tir.rotation.z=-Math.PI/2-0.25; tir.position.set(0.2,-2.45,0); scene.add(tir);
+  const cp=inf.curve.getPointAt(0.24), ct=inf.curve.getTangentAt(0.24);
+  const cri=new THREE.Mesh(new THREE.TorusGeometry(0.23,0.07,16,64), glass(0xD9D7E8,0.85,0.2));
+  cri.position.copy(cp); cri.quaternion.setFromUnitVectors(new THREE.Vector3(0,0,1),ct); scene.add(cri);
   // esôfago (posterior)
   tube([[-0.35,-2.1,0],[-0.45,-2.8,0],[-0.45,-4.25,0]],0.14,glass(0x8a87a8,0.55,0.3));
   // língua
   const tg=new THREE.Mesh(new THREE.SphereGeometry(1,48,32), glass(0xB84A4C,0.7,0.25)); tg.scale.set(0.95,0.5,0.55); tg.position.set(0.75,-1.05,0); tg.rotation.z=-0.35; scene.add(tg);
-  // palato e epiglote
+  // palato
   tube([[2.0,-0.5,0],[1.0,-0.45,0],[0.1,-0.55,0],[-0.2,-0.75,0]],0.06,solid(0xF4D9D9,0.3,0.1));
-  tube([[-0.05,-1.7,0],[-0.15,-1.95,0],[-0.3,-2.05,0]],0.07,solid(0xF4D9D9,0.3,0.1));
+  // EPIGLOTE: lâmina foliácea fixada atrás da base da língua, com a borda livre voltada para cima e para trás, sobre o ádito laríngeo
+  const leaf=new THREE.Shape(); leaf.moveTo(0,0); leaf.bezierCurveTo(0.26,0.12,0.30,0.48,0.0,0.78); leaf.bezierCurveTo(-0.30,0.48,-0.26,0.12,0,0);
+  const lg=new THREE.ExtrudeGeometry(leaf,{depth:0.05,bevelEnabled:true,bevelThickness:0.03,bevelSize:0.03,bevelSegments:4,curveSegments:48});
+  const pos=lg.attributes.position; for(let i=0;i<pos.count;i++){const y=pos.getY(i), x=pos.getX(i); pos.setZ(i,pos.getZ(i)-0.9*x*x+0.25*y*y);} lg.computeVertexNormals();
+  const epi=new THREE.Mesh(lg, solid(GOLD,0.3,0.25));
+  epi.rotation.order='YXZ'; epi.rotation.y=Math.PI/2; epi.rotation.z=0; epi.rotation.x=0;
+  const eg=new THREE.Group(); eg.add(epi); eg.position.set(0.2,-2.13,0); eg.rotation.z=0.38; eg.scale.setScalar(1.15); scene.add(eg);
+  // valécula (prega entre a base da língua e a epiglote)
+  window.ANCH={supra:[-0.45,-0.9,0],epi:[-0.08,-1.5,0],glote:[gp.x,gp.y,gp.z],infra:[0.25,-3.6,0],lingua:[0.9,-0.95,0]};
   // coluna cervical
   for(let i=0;i<7;i++){const v=new THREE.Mesh(new RoundedBoxGeometry(0.45,0.36,0.7,4,0.08), glass(0xD9D7E8,0.6,0.3)); v.position.set(-1.05,-0.9-i*0.46,0); scene.add(v);}
   camera.position.set(3.0,0.2,15.5); camera.lookAt(0.1,-0.4,0);
@@ -144,6 +168,8 @@ if (KIND==='pretraq'){
   for(let i=0;i<3;i++){const w=new THREE.Mesh(new THREE.TorusGeometry(0.35+i*0.22,0.025,12,64,Math.PI*0.9),glass(LAV,0.9-i*0.2,0.2)); w.rotation.y=Math.PI/2; w.rotation.x=0; w.position.set(0.55+i*0.12,-3.55,0); w.rotateZ(-Math.PI*0.45); scene.add(w);}
   camera.position.set(4.5,-0.6,15.5); camera.lookAt(0.6,-1.0,0);
 }
+if (P.get('zoom')==='1'){ camera.position.set(1.4,-1.7,6.2); camera.lookAt(0.0,-2.0,0); }
 renderer.render(scene,camera);
+if (window.ANCH){ scene.updateMatrixWorld(); camera.updateMatrixWorld(); const o={}; for(const [k,v] of Object.entries(window.ANCH)){const p=new THREE.Vector3(...v).project(camera); o[k]=[Math.round((p.x+1)/2*W),Math.round((1-p.y)/2*H)];} console.log('ANCH '+JSON.stringify(o)); }
 document.title='ok';
 </script></body></html>
