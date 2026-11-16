@@ -68,7 +68,7 @@ O ronco: ruído de baixa frequência, de timbre áspero. Traduz obstrução parc
 
 O gorgolejo: ruído borbulhante, de caráter úmido. Indica conteúdo líquido na faringe: saliva, sangue, água de refrigeração. A conduta é a aspiração.
 
-[ÁUDIO 2 — gorgolejo · sem gravação clínica aberta: apenas a descrição verbal]
+[ÁUDIO 2 — gorgolejo · 7 s]
 
 O estridor: ruído agudo, de alta frequência, predominantemente inspiratório. Corresponde ao fluxo turbulento através de uma laringe estreitada: laringoespasmo parcial, corpo estranho, edema.
 
@@ -250,4 +250,4 @@ Até a próxima quinta, às 11h11.
 - Veldman A et al. Mini Rev Med Chem 2006. doi:10.2174/138955706777698598
 - Sevgili, Değirmencioğlu. J Anesth 2026. doi:10.1007/s00540-026-03879-6
 - Conselho Federal de Odontologia. Resolução CFO nº 295/2026.
-- Áudios: Wikimedia Commons — TONY LU (CC BY-SA 4.0); James Heilman, MD (CC BY-SA 3.0).
+- Áudios: Wikimedia Commons — TONY LU (CC BY-SA 4.0); James Heilman, MD (CC BY-SA 3.0); stilgar/PDSounds (domínio público).
