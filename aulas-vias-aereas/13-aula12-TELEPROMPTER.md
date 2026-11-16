@@ -27,7 +27,7 @@ O reconhecimento começa em uma anamnese diferenciada para a Odontologia, que pr
 
 [Slide 1 — Capa]
 
-Aula #12 do Projeto Cultura de Segurança: reconhecer o risco. Anatomia e fisiologia no adulto e na criança.
+Aula #12 do Projeto Cultura de Segurança. Via aérea: reconhecendo o risco. Anatomia e fisiologia no adulto e na criança.
 
 ## 2 · Apresentadora (03:03–03:15)
 
