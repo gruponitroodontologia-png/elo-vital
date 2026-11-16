@@ -46,8 +46,8 @@ BR = "<div class='brand'>PROJETO CULTURA DE SEGURANÇA · AULA #12</div>"
 
 S = {}
 S['Story 1 - tela 1 - enquete'] = page('gray', BR + f"""
-<img src='file://{IMG}/pretraq.png' style='position:absolute;right:-60px;top:250px;width:760px;opacity:.95'>
-<div class='box' style='top:900px'>
+<img src='file://{IMG}/pretraq.png' style='position:absolute;right:-40px;top:200px;width:640px;opacity:.95'>
+<div class='box' style='top:1060px'>
   <div class='kick'>Monitorização</div>
   <h1 style='font-size:76px;margin-top:20px'>Qual é o primeiro recurso de monitorização da sua clínica?</h1>
 </div>
@@ -97,7 +97,7 @@ S['Story 2 - apneia 48 por cento'] = page('gray', BR + f"""
 </div>
 """)
 S['Story 3 - protocolo de dois minutos'] = page('wine', BR + f"""
-<img src='file://{IMG}/perfil.png' style='position:absolute;right:-140px;top:180px;width:700px;opacity:.9'>
+<img src='file://{IMG}/perfil.png' style='position:absolute;right:-60px;top:150px;width:470px;opacity:.85'>
 <div class='box' style='top:330px'>
   <div style='width:300px;height:300px;border-radius:50%;background:#fff;border:14px solid var(--wine);display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:0 20px 50px rgba(105,13,14,.15)'>
     <div style='font-size:30px;color:var(--mute);font-weight:600'>cerca de</div>
@@ -115,7 +115,7 @@ S['Story 3 - protocolo de dois minutos'] = page('wine', BR + f"""
 """)
 S['Story 4 - hoje 11h11'] = page('dark', BR + f"""
 <div class='foto' style='left:90px;top:280px;width:440px;height:440px'><img src='file://{FOTO}'></div>
-<img src='file://{IMG}/perfil.png' style='position:absolute;right:-150px;top:220px;width:620px;opacity:.55'>
+<img src='file://{IMG}/perfil.png' style='position:absolute;right:-70px;top:190px;width:500px;opacity:.5'>
 <div class='box' style='top:760px'><div class='sig'>Profa. Carla Gamba, MSc</div></div>
 <div class='box' style='top:860px'>
   <div class='kick'>Hoje, às 11h11 · YouTube</div>
@@ -126,7 +126,7 @@ S['Story 4 - hoje 11h11'] = page('dark', BR + f"""
 <div class='box' style='top:1500px'><div class='ref'>↓ Assistir à aula</div></div>
 """)
 S['Story 5 - SAVO'] = page('dark', BR.replace('AULA #12', 'SAVO') + f"""
-<img src='file://{IMG}/perfil.png' style='position:absolute;right:-130px;top:170px;width:480px;opacity:.5'>
+<img src='file://{IMG}/perfil.png' style='position:absolute;right:-60px;top:150px;width:400px;opacity:.45'>
 <div class='foto' style='left:90px;top:300px;width:300px;height:300px;border-width:8px'><img src='file://{FOTO}'></div>
 <div class='box' style='top:700px'>
   <h1 style='font-size:68px'>Reconhecer o risco é o primeiro passo.<br><span style='color:var(--lav)'>Aprofundar sua preparação é o próximo.</span></h1>
@@ -143,7 +143,7 @@ S['Story 5 - SAVO'] = page('dark', BR.replace('AULA #12', 'SAVO') + f"""
 """)
 S['Story 5b - Trilha 295 Online'] = page('wine', BR.replace('AULA #12', 'TRILHA 295') + f"""
 <div class='foto' style='left:90px;top:300px;width:300px;height:300px;border-width:8px;border-color:#4a0709'><img src='file://{FOTO}'></div>
-<img src='file://{IMG}/pretraq.png' style='position:absolute;right:-180px;top:200px;width:600px;opacity:.35'>
+<img src='file://{IMG}/pretraq.png' style='position:absolute;right:-90px;top:170px;width:470px;opacity:.35'>
 <div class='box' style='top:700px'>
   <div class='kick'>Para quem já tem a sedação na rotina</div>
   <h1 style='font-size:70px;margin-top:20px'>Trilha 295 Online</h1>
