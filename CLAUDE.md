@@ -121,6 +121,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - **Chan et al., PLOS Glob Public Health, 2023** — decaimento de habilidade em
   6 meses. DOI 10.1371/journal.pgph.0000705
 - **Via aérea pediátrica (Aula #12, esquemas em `aulas-vias-aereas/esquemas-crianca/`):** Harless 2014 (occipício, língua, epiglote em "U", cricoide C4→C6, O₂ 6 × 3 mL/kg/min, Poiseuille) doi:10.4103/2229-5151.128015 · Holzki 2018 (cricoide funcionalmente mais estreito) doi:10.1111/pan.13281 · Tobias 2015 (imagem: glote) doi:10.1111/pan.12528 · Patel 1994 (SpO₂ 90%: 96 s lactente × 382 s adolescente) doi:10.1007/BF03011582 · Kitamura, Lancet 2010 (71% de PCR extra-hospitalar pediátrica não cardíaca; o "80% respiratório" NÃO foi encontrado na literatura conferida) doi:10.1016/S0140-6736(10)60064-5.
+- **Fukayama e Yagiela, Int Dent J 2006** (doi:10.1111/j.1875-595x.2006.tb00081.x): texto integral lido e traduzido em 16/11/2026 (Claude Docs, uso interno, não distribuir: https://claude.ai/artifact/K7gaUm8b7pMBygvoQh84fL). Confirma a ordem dos monitores e as "tendências deletérias reversíveis"; o estetoscópio pré-traqueal é o único monitor que detecta rapidamente obstrução parcial e secreções; apneia detectada pela ausculta em média em 34 s (Cooper e Cullen 1990). "Oximetria é indicador tardio" NÃO está neste artigo.
 - Vias aéreas/supraglóticos e laringoespasmo: dossiê já entregue (Rosenberg/
   Becker Anesth Prog 2014; NAEMSP 2022; de Carvalho CC Anesth Analg 2025;
   Weba 2025; Rasheed 2024; etc.).
