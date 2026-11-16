@@ -43,7 +43,7 @@ A falência obedece a uma sequência. Primeiro, o estreitamento da via aérea su
 
 (pausa)
 
-Fukayama e Yagiela, em 2006, hierarquizaram os recursos de monitorização no consultório. O primeiro não é um equipamento: é o profissional responsável. Seguem-se a pressão arterial, a oximetria de pulso, o eletrocardiograma e o estetoscópio pré-traqueal ou a capnografia.
+Fukayama e Yagiela, em 2006, hierarquizaram os recursos de monitorização no consultório. O primeiro recurso é humano: o profissional responsável. Seguem-se a pressão arterial, a oximetria de pulso, o eletrocardiograma e o estetoscópio pré-traqueal ou a capnografia.
 
 O primeiro monitor é a escuta sensível da equipe e o estetoscópio pré-traqueal. E a monitorização começa antes do procedimento.
 
