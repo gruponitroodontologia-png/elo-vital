@@ -41,6 +41,7 @@
   https://claude.ai/artifact/HjrWsq7giVDM7NxdQqUfBb
 - **Datas Turma 1:** telepresencial ao vivo **28/11, 30/11, 01/12, 02/12**;
   presencial **5 e 6/12** (9h–19h), Rio de Janeiro.
+  **Atenção (Carla, 16/11/2026): as datas vão mudar.** Não citar datas da turma em peças de divulgação até a confirmação das novas.
 - **Programa (ordem atual):** 01 Monitorização (Profª Sandra Chicharo) ·
   02 Fundamentação Jurídica (Carla Gamba e Danielle Coelho) · 03 Avaliação
   Clínica e Populações Especiais (Carla e Danielle) · 04 Farmacologia e
