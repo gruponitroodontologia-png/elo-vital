@@ -1,7 +1,10 @@
-# TELEPROMPTER · Aula #12 — Reconhecer o risco: avaliação da via aérea, anatomia e fisiologia do adulto e da criança
+# Aula #12 · Teleprompter
 
-Projeto Cultura de Segurança · quinta, 19/11/2026, 11h11 · duração estimada: ~23 min (admitida até ~25 min, Carla, 15/11/2026)
-Versão revisada (15/11/2026) · 17 slides · para validação da Profa. Carla Gamba · literatura conferida no PubMed
+**Reconhecer o risco: avaliação da via aérea, anatomia e fisiologia do adulto e da criança**
+
+Projeto Cultura de Segurança · quinta, 19/11/2026, 11h11 · duração estimada: ~23 min (admitida até ~25 min)
+
+Versão revisada (16/11/2026) · 17 slides · para validação da Profa. Carla Gamba · literatura conferida no PubMed
 
 ## 0 · Olho no olho — câmera aberta, sem slide (00:00–02:48)
 
@@ -49,7 +52,7 @@ A falência obedece a uma sequência. Primeiro, o estreitamento da via aérea su
 
 Fukayama e Yagiela, em 2006, hierarquizaram os recursos de monitorização na clínica. Os autores afirmam que o primeiro recurso é humano: você e sua equipe, bem treinados. Seguem-se a pressão arterial, a oximetria de pulso, o eletrocardiograma e o estetoscópio pré-traqueal ou a capnografia.
 
-O primeiro monitor é a escuta sensível da equipe e o estetoscópio pré-traqueal. E a monitorização começa antes do procedimento.
+O primeiro monitor é a escuta sensível da equipe e o estetoscópio pré-traqueal, vamos ainda retornar a este monitor precioso. Percebam que a monitorização começa bem antes do procedimento.
 
 ## 4 · Os ruídos respiratórios que precisamos reconhecer (05:14–08:52)
 
@@ -57,11 +60,11 @@ O primeiro monitor é a escuta sensível da equipe e o estetoscópio pré-traque
 
 Antes de qualquer parâmetro numérico, a via aérea se expressa acusticamente. Cada ruído indica um nível anatômico e um mecanismo.
 
-Bohadana e colaboradores, no New England Journal of Medicine, em 2014, e a força-tarefa da European Respiratory Society, com Pasterkamp e colaboradores, em 2016, sistematizaram essa nomenclatura. Percorramos a via aérea em sentido craniocaudal.
+Bohadana e colaboradores, no New England Journal of Medicine, em 2014, e a força-tarefa da European Respiratory Society, com Pasterkamp e colaboradores, em 2016, sistematizaram essa nomenclatura. Percorramos a via aérea no  sentido craniocaudal.
 
 O ronco: ruído de baixa frequência, de timbre áspero. Traduz obstrução parcial supraglótica, por colapso de tecidos moles, sobretudo base da língua e palato mole, sobre a orofaringe. A conduta é o reposicionamento: elevação do mento e anteriorização da mandíbula.
 
-[ÁUDIO 1 — ronco · 7 s · arquivo 01-ronco.mp3 · silêncio na fala enquanto toca]
+[ÁUDIO 1 — ronco · 7 s · silêncio na fala enquanto toca]
 
 O gorgolejo: ruído borbulhante, de caráter úmido. Indica conteúdo líquido na faringe: saliva, sangue, água de refrigeração. A conduta é a aspiração.
 
@@ -69,11 +72,11 @@ O gorgolejo: ruído borbulhante, de caráter úmido. Indica conteúdo líquido n
 
 O estridor: ruído agudo, de alta frequência, predominantemente inspiratório. Corresponde ao fluxo turbulento através de uma laringe estreitada: laringoespasmo parcial, corpo estranho, edema.
 
-[ÁUDIO 3 — estridor · 6 s · arquivo 03-estridor.mp3]
+[ÁUDIO 3 — estridor · 6 s]
 
 O sibilo: ruído contínuo, de timbre musical, predominantemente expiratório. A obstrução já não é supraglótica: é a redução do calibre brônquico. Broncoespasmo, no paciente asmático ou na reação anafilática.
 
-[ÁUDIO 4 — sibilos · 6 s · arquivo 04-sibilos.mp3]
+[ÁUDIO 4 — sibilos · 6 s]
 
 (pausa)
 
@@ -81,7 +84,7 @@ E, por fim, o sinal de maior gravidade.
 
 O silêncio.
 
-[ÁUDIO 5 — ronco que cessa: 7 s de ronco, 5 s de silêncio · arquivo 05-ronco-seguido-de-silencio.mp3]
+[ÁUDIO 5 — ronco que cessa: 7 s de ronco, 5 s de silêncio]
 
 Se há retração torácica com expansão abdominal, a chamada respiração paradoxal, existe esforço sem fluxo: a obstrução é completa. Um laringoespasmo total, que Rasheed e colaboradores, em 2024, definem como fechamento sustentado da via aérea, potencialmente fatal. Ou um corpo estranho. Se não há esforço respiratório, trata-se de depressão respiratória central.
 
@@ -91,7 +94,7 @@ Por isso o estetoscópio pré-traqueal detecta o evento antes do oxímetro. Bori
 
 [Slide 5 — STOP-Bang]
 
-O STOP-Bang é um instrumento de triagem com oito itens dicotômicos, integrável à anamnese.
+O STOP-Bang é um instrumento de triagem com oito itens dicotômicos, facilmente  integrável à anamnese.
 
 Ronco intenso. Sonolência diurna. Apneia testemunhada. Hipertensão arterial. Índice de massa corporal superior a 35. Idade acima de 50 anos. Circunferência cervical superior a 40 centímetros. Sexo masculino.
 
@@ -99,7 +102,7 @@ Cada resposta afirmativa soma um ponto. Zero a dois: baixo risco. Três a quatro
 
 (pausa)
 
-E essa população está na cadeira odontológica: são os 48% de Lonia, com escore igual ou superior a três.
+E essa população está na sua rotina clinica : são os 48% de Lonia, com escore igual ou superior a três.
 
 Guess e colaboradores, em 2021, analisaram mais de 21 mil pacientes de uma clínica-escola nos Estados Unidos. Identificaram 398 pacientes de alto risco sem diagnóstico prévio.
 
@@ -109,7 +112,7 @@ Nenhum dos 398 foi encaminhado.
 
 O instrumento constava da ficha clínica. Faltou o conhecimento para converter o escore em conduta.
 
-A diretriz da American Academy of Sleep Medicine, de Kapur e colaboradores, em 2017, estabelece que questionários não substituem o diagnóstico: o padrão-ouro é a polissonografia. No adulto sem comorbidades significativas e com alta probabilidade de apneia moderada a grave, a mesma diretriz admite o teste domiciliar do sono, a poligrafia respiratória, realizada em ambiente ambulatorial, fora do laboratório: foi esse o exame utilizado no estudo de Lonia. Ao cirurgião-dentista compete triar, ajustar a conduta e encaminhar.
+A diretriz da American Academy of Sleep Medicine, de Kapur e colaboradores, em 2017, estabelece que questionários não substituem o diagnóstico: o padrão-ouro é a polissonografia. No adulto sem comorbidades significativas e com alta probabilidade de apneia moderada a grave, a mesma diretriz admite o teste domiciliar do sono, a poligrafia respiratória, realizada em ambiente ambulatorial, fora do laboratório: foi esse o exame utilizado no estudo de Lonia.
 
 ## 6 · Avaliação anatômica da via aérea: Mallampati e SARI (11:26–12:49)
 
@@ -219,36 +222,32 @@ Prevenir começa por reconhecer a via aérea difícil, as particularidades da cr
 
 Até a próxima quinta, às 11h11.
 
----
-
 ## Referências desta aula (para a descrição do YouTube)
 
-Lonia et al. Medicina (Kaunas) 2020. doi:10.3390/medicina56070324
-Fukayama H, Yagiela JA. Int Dent J 2006. doi:10.1111/j.1875-595x.2006.tb00081.x
-Bastos D, Ceccon S. Manual Avançado de Via Aérea: adulto e pediátrico (oximetria como indicador tardio).
-Bohadana A, Izbicki G, Kraman SS. N Engl J Med 2014. doi:10.1056/NEJMra1302901
-Pasterkamp H et al. Eur Respir J 2016. doi:10.1183/13993003.01132-2015
-Sibert KS, Long JL, Haddy SM. Cureus 2020. doi:10.7759/cureus.8196
-Rasheed MA et al. Anaesth Crit Care Pain Med 2024. doi:10.1016/j.accpm.2024.101413
-Boriosi JP et al. Paediatr Anaesth 2019. doi:10.1111/pan.13616
-Chung F et al. Anesthesiology 2008. doi:10.1097/ALN.0b013e31816d83e4
-Guess et al. J Dent Educ 2021. doi:10.1002/jdd.12831
-Kapur VK et al. J Clin Sleep Med 2017. doi:10.5664/jcsm.6506
-Mallampati et al. Can Anaesth Soc J 1985. doi:10.1007/BF03011357
-Samsoon, Young. Anaesthesia 1987. doi:10.1111/j.1365-2044.1987.tb04039.x
-Nuckton TJ et al. Sleep 2006. doi:10.1093/sleep/29.7.903
-El-Ganzouri AR et al. Anesth Analg 1996. doi:10.1097/00000539-199606000-00017
-Harless J, Ramaiah R, Bhananker SM. Int J Crit Illn Inj Sci 2014. doi:10.4103/2229-5151.128015
-Holzki J et al. Paediatr Anaesth 2018. doi:10.1111/pan.13281
-Tobias JD. Paediatr Anaesth 2015. doi:10.1111/pan.12528
-Adewale L. Paediatr Anaesth 2009. doi:10.1111/j.1460-9592.2009.03012.x
-Di Cicco M et al. Pediatr Pulmonol 2020. doi:10.1002/ppul.25169
-Patel R et al. Can J Anaesth 1994. doi:10.1007/BF03011582
-Kitamura T et al. Lancet 2010. doi:10.1016/S0140-6736(10)60064-5
-Lomez et al. Arch Argent Pediatr 2024. doi:10.5546/aap.2023-10172.eng
-Coté CJ et al. Pediatrics 2000;105:805. doi:10.1542/peds.105.4.805
-Coté CJ et al. Pediatrics 2000;106:633. doi:10.1542/peds.106.4.633
-Veldman A et al. Mini Rev Med Chem 2006. doi:10.2174/138955706777698598
-Sevgili, Değirmencioğlu. J Anesth 2026. doi:10.1007/s00540-026-03879-6
-Conselho Federal de Odontologia. Resolução CFO nº 295/2026.
-Áudios: Wikimedia Commons — TONY LU (CC BY-SA 4.0); James Heilman, MD (CC BY-SA 3.0).
+- Lonia et al. Medicina (Kaunas) 2020. doi:10.3390/medicina56070324
+- Fukayama H, Yagiela JA. Int Dent J 2006. doi:10.1111/j.1875-595x.2006.tb00081.x
+- Bohadana A, Izbicki G, Kraman SS. N Engl J Med 2014. doi:10.1056/NEJMra1302901
+- Pasterkamp H et al. Eur Respir J 2016. doi:10.1183/13993003.01132-2015
+- Rasheed MA et al. Anaesth Crit Care Pain Med 2024. doi:10.1016/j.accpm.2024.101413
+- Boriosi JP et al. Paediatr Anaesth 2019. doi:10.1111/pan.13616
+- Chung F et al. Anesthesiology 2008. doi:10.1097/ALN.0b013e31816d83e4
+- Guess et al. J Dent Educ 2021. doi:10.1002/jdd.12831
+- Kapur VK et al. J Clin Sleep Med 2017. doi:10.5664/jcsm.6506
+- Mallampati et al. Can Anaesth Soc J 1985. doi:10.1007/BF03011357
+- Samsoon, Young. Anaesthesia 1987. doi:10.1111/j.1365-2044.1987.tb04039.x
+- Nuckton TJ et al. Sleep 2006. doi:10.1093/sleep/29.7.903
+- El-Ganzouri AR et al. Anesth Analg 1996. doi:10.1097/00000539-199606000-00017
+- Harless J, Ramaiah R, Bhananker SM. Int J Crit Illn Inj Sci 2014. doi:10.4103/2229-5151.128015
+- Holzki J et al. Paediatr Anaesth 2018. doi:10.1111/pan.13281
+- Tobias JD. Paediatr Anaesth 2015. doi:10.1111/pan.12528
+- Adewale L. Paediatr Anaesth 2009. doi:10.1111/j.1460-9592.2009.03012.x
+- Di Cicco M et al. Pediatr Pulmonol 2020. doi:10.1002/ppul.25169
+- Patel R et al. Can J Anaesth 1994. doi:10.1007/BF03011582
+- Kitamura T et al. Lancet 2010. doi:10.1016/S0140-6736(10)60064-5
+- Lomez et al. Arch Argent Pediatr 2024. doi:10.5546/aap.2023-10172.eng
+- Coté CJ et al. Pediatrics 2000;105:805. doi:10.1542/peds.105.4.805
+- Coté CJ et al. Pediatrics 2000;106:633. doi:10.1542/peds.106.4.633
+- Veldman A et al. Mini Rev Med Chem 2006. doi:10.2174/138955706777698598
+- Sevgili, Değirmencioğlu. J Anesth 2026. doi:10.1007/s00540-026-03879-6
+- Conselho Federal de Odontologia. Resolução CFO nº 295/2026.
+- Áudios: Wikimedia Commons — TONY LU (CC BY-SA 4.0); James Heilman, MD (CC BY-SA 3.0).
