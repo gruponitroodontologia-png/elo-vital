@@ -1,0 +1,51 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:transparent;overflow:hidden}canvas{display:block}</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+</head><body>
+<script type="module">
+import * as THREE from 'three';
+import { SVGLoader } from 'three/addons/loaders/SVGLoader.js';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+const P=new URLSearchParams(location.search);
+const W=parseInt(P.get('w')||'1000'), H=parseInt(P.get('h')||'1150');
+// recorte opcional da cena (coordenadas do SVG): x0,y0,x1,y1
+const C=(P.get('crop')||'0,0,1000,1150').split(',').map(Number);
+const renderer=new THREE.WebGLRenderer({antialias:true,alpha:true,preserveDrawingBuffer:true});
+renderer.setPixelRatio(1); renderer.setSize(W,H); renderer.setClearColor(0,0);
+renderer.outputColorSpace=THREE.SRGBColorSpace; renderer.toneMapping=THREE.NoToneMapping;
+document.body.appendChild(renderer.domElement);
+const scene=new THREE.Scene();
+scene.environment=new THREE.PMREMGenerator(renderer).fromScene(new RoomEnvironment(),0.04).texture; scene.environmentIntensity=0.25;
+scene.add(new THREE.HemisphereLight(0xffffff,0xe8dede,0.55));
+const key=new THREE.DirectionalLight(0xffffff,1.25); key.position.set(-300,500,700); scene.add(key);
+const rim=new THREE.DirectionalLight(0xffe7c2,0.5); rim.position.set(500,-200,400); scene.add(rim);
+const cam=new THREE.OrthographicCamera(C[0],C[2],-C[1],-C[3],-2000,2000); cam.position.set(0,0,1000); cam.lookAt(0,0,0);
+// profundidade e acabamento por estrutura
+const cfg={
+  pele:{d:30,z:-80,op:0.42,glass:true},
+  medula:{d:10,z:-20,op:0.75},
+  clivo:{d:12,z:-10}, vert:{d:14,z:-10},
+  ar_supra:{d:10,z:0,op:0.92}, ar_oral:{d:10,z:0,op:0.92}, ar_vest:{d:10,z:0,op:0.92}, ar_infra:{d:12,z:0,op:0.97},
+  conchas:{d:8,z:14,op:0.85}, palato_duro:{d:12,z:16}, palato_mole:{d:12,z:16},
+  esofago:{d:10,z:6,op:0.8}, lingua:{d:18,z:20}, hioide:{d:10,z:22},
+  epiglote:{d:10,z:30}, tireoide:{d:10,z:26,op:0.7}, cricoide:{d:10,z:26,op:0.85}, aritenoide:{d:10,z:28,op:0.85},
+  ariepi:{d:6,z:32,op:0.9}, prega_vest:{d:6,z:34}, prega_vocal:{d:6,z:36}, aneis:{d:8,z:30},
+  labios:{d:12,z:24}, dentes:{d:10,z:26}, mandibula:{d:14,z:22}
+};
+const txt=window.SVGTXT;
+const data=new SVGLoader().parse(txt);
+for(const path of data.paths){
+  const id=path.userData.node.id, c=cfg[id]||{d:8,z:0};
+  const col=new THREE.Color().setStyle(path.userData.style.fill, THREE.SRGBColorSpace);
+  const mat=c.glass
+    ? new THREE.MeshPhysicalMaterial({color:col,transparent:true,opacity:c.op,roughness:0.15,clearcoat:1,transmission:0.3,thickness:20,ior:1.3,depthWrite:false})
+    : new THREE.MeshPhysicalMaterial({color:col,transparent:(c.op||1)<1,opacity:c.op||1,roughness:0.32,metalness:0.02,clearcoat:0.7,clearcoatRoughness:0.2});
+  for(const sh of SVGLoader.createShapes(path)){
+    const g=new THREE.ExtrudeGeometry(sh,{depth:c.d,bevelEnabled:true,bevelThickness:Math.min(4,c.d/3),bevelSize:Math.min(2.5,c.d/5),bevelSegments:5,curveSegments:24});
+    const m=new THREE.Mesh(g,mat); m.scale.y=-1; m.position.z=c.z; scene.add(m);
+  }
+}
+renderer.render(scene,cam);
+document.title='ok';
+</script></body></html>
