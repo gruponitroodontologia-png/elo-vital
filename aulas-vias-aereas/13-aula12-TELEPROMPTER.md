@@ -142,7 +142,7 @@ Harless, Ramaiah e Bhananker, em 2014, sistematizaram as diferenças. O occipíc
 
 [Slide 9 — Esquema E3: posicionamento]
 
-Por isso, na criança pequena, o posicionamento neutro requer um coxim sob os ombros, e não sob a cabeça. Ao estudar a via aérea, observe as posições preconizadas para a intubação: esse manejo e esses cuidados devem integrar a rotina de atendimento do paciente na Odontologia.
+Por isso, na criança pequena, o posicionamento neutro requer um coxim sob os ombros, e não sob a cabeça. Ao estudar a via aérea, observe as posições preconizadas para a intubação: esse manejo e esses cuidados provêm de um olhar treinado, que deve integrar a rotina de atendimento do paciente na Odontologia.
 
 [Slide 10 — Esquema E2: laringe e lei de Poiseuille]
 
@@ -170,7 +170,7 @@ Coté e colaboradores, em 2000, analisaram eventos adversos graves em sedação 
 
 (pausa)
 
-As particularidades anatômicas e o raciocínio fisiológico completo, nós aprofundamos no SAVO, no módulo de avaliação clínica e populações especiais.
+As particularidades anatômicas e o raciocínio fisiológico completo, vamos aprofundar no SAVO, no módulo de avaliação clínica e populações especiais.
 
 [Slide 14 — Índice de massa corporal]
 
