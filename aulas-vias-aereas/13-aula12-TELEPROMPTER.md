@@ -21,7 +21,7 @@ Lonia e colaboradores, em 2020, atribuíram ao cirurgião-dentista que formula e
 
 Na aula anterior, tratamos da alfabetização: aferir sinais vitais, reconhecer uma pausa respiratória. Hoje permanecemos no reconhecimento do risco e avançamos uma camada do letramento: a avaliação sistematizada do paciente, adulto e criança.
 
-O reconhecimento começa na anamnese. E demanda cerca de dois minutos.
+O reconhecimento começa em uma anamnese diferenciada para a Odontologia, que privilegia a via aérea. E demanda não mais do que cinco minutos.
 
 ## 1 · Capa (02:48–03:03)
 
