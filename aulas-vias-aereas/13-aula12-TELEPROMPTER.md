@@ -27,7 +27,7 @@ O reconhecimento começa na anamnese. E demanda cerca de dois minutos.
 
 [Slide 1 — Capa]
 
-Aula #12 do Projeto Cultura de Segurança: reconhecer o risco. Avaliação da via aérea, anatomia e fisiologia do adulto e da criança.
+Aula #12 do Projeto Cultura de Segurança: reconhecer o risco. Anatomia e fisiologia no adulto e na criança.
 
 ## 2 · Apresentadora (03:03–03:15)
 
