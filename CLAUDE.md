@@ -182,7 +182,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   Perguntas: #11 abriu "o risco à via aérea existe em toda a Odontologia?" e fechou com a ponte para a #12;
   #12 = "Se o risco existe em nossa rotina clínica, como devemos avaliar o nosso paciente?" (anatomia: 5 particularidades; fisiologia: 5);
   #13 = "Reconhecido o risco, como prevenir a deterioração, manejar a via aérea e resgatar a ventilação?".
-  O estetoscópio pré-traqueal pertence ao **reconhecimento** (#11–#12), não ao manejo. Ilustração de manejo/resgate: máscara com válvula (ambu).
+  O estetoscópio pré-traqueal pertence ao **reconhecimento** (#11–#12), não ao manejo. Ilustração de manejo/resgate: máscara com válvula e reservatório (ambu), reservada para a #13 (`slides-aula13/img/bvm.png`). Símbolo do reconhecimento na #12: estetoscópio pré-traqueal sobre a traqueia no perfil 3D (`img/pretraq.png`).
 - **Slides da #12:** `aulas-vias-aereas/slides-aula12/` (HTML-fonte, PDF, PPTX sem notas com áudios embutidos, HTML para navegador). Cenas 3D translúcidas em `slides-aula12/3d/cena.html` (three.js; `npm i three@0.169.0` na pasta; render com `node render.js`).
 - Pacote completo da #11 (roteiro, newsletter, reels, stories) em
   `aulas-vias-aereas/05-aula11-pacote-da-semana.md`.
