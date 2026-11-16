@@ -155,6 +155,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 ## Projeto Cultura de Segurança (aulas semanais no YouTube)
 - Aulas **semanais, quinta às 11h11**, numeradas "Aula #N". Pasta no Drive:
   "Youtube - Cultura de Segurança" (uma subpasta por aula). Duração-alvo ~20 min; a #12 foi admitida com ~25 min (Carla, 15/11/2026); a #11 ficou com 29 min (2.481 palavras; ritmo real ~85 palavras/min → teleprompter de até ~1.700 palavras).
+- **Saudação das aulas gravadas: "Olá"** no início do olho no olho (nunca "bom dia": a aula é assistida a qualquer hora; Carla, 16/11/2026).
 - Formato: abertura **olho no olho (~1–2 min, sem slide)** → roteiro com
   ~10–12 slides no visual da página, **sem preço**.
 - Toda semana: **roteiro + newsletter (terça 18h + lembrete quinta 7h, disparo

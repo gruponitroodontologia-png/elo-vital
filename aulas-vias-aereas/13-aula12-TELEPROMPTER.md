@@ -5,11 +5,11 @@ Versão revisada (15/11/2026) · 17 slides · para validação da Profa. Carla G
 
 ## 0 · Olho no olho — câmera aberta, sem slide (00:00–02:48)
 
-Um paciente pode apresentar movimentos respiratórios e, ainda assim, não ter uma oxigenação adequada. E mesmo quando o oxigênio chega ao sangue, isso não garante sua entrega aos tecidos. É por isso que precisamos compreender três processos fundamentais: ventilação, oxigenação e perfusão.
+Olá. Um paciente pode apresentar movimentos respiratórios e, ainda assim, não ter uma oxigenação adequada. E mesmo quando o oxigênio chega ao sangue, isso não garante sua entrega aos tecidos. É por isso que precisamos compreender três processos fundamentais: ventilação, oxigenação e perfusão.
 
 (pausa)
 
-Bom dia. Na Aula #11, demonstramos que a cadeia de eventos que compromete a via aérea se inicia muito antes de qualquer sedação: na aferição dos sinais vitais, na resposta ao estresse, na dose do anestésico local, na obstrução por corpo estranho. Concluímos que a via aérea é competência de toda a Odontologia. O link está na descrição.
+Na Aula #11, demonstramos que a cadeia de eventos que compromete a via aérea se inicia muito antes de qualquer sedação: na aferição dos sinais vitais, na resposta ao estresse, na dose do anestésico local, na obstrução por corpo estranho. Concluímos que a via aérea é competência de toda a Odontologia. O link está na descrição.
 
 E encerramos com uma questão: se o risco existe em nossa rotina clínica, como devemos avaliar o nosso paciente?
 
