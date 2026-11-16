@@ -225,6 +225,7 @@ Até a próxima quinta, às 11h11.
 
 Lonia et al. Medicina (Kaunas) 2020. doi:10.3390/medicina56070324
 Fukayama H, Yagiela JA. Int Dent J 2006. doi:10.1111/j.1875-595x.2006.tb00081.x
+Bastos D, Ceccon S. Manual Avançado de Via Aérea: adulto e pediátrico (oximetria como indicador tardio).
 Bohadana A, Izbicki G, Kraman SS. N Engl J Med 2014. doi:10.1056/NEJMra1302901
 Pasterkamp H et al. Eur Respir J 2016. doi:10.1183/13993003.01132-2015
 Sibert KS, Long JL, Haddy SM. Cureus 2020. doi:10.7759/cureus.8196
