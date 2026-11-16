@@ -44,6 +44,8 @@ Via aérea: competência de toda a Odontologia. Efeito dominó em cinco peças: 
 
 > Temas confirmados: pré-oxigenação, posicionamento para o atendimento, posicionamento na emergência, supraglóticos (E7–E11). Pergunta: "Reconhecido o risco, como prevenir a deterioração, manejar a via aérea e resgatar a ventilação?"
 
+> **Monitorização e custo-efetividade (pedido da Carla, 16/11/2026), base Fukayama e Yagiela 2006:** o que se pode avaliar no consultório é a função neurológica global e os processos de aporte de O₂ e nutrientes e de remoção de CO₂, que geram sinais mensuráveis (sons, variações de pressão, correntes elétricas, diferenças espectrofotométricas). Os monitores se escolhem por custo, invasividade, confiabilidade e tamanho/portabilidade. **Fórmula: Cp ≤ Cd × Pd** (custo de monitorizar um paciente ≤ custo do dano evitável × probabilidade do dano); exemplo da oximetria na sedação intravenosa: US$ 0,30 ≤ US$ 2,00. Slide pronto: `slides-aula13/m1-custo-efetividade.png`.
+
 **Premissa:** o resgate é uma competência treinável, e o PSP transforma o conhecimento individual em segurança do consultório.
 
 **Conclusão:** "O PSP não é um documento para a gaveta. É a trilha que organiza, no consultório, o que a literatura mostra funcionar. A RDC 1002/2025 estabelece esse caminho, e a CFO 295/2026 confirma o destino: prevenir, reconhecer, manejar e resgatar."
