@@ -20,3 +20,21 @@
 
 Linha para a descrição do YouTube:
 Áudios: Wikimedia Commons — TONY LU (CC BY-SA 4.0); James Heilman, MD (CC BY-SA 3.0).
+
+--- Acréscimos de 16/11/2026 (candidatos, aguardando validação da Profa. Carla) ---
+
+02-gorgolejo-CANDIDATO.mp3
+  Fonte: "Slimy gurgling and retc.ogg" (Slimy Gurgling and Retching), autor stilgar, PDSounds n.º 620.
+  Licença: domínio público — https://commons.wikimedia.org/wiki/File:Slimy_gurgling_and_retc.ogg
+  Gravação NÃO clínica (gorgolejo de saliva na boca); recorte dos 7 s iniciais, normalização. Ouvir antes de usar:
+  o arquivo original contém também ânsia (retching).
+
+06-ronco-e-apneia-real-47s.mp3 e 06b-ronco-e-apneia-real-trecho-20s.mp3
+  Fonte: "Snoring under severe sleep apnoea - 1741-7015-9-17.oga", Ziegler A, Mietchen D, Faber C et al.,
+  BMC Medicine 2011;9:17. Ronco rítmico, ~32 s de apneia e retomada do ronco (ruído de TV ao fundo).
+  Licença: CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Snoring_under_severe_sleep_apnoea_-_1741-7015-9-17.oga
+  Gravação real de apneia obstrutiva grave. Trecho de 20 s: 7 s de ronco + 13 s da apneia.
+
+07-ronco-base-da-lingua.mp3
+  Fonte: "Tongue base snoring.ogg", autor Langenbergstefan. Licença: CC BY-SA 3.0 —
+  https://commons.wikimedia.org/wiki/File:Tongue_base_snoring.ogg  · recorte de 8 s (10–18 s), normalização.
