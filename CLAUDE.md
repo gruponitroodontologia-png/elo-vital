@@ -178,6 +178,12 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   da Sedation Academy, roteiro das 3 aulas, texto "Olho no olho" da Aula 11).
 - Tese: "a via aérea não é domínio exclusivo da sedação: é competência de toda a Odontologia". (Regra de linguagem: **nunca "é da …"** — ex.: "não é da sedação", "é da Odontologia"; "pertencer" é aceitável, mas preferir "competência de", "domínio exclusivo de".)
 - **Aula #11: quinta, 12/11/2026, 11h11** · #12 em 19/11 · #13 em 26/11.
+- **Arco pedagógico (Carla, 16/11/2026):** #11 e #12 = **reconhecer o risco**; #13 = **prevenir, manejar e resgatar** (pré-oxigenação, posicionamento para o atendimento, posicionamento na emergência, supraglóticos).
+  Perguntas: #11 abriu "o risco à via aérea existe em toda a Odontologia?" e fechou com a ponte para a #12;
+  #12 = "Se o risco existe em nossa rotina clínica, como devemos avaliar o nosso paciente?" (anatomia: 5 particularidades; fisiologia: 5);
+  #13 = "Reconhecido o risco, como prevenir a deterioração, manejar a via aérea e resgatar a ventilação?".
+  O estetoscópio pré-traqueal pertence ao **reconhecimento** (#11–#12), não ao manejo. Ilustração de manejo/resgate: máscara com válvula (ambu).
+- **Slides da #12:** `aulas-vias-aereas/slides-aula12/` (HTML-fonte, PDF, PPTX sem notas com áudios embutidos, HTML para navegador). Cenas 3D translúcidas em `slides-aula12/3d/cena.html` (three.js; `npm i three@0.169.0` na pasta; render com `node render.js`).
 - Pacote completo da #11 (roteiro, newsletter, reels, stories) em
   `aulas-vias-aereas/05-aula11-pacote-da-semana.md`.
 - SARI = Simplified Airway Risk Index (El-Ganzouri 1996).

@@ -15,7 +15,9 @@ Via aérea: competência de toda a Odontologia. Efeito dominó em cinco peças: 
 
 ---
 
-## #12 · 19/11 · Prevenir: avaliar e monitorizar ventilação, oxigenação e perfusão
+## #12 · 19/11 · Reconhecer o risco: avaliação da via aérea, anatomia e fisiologia do adulto e da criança
+
+> Reenquadrada pela Carla em 16/11/2026: #11 e #12 reconhecem o risco; prevenir, manejar e resgatar ficam na #13.
 
 **Premissa:** ventilação, oxigenação e perfusão são a fisiologia de qualquer paciente na cadeira. Prevenir é avaliá-las antes e acompanhá-las durante o atendimento.
 
@@ -38,7 +40,9 @@ Via aérea: competência de toda a Odontologia. Efeito dominó em cinco peças: 
 
 ---
 
-## #13 · 26/11 · Reconhecer, manejar e resgatar
+## #13 · 26/11 · Prevenir, manejar e resgatar
+
+> Temas confirmados: pré-oxigenação, posicionamento para o atendimento, posicionamento na emergência, supraglóticos (E7–E11). Pergunta: "Reconhecido o risco, como prevenir a deterioração, manejar a via aérea e resgatar a ventilação?"
 
 **Premissa:** o resgate é uma competência treinável, e o PSP transforma o conhecimento individual em segurança do consultório.
 
