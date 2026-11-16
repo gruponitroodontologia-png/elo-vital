@@ -33,7 +33,7 @@ Aula #12 do Projeto Cultura de Segurança. Via aérea: reconhecendo o risco. Ana
 
 [Slide 2 — Apresentadora]
 
-Sou a Profa. Carla Gamba, cirurgiã-dentista, mestre, cofundadora do Grupo Nitro e membro fundadora da SOBRASO.
+Sou a Profa. Carla Gamba, cirurgiã-dentista, mestre, cofundadora do Grupo Nitro e membro fundadora da SOBRASO. São mais de 25 mil horas de sedação sentada no mocho, além das horas de ensino e mentoria. Sou sedacionista inclusiva. E agora acompanho você da alfabetização ao letramento em cultura de segurança na Odontologia.
 
 ## 3 · Ventilação, oxigenação e perfusão (03:15–05:14)
 
