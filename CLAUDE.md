@@ -132,7 +132,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Não é especialidade reconhecida pelo CFO: proibido anunciar "Especialista em Odontologia do Sono" ou "Habilitado pelo CFO em Odontologia do Sono".
 - Permitido: divulgar a atuação clínica (ronco e apneia com aparelhos intraorais) e títulos acadêmicos reais (pós-graduação lato sensu reconhecida pelo MEC, certificação ABROS/ABS), sem induzir a erro.
 - Prova de certificação ABROS/ABS: exige curso de formação com carga horária mínima de 180 h específicas, em um único curso (informado pela Carla, 16/11/2026).
-- Exame domiciliar = poligrafia respiratória domiciliar (HSAT, tipo III; Kapur 2017). Se o CD pode solicitá-lo: NÃO confirmado; nas aulas, "o cirurgião-dentista tria, ajusta a conduta e encaminha".
+- Exame domiciliar = poligrafia respiratória domiciliar (HSAT, tipo III; Kapur 2017). **O CD pode solicitar polissonografia com finalidade odontológica** (bruxismo do sono, terapia com aparelho intraoral): ANS, Súmula Normativa nº 11/2007 (exames requisitados por CD com finalidade odontológica devem ser cobertos) e RN 465/2021, art. 1º (conferido por busca, 16/11/2026; texto integral da súmula e vigência a confirmar no site da ANS). O diagnóstico da AOS é médico; na prática, operadoras podem exigir pedido médico. Pedido no receituário do CD: identificação, CRO, exame especificado (ex.: polissonografia basal de noite inteira, com EMG de masseter e temporal se bruxismo), justificativa odontológica e CID.
 
 ## CFO 295/2026 — SBV e SAVO (conferido no texto da resolução, 09/11/2026)
 - **Art. 15, § 2º** — *"Para todos os níveis de sedação, é necessário ter o protocolo
