@@ -131,6 +131,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 ## Odontologia do Sono: divulgação (informado pela Carla, 16/11/2026; norma do CFO a citar quando conferida)
 - Não é especialidade reconhecida pelo CFO: proibido anunciar "Especialista em Odontologia do Sono" ou "Habilitado pelo CFO em Odontologia do Sono".
 - Permitido: divulgar a atuação clínica (ronco e apneia com aparelhos intraorais) e títulos acadêmicos reais (pós-graduação lato sensu reconhecida pelo MEC, certificação ABROS/ABS), sem induzir a erro.
+- Prova de certificação ABROS/ABS: exige curso de formação com carga horária mínima de 180 h específicas, em um único curso (informado pela Carla, 16/11/2026).
 - Exame domiciliar = poligrafia respiratória domiciliar (HSAT, tipo III; Kapur 2017). Se o CD pode solicitá-lo: NÃO confirmado; nas aulas, "o cirurgião-dentista tria, ajusta a conduta e encaminha".
 
 ## CFO 295/2026 — SBV e SAVO (conferido no texto da resolução, 09/11/2026)
