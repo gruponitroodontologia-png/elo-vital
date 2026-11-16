@@ -89,6 +89,7 @@
   efeito ("qual peça caiu?", "até amanhã", "o silêncio não é alívio"). Padrão:
   enunciado técnico, substantivo, com o conceito clínico explícito (ex.: "Via
   aérea, monitorização e suporte de vida: competências de toda a Odontologia").
+- **Padrão de definição técnico-científica** (exemplo da Carla, 16/11/2026, slide 3 da #12): *Ventilação: processo mecânico de renovação do gás alveolar, determinado pelo fluxo aéreo entre a atmosfera e os alvéolos. Oxigenação: processo de transferência de O₂ dos alvéolos para o sangue capilar pulmonar, por difusão através da membrana alvéolo-capilar. Perfusão: fluxo sanguíneo através da microcirculação tecidual, responsável pelo aporte de O₂ e substratos metabólicos às células.* Definir pelo mecanismo, com o substrato anatômico e a função.
 - Termo da casa: **"sedação em odontologia"** (nunca "sedação odontológica").
 - Sem promessa de faturamento; escassez só real (turma até 20, prazo CFO);
   títulos exatos; sedação profunda **não** como prática autorizada (suspensão

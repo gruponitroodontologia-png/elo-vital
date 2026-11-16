@@ -37,7 +37,7 @@ Sou a Profa. Carla Gamba, cirurgiã-dentista, mestre, cofundadora do Grupo Nitro
 
 Três processos fisiológicos sustentam a homeostase de qualquer paciente na cadeira, sob sedação ou sob anestesia local exclusiva.
 
-Ventilação é a mobilização de gás entre a atmosfera e os alvéolos. Oxigenação é a transferência do oxigênio alveolar para o sangue arterial. Perfusão é o aporte desse sangue oxigenado aos tecidos.
+Ventilação é o processo mecânico de renovação do gás alveolar, determinado pelo fluxo aéreo entre a atmosfera e os alvéolos. Oxigenação é o processo de transferência de oxigênio dos alvéolos para o sangue capilar pulmonar, por difusão através da membrana alvéolo-capilar. Perfusão é o fluxo sanguíneo através da microcirculação tecidual, responsável pelo aporte de oxigênio e de substratos metabólicos às células.
 
 A falência obedece a uma sequência. Primeiro, o estreitamento da via aérea superior, que se manifesta como ruído. Em seguida, a redução ou a interrupção do fluxo aéreo: hipoventilação, apneia. Só então se instala a dessaturação. Por isso, a oximetria de pulso é um indicador tardio da falência ventilatória, sobretudo no paciente que recebe oxigênio suplementar.
 
