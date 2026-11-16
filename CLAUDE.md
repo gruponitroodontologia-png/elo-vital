@@ -183,6 +183,7 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   #12 = "Se o risco existe em nossa rotina clínica, como devemos avaliar o nosso paciente?" (anatomia: 5 particularidades; fisiologia: 5);
   #13 = "Reconhecido o risco, como prevenir a deterioração, manejar a via aérea e resgatar a ventilação?".
   O estetoscópio pré-traqueal pertence ao **reconhecimento** (#11–#12), não ao manejo. Ilustração de manejo/resgate: máscara com válvula e reservatório (ambu), reservada para a #13 (`slides-aula13/img/bvm.png`). Símbolo do reconhecimento na #12: estetoscópio pré-traqueal sobre a traqueia no perfil 3D (`img/pretraq.png`).
+- **Links de revisão da #12 (abrem no Claude, inclusive no celular):** teleprompter editável (Claude Docs) https://claude.ai/artifact/TfoPP7zBFejjpzXNpCPLNt · slides com áudios https://claude.ai/artifact/7JrSPmtMhoNHzyxVLyrz43
 - **Slides da #12:** `aulas-vias-aereas/slides-aula12/` (HTML-fonte, PDF, PPTX sem notas com áudios embutidos, HTML para navegador). Cenas 3D translúcidas em `slides-aula12/3d/cena.html` (three.js; `npm i three@0.169.0` na pasta; render com `node render.js`).
 - Pacote completo da #11 (roteiro, newsletter, reels, stories) em
   `aulas-vias-aereas/05-aula11-pacote-da-semana.md`.
