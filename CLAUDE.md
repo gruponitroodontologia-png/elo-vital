@@ -128,6 +128,11 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   Becker Anesth Prog 2014; NAEMSP 2022; de Carvalho CC Anesth Analg 2025;
   Weba 2025; Rasheed 2024; etc.).
 
+## Odontologia do Sono: divulgação (informado pela Carla, 16/11/2026; norma do CFO a citar quando conferida)
+- Não é especialidade reconhecida pelo CFO: proibido anunciar "Especialista em Odontologia do Sono" ou "Habilitado pelo CFO em Odontologia do Sono".
+- Permitido: divulgar a atuação clínica (ronco e apneia com aparelhos intraorais) e títulos acadêmicos reais (pós-graduação lato sensu reconhecida pelo MEC, certificação ABROS/ABS), sem induzir a erro.
+- Exame domiciliar = poligrafia respiratória domiciliar (HSAT, tipo III; Kapur 2017). Se o CD pode solicitá-lo: NÃO confirmado; nas aulas, "o cirurgião-dentista tria, ajusta a conduta e encaminha".
+
 ## CFO 295/2026 — SBV e SAVO (conferido no texto da resolução, 09/11/2026)
 - **Art. 15, § 2º** — *"Para todos os níveis de sedação, é necessário ter o protocolo
   operacional de emergência disponível no ambiente, assim como formação e atualização
