@@ -38,8 +38,10 @@
   automático a partir da `main`).
 - **Artifact (prévia compartilhável):**
   https://claude.ai/artifact/HjrWsq7giVDM7NxdQqUfBb
-- **Datas Turma 1:** telepresencial ao vivo **28/11, 30/11, 01/12, 02/12**;
-  presencial **5 e 6/12** (9h–19h), Rio de Janeiro.
+- **Datas Turma 1 (ADIADA — jan/2027):** não houve quórum para 5-6/12.
+  Presencial **22 e 23 de janeiro de 2027** (9h–19h), Rio de Janeiro.
+  Telepresencial (4 encontros ao vivo): **datas a definir** ("data em breve").
+  Na página, cabeçalhos dos módulos: "Ao vivo · 4h · data em breve".
 - **Programa (ordem atual):** 01 Monitorização (Profª Sandra Chicharo) ·
   02 Fundamentação Jurídica (Carla Gamba e Danielle Coelho) · 03 Avaliação
   Clínica e Populações Especiais (Carla e Danielle) · 04 Farmacologia e
@@ -85,6 +87,17 @@
   judicial).
 - Frase-âncora da norma: *"O cirurgião-dentista deverá estar apto a prevenir,
   reconhecer, manejar e resgatar."* (CFO 295/2026, art. 11, §1º).
+- **REGRA REGULATÓRIA (crítica):** NÃO citar prazo nem prorrogação da CFO 295
+  em peça pública antes de publicação oficial — a Carla integra a comissão do
+  CFO. Reassegurar por ângulo factual (dar entrada na documentação + taxa
+  inicia o processo na regional; o preparo é preservado), nunca por promessa
+  de prazo.
+- "**Nenhum curso habilita; quem decide é o Conselho**" é regra da **Trilha
+  295 / Habilitação em Sedação** — NÃO cabe ao SAVO/SBV (que são certificados
+  próprios). Nunca prometer habilitação.
+- Existe a skill **headlines-nitro** (regras de marca/regulatórias da Carla):
+  usar para headlines/títulos/chamadas. Sem emoji; local só "Rio de Janeiro";
+  registro técnico, sonoro, sem gíria.
 
 ## Guia Interno Nitro de Vendas e Sedução (base estratégica)
 Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
@@ -125,6 +138,9 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   imagens); citações entram como **legenda**, não precisam ser faladas.
 
 ## Pendências / próximos passos
+- **Definir e divulgar as datas telepresenciais** da turma de jan/2027.
+- Comunicado de adiamento (5-6/12 → 22-23/01) já redigido; sem promessa de
+  prazo do CFO.
 - Confirmar a **data-limite exata + artigo** do prazo da CFO (hoje usamos
   "janeiro de 2027" como informado pela Carla).
 - Alinhar **títulos do corpo docente** da página com o Guia (ex.: Profª Dra.
