@@ -85,8 +85,11 @@
 - Sem promessa de faturamento; escassez só real (turma até 20, prazo CFO);
   títulos exatos; sedação profunda **não** como prática autorizada (suspensão
   judicial).
-- Frase-âncora da norma: *"O cirurgião-dentista deverá estar apto a prevenir,
-  reconhecer, manejar e resgatar."* (CFO 295/2026, art. 11, §1º).
+- Frase-âncora da norma (texto integral, art. 11, §1º): *"O cirurgião-dentista
+  deverá estar apto a prevenir, reconhecer, manejar e resgatar prontamente a
+  progressão do nível de sedação, incluindo o manejo de vias aéreas e suporte
+  ventilatório quando necessário."* Forma curta usada em peças: "prevenir,
+  reconhecer, manejar e resgatar".
 - **REGRA REGULATÓRIA (crítica):** NÃO citar prazo nem prorrogação da CFO 295
   em peça pública antes de publicação oficial — a Carla integra a comissão do
   CFO. Reassegurar por ângulo factual (dar entrada na documentação + taxa
@@ -127,8 +130,19 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   Weba 2025; Rasheed 2024; etc.).
 
 ## Sedação: fármacos e normas sanitárias (conferido com a Carla)
-- **CFO 295/2026 inclui ketamina e dexmedetomidina na Habilitação Avançada**
-  (informado pela Carla, integrante da comissão). Midazolam é o fármaco de
+- **CFO 295/2026 (PDF em `docs/normas/Resolucao-CFO-295-2026.pdf`, lido na
+  íntegra).** Não nomeia fármacos. Ketamina e dexmedetomidina ficam na
+  **Habilitação Avançada** (confirmado pela Carla) pela combinação: art. 35
+  (Básica veda via endovenosa e ASA IV), art. 42 (Avançada = mínima, moderada
+  e profunda), art. 47, II, c (farmacologia do ciclo avançado: SNA, opioides,
+  sedativos hipnóticos). Básica: benzodiazepínicos, anti-histamínicos,
+  N2O/O2, antieméticos (art. 34, VIII, a). Outros: art. 3º (consultório,
+  clínica, home care); art. 11 §3º (sedacionista dedicado na moderada);
+  art. 14 (equipamentos mínima/moderada, com ECG e supraglóticos); art. 15, I
+  (capnografia contínua só na profunda); art. 25 pú (capnógrafo disponível na
+  moderada); **art. 15 §2º exige "Suporte Avançado de Vida para a Odontologia"
+  para o CD em todos os níveis** (argumento do SAVO); art. 20 (registro a cada
+  ≤10 min); art. 21 (alta, Aldrete-Kroulik); arts. 48–49 (recertificação 2 anos). Midazolam é o fármaco de
   referência. Sedação profunda segue suspensa judicialmente (06/08/2026).
 - **ANVISA, resposta ao protocolo 2021279710 (12/11/2021) à Comissão de
   Sedação do CRO-RJ:** medicamento de "uso restrito hospitalar" pode ser
