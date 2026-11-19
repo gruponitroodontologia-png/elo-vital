@@ -126,6 +126,24 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
   Becker Anesth Prog 2014; NAEMSP 2022; de Carvalho CC Anesth Analg 2025;
   Weba 2025; Rasheed 2024; etc.).
 
+## Sedação: fármacos e normas sanitárias (conferido com a Carla)
+- **CFO 295/2026 inclui ketamina e dexmedetomidina na Habilitação Avançada**
+  (informado pela Carla, integrante da comissão). Midazolam é o fármaco de
+  referência. Sedação profunda segue suspensa judicialmente (06/08/2026).
+- **ANVISA, resposta ao protocolo 2021279710 (12/11/2021) à Comissão de
+  Sedação do CRO-RJ:** medicamento de "uso restrito hospitalar" pode ser
+  administrado em clínicas e ambulatórios; a restrição exige apenas
+  administração por profissional de saúde. Categoria consolidada na
+  **RDC 768/2022** ("uso restrito a estabelecimentos de saúde", exceto
+  farmácias e drogarias), que revogou a RDC 71/2009 em jul/2023.
+- Portaria SVS/MS 344/1998 (não existe "RDC 298/1994"): midazolam B1,
+  ketamina C1 (uso só em estabelecimentos de saúde); dexmedetomidina fora das
+  listas. RDC 1.000/2025 alterou receituário/receita eletrônica.
+- Doc "Guia Orientador — Ketamina, Dexmedetomidina e Midazolam na Sedação em
+  Odontologia": https://claude.ai/artifact/RuEqg9PRFjCdBXCr5X1atR
+- A rede do ambiente bloqueia sites do CFO/ANVISA/LegisWeb: textos normativos
+  integrais precisam vir da Carla (PDF) ou liberação de rede.
+
 ## Lançamento (playbook)
 - **Hoje (avant-première):** vídeo talking-head da Carla (teleprompter) para a
   **comunidade**, com o link de compra. Exclusivo, "vocês primeiro".
