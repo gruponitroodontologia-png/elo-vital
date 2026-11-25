@@ -137,6 +137,23 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - Formatos gravados pela Carla são **talking-head** (sem encaixar outras
   imagens); citações entram como **legenda**, não precisam ser faladas.
 
+## PSP — Envelope de Segurança e base legal dos fármacos (nov/2026)
+- Oficina 1 (Resort da Odontopediatria) está no **Google Drive**: "Roteiro Oficina
+  de Envelope de Segurança - Resort ODP.docx", "Caderno de Atividades — PSP —
+  Envelope de Segurança", "O Envelope de Segurança" (fundamentos), "CASO 1".
+- Continuação (Claude Docs): **Envelope de Segurança Farmacológico** — fármacos
+  com ação direta/indireta no SNC, 8 dimensões, 3 casos, caderno, base normativa
+  (Portaria 344/1998 etc.): https://claude.ai/artifact/PJGNpSqyBLBhAqnqPKw8YU
+- **Fundamentação legal do uso de fármacos pelo CD na prevenção e no manejo de
+  emergências médicas** (Lei 5.081/1966 art. 6º II e VIII → CFO 295/2026; 4
+  pilares; literatura; norma → POP do PSP): https://claude.ai/artifact/Nyzcs2CjnZ4c7DioNo1jt3
+- **Revisão pendente no computador:** conferir no texto oficial (rede do ambiente
+  bloqueia gov.br/planalto/CFO/legisweb; a Carla recusou liberar pelo celular)
+  os incisos II e VIII da Lei 5.081; art. 11 §1º da CFO 295 e a revogação da
+  CFO 51/2004; artigos de emergência da RDC 1.002/2025; artigos do Código de
+  Ética; abrangência da Notificação B após a RDC 1.000/2025. Alternativa: a
+  Carla cola os artigos no chat.
+
 ## Pendências / próximos passos
 - **Definir e divulgar as datas telepresenciais** da turma de jan/2027.
 - Comunicado de adiamento (5-6/12 → 22-23/01) já redigido; sem promessa de
