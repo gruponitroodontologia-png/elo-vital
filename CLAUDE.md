@@ -147,6 +147,11 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - **Fundamentação legal do uso de fármacos pelo CD na prevenção e no manejo de
   emergências médicas** (Lei 5.081/1966 art. 6º II e VIII → CFO 295/2026; 4
   pilares; literatura; norma → POP do PSP): https://claude.ai/artifact/Nyzcs2CjnZ4c7DioNo1jt3
+- **Drive (25/11/2026):** pastas "PSP - Arquivos" e "Resort das Odontopediatras -
+  Disney - Glorinha", arquivos com prefixo `241126DINÂMICA PSP - ...`: Envelope
+  Farmacológico (PDF), Fundamentação legal (PDF), Resumo prático de abertura e
+  Roteiro completo do workshop (Google Docs; gabaritos dos casos a validar).
+  Convenção da Carla: data DDMMAA no início do nome do arquivo, não na pasta.
 - Pontos legais **conferidos em 25/11/2026** (PDF da CFO 295 e RDC 1.002
   comentada no Drive da Carla + busca): Lei 5.081 art. 6º II e VIII (antecedente:
   Lei 1.314/1951); CFO 295 arts. 11 §1º, 14, 15 §2º (SAVO ou equivalente + SBV
