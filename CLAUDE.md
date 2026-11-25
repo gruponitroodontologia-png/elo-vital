@@ -147,12 +147,13 @@ Doc (Claude Docs): "Guia Interno Nitro de Vendas e Sedução"
 - **Fundamentação legal do uso de fármacos pelo CD na prevenção e no manejo de
   emergências médicas** (Lei 5.081/1966 art. 6º II e VIII → CFO 295/2026; 4
   pilares; literatura; norma → POP do PSP): https://claude.ai/artifact/Nyzcs2CjnZ4c7DioNo1jt3
-- **Revisão pendente no computador:** conferir no texto oficial (rede do ambiente
-  bloqueia gov.br/planalto/CFO/legisweb; a Carla recusou liberar pelo celular)
-  os incisos II e VIII da Lei 5.081; art. 11 §1º da CFO 295 e a revogação da
-  CFO 51/2004; artigos de emergência da RDC 1.002/2025; artigos do Código de
-  Ética; abrangência da Notificação B após a RDC 1.000/2025. Alternativa: a
-  Carla cola os artigos no chat.
+- Pontos legais **conferidos em 25/11/2026** (PDF da CFO 295 e RDC 1.002
+  comentada no Drive da Carla + busca): Lei 5.081 art. 6º II e VIII (antecedente:
+  Lei 1.314/1951); CFO 295 arts. 11 §1º, 14, 15 §2º (SAVO ou equivalente + SBV
+  da equipe, todos os níveis), 25 VII, 66 (revoga CFO 51/2004); CFO 22/2001;
+  RDC 1.002 arts. 36, 114, 116; Código de Ética arts. 11 VII e X, 17; Notificação
+  B nacional desde a RDC 873/2024. A rede do ambiente bloqueia gov.br/planalto/
+  CFO/câmara — a Carla não quis liberar; usar Drive dela e busca web.
 
 ## Pendências / próximos passos
 - **Definir e divulgar as datas telepresenciais** da turma de jan/2027.
